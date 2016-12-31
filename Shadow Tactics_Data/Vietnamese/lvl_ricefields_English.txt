@@ -1,0 +1,40 @@
+1,0,3
+280759577	MiMissionTaskHandler	Element 0 Str Task Name	Rescue Mugen
+629928307	MiMissionTaskHandler	Element 0 Str Description	Mugen is being interrogated by a rebel samurai. Kill the samurai and rescue Mugen. 
+454379243	MiMissionTaskHandler	Element 1 Str Task Name	Recover Mugen's Gear
+-875361560	MiMissionTaskHandler	Element 1 Str Description	The rebels have taken Mugen's equipment. Reclaim it with Mugen.
+569193077	MiMissionTaskHandler	Element 2 Str Task Name	Free the Farmers
+-926836000	MiMissionTaskHandler	Element 2 Str Description	Some farmers are still alive. You must rescue them all.
+-1276784885	MiMissionTaskHandler	Element 3 Str Task Name	Backyard
+-1506802054	MiMissionTaskHandler	Element 3 Str Description	A farmer is being interrogated in the backyard.
+1678707664	MiMissionTaskHandler	Element 4 Str Task Name	Stables
+-402215371	MiMissionTaskHandler	Element 4 Str Description	A group of farmers have been penned together at the stables.
+-758626040	MiMissionTaskHandler	Element 5 Str Task Name	Protect the Farmers
+-1290677634	MiMissionTaskHandler	Element 5 Str Description	All farmers must survive.
+1259656948	MiMissionTaskHandler	Element 6 Str Task Name	Husband
+-902605004	MiMissionTaskHandler	Element 6 Str Description	
+437218779	MiMissionTaskHandler	Element 7 Str Task Name	Farmers
+357058871	MiMissionTaskHandler	Element 7 Str Description	
+2113215760	MiMissionTaskHandler	Element 8 Str Task Name	Farmers
+850594344	MiMissionTaskHandler	Element 8 Str Description	
+1235959234	MiMissionTaskHandler	Element 9 Str Task Name	Farmers
+-1924315239	MiMissionTaskHandler	Element 9 Str Description	
+1734019836	MiMissionTaskHandler	Element 10 Str Task Name	Farmers
+-3570875	MiMissionTaskHandler	Element 10 Str Description	
+-630977109	MiMissionTaskHandler	Element 11 Str Task Name	Escape Together
+-95330651	MiMissionTaskHandler	Element 11 Str Description	Gather near the blocked road and leave Suganuma village.
+1062099708	MiMissionTaskHandler	Element 12 Str Task Name	Ricefields
+-438022458	MiMissionTaskHandler	Element 12 Str Description	Ricefields offer large hiding spots, but walking through them makes noise.
+1624913245	MiMissionTaskHandler	Element 13 Str Task Name	Puddles
+624356955	MiMissionTaskHandler	Element 13 Str Description	Be careful around puddles. Walking through them will make noise.
+359114620	MiMissionTaskHandler	Element 14 Str Task Name	Killing Samurai
+-433199176	MiMissionTaskHandler	Element 14 Str Description	Remember: You can stun a samurai with firearms, then finish them off with a melee attack.
+2040009445	tutorialbox_farmers	Str Header Text	Control Civilians
+1273486566	tutorialbox_farmers	Element 0 Str Body Text PC	Civilians have been temporarily added to your character lineup.
+959696034	tutorialbox_farmers	Element 0 Str Body Text Console	Civilians have been temporarily added to your character lineup.
+1785383885	tutorialbox_farmers	Element 1 Str Body Text PC	You control them like any other character. Some of them move in groups.
+117145355	tutorialbox_farmers	Element 1 Str Body Text Console	You control them like any other character. Some of them move in groups.
+1254046047	tutorialbox_farmers	Element 2 Str Body Text PC	Civilians have limited movement and no defense. They rely on your team to protect them.
+-485386493	tutorialbox_farmers	Element 2 Str Body Text Console	Civilians have limited movement and no defense. They rely on your team to protect them.
+1095824976	UITooltipDataClickable_Saveable	Str Display Top	Lu-Kumawakamaru
+-2074095463	missionendstate_farmers_dead	Str Description	You cannot complete your mission objective.

@@ -1,0 +1,178 @@
+1,0,3			
+1041166513	MiMissionTaskHandler	Element 0 Str Task Name	Đột nhập thành Ōsaka
+-1502243167	MiMissionTaskHandler	Element 0 Str Description	Leo lên vách đá và đột nhập thành Ōsakae.
+2099631708	MiMissionTaskHandler	Element 1 Str Task Name	Tiếp cận Cổng
+1117140869	MiMissionTaskHandler	Element 1 Str Description	Tiếp cận Cổng bên trong thành.
+-846449451	MiMissionTaskHandler	Element 2 Str Task Name	Giúp Mugen
+-1193877725	MiMissionTaskHandler	Element 2 Str Description	Đánh lạc hướng kẻ địch đang ghì chặt Mugen xuống.
+1455471637	MiMissionTaskHandler	Element 3 Str Task Name	Mở Cổng
+89925598	MiMissionTaskHandler	Element 3 Str Description	Mugen bắn pháo để mở Cổng cho Hayato.
+1270832144	MiMissionTaskHandler	Element 4 Str Task Name	Tìm chất nổ
+-1319471721	MiMissionTaskHandler	Element 4 Str Description	Tìm thùng thuốc súng để thổi bay Yagura Mon.
+1694283452	MiMissionTaskHandler	Element 5 Str Task Name	Phá hủy Yagura Mon
+264323870	MiMissionTaskHandler	Element 5 Str Description	Đặt thùng thuốc súng gần Yagura Mon, sau đó sử dụng Takuma để kích nổ nó.
+1109569249	MiMissionTaskHandler	Element 6 Str Task Name	Báo động
+-577776567	MiMissionTaskHandler	Element 6 Str Description	Nếu mức độ báo động được nâng lên, tất cả kẻ địch trong khu vực sẽ truy lùng bạn, đồng thời quân tiếp viện sẽ đến từ trại lính gần nhất.
+-1911540076	MiMissionTaskHandler	Element 7 Str Task Name	Thùng
+-1932622704	MiMissionTaskHandler	Element 7 Str Description	Thùng thuốc súng nặng. Chỉ Mugen mới đủ khỏe để di chuyển được chúng.
+-586517079	MiMissionTaskHandler	Element 8 Str Task Name	Takuma
+-1222490226	MiMissionTaskHandler	Element 8 Str Description	Takuma có thể bắn kẻ địch từ khoảng cách an toàn. Lão luôn mang thêm đạn để dành cho mục tiêu của nhiệm vụ.
+2026293247	tutorialbox_hide_bodies	Str Header Text	Giấu xác
+-627711469	tutorialbox_hide_bodies	Element 0 Str Body Text PC	Nếu địch thấy xác chết, họ sẽ báo động cho người khác biết.
+1301131974	tutorialbox_hide_bodies	Element 0 Str Body Text Console	Nếu địch thấy xác chết, họ sẽ báo động cho người khác biết.
+1504216109	tutorialbox_hide_bodies	Element 1 Str Body Text PC	Giữ <hotkey>{0}</hotkey> và sử dụng <hotkey>{1}</hotkey> để nhặt xác chết. Trong khi vác, giữ <hotkey>{0}</hotkey> và nhấn <hotkey>{1}</hotkey> để đặt xác chết xuống.
+1545614178	tutorialbox_hide_bodies	Element 1 Str Body Text Console	Tiếp cận một xác chết, nhấn {0} để vác lên. Trong khi vác, nhấn {0} để đặt xác xuống.\n
+1501719114	tutorialbox_hide_bodies	Element 2 Str Body Text PC	Vác xác ra khỏi tầm nhìn để tránh nâng mức báo động.
+-595577981	tutorialbox_hide_bodies	Element 2 Str Body Text Console	Vác xác ra khỏi tầm nhìn để tránh nâng mức báo động.
+1976337260	tutorialbox_hide_bodies	Element 3 Str Body Text PC	Mẹo: Giấu trong bụi cây, giếng nước, thùng, hoặc nước sâu sẽ giúp xác biến mất mãi mãi.
+-1534529559	tutorialbox_hide_bodies	Element 3 Str Body Text Console	Mẹo: Giấu trong bụi cây, giếng nước, thùng, hoặc nước sâu sẽ giúp xác biến mất mãi mãi.
+-403262954	tutorialbox_quicksave	Str Header Text	Lưu save nhanh
+-1843485653	tutorialbox_quicksave	Element 0 Str Body Text PC	Có thể lưu save nhanh tại bất kỳ thời điểm nào trong Game.
+-1941791307	tutorialbox_quicksave	Element 0 Str Body Text Console	Có thể lưu save nhanh tại bất kỳ thời điểm nào trong Game.
+1453777011	tutorialbox_quicksave	Element 1 Str Body Text PC	Nhấn <hotkey>{0}</hotkey> để lưu nhanh. Nhấn <hotkey>{1}</hotkey> để tải save nhanh, hoặc mở Menu để xem 3 save lưu nhanh gần đây nhất.
+-1939468997	tutorialbox_quicksave	Element 1 Str Body Text Console	Nhấn {0} để lưu nhanh. Để tải, nhấn {1} và chọn một trong ba Save gần đây nhất nhất.
+775757820	tutorialbox_quicksave	Element 2 Str Body Text PC	Mẹo: Bộ đếm thời gian ở phía trên là đếm thời gian kể từ lưu nhanh mới nhất.
+-478687028	tutorialbox_quicksave	Element 2 Str Body Text Console	Mẹo: Bộ đếm thời gian ở phía trên là đếm thời gian kể từ lưu nhanh mới nhất.
+-1594667261	tutorialbox_planning	Str Header Text	Chế Độ Shadow
+572409589	tutorialbox_planning	Element 0 Str Body Text PC	Nếu muốn các nhân vật hành động đồng thời, sử dụng Chế Độ Shadow.
+2050514632	tutorialbox_planning	Element 0 Str Body Text Console	Nếu muốn các nhân vật hành động đồng thời, sử dụng Chế Độ Shadow.
+-2038961514	tutorialbox_planning	Element 1 Str Body Text PC	Nhấn <hotkey>{0}</hotkey> để chuyển Chế Độ Shadow. Có thể chọn hành động cho mỗi nhân vật.
+-156129022	tutorialbox_planning	Element 1 Str Body Text Console	Nhấn {0} để chuyển Chế Độ Shadow. Có thể chọn hành động cho mỗi nhân vật.
+-1755925167	tutorialbox_planning	Element 2 Str Body Text PC	Nhấn <hotkey>{0}</hotkey> để thực hiện tất cả hành động cùng một lúc.
+1578176191	tutorialbox_planning	Element 2 Str Body Text Console	Nhấn {0} để thực hiện tất cả hành động cùng một lúc.
+-1205866662	tutorialbox_viewcone	Str Header Text	Tầm nhìn hình nón của địch
+-1950761443	tutorialbox_viewcone	Element 0 Str Body Text PC	Tất cả kẻ địch đều tầm nhìn, được mô tả bởi hình nón màu xanh.
+260569775	tutorialbox_viewcone	Element 0 Str Body Text Console	Tất cả kẻ địch đều tầm nhìn, được mô tả bởi hình nón màu xanh.
+-1237927517	tutorialbox_viewcone	Element 1 Str Body Text PC	Chọn một kẻ địch và sử dụng <hotkey>{0}</hotkey> để hiển thị tầm nhìn của chúng.
+-28680662	tutorialbox_viewcone	Element 1 Str Body Text Console	Giữ {0} và di chuyển chuột đến kẻ địch để hiển thị tầm nhìn của chúng.
+168840536	tutorialbox_viewcone	Element 2 Str Body Text PC	Lọt vào tầm nhìn địch, nó sẽ chuyển sang màu vàng.
+-2027309620	tutorialbox_viewcone	Element 2 Str Body Text Console	Lọt vào tầm nhìn địch, nó sẽ chuyển sang màu vàng.
+792418078	tutorialbox_viewcone	Element 3 Str Body Text PC	Nếu màu vàng, địch sẽ thấy bạn và tạo báo động.
+-1862135096	tutorialbox_viewcone	Element 3 Str Body Text Console	Nếu màu vàng, địch sẽ thấy bạn và tạo báo động.
+176711466	tutorialbox_warrior	Str Header Text	Thành viên mới
+1704387088	tutorialbox_warrior	Element 0 Str Body Text PC	không dùng đến
+-403536047	tutorialbox_warrior	Element 0 Str Body Text Console	không dùng đến
+-202546560	tutorialbox_shuriken	Str Header Text	Phi Tiêu Shuriken
+-73839802	tutorialbox_shuriken	Element 0 Str Body Text PC	Shuriken của Hayato có thể giết một kẻ địch từ khoảng cách trung bình.
+1446859534	tutorialbox_shuriken	Element 0 Str Body Text Console	Shuriken của Hayato có thể giết một kẻ địch từ khoảng cách trung bình.
+-1330942744	tutorialbox_shuriken	Element 1 Str Body Text PC	Nhấn <hotkey>{0}</hotkey>, chọn một mục tiêu và sử dụng <hotkey>{1}</hotkey> để ném Shuriken.
+-489972691	tutorialbox_shuriken	Element 1 Str Body Text Console	Giữ {0} và chọn Shuriken. Giữ {1} để ngắm và nhấn {2} để ném Shuriken.
+-411338555	tutorialbox_shuriken	Element 2 Str Body Text PC	Vòng tròn màu xanh là tiếng động do kẻ địch sắp chết tạo ra.
+1709909712	tutorialbox_shuriken	Element 2 Str Body Text Console	Vòng tròn màu xanh là tiếng động do kẻ địch sắp chết tạo ra.
+-126222664	tutorialbox_shuriken	Element 3 Str Body Text PC	Mẹo: Hãy chắc chắn nhặt lại Shuriken trước khi rời đi.
+-2141010198	tutorialbox_shuriken	Element 3 Str Body Text Console	Mẹo: Hãy chắc chắn nhặt lại Shuriken trước khi rời đi.
+-38964176	tutorialbox_stone	Str Header Text	Ném Đá
+2035268510	tutorialbox_stone	Element 0 Str Body Text PC	Hayato có thể ném đá để đánh lạc hướng kẻ địch.
+-735090866	tutorialbox_stone	Element 0 Str Body Text Console	Hayato có thể ném đá để đánh lạc hướng kẻ địch.
+-37854932	tutorialbox_stone	Element 1 Str Body Text PC	Giữ <hotkey>{0}</hotkey>, chọn vị trí và nhấn <hotkey>{1}</hotkey> để ném đá.
+-868577415	tutorialbox_stone	Element 1 Str Body Text Console	Giữ {0} và chọn Ném Đá. Giữ {1} để ngắm và nhấn {2} để ném đá.
+1389421917	tutorialbox_stone	Element 2 Str Body Text PC	Địch trong vòng tròn xanh sẽ nhìn vào nơi bị ném trong vài giây.
+1065351727	tutorialbox_stone	Element 2 Str Body Text Console	Địch trong vòng tròn xanh sẽ nhìn vào nơi bị ném trong vài giây.
+424910935	tutorialbox_stone	Element 3 Str Body Text PC	Mẹo: Có thể không thu hút địch bằng đá, nhưng với ít giây ngắn ngủi đó sẽ giúp bạn đi được cả một đoạn đường dài đấy.
+1975115914	tutorialbox_stone	Element 3 Str Body Text Console	Mẹo: Có thể không thu hút địch bằng đá, nhưng với ít giây ngắn ngủi đó sẽ giúp bạn đi được cả một đoạn đường dài đấy.
+-1897636167	tutorialbox_sake	Str Header Text	Chai Sa-kê
+192954259	tutorialbox_sake	Element 0 Str Body Text PC	Mugen có thể sử dụng Chai Sa-kê để làm mồi nhử địch.
+72159265	tutorialbox_sake	Element 0 Str Body Text Console	Mugen có thể sử dụng Chai Sa-kê để làm mồi nhử địch.
+-195205584	tutorialbox_sake	Element 1 Str Body Text PC	Nhấn <hotkey>{0}</hotkey>, chọn vị trí và sử dụng <hotkey>{1}</hotkey> để đặt chai rượu.
+1311459607	tutorialbox_sake	Element 1 Str Body Text Console	Giữ {0} và chọn Chai Sa-kê. Giữ {1} để ngắm và nhấn {2} để đặt.
+-444749100	tutorialbox_sake	Element 2 Str Body Text PC	Địch có thể thấy chai rượu trong vùng sáng của tầm nhìn chúng.
+1302600172	tutorialbox_sake	Element 2 Str Body Text Console	Địch có thể thấy chai rượu trong vùng sáng của tầm nhìn chúng.
+1487887572	tutorialbox_sake	Element 3 Str Body Text PC	Mẹo: Nếu địch nhặt chai, bạn phải hạ chúng thì mới lấy lại được chai rượu đó.
+2197346	tutorialbox_sake	Element 3 Str Body Text Console	Mẹo: Nếu địch nhặt chai, bạn phải hạ chúng thì mới lấy lại được chai rượu đó.
+969168611	tutorialbox_multikill	Str Header Text	Phong Kiếm
+1798556049	tutorialbox_multikill	Element 0 Str Body Text PC	Mugen có thể sử dụng Phong Kiếm để hạ tất cả kẻ địch trong phạm vi.
+-497920304	tutorialbox_multikill	Element 0 Str Body Text Console	Mugen có thể sử dụng Phong Kiếm để hạ tất cả kẻ địch trong phạm vi.
+-1600649094	tutorialbox_multikill	Element 1 Str Body Text PC	Nhấn <hotkey>{0}</hotkey>, rồi chọn vị trí và sử dụng <hotkey>{1}</hotkey> để thực hiện tấn công.
+81046276	tutorialbox_multikill	Element 1 Str Body Text Console	Giữ {0} và chọn Phong Kiếm. Giữ {1} để ngắm và nhấn {2} để thực hiện tấn công.
+1449399978	tutorialbox_multikill	Element 2 Str Body Text PC	Mugen sẽ lướt tới trung tâm vòng tròn đỏ và giết tất cả mọi người trong phạm vi.
+139857194	tutorialbox_multikill	Element 2 Str Body Text Console	Mugen sẽ lướt tới trung tâm vòng tròn đỏ và giết tất cả mọi người trong phạm vi.
+1411951705	tutorialbox_multikill	Element 3 Str Body Text PC	Mẹo: Phong Kiếm rất hiệu quả, nhưng hồi chiêu khá lâu. Hãy sử dụng cẩn thận.
+-271720821	tutorialbox_multikill	Element 3 Str Body Text Console	Mẹo: Phong Kiếm rất hiệu quả, nhưng hồi chiêu khá lâu. Hãy sử dụng cẩn thận.
+-215647854	tutorialbox_objectives	Str Header Text	Thông Tin Nhiệm Vụ
+-132293462	tutorialbox_objectives	Element 0 Str Body Text PC	Nhấn <hotkey>{0}</hotkey> để mở Thông Tin Nhiệm Vụ. Nó sẽ hiển thị mục tiêu của nhiệm vụ.
+824968601	tutorialbox_objectives	Element 0 Str Body Text Console	Nhấn {0} để mở Thông Tin Nhiệm Vụ. Nó sẽ hiển thị mục tiêu của nhiệm vụ.
+204727887	tutorialbox_objectives	Element 1 Str Body Text PC	Nó cung cấp các gợi ý và những cuộc trò chuyện nghe lén được.
+240328082	tutorialbox_objectives	Element 1 Str Body Text Console	Nó cung cấp các gợi ý và những cuộc trò chuyện nghe lén được.
+-931353978	tutorialbox_objectives	Element 2 Str Body Text PC	Mẹo: Tất cả hướng dẫn xuất hiện trong Thông Tin Nhiệm Vụ đều khá hữu ích.
+1779256020	tutorialbox_objectives	Element 2 Str Body Text Console	Mẹo: Tất cả hướng dẫn xuất hiện trong Thông Tin Nhiệm Vụ đều khá hữu ích.
+1914370055	tutorialbox_throwing	Str Header Text	Đồ vật nặng
+-294177932	tutorialbox_throwing	Element 0 Str Body Text PC	Chỉ Mugen là nhân vật mới có thể vác được đồ vật nặng.
+-458422363	tutorialbox_throwing	Element 0 Str Body Text Console	Chỉ Mugen là nhân vật mới có thể vác được đồ vật nặng.
+-470311694	tutorialbox_throwing	Element 1 Str Body Text PC	Sử dụng <hotkey>{0}</hotkey> để nhặt đồ vật nặng và <hotkey>{1}</hotkey> để đặt xuống.
+1138608022	tutorialbox_throwing	Element 1 Str Body Text Console	Tiếp cận đồ vật nặng và nhấn {0} để cầm lên. Nhấn {1} lần nữa để đặt xuống.
+1307232519	tutorialbox_throwing	Element 2 Str Body Text PC	Cũng có thể ném đồ vật nặng. Nhấn <hotkey>{0}</hotkey> để ngắm và sử dụng <hotkey>{1}</hotkey> để ném.
+710852717	tutorialbox_throwing	Element 2 Str Body Text Console	Cũng có thể ném đồ vật nặng. Giữ {0} để ngắm và nhấn {1} để ném.
+-2069315551	tutorialbox_throwing	Element 3 Str Body Text PC	Mẹo: Nếu đồ vật ném đi ra khỏi tầm với của Mugen thì sẽ không thể lấy lại chúng. Hãy cẩn thận.
+1010455802	tutorialbox_throwing	Element 3 Str Body Text Console	Mẹo: Nếu đồ vật ném đi ra khỏi tầm với của Mugen thì sẽ không thể lấy lại chúng. Hãy cẩn thận.
+-1795370618	tutorialbox_vcmarker	Str Header Text	Đánh Dấu Kiểm Tra Tầm Nhìn
+-1245842477	tutorialbox_vcmarker	Element 0 Str Body Text PC	Nếu muốn chắc chắn vị trí này có bị nhìn thấy hay không, sử dụng Đánh Dấu Kiểm Tra Tầm Nhìn.
+574797318	tutorialbox_vcmarker	Element 0 Str Body Text Console	Nếu muốn chắc chắn vị trí này có bị nhìn thấy hay không, sử dụng Đánh Dấu Kiểm Tra Tầm Nhìn.
+136897933	tutorialbox_vcmarker	Element 1 Str Body Text PC	Chọn vị trí và giữ <hotkey>{0}</hotkey> để đánh dấu kiểm tra tầm nhìn.
+2060051899	tutorialbox_vcmarker	Element 1 Str Body Text Console	Giữ {0}, chọn vị trí và nhấn {1} để đánh dấu kiểm tra tầm nhìn.
+-1338768355	tutorialbox_vcmarker	Element 2 Str Body Text PC	Kẻ địch thấy điểm đánh dấu thì sẽ phát sáng. Nếu ra khỏi tầm mắt thì sẽ không phát sáng.
+-952630117	tutorialbox_vcmarker	Element 2 Str Body Text Console	Kẻ địch thấy điểm đánh dấu thì sẽ phát sáng. Nếu ra khỏi tầm mắt thì sẽ không phát sáng.
+-476895601	tutorialbox_static	Str Header Text	Mũ Rơm
+394336998	tutorialbox_static	Element 0 Str Body Text PC	Mũ Rơm là loại kẻ địch ít bị tác động bởi những thứ khác.
+1059804026	tutorialbox_static	Element 0 Str Body Text Console	Mũ Rơm là loại kẻ địch ít bị tác động bởi những thứ khác.
+1492740664	tutorialbox_static	Element 1 Str Body Text PC	Chúng ít bị tác động với bởi mồi nhử như Rượu Sa-kê của Mugen, hay cả với tiếng động cũng vậy.
+-1995521734	tutorialbox_static	Element 1 Str Body Text Console	Chúng ít bị tác động với bởi mồi nhử như Rượu Sa-kê của Mugen, hay cả với tiếng động cũng vậy.
+1913713790	tutorialbox_static	Element 2 Str Body Text PC	Nếu Mũ Rơm phát hiện ra mối đe dạo, chúng sẽ gửi lính canh đến điều tra.
+2063255176	tutorialbox_static	Element 2 Str Body Text Console	Nếu Mũ Rơm phát hiện ra mối đe dạo, chúng sẽ gửi lính canh đến điều tra.
+-1336841734	tutorialbox_melee	Str Header Text	Kiếm Ninja
+1214655050	tutorialbox_melee	Element 0 Str Body Text PC	Hayato có thể sử dụng Kiếm Ninja để giết kẻ địch nhanh chóng và thầm lặng.
+-901889044	tutorialbox_melee	Element 0 Str Body Text Console	Hayato có thể sử dụng Kiếm Ninja để giết kẻ địch nhanh chóng và thầm lặng.
+-190745816	tutorialbox_melee	Element 1 Str Body Text PC	Nhấn <hotkey>{0}</hotkey>, chọn mục tiêu và sử dụng <hotkey>{1}</hotkey> để giết.
+2055248839	tutorialbox_melee	Element 1 Str Body Text Console	Tiếp cận mục tiêu với Hayato, nhấn {0} để giết.
+-1207643569	tutorialbox_melee	Element 2 Str Body Text PC	Để tiếp cận không hạ thủ, nhấn <hotkey>{0}</hotkey> chọn Nốc Ao, hoặc chuyển chế độ trong Thanh Kĩ Năng.
+1761954928	tutorialbox_melee	Element 2 Str Body Text Console	Để tiếp cận không hạ thủ, giữ {0} để mở Vòng Nhân Vật và chọn {1} để chuyển chế độ.
+1623522155	tutorialbox_melee	Element 3 Str Body Text PC	Mẹo: Giữ <hotkey>{0}</hotkey> khi đang sử dụng <hotkey>{1}</hotkey>, và Hayato sẽ tự động nhặt xác lên.
+-1865180854	tutorialbox_melee	Element 3 Str Body Text Console	Mẹo: Giữ {0} khi đang tấn công, và Hayato sẽ tự động nhặt xác lên.
+-989573494	tutorialbox_crouch	Str Header Text	Cúi người
+-1069413860	tutorialbox_crouch	Element 0 Str Body Text PC	Tầm nhìn của kẻ địch có 2 vùng: Sáng và Tối.
+985071745	tutorialbox_crouch	Element 0 Str Body Text Console	Tầm nhìn của kẻ địch có 2 vùng: Sáng và Tối.
+288763587	tutorialbox_crouch	Element 1 Str Body Text PC	Nhấn <hotkey>{0}</hotkey> để cúi người và di chuyển băng qua vùng tối để không bị phát hiện.
+1228549089	tutorialbox_crouch	Element 1 Str Body Text Console	Nhấn {0} để cúi người và di chuyển băng qua vùng tối để không bị phát hiện.
+-11253887	tutorialbox_crouch	Element 2 Str Body Text PC	Đối tượng như bụi cây và đá sẽ giúp tạo vùng tối.
+1066024853	tutorialbox_crouch	Element 2 Str Body Text Console	Đối tượng như bụi cây và đá sẽ giúp tạo vùng tối.
+1394664387	tutorialbox_crouch	Element 3 Str Body Text PC	Mẹo: Cúi người sẽ giúp ẩn thân trên vùng đất cao hơn.
+-439996815	tutorialbox_crouch	Element 3 Str Body Text Console	Mẹo: Cúi người sẽ giúp ẩn thân trên vùng đất cao hơn.
+1530821810	mission_fail	Str Description	Đã mất cả hai thùng thuốc súng.
+2139224496	UITooltipDataClickable_Saveable	Str Display Top	Ayakawa Ohara
+-987191391	Text_quicksave_03_cont	Text	Lưu nhanh ({0})
+1147738467	Text_crouch_00_cont	Text	Cúi người ({0})
+-1618839781	Text_quicksave_02_cont	Text	Lưu nhanh ({0})
+-953539340	Text_crouch_01_cont	Text	Cúi người ({0})
+-388066246	Text_camrotate_cont	Text	Xoay Camera\n(Giữ {0})
+-2120593118	Text_quicksave_01_cont	Text	Lưu nhanh ({0})
+-1418381784	Text_camreset_cont	Text	Đặt lại Camera \n({1} + {0})
+-1324946201	Text_highlight_01_cont	Text	Nổi bật ({0})
+1191603676	Text_charselect_cont	Text	Đổi nhân vật (Hold {0})
+-920850577	Text_quicksave_00_cont	Text	Lưu nhanh ({0})
+-326753258	Text_crouch_02_cont	Text	Cúi người ({0})
+1762571356	Text_throwbarrel_cont	Text	Nén thùng\n({0} + {1})
+-418726684	Text_dropkill_cont	Text	({0} để giết)
+-2117003158	Text_highlight_02_cont	Text	Nổi bật ({0})
+-1131583813	Text_running	Text	Di chuyển\n({0})
+1458602818	Text_use_cont	Text	Sử dụng\n({0})
+-1009764274	Text_running	Text	Chạy\n(Nhấp đúp{0})
+-1944185377	Text_quicksave_02_mouse	Text	Lưu nhanh ({0})
+127196588	Text_camreset_mouse	Text	Đặt lại Cam ({0})
+2077869715	Text_camrotate_mouse	Text	Xoay Camera\n(Giữ {0})
+2078202099	Text_charselect_mouse	Text	Chọn nhân vật ({0})
+-1317530847	Text_crouch_00_mouse	Text	Cúi người ({0})
+-2119329517	Text_crouch_01_mouse	Text	Cúi người ({0})
+-1944854094	Text_highlight_01_mouse	Text	Nổi bật ({0})
+-1658227311	Text_quicksave_01_mouse	Text	Lưu nhanh ({0})
+-848107247	Text_quicksave_03_mouse	Text	Lưu nhanh ({0})
+1798087660	Text_quicksave_00_mouse	Text	Lưu nhanh ({0})
+-1845535175	Text_crouch_02_mouse	Text	Cúi người ({0})
+-1463334107	Text_throwbarrel_mouse	Text	Ném thùng\n({0})
+1021704003	Textdropkill_mouse	Text	Nhảy tới lính canh để giết
+800855971	Text_highlight_02_mouse	Text	Nổi bật ({0})
+1899172348	Text_use_mouse	Text	Sử dụng\n(Giữ {0})
+839115581	Text_jump	Text	Nhảy qua
+682673149	Text_skills	Text	Sử dụng kĩ năng
+1123322799	UIMiTextLevelLoca	Text	Trại lính
+-1039563640	UIMiTextLevelLoca	Text	Trại lính
+2115136594	Text_climb_left	Text	Leo lên đây
+-1811888289	Text_climb_right	Text	Leo lên đây

@@ -1,0 +1,278 @@
+5,2,9		"CUTSCENE
+CONTEXT DIALOG
+WORLD"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) Farming village has been attacked by rebels, survivors are questioned and killed
+2) Mugen has been captured, Takuma is hiding
+3) Yuki arrives in time to help Takuma
+4) Together they rescue Mugen and the surviving farmers
+5) Yuki is the driving force behind this mission. She motivates Takuma
+6) Takuma is impressed by her simple sense of justice and eagerness to help
+7) Takuma considers passing on his knowledge to her and wants to connect"																												
+																																					
+BRIEFING									Takuma is hiding from the rebels, who are on the search for him, when suddenly Yuki enters his hidingspot.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+						TITLECARD			Suganuma village			0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_briefing_n00	omuk	hambo		ALCHEMIST	dark		Will death take me now? Perhaps it has been long enough…	11		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_briefing_n01	omuk	hambo		TRAPPER	loud whispering	*sneaks beside Takuma*	Psst. Takuma-sama!	2		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_briefing_n02	omuk	hambo		ALCHEMIST	startled		Ah! …Yuki-chan! It's you, child. Are you alone?	8		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_briefing_n03	omuk	hambo		TRAPPER	tense		Yes. I followed Kuma here. The others couldn't come. What happened?	11		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_briefing_n04	omuk	hambo		ALCHEMIST	troubled		Darkness and horror. The rebels slaughtered the farmers. Most of them are dead.	13		0																									
+vocs_over_over_	_n05	vocs_over_over_ricefields_briefing_n05	omuk	hambo		ALCHEMIST	troubled		Mugen tried to help. Now he's a prisoner himself, being interrogated and, most likely, soon executed.	16		0																									
+vocs_over_over_	_n06	vocs_over_over_ricefields_briefing_n06	omuk	hambo		TRAPPER	determined		No. We'll save him…	4		0																									
+vocs_over_over_	_n07	vocs_over_over_ricefields_briefing_n07	omuk	hambo		ALCHEMIST	dark		It's impossible, child! We are hardly a force to be reckoned with.	12		0																									
+vocs_over_over_	_n08	vocs_over_over_ricefields_briefing_n08	omuk	hambo		TRAPPER	sincere		We have to try! He's our friend! You don't leave friends behind!	12		0																									
+vocs_over_over_	_n09	vocs_over_over_ricefields_briefing_n09	omuk	hambo		ALCHEMIST	gives in		Such a young mind… Very well, Yuki-chan. If we shall die, we might as well do so with purpose. Lead the way.	22		0																									
+																																					
+SHOOTING									A rebel has line up a group of farmers and shoots them one by one.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_shooting_n00	omuk	hambo		CIVILIAN M	in terror		Ah!	1		0																									
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_shooting_n01	omuk	hambo		CIVILIAN F	in terror		No…	1		0																									
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_shooting_n02	omuk	hambo		CIVILIAN F	hateful		Demon! Monster! I curse you…	5		0																									
+vo_hint_hint_	_n03	vo_hint_hint_ricefields_shooting_n03	omuk	hambo		CIVILIAN F	in terror	*sobbing*		0		0																									
+																																					
+TANUKI									Takuma sets down Kuma. Yuki mentions how she met the tanuki.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_tanuki_n00	omuk	hambo		TRAPPER	worried		Why did Kuma have blood on his fur?	8		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_tanuki_n01	omuk	hambo		ALCHEMIST	dark		A farmer died right next to him. I'm surprised you could get him to return here.	16		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_tanuki_n02	omuk	hambo		TRAPPER	nonchalant		It wasn't hard. I just made that sound you do.	10		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_tanuki_n03	omuk	hambo		ALCHEMIST	slightly intrigued		Hmm…so you picked up on that…	6		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_tanuki_n04	omuk	hambo		TRAPPER	worried		I bet Kuma wants to rescue master samurai too!	9		0																									
+																																					
+FIELDS									The team enters a field of rice. The high growing crops provide cover. However, rebels are searching the fields.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_fields_n00	omuk	hambo		ALCHEMIST	intrigued	Takuma first	Ah, the rice will provide cover.	6		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_fields_n01	omuk	hambo		TRAPPER	cautious		Rebels! …why are they searching the fields?	7		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_fields_n02	omuk	hambo		ALCHEMIST	intrigued		I'd say they are hunting for survivors.	7		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_fields_n03	omuk	hambo		TRAPPER	disturbed		Are the others…are they all dead? Mugen-sama…	7		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_fields_n04	omuk	hambo		ALCHEMIST	intrigued		Stay calm, Yuki-chan! We must become the hunters and rescue Mugen.	11		0																									
+																																					
+SEARCH									A rebel officer is ordering others to search the ricefields for hiding farmers.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_search_n00	omuk	hambo		OFFICER	commanding		I saw a shadow. Find him!	6		0																									
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_search_n01	omuk	hambo		OFFICER	commanding		No one must escape! Lord Okkoto's orders.	7		0																									
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_search_n02	omuk	hambo		OFFICER	commanding		Someone's in there! I know it.	6		0																									
+																																					
+RIFLE									Takuma uses his rifle to snipe an enemy.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_rifle_n00	omuk	hambo		TRAPPER	amazed		I do like your leg! It's quick and deadly, and it can hide, like my little trap.	17		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_rifle_n01	omuk	hambo		ALCHEMIST	intrigued		Hmm, what an unusual compliment! Do you know how I made it so quiet?	14		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_rifle_n02	omuk	hambo		TRAPPER	focussed		No, don't tell! It's a good puzzle, but no time for puzzles now!	13		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_rifle_n03	omuk	hambo		ALCHEMIST	mild teasing		How right you are. Onward to Mugen.	7		0																									
+																																					
+SCOUTS									A couple of rebel scouts leave the area for patrol.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_scouts_n00	omuk			OFFICER	relaxed	returning from patrol	Let's search the fields further down the road to see if anyone's there.	13		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_scouts_n01	omuk			TRAPPER	focussed		Yes, stay away…	3		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_scouts_n02	omuk			ALCHEMIST	intrigued		They will return, eventually. We should not forget about them.	10		0																									
+																																					
+TRAGEDY1									A farming woman tries to escape from a house. A rebel shoots her.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_tragedy1_n00	omuk	hambo		CIVILIAN F	in terror	bursts out of the door	No! Please, no! Help me! Help!	6		0																									
+vo_hint_hint_	_n00a	vo_hint_hint_ricefields_tragedy1_n00a	omuk	hambo		CIVILIAN M	in terror	bursts out of the door	No! Please…please no! Help me! Help!	6		0																									
+								rebel comes out the door and shoots escapee		0		0																									
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_tragedy1_n01	omuk	hambo		ENEMY		returns inside	Tch…serves you right.	3		0																									
+																																					
+VICTIMS1									Right after the rebels shot the helpless farming woman																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_victims1_n01	omuk	hambo		TRAPPER	uneasy		They didn't have to shoot him.	6		0																									
+vocs_over_over_	_n01a	vocs_over_over_ricefields_victims1_n01a	omuk	hambo		TRAPPER	uneasy		They didn't have to shoot her.	6		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_victims1_n02	omuk	hambo		ALCHEMIST	calming		These men are beasts. They'll do whatever they want, with or without reason.	13		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_victims1_n03	omuk	hambo		TRAPPER	uneasy	if Mugen hasn't been freed	I hope Mugen-sama is okay.	5		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_victims1_n04	omuk	hambo		ALCHEMIST	calming		"Yuki-chan. Do not worry; we will save him."	8		0																									
+																																					
+VICTIMS2									The team discovers a pile of executed farmers.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_victims2_n00	omuk	hambo		ALCHEMIST	sad	Takuma first	Such shame.	2		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_victims2_n01	omuk	hambo		TRAPPER	shocked		Why did they have to die? They didn't hurt anyone.	10		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_victims2_n02	omuk	hambo		ALCHEMIST	calm		To make a point. These farmers died because they remained loyal to the Shogun.	14		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_victims2_n03	omuk	hambo		TRAPPER	urgent	if Mugen hasn't been freed	Please don't die, master samurai.	5		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_victims2_n04	omuk	hambo		ALCHEMIST	calm	if Mugen hasn't been freed	He is strong, Yuki-chan. We will reach him in time.	10		0																									
+vocs_over_over_	_n05	vocs_over_over_ricefields_victims2_n05	omuk	hambo		WARRIOR	serious	if Mugen has been freed	All the more reason to help those who survived.	9		0																									
+																																					
+TRAGEDY2									Two rebels keep knocking on a door an demanding entrance.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_tragedy2_n00	omuk	hambo		SAMURAI	menacing		Open up!	2		0																									
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_tragedy2_n01	omuk	hambo		SAMURAI	menacing		Open the door!	3		0																									
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_tragedy2_n02	omuk	hambo		SAMURAI	menacing		We'll get in eventually!	4		0																									
+vo_hint_hint_	_n03	vo_hint_hint_ricefields_tragedy2_n03	omuk	hambo		SAMURAI	menacing		It won't hold forever!	4		0																									
+vo_hint_hint_	_n04	vo_hint_hint_ricefields_tragedy2_n04	omuk	hambo		SAMURAI	menacing		Open it! Now!	3		0																									
+																																					
+TRAGEDY3									Two rebels break down a door and storm inside a house. You hears screaming from the inside.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_tragedy3_n00	omuk	hambo		ENEMY	triumphantly	breaks down the door	Hah!	1		0																									
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_tragedy3_n01	omuk	hambo		CIVILIAN F	in terror		Please! Leave us alone…	4		0																									
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_tragedy3_n02	omuk	hambo		CIVILIAN F	absolute terror	screaming and sobbing		0		0																									
+																																					
+VICTIMS3									The team witnesses rebels who force their way into a house. You hear screaming from inside.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_victims3_n00	omuk	hambo		ALCHEMIST	angry		Vile beasts.	2		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_victims3_n01	omuk	hambo		TRAPPER	dark memories		Just like Okaa-san...	3		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_victims3_n02	omuk	hambo		ALCHEMIST	cautious		Yuki-chan?	1		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_victims3_n03	omuk	hambo		TRAPPER	evasive		Nothing. Mugen-sama needs us.	4		0																									
+																																					
+LOOTERS									The team sees looters putting bags and crates on wagons.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_looters_n00	omuk	hambo		ALCHEMIST	disgusted	Takuma first	Hmm. Looters.	2		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_looters_n01	omuk	hambo		TRAPPER	focussed		Maybe Mugen-sama's weapons are here somewhere.	6		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_looters_n02	omuk	hambo		ALCHEMIST	appreciative		Ah, good thinking!	3		0																									
+																																					
+WARRIOR1									Yuki and Takuma approach the area where Mugen is held captive and questioned by a samurai.			0																									
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_warrior1_n00	omuk	hambo		TRAPPER	eager		There's Mugen-sama!	2		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_warrior1_n01	omuk	hambo		ALCHEMIST	focussed		He is well guarded. We must take on his interrogator together, yes?	12		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_warrior1_n02	omuk	hambo		TRAPPER	eager		Hai! You shoot, I finish him!	6		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_warrior1_n03	omuk	hambo		ALCHEMIST	intrigued		Yuki-chan, why are you so eager to risk your life for Mugen?	12		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_warrior1_n04	omuk	hambo		TRAPPER	persistent	Mugen is the only kind/accepting samurai she met	I told you, he's a friend. And a GOOD samurai.	10		0																									
+																																					
+QUESTIONS									A samurai interrogates Mugen																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_questions_n00	omuk	hambo		SAMURAI	harsh		How did you know we were coming?	7		0																									
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_questions_n01	omuk	hambo		SAMURAI	harsh		Were you alone? Or are other Shogunate dogs hiding in the fields?	12		0																									
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_questions_n02	omuk	hambo		SAMURAI	cold		Your resistance will earn you nothing!	6		0																									
+vo_hint_hint_	_n03	vo_hint_hint_ricefields_questions_n03	omuk	hambo		SAMURAI	harsh		What does the Shogun's brother know of our plans?	9		0																									
+vo_hint_hint_	_n04	vo_hint_hint_ricefields_questions_n04	omuk	hambo		SAMURAI	impatient		Speak, and I will grant you an honorable death.	9		0																									
+vo_hint_hint_	_n05	vo_hint_hint_ricefields_questions_n05	omuk	hambo		SAMURAI	cruel		Did you really think you could stand against Lord Okkoto? 	11		0																									
+vo_hint_hint_	_n06	vo_hint_hint_ricefields_questions_n06	omuk	hambo		SAMURAI	cruel		You will talk soon enough when we boil you alive. 	11		0																									
+																																					
+WARRIOR2									Yuki and Takuma free Mugen from his shackles.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_warrior2_n00	omuk	hambo		WARRIOR	heavy breathing	Yuki first	…Yuki-chan. What are you doing here?!	6		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_warrior2_n01	omuk	hambo		WARRIOR	heavy breathing	Takuma first	…Takuma-san. You returned for me?	5		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_warrior2_n02	omuk	hambo		ALCHEMIST	praise		Yuki-chan has saved us both, Mugen. We are in her debt.	11		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_warrior2_n03	omuk	hambo		WARRIOR	deep gratitude	rubs his chaffed wrists	My dear Yuki-chan! I owe you my life! By my honor, I will not forget this!	16		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_warrior2_n04	omuk	hambo		TRAPPER	very happy		Thank you, master samurai!	4		0																									
+vocs_over_over_	_n05	vocs_over_over_ricefields_warrior2_n05	omuk	hambo		WARRIOR	back in action		Now, we must find the surviving farmers and give them the same courtesy as you gave me.	17		0																									
+vocs_over_over_	_n06	vocs_over_over_ricefields_warrior2_n06	omuk	hambo		TRAPPER	cautious	doesn't like being praised so much	Uhm, Mugen-sama, they…they took your armor…	6		0																									
+vocs_over_over_	_n07	vocs_over_over_ricefields_warrior2_n07	omuk	hambo		WARRIOR	urgent		Ah, yes, we must find my equipment first. Let us make haste!	12		0																									
+																																					
+GEAR1									Yuki or Takuma find Mugen's gear.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_gear1_n00	omuk	hambo		ALCHEMIST	pondering	Takuma first	Ah, samurai gear, but no samurai to carry it.	9		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_gear1_n01	omuk	hambo		TRAPPER	exhausted	Yuki first	Ergh…so heavy. It wants to be with Mugen-sama. 	9		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_gear1_n02	omuk	hambo		WARRIOR	in haste	if Mugen has been freed	I will be there soon!	5		0																									
+																																					
+GEAR2									Mugen picks up his gear and now wants to free the farmers.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_gear2_n00	omuk	hambo		WARRIOR	pleased		Ah, alive again! Now, we must ascend to the main farm! The survivors must be there.	16		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_gear2_n01	omuk	hambo		ALCHEMIST	inquisitive		Are there any left?	4		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_gear2_n02	omuk	hambo		WARRIOR	urgent		If we make haste.	4		0																									
+																																					
+TROUBLE									On the way to the farmers.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_trouble_n00	omuk	hambo		WARRIOR	focussed		Are Aiko-san and Hayato-san nearby?	5		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_trouble_n01	omuk	hambo		TRAPPER	more and more anxious	afraid Mugen will kick her out	No. They're following that general. I, uh…had a message for Lord Noboru. But then I met Kuma, and… Am I in trouble?	22		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_trouble_n02	omuk	hambo		WARRIOR	"reassuring
+showing gratitude"		Do not worry, Yuki-chan. You saved our lives, so the responsibility is mine. We will deliver your message together.	19		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_trouble_n03	omuk	hambo		TRAPPER	"very relieved
+grateful"		Hai, Mugen-sama!	2		0																									
+																																					
+PRISONERS									The team discoveres the captured farmers.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_prisoners_n00	omuk	hambo		ALCHEMIST	pondering	Takuma first	Men and women, penned together like cattle.	7		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_prisoners_n01	omuk	hambo		TRAPPER	focussed	Yuki first	I see them…at the stables and in the backyard.	9		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_prisoners_n02	omuk	hambo		WARRIOR	tension		We must free them. I will speak to them after we have slain the rebels.	15		0																									
+																																					
+IMPRISONED									A group of farmers is penned in at the stables. (loop)																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_imprisoned_n00	omuk	hambo		CIVILIAN M	extremely nervous	pacing up and down	Oh, this is bad… Maybe we should…	7		0																									
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_imprisoned_n01	omuk	hambo		CIVILIAN F	depressed		Dark times, dark times…	4		0																									
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_imprisoned_n02	omuk	hambo		CIVILIAN M	not thinking clearly		They are going to kill us!	6		0																									
+vo_hint_hint_	_n03	vo_hint_hint_ricefields_imprisoned_n03	omuk	hambo		CIVILIAN F	worried		Husband…be safe…	2		0																									
+vo_hint_hint_	_n04	vo_hint_hint_ricefields_imprisoned_n04	omuk	hambo		CIVILIAN M	not thinking clearly		We should have surrendered.	4		0																									
+vo_hint_hint_	_n05	vo_hint_hint_ricefields_imprisoned_n05	omuk	hambo		CIVILIAN F	praying		We must not give in to fear. Someone will come.	10		0																									
+																																					
+FARMERS									The team frees the farmers.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_farmers_n00	omuk	hambo		CIVILIAN M	deep gratitude		Thank you! Oh, thank you! We knew the Shogun would send help!	12		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_farmers_n01	omuk	hambo		CIVILIAN F	pleading		My husband! They took him away…	6		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_farmers_n02	omuk	hambo		WARRIOR	"reassuring
+tense"	if headfarmer not free	"He will live; you have my word. Now, follow our lead."	11		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_farmers_n03	omuk	hambo		WARRIOR	"reassuring
+tense"	if headfarmer free	He is already with us. Stay close and we will escape together.	12		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_farmers_n04	omuk	hambo		CIVILIAN F	submissive		We will follow you.	4		0																									
+																																					
+INTERROGATE									A samurai interrogates a farmer in the backyard.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_interrogate_n00	omuk	hambo		SAMURAI	malicious		Who is the samurai that came to your aid?	9		0																									
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_interrogate_n01	omuk	hambo		HUSBAND	defiant	"Civilian M
+hard voice"	I don't know who he is.	6		0																									
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_interrogate_n02	omuk	hambo		SAMURAI			Don't lie to me, peasant.	5		0																									
+vo_hint_hint_	_n03	vo_hint_hint_ricefields_interrogate_n03	omuk	hambo		HUSBAND	defiant	"Civilian M
+hard voice"	I only know the Shogun will send more like him. They will kill you.	14		0																									
+vo_hint_hint_	_n04	vo_hint_hint_ricefields_interrogate_n04	omuk	hambo		SAMURAI			Haha! Your defiance means nothing! We will make you talk.	10		0																									
+																																					
+HUSBAND									The team frees the head farmer.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_husband_n00	omuk	hambo		HUSBAND	pleading		Thank you, my lord. Please! Others are at the stables. My wife, too…	13		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_husband_n01	omuk	hambo		WARRIOR	"reassuring
+tense"	if farmers not free	We will free them. Now, you must do as I tell you.	12		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_husband_n02	omuk	hambo		WARRIOR	"reassuring
+tense"	if farmers free	They have been freed. Now, come with us and we will escape together.	13		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_husband_n03	omuk	hambo		HUSBAND	submissive		I will follow your lead.	5		0																									
+																																					
+ALARM									"The prison patrol discovers that someone has escaped.
+(also used this for when Mugen's escape is discovered)"																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_alarm_n00	omuk			SAMURAI	commanding		Someone escaped! Search the area!	5		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_alarm_n01	omuk			SAMURAI	commanding		Someone escaped! Search the area!	5		0																									
+																																					
+DEBT									During the escape, halfway out the level.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_debt_n00	omuk	hambo		HUSBAND			We can never repay you for this kindness.	8		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_debt_n01	omuk	hambo		WARRIOR			We have not made it to safety yet.	8		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_debt_n02	omuk	hambo		CIVILIAN F			We would be dead already if not for you.	9		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_debt_n03	omuk	hambo		WARRIOR			Then spread the word: the Shogun does not abandon his people.	11		0																									
+																																					
+MORE									A couple of rebel scouts enter the farm and block the exit.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_more_n00	omuk	hambo		OFFICER	relaxed, then tense	returning from patrol	Well, we're back! Looks like… Wait, something's wrong here! Everyone! Block the road!	13		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_more_n01	omuk	hambo		WARRIOR	tense		Scouts, returning from patrol. Everyone, keep your distance!	8		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_more_n02	omuk	hambo		ALCHEMIST	cheeky		Hm, I told you they'd come back. Hehe! I feel a sudden itch in my leg.	16		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_more_n03	omuk	hambo		TRAPPER	tense		We're almost out! So close!	5		0																									
+																																					
+DEBRIEFING									At the exit of the level.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_debriefing_n00	omuk	hambo		WARRIOR			Is everyone all right?	4		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_debriefing_n01	omuk	hambo		HUSBAND	nervous		Y-yes. Thank you, my lord. Thank you!	7		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_debriefing_n02	omuk	hambo		WARRIOR			We must all thank this brave young woman here. Her name is Yuki, and without her, none of us would be alive.	22		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_debriefing_n03	omuk	hambo		TRAPPER	surprised		N-no no, that's not…	4		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_debriefing_n04	omuk	hambo		CIVILIAN F	greatful	all farmers bow in gratitude	We owe you everything, Yuki-chan. I pray that we can return this kindness one day.	15		0																									
+vocs_over_over_	_n05	vocs_over_over_ricefields_debriefing_n05	omuk	hambo		TRAPPER	blushing		I, ah… You're welcome.	4		0																									
+vocs_over_over_	_n06	vocs_over_over_ricefields_debriefing_n06	omuk	hambo		WARRIOR			Now, we should leave, before more rebels arrive.	8		0																									
+vocs_over_over_	_n07	vocs_over_over_ricefields_debriefing_n07	omuk	hambo		HUSBAND	cautious		Where will you take us?	5		0																									
+vocs_over_over_	_n08	vocs_over_over_ricefields_debriefing_n08	omuk	hambo		WARRIOR		Mugen and farmers leave	We will head for Lord Noboru's camp. You will find shelter there until this matter is resolved.	17		0																									
+vocs_over_over_	_n09	vocs_over_over_ricefields_debriefing_n09	omuk	hambo		ALCHEMIST	delighted		Well done, Yuki-chan.	3		0																									
+vocs_over_over_	_n10	vocs_over_over_ricefields_debriefing_n10	omuk	hambo		TRAPPER	blushing		Thank you, Takuma-sama!	3		0																									
+																																					
+											MISSION-WORDCOUNT DE:	0		TOTAL	NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+													Words	1101	0	234	255	0	288	0	0	0	0	0	0	0	45	4	0	115	0	36	66	58	0	0	0
+													Lines	137	0	33	23	0	31	0	0	0	0	0	0	0	5	2	0	17	0	6	13	7	0	0	0
+																																					
+																																					
+																																					
+																																					
+																																					
+																																					
+																																					
+																																					

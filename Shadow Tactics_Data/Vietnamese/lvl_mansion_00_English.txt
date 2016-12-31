@@ -1,0 +1,76 @@
+1,0,3			
+-935333020	MiMissionTaskHandler	Element 0 Str Task Name	Ám sát lãnh chúa Yabu
+2045452090	MiMissionTaskHandler	Element 0 Str Description	Ám sát lãnh chúa Yabu trong biệt thự của hắn.
+385899093	MiMissionTaskHandler	Element 1 Str Task Name	Thuốc độc
+1206546255	MiMissionTaskHandler	Element 1 Str Description	Bỏ thuốc độc chết người vào trà của Yabu. Yuki có lọ thuốc này.
+47453693	MiMissionTaskHandler	Element 2 Str Task Name	Bắn tỉa
+417714909	MiMissionTaskHandler	Element 2 Str Description	Tòa tháp trên đảo có vị trí bắn tỉa thuận lợi. Dụ Yabu lọt vào tầm mắt và Takuma có thể bắn hắn từ đây.
+2064697923	MiMissionTaskHandler	Element 3 Str Task Name	Trốn thoát
+1317192573	MiMissionTaskHandler	Element 3 Str Description	Mọi người trốn thót bằng con đường phía Nam.
+-1950003110	MiMissionTaskHandler	Element 4 Str Task Name	Cổng
+2105727167	MiMissionTaskHandler	Element 4 Str Description	Cổng là cách duy nhất để Takuma vào và thoát ra khỏi biệt thự.
+1933186776	MiMissionTaskHandler	Element 5 Str Task Name	Làm choáng Samurai
+1871843625	MiMissionTaskHandler	Element 5 Str Description	Có thể làm choáng Samurai với một phát bắn từ súng ngắn hoặc súng trường của Takuma. Samurai bị choáng không thể chống lại tấn công cận chiến.
+-340131564	MiMissionTaskHandler	Element 6 Str Task Name	Chó của Yabu
+1034464885	MiMissionTaskHandler	Element 6 Str Description	Lãnh chúa Yabu chăm sóc chó của hắn. Nếu hắn nghe thấy chó sủa, hắn sẽ điều tra.
+571134696	MiMissionTaskHandler	Element 7 Str Task Name	Thói quen
+1782847722	MiMissionTaskHandler	Element 7 Str Description	Lãnh chúa Yabu có thời gian biểu của riêng mình và không bao giờ thay đổi.
+-696076170	MiMissionTaskHandler	Element 8 Str Task Name	Trà
+-162049866	MiMissionTaskHandler	Element 8 Str Description	Lãnh chúa Yabu và vợ của hắn uống trà thường xuyên trên đảo này.
+-1285325774	MiMissionTaskHandler	Element 9 Str Task Name	Chiêng A
+-760199849	MiMissionTaskHandler	Element 9 Str Description	Chiêng ở sân sau sẽ rung khi trà phải được chuẩn bị.
+-350353359	MiMissionTaskHandler	Element 10 Str Task Name	Chiêng B
+-359313998	MiMissionTaskHandler	Element 10 Str Description	Chiêng trên đảo sẽ rung khi trà phải được chuẩn bị.
+137227334	MiMissionTaskHandler	Element 11 Str Task Name	Chuông
+1385727179	MiMissionTaskHandler	Element 11 Str Description	Chuông lớn có thể tạo nhiều tiếng động.
+2009202189	MiMissionTaskHandler	Element 12 Str Task Name	Chất nổ
+-257386725	MiMissionTaskHandler	Element 12 Str Description	Takuma có thể tìm thêm chất nổ ở trong thùng gần chuông.
+224541415	MiMissionTaskHandler	Element 13 Str Task Name	Đạn súng trường
+-637174955	MiMissionTaskHandler	Element 13 Str Description	Takuma có thể tìm thêm đạn cho súng trường khi ở gần đảo tháp.
+2058811176	tutorialbox_samuraikill	Str Header Text	Giết Samurai
+587703686	tutorialbox_samuraikill	Element 0 Str Body Text PC	Không có Mugen, bạn cần phải phối hợp thì mới hạ được một Samurai.
+989193866	tutorialbox_samuraikill	Element 0 Str Body Text Console	Không có Mugen, bạn cần phải phối hợp thì mới hạ được một Samurai.
+-1370002470	tutorialbox_samuraikill	Element 1 Str Body Text PC	Sử dụng hỏa lực để làm choáng một Samurai, rồi kết liễu hắn bắng tấn công cận chiến.
+-56880867	tutorialbox_samuraikill	Element 1 Str Body Text Console	Sử dụng hỏa lực để làm choáng một Samurai, rồi kết liễu hắn bắng tấn công cận chiến.
+1098112871	tutorialbox_samuraikill	Element 2 Str Body Text PC	Samurai chỉ choáng trong thời gian ngắn, vì vậy hãy chắn chắn rằng bạn có thể kết liễu được hắn nhanh chóng.
+1004410520	tutorialbox_samuraikill	Element 2 Str Body Text Console	Samurai chỉ choáng trong thời gian ngắn, vì vậy hãy chắn chắn rằng bạn có thể kết liễu được hắn nhanh chóng.
+851499488	tutorialbox_samuraikill	Element 3 Str Body Text PC	Lựu đạn của Takuma cũng có thể giết Samurai, nhưng chúng để xử nhóm đông người sẽ tốt hơn.
+1689608624	tutorialbox_samuraikill	Element 3 Str Body Text Console	Lựu đạn của Takuma cũng có thể giết Samurai, nhưng chúng để xử nhóm đông người sẽ tốt hơn.
+1819909876	tutorialbox_sniper	Str Header Text	Súng trường của Takuma
+-1534438502	tutorialbox_sniper	Element 0 Str Body Text PC	Súng trường Takuma có tầm bắn tuyệt vời và lượng đạn hạn chế.
+1500713928	tutorialbox_sniper	Element 0 Str Body Text Console	Súng trường Takuma có tầm bắn tuyệt vời và lượng đạn hạn chế.
+-61652237	tutorialbox_sniper	Element 1 Str Body Text PC	Nhấn <hotkey>{0}</hotkey> và sử dụng <hotkey>{1}</hotkey> để bắn.
+1529022022	tutorialbox_sniper	Element 1 Str Body Text Console	Giữ {0} và sử dụng Súng Trường Takuma. Giữ {1} để ngắm và nhấn {2} để bắn.
+-718261912	tutorialbox_sniper	Element 2 Str Body Text PC	Takuma không thể di chuyển khi đang ngắm. Súng trường của lão khá im lặng, cho nên đừng lo lắng về tiếng ồn.
+665760054	tutorialbox_sniper	Element 2 Str Body Text Console	Takuma không thể di chuyển khi đang ngắm. Súng trường của lão khá im lặng, cho nên đừng lo lắng về tiếng ồn.
+1336395673	tutorialbox_sniper	Element 3 Str Body Text PC	Takuma luôn giữ thêm đạn cho mục tiêu của nhiệm vụ. Đừng ngần ngại khi sử dụng súng trường của lão!
+514011623	tutorialbox_sniper	Element 3 Str Body Text Console	Takuma luôn giữ thêm đạn cho mục tiêu của nhiệm vụ. Đừng ngần ngại khi sử dụng súng trường của lão!
+-2063755607	tutorialbox_tanuki	Str Header Text	Lửng chó
+-763728927	tutorialbox_tanuki	Element 0 Str Body Text PC	Kuma, thú lửng chó, có thể dụ kẻ địch bằng tiếng tru.
+-1036386283	tutorialbox_tanuki	Element 0 Str Body Text Console	Kuma, thú lửng chó, có thể dụ kẻ địch bằng tiếng tru.
+622020753	tutorialbox_tanuki	Element 1 Str Body Text PC	Nhấn <hotkey>{0}</hotkey> để chọn Kuma và sử dụng <hotkey>{1}</hotkey> để gọi nó ra.
+-1243122957	tutorialbox_tanuki	Element 1 Str Body Text Console	Giữ {0} để chọn Kuma. Giữ {1} để chọn vị trí và nhấn {2} để gọi nó ra.
+875348058	tutorialbox_tanuki	Element 2 Str Body Text PC	Một khi Kuma được thả, nhấn <hotkey>{0}</hotkey> để tru lên.
+-2012476017	tutorialbox_tanuki	Element 2 Str Body Text Console	Một khi Kuma được thả, nhấn {0} để tru lên.
+2145383162	tutorialbox_tanuki	Element 3 Str Body Text PC	Kẻ địch nào nghe thấy Kuma sẽ tìm nó. Nếu tìm thấy, chúng sẽ ở đó một thời gian ngắn.
+1725164699	tutorialbox_tanuki	Element 3 Str Body Text Console	Kẻ địch nào nghe thấy Kuma sẽ tìm nó. Nếu tìm thấy, chúng sẽ ở đó một thời gian ngắn.
+796024736	tutorialbox_guns	Str Header Text	Súng ngắn hỏa mai
+-156899473	tutorialbox_guns	Element 0 Str Body Text PC	Súng ngắn hỏa mai là vũ khí mạnh mẽ với lượng đạn hạn chế.
+-838966222	tutorialbox_guns	Element 0 Str Body Text Console	Súng ngắn hỏa mai là vũ khí mạnh mẽ với lượng đạn hạn chế.
+620470251	tutorialbox_guns	Element 1 Str Body Text PC	Nhấn <hotkey>{0}</hotkey>, chọn mục tiêu và nhấn <hotkey>{1}</hotkey> để bắn.
+1376988388	tutorialbox_guns	Element 1 Str Body Text Console	Giữ {0} và chọn Súng ngắn. Giữ {1} để ngắm và nhấn {2} để bắn.
+607224474	tutorialbox_guns	Element 2 Str Body Text PC	Hầu hết kẻ địch sẽ chết bởi một phát bắn. Còn Samurai sẽ choáng trong vài giây.
+2002708072	tutorialbox_guns	Element 2 Str Body Text Console	Hầu hết kẻ địch sẽ chết bởi một phát bắn. Còn Samurai sẽ choáng trong vài giây.
+1784322990	UsableBySkill	Str Custom Action Name	Bắn
+-251708215	UsableBySkill	Str Custom Action Name	Cắt
+-625819845	UsableBySkill	Str Custom Object Name	dây thừng
+-742532201	UITooltipDataClickable_Saveable	Str Display Top	Yabu
+-1578577790	usable_dropable_vase_00	Str Custom Action Name	Đẩy
+-1970240997	usable_dropable_vase_00	Str Custom Object Name	bình sứ
+767842371	UsableObject_ranged_pushable_flower	Str Custom Action Name	Đẩy
+-53184279	UsableObject_ranged_pushable_flower	Str Custom Object Name	bình sứ
+1178313895	UsableObject_ranged_pushable_flower (1)	Str Custom Action Name	Đẩy
+-947219555	UsableObject_ranged_pushable_flower (1)	Str Custom Object Name	bình sứ
+381255434	usable_dropable_vase_00 (1)	Str Custom Action Name	Đẩy
+743443194	usable_dropable_vase_00 (1)	Str Custom Object Name	bình sứ
+-1369017114	UITooltipDataClickable_Saveable	Str Display Top	Intafēsu no jōnzumasutā

@@ -1,0 +1,848 @@
+<emptyscreen>
+<image>logo_shadow_tactics</image>
+
+
+
+Designed and developed by
+
+
+<image>logo_mimimi</image>
+
+
+
+Published by
+
+
+<image>logo_daedalic</image>
+
+
+
+
+
+#Mimimi Productions
++Development Credits
+
+
+
+#Founders
+
++Dominik Abé
+Creative Director
+Tech Director
+
++Johannes Roth
+CEO & Business Development
+Project Management
+
+
+
+#Programmers
+
++Maximilian Auer
+Player Movement
+Import Pipeline, Tools & Tech Art
+Animation System
+
++Jonas Jentsch
+HUD & UI
+Menus & Localization
+Camera
+
++Frieder Mielke
+NPC Behaviour & AI
+Viewcone
+Build Pipeline
+
++Philipp Wittershagen
+Controls & Player Behaviour
+Additional Gameplay
+Tools
+
+
+
+#Artists
+
++Bianca Dörr
+Lead Artist
+Textures
+Level Decoration
+Lighting
+
++Cem Erdalan
+Character Animation
+3D Modeling
+Level Layouts
+
++Lucas Reiner
+Concept Art
+User Interface
+Level Decoration
+
++Florian Smolka
+VFX & Additional Shaders
+3D Modeling
+Additional Scripting
+Lighting
+
+
+
+#Designers
+
++Martin Hamberger
+Game Design
+Level Design
+Writing
+
++Moritz Wagner
+Game Design
+Level Design Lead
+Balancing
+
++Felix Friedlein
+Level Design
+Cutscene Design
+
+
+
+#Studio
+
++Angelika Achter
+Studio Management
+UI & UX Design
+Additional Producing
+
++Anna-Maria Magull
+Studio Management
+Additional Producing
+Retail, Artbook & Strategy Guide Support
+
++Dennis Huszak
+Marketing & PR
+Cutscene Production
+Events
+
+
+
+#Audio by
+
++Filippo Beck Peccoz
+Composer
+Music Implementation
+In-game Mixing
+
++Guido Hieronymus
+Music Mixing
+Mastering
+
++Philipp Sellier
+Foley Artist & Sound Design
+Ambience Implementation
+In-game Mixing
+
+
+
+#Live Instrumentalists
+
++Filippo Beck Peccoz
+Guitar & Kantate
+
++Sebastian Fillenberg
+Violin
+
++Kazuyo Kuriya
+Flute
+
++Karin Nakagawa
+Koto
+
+
+
+#Supported by
+
++Ralf Adam
++Wolfgang Walk
+Story & Pitch Consulting
+
++Sebastian Dorda
+Binary File Format
+
++Monika Dörr
+Artbook Layout
+
++Frank Furtwängler
+Strategy Guide Content
+
++Gerald Grunow & Weltenwandler
+Motion Design
+Stylized Cutscenes
+
++Kiril Hristanow
++Atmosphere Entertainment
+3D Assets
+
++Stephan Kuch
++Panoptimo
+Color Grading
+
++Hendrik Luehrsen
++Luehrsen // Heinrich
+RememberToQuickSave.com
+
++Simon Osterhold
+Announcement Trailer Audio
+
++Julian Schmidt
+Node Editor Tool
+
++Dominik Schön
+Additional Level Design
+
++Kevin Graf Schumacher
+Japan & Edo Consulting
+
++Tobias Weingärtner
++Virgin Lands
+PC Release Trailer
+
++Christopher Yarbrough
+Build Pipeline
+Additional Tools
+
+
+
+#Story by
+
++First Concept
+Dominik Abé
+Martin Hamberger
+Dennis Huszak
+Moritz Wagner
+
++Final Version
+Martin Hamberger
+Dennis Huszak
+
+
+
+#Daedalic Entertainment
++Production Credits
+
+
+
+#Producing
+
++Tom Kersten
+Producer
+
++Carsten Fichtelmann
+Executive Producer
+
+
+
+#Localization Management
+
++Maria Urban
+Localization Director
+
++Benjamin Kuhn
++Lisa Mallory
+German Translation
+
++Harald Fränkel
++Lisa Mallory
+German Proofread
+
++Words of Magic
+French Translation & Proofread
+
++Ramón Méndez & Alba Calvo
+Spanish Translation & Proofread
+
++Thiago Araujo & Gabriel Ninô
+Brazilian Portuguese Translation & Proofread
+
++Uliana Erofeeva
+Russian Translation & Proofread
+
++Active Gaming Media
+Japanese Translation & Proofread
+
+
+
+#Japanese, Korean and Chinese Translation & Proofread
+#Done by Active Gaming Media
+
++Francesco Cioffi
+Localization Producer
+
++Aurore Demede
+Localization Project Manager 
+
++Carlos Argueta
+Linguistic QA Supervisor
+
++Yurika Shibamoto
+Japanese QA
+
++Kim Yu Yeon
+Korean QA
+
++Hu Wen Xue
+Chinese QA
+
+
+
+#Polish Translation & Proofread
+#Done by Techland
+
++Michał Rainert
+Localization Department Manager
+
++Marek Gałązka
+Translator
+
++Sztmon Frąszczak
++Marcin Nowacki
+Localization Specialists
+
+
+
+#English Voice Overs Production by
+#OMUK, London
+
++Mark Estdale
+Founder & CEO
+
++Victoria Prentice
++Juan Manuel Delfin
+Project Management
+
++Mark Estdale
+Production Supervisor
+
++Victoria Prentice
+Recording
+
++Martin Hamberger
++Dennis Huszak
++Mark Estdale
+Director
+
++Lewis Bean
++Marta Puerto
+Post Production
+
+
+
+#English Main Cast
+
++Adam Longworth
+Hayato
+
++Alix Dunmore
+Aiko
+
++Martha Mackintosh
+Yuki
+
++Terry Wilton
+Takuma
+
++Toby Longworth
+Ōshiro Mugen
+
+
+
+#English Supporting Cast
+
++Ben Whitehead
+Male Civilian
+Officer
+
++Dan Mersh
+Guard 1
+Official
+Samurai
+
++Daniel Kendrick
+Ryūnosuke
+
++David Rintoul
+General Okkoto
+
++David Shaw Parker
+Lord Noboru
+
++Dean Williamson
+Lord Yabu
+Kage-sama Double
+
++Glen McCready
+Enemy
+Guard 2
+Husband
+
++Keith Wickham
+Straw Hat Guard
+
++Matt Littler
+Masaru
+
++Neil McCaul
+Shogun
+
++Penelope Rawlins
+Female Civilian
+
++Peter Marinker
+Narrator
+
+
+
+#Japanese Voice Overs Production by
+#Active Gaming Media, Osaka
+
++Katsutoshi Shibata
+Recording Director 
+
++Yuuji Kamizaki
+Sound Engineer 
+ 
++Asuka Itou
+Line Producer 
+ 
++Kumunaru Shibata
+Sound Editor
+
+
+
+#Japanese Main Cast
+
++Yousuke Iwazaki / 岩崎洋介 
+Hayato
+
++Tamari Hinata / ひなたたまり 
+Aiko
+
++Yume Maihara / 舞原ゆめ 
+Yuki
+
++Tadashi Hirabayashi / 平林正 
+Takuma
+
++Naofumi Ichihashi / 市橋尚史 
+Ōshiro Mugen
+
+
+
+#Japanese Supporting Cast
+
++Kazuki Yokota / 横田和輝 
+Shogun
+
++Kiyomasa Itou / 伊藤聖将 
+Ryūnosuke
+Kage-sama
+Lord Noboru
+
++Keita Arai / 新井慶太 
+Lord Yabu
+Husband
+Enemy
+
++Keisuke Irikura / 入倉敬介 
+General Okkoto
+
++Shuntarou Mizuno / 水野駿太郎 
+Masaru
+
++Yoshikazu Nakadai / 仲台吉一 
+Narrator
+
++Ryusei Yamakawa / 山川 龍聖 
+Enemy
+Guard 2
+
++Naoto Yamashiro / 山城 直人 
+Enemy
+Officer
+
++Kazuma Odojima / 小田島 和真 
+Enemy
+Samurai
+
++Fujio Zama / 座間 富士夫 
+Enemy
+Samurai
+
++Yuuki Tomizawa / 富澤 雄基 
+Enemy
+Guard 1
+
++Yuuya Yoshitomi / 吉富 勇矢  
+Enemy
+
++Kazuya Ichinose / 一之瀬 和也 
+Enemy
+
++Masato Ishii / 石井 雅人 
+Enemy
+Official
+Civilian
+Tanuki
+
++Issyuu / 一衆 
+Enemy
+Samurai
+
++Seitarou Shimamura / 嶋村 征太郎 
+Enemy
+Civilian
+
++Naoki Endo / 遠藤 直輝 
+Civilian
+
++Kunishiro Ootaka / 大高 邦広  
+Civilian
+
++Asuka Itou / 伊藤あすか 
+Civilian
+
++Yume Kitagawa / 北川 ゆめ 
+Civilian
+
++Karin Mitarai / 御手洗 かりん 
+Civilian
+
++Aya Yokota / 横田 彩  
+Civilian
+
+
+
+#Quality Assurance
+
++Michael Haring
+Head of QA
+
++Gunnar Götzfried
+Lead QA Tester
+
++Hannes Appel
++Maximilian Bernardi
++Linus Ehmann
++Tom Kersten
++Ruben Ohnmacht
++Sven Sauerhammer
++Eric Sowka
++Lezgin Turgut
++Yannick Wiggers
+QA Tester
+
++Scott Easley
++Sebastian Fink
++Gunnar Götzfried
++Daniel Hanke
++Stefan Hiller
++Tom Kersten
++Shonna Kline
++Lisa Mallory
++Matthias Niebergall
++Steffen Roche
++Alexander Schmidt
++Sebastian Schmidt
++Studio Umlaut - Güven Altun & Stefan Hertrich
+Design Testing
+
++Eduard Wolf
++Robert Zillmer
+Mastering
+
+
+
+#External Testing done by
+#Testology
+
++Aaron Gauntlett
+Beta & GM Testing
+
++Jamie Pendleton
+Executive QA Manager
+
++Sam Read
+Business Development
+
++Jake Rutherford
+Alpha Testing
+
+
+
+#Additional Testing done by
+#Qualitas Global
+#360Logica
+
+
+
+#External Hardware Testing done by
+#QLOC
+
++Maciej Grabowski
+QA Team Leader
+
+
+
+#The producers wish to thank
+
+Sam Read
+Jake Rutherford
+Aaron Gauntlett
+Dr. Frank Furtwängler
+
++All Closed Beta Test Players
+especially
+Ilya Bank
+Matthew Bassett
+Lukas Borutta
+Alberto Brunetti
+David Chýle
+Amadej Gavez
+Alexander Gehlsdorf
+Kevin Kerkhoff
+Erik Kunze
+Christian Langpaap
+Coi lu
+Doron Marschner
+Alex Militzer
+Florian Riedel
+Daniel Ruiz
+Liviu Semacovschi
+Magnus Winkler
+
+
+
+#Daedalic Entertainment
++Company Credits
+
++Carsten Fichtelmann
+CEO
+
++Stephan Harms
+COO
+
++Timo Beckmann
+Assistant to CEO & COO
+
++Steffen Roche
+Studio Management
+
++Jan Müller-Michaelis
+Creative Director
+
++Sebastian Schmidt
+Head of Game Design
+
++Claudia Kühl
+PR & Marketing Director
+
++Marcel Drosse
++Charlotte Favereau
++Carsten Fichtelmann
++Kai Fiebig
++Sandra Friedrichs
++Alexander Junghans
++Leonie Kästle
++Nelly Kutzbora
++Derk Rohlfs
++Kristin Splieth
++Lea Unger
++Daniela König
+PR & Marketing
+
++Two Pi Team
+Community Management
+
++Derk Rohlfs
++Stefan Sturm
+Product Management
+
++Dominic Eoon
+Brand Management
+
++Carsten Fichtelmann
++Stephan Harms
++Tom Kersten
++Margarete Schneider
+Sales
+
++Nils Ball
++Jessica Paulat
+Accounting
+
++Lisa Mallory
++Maria Urban
+Customer Support
+
++Jana Dietel
++Rositha Ruck
++Iris Wolfer
+Human Resources
+
++Filipe Alves
++Nils Brodersen
++Sebastian Fink
++Nadia Hintze
+IT Administration & Services
+
++Lucas Reiner
+Cover Art
+
++Stefan Sturm
+Box Art
+
++Mimimi Productions
+Website Design
+
++Alexander Junghans
+Daedalic Bootup Logo Video Design
+
++Fabian Deiss
+Daedalic Bootup Logo Sound Design
+
+
+
+#Special Thanks
+#from Mimimi Productions
+
++Beta Winners
+Petr Bystrzycki
+Mauro Cinconze
+Tobias Filthaus
+Susanne Schmidt
+István Tóth-Kása
+
++Additional Testers
+Patrick Bühl
+Sebastian Dorda
+Lukas Everding
+Tim Jödden
+Maximilian Kellner
+Daniel Koburger
+Matthias Metzroth
+Nicole Oetke
+Stefan Sigl
+Armin Theiz
+Alexander Zacherl
+
++For excellent Plugins, Tools and Support
+Amplify Color
+Blender
+ConsoleE
+Custom Tree Importer by forst
+GIFCam
+Hansoft
+Highlighting System by Deep Dream Games
+Relief Terrain
+Rewired by Augie Maddox
+SSAO Pro by Thomas Hourdel
+SuperSplines Pro
+uTomate
+XInput
+
++For your Support
+Csongor Baranyai
+Leonie Bassenge
+FFF Bayern
+Jana Breulmann
+Andreas Brillen
+Johannes Conradie
+Carsten Fichtelmann
+Aron Foltin
+Aaron Gauntlett
+Tony Garcia
+Michael Graf
+Michaela Haberlander
+Paul Hanraets
+Denny Haser
+Mediadesign Hochschule
+Axel Hoppe
+Robert John
+Heiko Klinge
+Gunnar Lott
+Lina Maruyama
+Yuko Maruyama
+Vlad Micu
+Annika Ollikainen
+Benjamin Rauscher
+Sam Read
+Stephan Reichart
+Hannes Rohrer
+Daniel Ruiz
+Bartosz Rymon Lipinski
+Prof. Dr. Klaus Schaefer
+Mick Schnelle
+Prof. Dr. Evelyn Schulz
+Paul Schulze
+Markus Schwerdtel
+Agostino Simonetta
+Leo Slawik
+Sebastian Stange
+Andreas Suika
+Rüdiger Teutsch
+Simon Trümpler
+Teut Weidemann
+Alexander Zacherl
+TeamSpeak
+and our families,
+
+Bianca's ice cream machine,
+Bea Reiner for tasty foodstuffs,
+Satyam Indian Restaurant as well as
+Habibi Morgenland Falafel House.
+
+
+
+#from Daedalic Entertainment
+
++Carsten Fichtelmann thanks
+Tom Janocha
+Paul Janocha
+Nina Janocha
+Ernst Fichtelmann
+Charlotte Fichtelmann
+
++Tom Kersten thanks
+Marianne & Michael Kersten
+Eileen Kersten
+Sven Kersten
+Nils Brunke
+Maria Urban
+Sebastian Fink
+Nils Brodersen, IT god
+Alex Junghans
+Matthias Niebergall
+Harvey
+
++Maria Urban thanks
+Christopher Lesk
+Tom Kersten
+Jane Schröder
+my fabulous Loca Crew
+
++Steffen Roche thanks
+Christina und Jonathan
+
+
+
+#Made With The Unity Game Engine
+www.Unity3d.com
+
+No Tanukis, chicken, oxen, snakes or birds were harmed in the making of this video game.
+
+All characters appearing in this video game are fictitious.
+Any resemblance to real persons, animals or plants is purely coincidental.
+
+
+
+
+
+
+<image>finisher</image>

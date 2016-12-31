@@ -1,0 +1,61 @@
+1,0,3			
+994603551	tutorialbox_snow	Str Header Text	Tuyết
+-923256409	tutorialbox_snow	Element 0 Str Body Text PC	Di chuyển trên tuyết sẽ để lại dấu chân mờ dần theo thời gian ngắn.
+1865246316	tutorialbox_snow	Element 0 Str Body Text Console	Di chuyển trên tuyết sẽ để lại dấu chân mờ dần theo thời gian ngắn.
+1309044129	tutorialbox_snow	Element 1 Str Body Text PC	Địch sẽ lần theo dấu chân đến khi chúng tìm thấy bạn, hoặc đến khi bị giết.
+-97799568	tutorialbox_snow	Element 1 Str Body Text Console	Địch sẽ lần theo dấu chân đến khi chúng tìm thấy bạn, hoặc đến khi bị giết.
+1549191831	tutorialbox_pickpocket	Str Header Text	Móc túi
+-2048802228	tutorialbox_pickpocket	Element 0 Str Body Text PC	Biểu tượng xác định trên đầu các nhân vật cho thấy rằng có thể móc túi chúng đươc.
+-1039271243	tutorialbox_pickpocket	Element 0 Str Body Text Console	Biểu tượng xác định trên đầu các nhân vật cho thấy rằng có thể móc túi chúng đươc.
+1163676134	tutorialbox_pickpocket	Element 1 Str Body Text PC	Giữ <hotkey>{0}</hotkey> và sử dụng <hotkey>{1}</hotkey> để ăn trộm.
+761964049	tutorialbox_pickpocket	Element 1 Str Body Text Console	Lại gần và nhấn {0} để ăn trộm.
+1346029338	tutorialbox_pickpocket	Element 2 Str Body Text PC	Cũng có thể moi được từ xác chết của chúng.
+1330210657	tutorialbox_pickpocket	Element 2 Str Body Text Console	Cũng có thể moi được từ xác chết của chúng.
+-973720222	tutorialbox_samurai	Str Header Text	Samurai
+274502408	tutorialbox_samurai	Element 0 Str Body Text PC	Samurai nguy hiểm và khó giết.
+1069086364	tutorialbox_samurai	Element 0 Str Body Text Console	Samurai nguy hiểm và khó giết.
+-1489546170	tutorialbox_samurai	Element 1 Str Body Text PC	Giống Mũ Rơm, chúng không bị phân tâm và ảnh hưởng bởi mồi nhử.
+-1507816101	tutorialbox_samurai	Element 1 Str Body Text Console	Giống Mũ Rơm, chúng không bị phân tâm và ảnh hưởng bởi mồi nhử.
+-539459900	tutorialbox_samurai	Element 2 Str Body Text PC	Không giống Mũ Rơm, chúng điều tra mối đe dọa có hiệu quả tàn bạo.
+-818535447	tutorialbox_samurai	Element 2 Str Body Text Console	Không giống Mũ Rơm, chúng điều tra mối đe dọa có hiệu quả tàn bạo.
+962045031	tutorialbox_samurai	Element 3 Str Body Text PC	Mugen có thể giết chúng với cự li gần. Còn người khác sẽ chết nếu tấn công một Samurai.
+439112068	tutorialbox_samurai	Element 3 Str Body Text Console	Mugen có thể giết chúng với cự li gần. Còn người khác sẽ chết nếu tấn công một Samurai.
+-1551546258	MiMissionTaskHandler	Element 0 Str Task Name	Tái hợp nhóm với Mugen
+820830334	MiMissionTaskHandler	Element 0 Str Description	Mugen đang chờ trên phố. Hãy gặp lại anh ta.
+1085822645	MiMissionTaskHandler	Element 1 Str Task Name	Đưa Mugen vào trong
+1562689879	MiMissionTaskHandler	Element 1 Str Description	Lấy chìa khóa từ Samurai và đưa Mugen vào trong.
+1886626968	MiMissionTaskHandler	Element 2 Str Task Name	Ăn trộm chìa khóa
+1414510415	MiMissionTaskHandler	Element 2 Str Description	Ăn trộm chìa khóa từ Samurai. Có thể móc túi hắn, hoặc tìm cách giết chết hắn.
+2083738086	MiMissionTaskHandler	Element 3 Str Task Name	Cổng Bắc
+-1093789596	MiMissionTaskHandler	Element 3 Str Description	Đưa Mugen vào bằng cổng phía Bắc
+799324653	MiMissionTaskHandler	Element 4 Str Task Name	Cổng Nam
+-808224418	MiMissionTaskHandler	Element 4 Str Description	Đưa Mugen vào bằng cổng phía Nam
+2023154798	MiMissionTaskHandler	Element 5 Str Task Name	Tái hợp nhóm
+-1398181148	MiMissionTaskHandler	Element 5 Str Description	Tập trung tại vị trí an toàn vào nói tiếp về các bước tiếp theo.
+-1688623784	MiMissionTaskHandler	Element 6 Str Task Name	Điểm an toàn A
+-684822181	MiMissionTaskHandler	Element 6 Str Description	Nấp trong bụi cây gần cổng phía Bắc.
+-1177498189	MiMissionTaskHandler	Element 7 Str Task Name	Điểm an toàn B
+-1493995524	MiMissionTaskHandler	Element 7 Str Description	Nấp trong bụi cây gần cổng phía Nam.
+399037376	MiMissionTaskHandler	Element 8 Str Task Name	Tạo sự xáo trộn
+41831933	MiMissionTaskHandler	Element 8 Str Description	Dụ lính rời xa Chỉ huy bằng cách phá hủy tháp gỗ với Mugen.
+-1330884926	MiMissionTaskHandler	Element 9 Str Task Name	Tháp A
+1815083677	MiMissionTaskHandler	Element 9 Str Description	Phá hủy tháp gỗ với Mugen. Ở đây có sân sau.
+-1115402441	MiMissionTaskHandler	Element 10 Str Task Name	Tháp B
+-1206569021	MiMissionTaskHandler	Element 10 Str Description	Phá hủy tháp gỗ với Mugen. Ở đây gần lối vào chính.
+-917801829	MiMissionTaskHandler	Element 11 Str Task Name	Ăn trộm giấy tờ
+1274333574	MiMissionTaskHandler	Element 11 Str Description	Ăn trộm giấy tờ quan trọng mà không giết Chỉ Huy.
+-1701450127	MiMissionTaskHandler	Element 12 Str Task Name	Nấp trong xe bò
+-446694094	MiMissionTaskHandler	Element 12 Str Description	Rời thị trấn Imai bằng cách nấp trong xe bò màu xanh.
+1423115485	MiMissionTaskHandler	Element 13 Str Task Name	Cổng
+1032906204	MiMissionTaskHandler	Element 13 Str Description	Cổng đã bị khóa. Chìa khóa phải ở đâu đây.
+-764328100	MiMissionTaskHandler	Element 14 Str Task Name	Chìa khóa
+-1002163090	MiMissionTaskHandler	Element 14 Str Description	Samurai này có chìa khóa mở cổng.
+787527055	MiMissionTaskHandler	Element 15 Str Task Name	Cột băng
+-1175910118	MiMissionTaskHandler	Element 15 Str Description	Cột băng có vẻ không ổn định.
+-2063132077	MiMissionTaskHandler	Element 16 Str Task Name	Nền gỗ
+743319387	MiMissionTaskHandler	Element 16 Str Description	Nền gỗ có thể bị chém bởi Mugen.
+2015225921	MiMissionTaskHandler	Element 17 Str Task Name	Xe bò màu đỏ
+-1155065368	MiMissionTaskHandler	Element 17 Str Description	Xe bò đỏ chở rượu tới chợ phía Bắc.
+208725814	UITooltipDataClickable_Saveable	Str Display Top	Maniwa Namakemono
+-1922531825	mission_failed_official	Str Description	Bạn đã giết Chỉ Huy.
+893917211	mission_failed_homeboy	Str Description	Bạn không thể hoàn thành mục tiêu nhiệm vụ.

@@ -1,0 +1,214 @@
+4,2,9		CUTSCENE CONTEXT WORLD				NINJA TRAPPER WARRIOR ALCHEMIST GEISHA TANUKI SHOGUN SHOGUNSON DAIMYO GENERAL BROGUN BROGUNSON	Hayato  Yuki  Ōshiro Mugen Takuma  Aiko  Kuma Shogun Ryūnosuke Yabu Okkoto Noboru Masaru	STORY:	1) Mugen works together with Yuki to get a feel for her character. 2) On the way to the target, Yuki ran ahead. Now she and Mugen are separated. 3) As they reunite, Mugen is displeased, but not angry (tough but fair). 4) We learn that Yuki grew up on the streets. She fears her origins are a problem. 5) Mugen tells her that he values peoples skill and character, not their origin. 6) They must steal documents from an official. The target is guarded by samurai. 8) Mugen causes a distraction so that Yuki can pickpockets the official. 9) The team escapes in a wagon. Mugen tells Yuki she is now part of the team.	1) Mugen works together with Yuki to get a feel for her character. 2) On the way to the target, Yuki ran ahead. Now she and Mugen are separated. 3) As they reunite, Mugen is displeased, but not angry (tough but fair). 4) We learn that Yuki grew up on the streets. She fears her origins are a problem. 5) Mugen tells her that he values peoples skill and character, not their origin. 6) They must steal documents from an official. The target is guarded by samurai. 8) Mugen causes a distraction so that Yuki can pickpockets the official. 9) The team escapes in a wagon. Mugen tells Yuki she is now part of the team.																												
+																																						
+BRIEFING1									Yuki has scouted too far ahead and lost sight of Mugen.	Yuki has scouted too far ahead and lost sight of Mugen.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_briefing1_n00				TRAPPER	worried, then to herself	has lost Mugen	Samurai Xịn? …Samurai Xịn?! …không, không, không! Chú chạy nhanh quá, ngốc thật…	Master samurai? …master samurai?! …no, no, no! No, you ran too fast, stupid…	13		0																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_briefing1_n01				TRAPPER	to herself	cam to Mugen	Phải tìm hắn, trước khi chú nổi điên. Giờ, ngốc wá trời ơi!	Find him, before he gets angry. Now, stupid!	8		0																									
+																																						
+BRIEFING1a									Alternative for Briefing1	Alternative for Briefing1																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_briefing1a_n00				TRAPPER	worried	can't find Mugen	…Samurai Xịn?	…Master samurai?	3		0																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_briefing1a_n01				TRAPPER	to herself		Không phải ở đây! Nhầm chỗ rồi, ngốc thật!	Not here! Wrong place, stupid!	5		0																									
+vocs_over_over_	_n02	vocs_over_over_snowcity_briefing1a_n02				TRAPPER	to herself	cam to Mugen	Phải tìm hắn trước khi chú nổi điên.	Find him, before he gets angry.	6		0																									
+vocs_over_over_	_n03	vocs_over_over_snowcity_briefing1a_n03				TRAPPER	to herself		Giờ! Lẹ lên, ngốc wá trời ơi!	Now! Hurry, stupid!	3		0																									
+																																						
+SEPARATED									Yuki chides herself for missing Mugen.	Yuki chides herself for missing Mugen.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_separated_n00				TRAPPER	to herself	afraid Mugen will kick her out	Mình lạc mất chú ấy rồi! Dốt, ngu ngốc, đần độn!	You lost him! Stupid, stupid, stupid!	6		0																									
+vocs_over_over_	_n00a	vocs_over_over_snowcity_separated_n00a				TRAPPER	to herself	ALTERNATIVE	Oh, chú sai thật rồi! Ngốc, ngốc quá!	Oh, you messed up! Stupid, stupid!	6		0																									
+																																						
+FOOTPRINTS									Yuki leaves footprints in the snow. If guards see them, they investigate.	Yuki leaves footprints in the snow. If guards see them, they investigate.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_footprints_n00				TRAPPER	to herself	Yuki first	Dấu chân. Một kẻ phản bội tý hon. Như mũi tên, nó đang chỉ vào mình.	Footprints. Little traitors. Like arrows, pointing at you.	8		0																									
+																																						
+CROSSOVER									Yuki crosses over into the area where Mugen is.	Yuki crosses over into the area where Mugen is.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_crossover_n00				TRAPPER	to herself	Yuki first	Có thể lối này? Làm ơn chú ấy ở lối này…	Maybe this way? Please let him be this way…	9		0																									
+																																						
+SAKE1									Yuki witnesses a wagon being loaded.	Yuki witnesses a wagon being loaded.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_snowcity_sake1_n00				STATIC			Hướng tới chợ khi mấy xe hàng này chất đầy.	Head for the market when the wagon's fully loaded.	9		0																									
+vo_hint_hint_	_n01	vo_hint_hint_snowcity_sake1_n01				CIVILIAN M			Vâng, lãnh chúa của thần.	Yes, my lord.	3		0																									
+vo_hint_hint_	_n02	vo_hint_hint_snowcity_sake1_n02				STATIC			Bọn mày phải nhanh lên! Sakê không phải cho chúng mày.	Make haste, all of you! The sake won't deliver itself.	10		0																									
+																																						
+BRIEFING2									Yuki rejoins with Mugen. They forge a plan to infiltrate the district office and steal documents from an official.	Yuki rejoins with Mugen. They forge a plan to infiltrate the district office and steal documents from an official.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_briefing2_n00				TRAPPER	worried, then to herself	has foundMugen	Oh, chú Samurai Xịn!	Oh, master samurai!	3		0																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_briefing2_n01				WARRIOR	a bit displeased		Cháu đây rồi! Cháu làm ta khá lo đấy, cô gái trẻ.	There you are! You had me worried there, young woman.	10		0																									
+vocs_over_over_	_n02	vocs_over_over_snowcity_briefing2_n02				TRAPPER	anxious		Xin lỗi ạ… Cháu có vấn đề gì à?	Sorry… Am I in trouble?	5		0																									
+vocs_over_over_	_n03	vocs_over_over_snowcity_briefing2_n03				WARRIOR	neutral		Chúng ta sẽ thấy. Còn giờ, hãy bắt đầu nhiệm vụ.	We will see. For now, let us proceed with the mission.	11		0																									
+vocs_over_over_	_n04	vocs_over_over_snowcity_briefing2_n04				WARRIOR	planning	cam to official	Người đàn ông đó là chỉ huy cấp cao. Hắn có thứ mà chúng ta cần.	That man is a high-ranking official. He has the documents we need.	12		0																									
+vocs_over_over_	_n05	vocs_over_over_snowcity_briefing2_n05				TRAPPER	worried		Uhm, hắn có nhiều Samurai bên cạnh…	Uhm, he has lots of samurai with him…	8		0																									
+vocs_over_over_	_n06	vocs_over_over_snowcity_briefing2_n06				WARRIOR	planning		Chúng ta lo nó sau. Trước tiên, cần phải lẻn vào trong lâu đài trước đã.	We will worry about that later. First, we need to get inside the compound.	14		0																									
+vocs_over_over_	_n07	vocs_over_over_snowcity_briefing2_n07				WARRIOR	planning	cam to gates	Có hai lối vào. Một là tường phía Bắc…	There are two side entrances. One at the north wall…	12		0																									
+vocs_over_over_	_n08	vocs_over_over_snowcity_briefing2_n08				WARRIOR	planning	cam to gates	…và một là tường phía Nam. Cả hai đều bị khóa.	…and one at the south wall. Both of them are locked.	11		0																									
+vocs_over_over_	_n09	vocs_over_over_snowcity_briefing2_n09				WARRIOR	instructing	cam to samurai	Samurai có chìa khóa. Cháu cần trèo vào trong và lấy cắp nó từ hắn.	That samurai has the key. You need to climb inside and steal it from him.	15		0																									
+vocs_over_over_	_n10	vocs_over_over_snowcity_briefing2_n10				TRAPPER	ready		Rõ! Cháu có thể làm được!	Yes! I can do that!	5		0																									
+vocs_over_over_	_n11	vocs_over_over_snowcity_briefing2_n11				WARRIOR	instructing		Khi có được nó, hãy mở cổng cho ta. Chúng ta sẽ gặp nhau bên trong và bàn tiếp về kế hoạch.	Once you have it, open the gate for me. We will regroup inside and discuss further plans.	17		0																									
+vocs_over_over_	_n12	vocs_over_over_snowcity_briefing2_n12				TRAPPER	eager		Hai, Samurai Xịn!	Hai, master samurai!	3		0																									
+																																						
+BRIEFING2a									Alternative for Briefing2	Alternative for Briefing2																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_briefing2a_n00				TRAPPER	worried, then to herself	has foundMugen	Samurai Xịn!	Master samurai!	2		0																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_briefing2a_n01				WARRIOR	a bit displeased		Cháu đây rồi! Cháu làm ta khá lo đấy, cô gái trẻ.	There you are! You had me worried there, young woman.	10		0																									
+vocs_over_over_	_n02	vocs_over_over_snowcity_briefing2a_n02				TRAPPER	anxious		Xin lỗi ạ… Cháu có vấn đề gì à?	Sorry… Am I in trouble?	5		0																									
+vocs_over_over_	_n03	vocs_over_over_snowcity_briefing2a_n03				WARRIOR	neutral		Hm. Rồi sẽ thấy. Nói cho ta cháu tìm được gì?	Hm. We will see. Tell me, what did you find out?	11		0																									
+vocs_over_over_	_n04	vocs_over_over_snowcity_briefing2a_n04				TRAPPER	planning	cam to official	Đó là người đàn ông có giấy tờ. Hắn có tòa nhà bự chảng, y như chú bảo.	That man with the papers. He is at that big house, like you said.	14		0																									
+vocs_over_over_	_n05	vocs_over_over_snowcity_briefing2a_n05				TRAPPER	worried		Hắn lớn lắm, ý là Samurai cạnh hắn…	He has lots of big, mean samurai with him…	9		0																									
+vocs_over_over_	_n06	vocs_over_over_snowcity_briefing2a_n06				WARRIOR	planning		Chúng ta lo về họ sau. Trước tiên, cần phải lẻn vào trong lâu đài trước đã.	We will worry about them later. First, we need to get inside the compound.	14		0																									
+vocs_over_over_	_n07	vocs_over_over_snowcity_briefing2a_n07				TRAPPER	planning	cam to gates	Hai! Cháu thấy hai cách vào trong. Một là tường phía Bắc…	Hai! I found two ways inside. One at the north wall…	11		0																									
+vocs_over_over_	_n08	vocs_over_over_snowcity_briefing2a_n08				TRAPPER	planning	cam to gates	…và một là tường phía Nam. Nhưng chúng bị khóa hết rồi.	…and one at the south wall. But they are both locked.	11		0																									
+vocs_over_over_	_n09	vocs_over_over_snowcity_briefing2a_n09				WARRIOR	instructing		Mỗi ổ khóa đều có chìa khóa. Cháu nghĩ ai đang có chìa khóa?	For every lock, there is a key. Can you think of anyone who might have it?	16		0																									
+vocs_over_over_	_n10	vocs_over_over_snowcity_briefing2a_n10				TRAPPER	ready	cam to samurai	Uhm…đó! Một gã Samurai khác! Hắn có chìa khóa mà chúng ta cần.	Uhm…yes! There was another mean samurai! He has a key that wants to be stolen.	16		0																									
+vocs_over_over_	_n11	vocs_over_over_snowcity_briefing2a_n11				WARRIOR	instructing		Cháu phải lẻn vào trong, lấy cắp chìa khóa và mở cho chú vào. Sau đó, chúng ta gặp lại nhau và nói tiếp về kế hoạch.	You must climb inside, steal that key and let me in. After that, we will regroup and discuss further plans.	20		0																									
+vocs_over_over_	_n12	vocs_over_over_snowcity_briefing2a_n12				TRAPPER	eager		Hai, Samurai Xịn!	Hai, master samurai!	3		0																									
+																																						
+SAMURAI									The team encounters samurai, special enemies that only Mugen can kill in melee combat.	The team encounters samurai, special enemies that only Mugen can kill in melee combat.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_samurai_n01				WARRIOR	measuring an opponent		Samurai. Ta có thể thắng khi một đấu một, nhưng cả hai thì chịu. Giữ khoảng cách, Yuki-chan. Đừng tấn công chúng ở phạm vi gần.	Samurai. I can defeat one in a duel, but two will overpower me. Keep your distance, Yuki-chan. Do not attack them at close range.	24		0																									
+vocs_over_over_	_n02	vocs_over_over_snowcity_samurai_n02				TRAPPER	understood!		Hai!	Hai!	1		0																									
+																																						
+SHADOWS									The team encounters more and more guards.	The team encounters more and more guards.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_shadows_n01				WARRIOR	measuring an opponent		Ta nghĩ tất cả những người này phụng sự cho Kage-sama.	To think that all these men serve Kage-sama.	8		0																									
+vocs_over_over_	_n02	vocs_over_over_snowcity_shadows_n02				TRAPPER	curious	Kage = shadow	Uhm…Kage-sama là ai? Hắn là…bóng tối?	Uhm…who is Kage-sama? Is he a…shadow?	6		0																									
+vocs_over_over_	_n03	vocs_over_over_snowcity_shadows_n03				WARRIOR	serious		Đó là cái tên, Yuki-chan, nó làm mọi người sợ hãi và phá hủy lòng tin trong Mạc Chúa. Giờ phải cẩn trọng, chúng ta sẽ đối mặt với hắn sớm thôi.	It is a name, Yuki-chan, meant to scare people and destroy their faith in the Shogun. Stay vigilant now, and we might face him soon enough.	26		0																									
+vocs_over_over_	_n04	vocs_over_over_snowcity_shadows_n04				TRAPPER	a bit scared		Rõ, Samurai Xịn.	Yes, master samurai.	3		0																									
+																																						
+																																						
+INFILTRATION									The team is halfway to the district office.	The team is halfway to the district office.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_infiltration_n00				TRAPPER	sneaky	Yuki first	Chúng ta có thể lọt qua đây!	We can slip through here!	5		0																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_infiltration_n01				WARRIOR	direct, neutral	wants to know about her past	Việc này khá tự nhiên đối với cháu, Yuki-chan. Cháu luôn làm những tên trộm à?	This business comes naturally to you, Yuki-chan. Have you always been a thief?	13		0																									
+vocs_over_over_	_n02	vocs_over_over_snowcity_infiltration_n02				TRAPPER	shy		Cháu đơn độc…trong một thời gian. Những người khác đến… Họ dạy cháu biết nhiều thứ, chú biết không? Mấy thứ này muốn được làm như thế.	I was alone…for a time. Others came… They taught me how to see things, you know? Things that want to be taken.	22		0																									
+vocs_over_over_	_n03	vocs_over_over_snowcity_infiltration_n03				TRAPPER	anxious	afraid Mugen will kick her out	…đó có phải là vấn đề không?	…is that a problem?	4		0																									
+vocs_over_over_	_n04	vocs_over_over_snowcity_infiltration_n04				WARRIOR	honest		Xuất thân của cháu không quan trọng với ta. Điều quan trọng cách cháu thể hiện tài năng từ những thứ mà họ đã dạy cho cháu.	Your origins don't bother me. What matters is how you use the talents that have been given to you.	19		0																									
+																																						
+WAGON									The team discoveres a wagon headed inside the compound where the target is located.	The team discoveres a wagon headed inside the compound where the target is located.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_wagon_n00				TRAPPER	to herself	Yuki first	Xe hàng, một xe hàng!	A wagon, a wagon!	4		0																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_wagon_n01				WARRIOR	focussed		Xe hàng này mang Sa-kê cho chợ phía Bắc.	This wagon delivers sake to the northern market.	8		0																									
+vocs_over_over_	_n02	vocs_over_over_snowcity_wagon_n02				TRAPPER	focussed		Anh ấy tới cùng nơi mà chúng ta muốn đến. Có nên nấp vào trong?	He wants to go where we're going. Maybe jump inside?	10		0																									
+vocs_over_over_	_n03	vocs_over_over_snowcity_wagon_n03				WARRIOR	appreciating		Hmm…tư duy tốt.	Hmm…good thinking.	2		0																									
+																																						
+SAKE2									The team hides inside a wagon that transports them to a market. A guard waves the wagon into a backyard.	The team hides inside a wagon that transports them to a market. A guard waves the wagon into a backyard.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_snowcity_sake2_n00				ENEMY	dutyful	waves to wagon driver	Ngươi có thể qua.	You can come through.	4		0																									
+																																						
+LOCKED									The team encounters a locked side entrance to the compound where the target is located.	The team encounters a locked side entrance to the compound where the target is located.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_locked_n00				TRAPPER	observant	Yuki first	Chỗ này! Một cánh cổng.	There! One of the gates.	5		0																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_locked_n01				WARRIOR	has a plan		Cổng đã khóa như mong đợi. Cháu sẵn sàng chưa, Yuki-chan?	The gate is locked, as expected. Are you ready, Yuki-chan?	10		0																									
+vocs_over_over_	_n02	vocs_over_over_snowcity_locked_n02				TRAPPER	sneaky		Vâng. Ổ khóa có chìa khóa. Mà chìa thì đang muốn bị ăn trộm.	Yes. Locks have keys. Keys like being stolen.	8		0																									
+																																						
+ICICLE									Yuki spots big icicles growing under a roof. She can break it so it drops down and kills a samurai.	Yuki spots big icicles growing under a roof. She can break it so it drops down and kills a samurai.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_icicle_n00				TRAPPER	to herself		Xem kìa! Cột băng sáng bóng, bự đấy! Oh, chúng có vẻ muốn rơi vào đầu mấy tên Samurai.	Look! Big, shiny icicles! Oh, they want to fall on the samurai's head.	13		0																									
+																																						
+KEY									Yuki steals the key to the side entrance from a samurai.	Yuki steals the key to the side entrance from a samurai.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_key_n00				TRAPPER	to herself	afraid Mugen will kick her out	Lẹ lên! Phải nở cổng, trước khi chú Samurai xịn lo lắng.	Quick! Open the gate, before master samurai gets worried.	9		0																									
+																																						
+UNLOCKED									Yuki unlocks the side entrance to let Mugen into the compound with the target.	Yuki unlocks the side entrance to let Mugen into the compound with the target.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_unlocked_n00				TRAPPER	relieved	first	Đây! Xong rồi nhóe.	There! All done.	3		0																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_unlocked_n01				WARRIOR	impressed		Ấn tượng đó. Giờ mới biết tại sao Hayato-san lại nhìn thấy được tài năng trong cháu.	Impressive. I see why Hayato-san saw potential in you.	9		0																									
+vocs_over_over_	_n02	vocs_over_over_snowcity_unlocked_n02				TRAPPER	happy		Đa tạ, quá khen!	Thank you!	2		0																									
+vocs_over_over_	_n03	vocs_over_over_snowcity_unlocked_n03				WARRIOR	impressed		Giờ chúng ta tái hợp nhóm, và nói tiếp về kế các phương pháp tiếp cận.	Let us regroup, and discuss our next approach.	8		0																									
+																																						
+BRIEFING3									Yuki and Mugen must steal documents from an offcial. Unfortunately for them they have become separated on the way to their target.	Yuki and Mugen must steal documents from an offcial. Unfortunately for them they have become separated on the way to their target.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_briefing3_n00				WARRIOR	ready for planning		Giỏi lắm…	Very well…	2		0																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_briefing3_n01				WARRIOR	planning		Nhớ rằng, Chỉ huy được bảo vệ rất chặt.	Remember, the official is well protected.	6		0																									
+vocs_over_over_	_n02	vocs_over_over_snowcity_briefing3_n02				WARRIOR	planning	cam to official	Chúng ta không thể đấu lại nhiều tên hộ vệ như thế, cần phải tìm cách đánh lạc hướng chúng.	We are no match for this many bodyguards, so we must find a way to distract them.	17		0																									
+vocs_over_over_	_n03	vocs_over_over_snowcity_briefing3_n03				WARRIOR	planning	cam to tower1	Ta thấy hai chòi cứu hỏa khi trên đường vào đây.	I saw two fire lookout towers on the way here.	10		0																									
+vocs_over_over_	_n04	vocs_over_over_snowcity_briefing3_n04				WARRIOR	planning	cam to tower2	Nếu ta đốn ngã một cái, Chỉ huy sẽ gửi người của hắn tới đề điều tra lộn xộn đó.	If I cut one down, the official will send his men to investigate the disturbance.	15		0																									
+vocs_over_over_	_n05	vocs_over_over_snowcity_briefing3_n05				TRAPPER	amazed		Chú có thể "yêu thương" cả một cái tháp?!	You can cut through a tower?!	6		0																									
+vocs_over_over_	_n06	vocs_over_over_snowcity_briefing3_n06				WARRIOR	planning		Khi nó xảy ra, cháu sẽ có nhiều thời gian để lấy cắp tài liệu từ mục tiêu của chúng ta.	When it happens, you will have plenty of time to steal the documents from our target.	16		0																									
+vocs_over_over_	_n07	vocs_over_over_snowcity_briefing3_n07				WARRIOR	planning		Khi xong việc, chúng ta sẽ sử dụng xe bò này để trốn thoát.	Once we are finished, we will use this wagon for our escape.	12		0																									
+vocs_over_over_	_n08	vocs_over_over_snowcity_briefing3_n08				TRAPPER	a bit scary	cam back to bush	Hắn là một gã xấu phải không? Liệu cháu cũng có thể yêu thương hắn chứ…	He's a bad man, right? Maybe I should hurt him…	10		0																									
+vocs_over_over_	_n09	vocs_over_over_snowcity_briefing3_n09				WARRIOR	stresses the fact		Không, cháu phải để hắn yên. Mạc Chúa sẽ không tha thứ cho việc giết chết một Chỉ huy cấp cao, cho đến khi chúng ta có bằng chứng rõ ràng.	No, you must do him no harm. The Shogun will not tolerate the killing of a high-ranking official, not until we have solid proof.	24		0																									
+vocs_over_over_	_n10	vocs_over_over_snowcity_briefing3_n10				TRAPPER	acts like a soldier		Đã hiểu!	Understood!	1		0																									
+vocs_over_over_	_n11	vocs_over_over_snowcity_briefing3_n11				WARRIOR	encouraging		Rồi tốt lắm. Sẵn sàng chưa, Yuki-chan?	Well then. Ready, Yuki-chan?	4		0																									
+vocs_over_over_	_n12	vocs_over_over_snowcity_briefing3_n12				TRAPPER	excited		Triển thôi!	Ready!	1		0																									
+																																						
+BRIEFING3a									Alternative for Briefing3	Alternative for Briefing3																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_briefing3a_n00				WARRIOR	ready for planning		Giỏi lắm…	Very well…	2		0																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_briefing3a_n01				WARRIOR	planning		Nhớ rằng, Chỉ huy được bảo vệ rất chặt.	Remember, the official is well protected.	6		0																									
+vocs_over_over_	_n02	vocs_over_over_snowcity_briefing3a_n02				WARRIOR	planning	cam to official	Chúng ta không thể đấu lại nhiều tên hộ vệ như thế, cần phải tìm cách đánh lạc hướng chúng.	We are no match for this many bodyguards, so we must find a way to distract them.	17		0																									
+vocs_over_over_	_n03	vocs_over_over_snowcity_briefing3a_n03				TRAPPER	planning	cam to tower1	Cháu thấy hai cái tháp bằng gỗ khi cháu đến đây.	I saw two big wooden towers when I was here before.	11		0																									
+vocs_over_over_	_n04	vocs_over_over_snowcity_briefing3a_n04				TRAPPER	planning	cam to tower2	Liệu chú có thể phá hỏng một trong số chúng? Nó sẽ tạo ra tiếng ồn lớn, và rồi gã có giấy tờ sẽ gửi Samurai tới để xem xét tình hình.	Maybe you can break one of them? It would make lots of noise, and the man with the papers will send his samurai to see what's wrong.	27		0																									
+vocs_over_over_	_n05	vocs_over_over_snowcity_briefing3a_n05				WARRIOR	amazed		Một chiến thuật không bình thường. Ta sẽ thử dụ chúng ra.	An unusual strategy. I am tempted to try it out.	10		0																									
+vocs_over_over_	_n06	vocs_over_over_snowcity_briefing3a_n06				WARRIOR	planning		Khi ta làm nó, cháu sẽ có nhiều thời gian để lấy cắp tài liệu từ mục tiêu của chúng ta.	When I do, you will have plenty of time to steal the documents from our target.	16		0																									
+vocs_over_over_	_n07	vocs_over_over_snowcity_briefing3a_n07				TRAPPER	planning		Vâng…và rồi chúng ta bỏ trốn, phải hông? Nấp trong xe bò. Nó sẽ chở chúng ta ra khỏi đây.	Yes…and then we leave, right? Let's hide in that wagon. It'll carry us out of here.	16		0																									
+vocs_over_over_	_n08	vocs_over_over_snowcity_briefing3a_n08				TRAPPER	a bit scary	cam back to bush	Người có giấy tờ…là gã xấu phải hông? Liệu cháu có thể làm hắn bị thương…	The man with the papers…he's bad, right? Maybe I should hurt him…	12		0																									
+vocs_over_over_	_n09	vocs_over_over_snowcity_briefing3a_n09				WARRIOR	stresses the fact		Không, cháu phải để hắn yên. Mạc Chúa sẽ không tha thứ cho việc giết chết một Chỉ huy cấp cao, cho đến khi chúng ta có bằng chứng rõ ràng.	No, you must do him no harm. The Shogun will not tolerate the killing of a high-ranking official, not until we have solid proof.	24		0																									
+vocs_over_over_	_n10	vocs_over_over_snowcity_briefing3a_n10				TRAPPER	acts like a soldier		Đã rõ!	Understood!	1		0																									
+vocs_over_over_	_n11	vocs_over_over_snowcity_briefing3a_n11				WARRIOR	encouraging		Rồi tốt lắm. Sẵn sàng chưa, Yuki-chan?	Well then. Ready, Yuki-chan?	4		0																									
+vocs_over_over_	_n12	vocs_over_over_snowcity_briefing3a_n12				TRAPPER	excited		Triển thôi!	Ready!	1		0																									
+																																						
+PLATFORM									Mugen spots a platform that he can topple by cutting through its supporting structure.	Mugen spots a platform that he can topple by cutting through its supporting structure.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_platform_n00				WARRIOR	confident		Ngắm và chém, và thứ này sẽ rơi xuống mặt đất.	A well-aimed cut, and this platform will crash to the ground.	11		0																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_platform_n01				TRAPPER	amazed		Khỏe vãi, chú Samurai Xịn à!	You're strong, master samurai!	4		0																									
+vocs_over_over_	_n01a	vocs_over_over_snowcity_platform_n01a				TRAPPER	amazed		Khỏe vãi nồi, Samurai Xịn! Chú có thể làm được!	You're strong, master samurai! You can do it!	8		0																									
+vocs_over_over_	_n02	vocs_over_over_snowcity_platform_n02				WARRIOR	confident		Chỉ cần biết đến nơi để tấn công.	One must only know where to strike.	7		0																									
+																																						
+TOWER									The team finds a tower that he can destroy to create a distraction.	The team finds a tower that he can destroy to create a distraction.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_tower_n00				TRAPPER	amazed	Yuki first	Mấy tháp này cao vãi!	These towers are really high!	5		0																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_tower_n01				WARRIOR	confident		Xử lý cái tháp này không tốt cho lưỡi kiếm của mình. Nếu kế hoạch hoạt động, chỉ huy sẽ gửi lính tới để điều tra.	The tower's supports are no match for my blade. If our plan works, the official will send his guards to investigate.	21		0																									
+																																						
+DISTRACTION									Mugen has created a distraction so that Yuki can pickpocket the target.	Mugen has created a distraction so that Yuki can pickpocket the target.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_distraction_n00				OFFICIAL	worried	sends his guards to investigate the distraction	Chuyện quái gì vậy?! Đi! Điều tra xem, tất cả bọn mày!	What is going on?! Go! Investigate, all of you!	9		0																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_distraction_n01				WARRIOR	encouraging		Thứ này sẽ giữ chân chúng được một lúc. Cẩn thận đấy, Yuki-chan.	This will keep them away for a while. Be careful, Yuki-chan.	11		0																									
+vocs_over_over_	_n01a	vocs_over_over_snowcity_distraction_n01a				WARRIOR	encouraging		Kế hoạch của cháu đã hoạt động. Cháu biết làm gì rồi đấy, Yuki-chan.	Your plan has worked. You know what to do, Yuki-chan.	10		0																									
+vocs_over_over_	_n02	vocs_over_over_snowcity_distraction_n02				TRAPPER	focussed		Rồi. Xin mấy tờ giấy. Không để bị thấy. Không làm gã xấu bị thương.	Yes. Steal the papers. Don't be seen. Don't hurt the bad man.	12		0																									
+																																						
+OFFICIAL1									The team overhears a conversation between the official and his personal assistant.	The team overhears a conversation between the official and his personal assistant.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_snowcity_official1_n00				OFFICIAL	worried		Lãnh chúa Yabu không hài lòng về mất mát của mấy lô hàng gần đây. Kết quả là, ngài tới núi Tsuru.	Lord Yabu was displeased about the loss of the latest shipment. As a result, he has gone to Mount Tsuru.	20		0																									
+vo_hint_hint_	_n01	vo_hint_hint_snowcity_official1_n01				CIVILIAN M	reassuring		Đừng lo, thưa ngài. Chúng ta sẽ gấp đôi lính cho cuộc vận chuyển tiếp theo. Thần chắc chắn nó sẽ chậm trễ đôi chút.	Do not worry, my lord. We will double the guards on the next transport. I'm sure this delay will mean little in the end.	24		0																									
+vo_hint_hint_	_n02	vo_hint_hint_snowcity_official1_n02				OFFICIAL	slightly reassured	uncomfortable with illegal business	Chúng ta chỉ có thể hi vọng. Bất kể thế nào, ta sẽ rất vui khi mấy thứ này ở lại phía sau ta.	We can only hope. Regardless, I will be glad when this is behind us.	14		0																									
+vo_hint_hint_	_n03	vo_hint_hint_snowcity_official1_n03				CIVILIAN M	dutyful	changing subjects to lighten the mood	Như thần muốn, thưa ngài. Giờ chúng ta nói về điểm tiếp theo trong danh sách…	As will I, my lord. Now, shall we discuss the next point on the list…	15		0																									
+																																						
+OFFICIAL2									Loops before and after WORLD3.	Loops before and after WORLD3.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_snowcity_official2_n00				OFFICIAL	worried		Mấy thứ này làm ta khá lo lắng.	This matter troubles me greatly.	5		0																									
+vo_hint_hint_	_n01	vo_hint_hint_snowcity_official2_n01				CIVILIAN M	dutyful		Thần sẽ hoàn thành nó, thưa ngài.	I will see it done, my lord.	7		0																									
+vo_hint_hint_	_n02	vo_hint_hint_snowcity_official2_n02				OFFICIAL	worried		Nó phải được xử lý ngay lập tức!	That must be handled immediately!	5		0																									
+vo_hint_hint_	_n03	vo_hint_hint_snowcity_official2_n03				CIVILIAN M	dutyful		Thần sẽ báo cáo ngay khi nó xong.	I will report to you once it is done.	9		0																									
+vo_hint_hint_	_n04	vo_hint_hint_snowcity_official2_n04				OFFICIAL	worried		Nó đang chuẩn bị được tiến hành chứ?	Are preparations under way?	4		0																									
+vo_hint_hint_	_n05	vo_hint_hint_snowcity_official2_n05				CIVILIAN M	dutyful		Nó sẽ làm hài lòng ngài.	It will be to your satisfaction.	6		0																									
+vo_hint_hint_	_n06	vo_hint_hint_snowcity_official2_n06				OFFICIAL	worried		Ugh…có thể tin tưởng không? Chúng ta phải làm tốt hơn những gì yêu cầu.	Ugh…can we trust him? We better make further inquiries.	9		0																									
+vo_hint_hint_	_n07	vo_hint_hint_snowcity_official2_n07				CIVILIAN M	dutyful		Nó sẽ được sắp xếp.	It will be arranged.	4		0																									
+																																						
+PICKPOCKET									Yuki pickpockets the target.	Yuki pickpockets the target.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_pickpocket_n00				TRAPPER	whispering happily to herself		Rồi! Cháu xong rồi! Rời khỏi đây lẹ thôi.	Yes! You did it! Now leave quickly.	7		0																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_pickpocket_n01				WARRIOR	proud		Giỏi lắm, Yuki-chan. Giờ nhanh lên và hẹn gặp nhau ở xe bò. Nó sẽ đưa chúng ta thoát khỏi nguy hiểm.	Well done, Yuki-chan. Now, let us make haste and meet at the wagon. It will carry us out of danger.	20		0																									
+																																						
+FAIL									The team accidentally kills the official.	The team accidentally kills the official.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_fail_n00				TRAPPER	angry with herself	Yuki first	Oh, no no no no no! Chú đã xử hắn, ngu si, đần độn!	Oh, no no no no no! You killed him, stupid, stupid!	11		0																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_fail_n01				WARRIOR	disapproval		Hắn đã chết! Ta sẽ không thể biện minh chuyện này với Mạc Chúa. Chúng ta đã thất bại.	He is dead! I will not be able to justify this to the Shogun. We have failed.	17		0																									
+																																						
+DEBRIEFING									The team has completed their mission.	The team has completed their mission.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_snowcity_debriefing_n00				TRAPPER	excited		Một chuyến phiêu lưu thú vị!	That was a fun adventure!	5		0																									
+vocs_over_over_	_n01	vocs_over_over_snowcity_debriefing_n01				WARRIOR	proud of Yuki		Một màn trình diễn nghệ thuật trộm cắp xuất xắc, kèm theo những thứ khác nữa.	A fine display of the thieving arts, amongst other things.	10		0																									
+vocs_over_over_	_n02	vocs_over_over_snowcity_debriefing_n02				TRAPPER	a bit flattered		…oh! Đa tạ chú Samurai Xịn!	…oh! Thank you, master samurai!	5		0																									
+vocs_over_over_	_n03	vocs_over_over_snowcity_debriefing_n03				WARRIOR	good mood		Ta nghĩ Hayato-san sẽ rất vui khi có một học trò tài năng như vậy.	I think Hayato-san will be glad to have such a talented student.	12		0																									
+vocs_over_over_	_n04	vocs_over_over_snowcity_debriefing_n04				TRAPPER	cautious		Uhm… Cháu có thể…một câu hỏi cho chú?	Uhm… Can I…ask you a question?	6		0																									
+vocs_over_over_	_n05	vocs_over_over_snowcity_debriefing_n05				WARRIOR	good mood		Đang nghe.	Go ahead.	2		0																									
+vocs_over_over_	_n06	vocs_over_over_snowcity_debriefing_n06				TRAPPER	careful	doesn't know how to say it	Chú…chú không thích mấy gã Samurai khác, đúng hông?	You're…you're not like other samurai, are you?	7		0																									
+vocs_over_over_	_n07	vocs_over_over_snowcity_debriefing_n07				WARRIOR	surprised		Haha… Có ý kiến cho rằng đó là một lời khen?	Haha… Is that your idea of a compliment?	8		0																									
+vocs_over_over_	_n08	vocs_over_over_snowcity_debriefing_n08				TRAPPER	anxious	afraid Mugen will kick her out	…c-có?	…y-yes?	1		0																									
+vocs_over_over_	_n09	vocs_over_over_snowcity_debriefing_n09				WARRIOR	pleased		Rồi ta sẽ làm như thế. Giờ chúng ta quay về họp bàn và xem mấy thứ tài liệu này.	Then I will take it as such. Now, let us return to the meeting place and examine these documents.	19		0																									
+vocs_over_over_	_n10	vocs_over_over_snowcity_debriefing_n10				TRAPPER	anxious		Hai, Samurai xịn.	Hai, master samurai.	3		0																									
+																																						
+												MISSION-WORDCOUNT DE:	0		TOTAL	NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+														Words	1207	0	417	633	0	0	0	0	0	0	0	0	0	0	4	19	0	66	68	0	0	0	0	0
+														Lines	127	0	59	51	0	0	0	0	0	0	0	0	0	0	1	2	0	7	7	0	0	0	0	0
