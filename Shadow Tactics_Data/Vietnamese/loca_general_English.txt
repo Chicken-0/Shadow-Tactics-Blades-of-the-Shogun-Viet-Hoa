@@ -636,7 +636,7 @@
 665	gui_loadingMap_tavern	Thành phố Nagoya
 666	gui_loadingMap_safehouse	Nhà an toàn
 667	gui_loadingMap_warcamp	Trại chiến của Noboru
-668	gui_missionMenu_lvl_bathhouse_desc2	Mạc Chúa muốn đồng đội của Mugen phải chết. Để xóa bỏ tên của họ, Aiko và Hayato phải đến Matsuyama để bắt cóc Masaru.
+668	gui_missionMenu_lvl_bathhouse_desc2	Mạc Chúa muốn đồng đội của Mugen phải chết. Để xóa bỏ tội danh của họ, Aiko và Hayato phải đến Matsuyama để bắt cóc Masaru.
 669	txt_loadingtip_environmentKill2	Takuma có thể bắn đứt dây thừng đang giữ xe bò nặng, và giết mọi người đang đứng dưới đó.
 670	gui_optionsMenu_cheat_invisibility	Tàng hình
 671	gui_optionsMenu_cheat_invincibility	Bất tử

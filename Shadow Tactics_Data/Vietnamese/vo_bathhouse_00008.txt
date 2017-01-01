@@ -1,0 +1,183 @@
+5,2,9		CUTSCENE CONTEXT WORLD				NINJA TRAPPER WARRIOR ALCHEMIST GEISHA TANUKI SHOGUN SHOGUNSON DAIMYO GENERAL BROGUN BROGUNSON	Hayato  Yuki  Ōshiro Mugen Takuma  Aiko  Kuma Shogun Ryūnosuke Yabu Okkoto Noboru Masaru	STORY:	1) Aiko and Hayato are here to kidnap Masaru 2) They'll spy on his men and find out he is in the bathhouse 3) Then they'll kidnap and question him with Takuma to find out Noboru's plans 4) Hayato is driven by revenge after Mugen's death 5) Aiko keeps him in check and slowly shows that she is the new leader.																												
+																																					
+BRIEFING									Hayato and Aiko have entered the district where Masaru's house and business are located.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - PROOFREAD	CEN	DE	CDE																									
+						TITLECARD			Kanazawa city	2		0																									
+vocs_over_over_	_n00	vocs_over_over_bathhouse_briefing_n00				GEISHA	focussed		Thành phố này rất đẹp về đêm. Chúng ta sẽ có nhiều góc tối ở đây—anh nghĩ thế, Hayato-san?	15		0																									
+vocs_over_over_	_n01	vocs_over_over_bathhouse_briefing_n01				NINJA	quiet		…hmph. Hãy về với nó.	6		0																									
+vocs_over_over_	_n02	vocs_over_over_bathhouse_briefing_n02				GEISHA	focussed		Như anh muốn.	3		0																									
+vocs_over_over_	_n03	vocs_over_over_bathhouse_briefing_n03				GEISHA	focussed	Cam to market	Tránh mấy con đường. Chắc chắn lính Noboru đang lùng chúng ta.	13		0																									
+vocs_over_over_	_n04	vocs_over_over_bathhouse_briefing_n04				NINJA	quiet		Hrm…	1		0																									
+vocs_over_over_	_n05	vocs_over_over_bathhouse_briefing_n05				GEISHA	focussed	Cam to eavesdrop 1	Masaru trú ngụ ở quanh khu này. Chúng ta hãy nghe lén người của hắn.	13		0																									
+vocs_over_over_	_n06	vocs_over_over_bathhouse_briefing_n06				GEISHA	focussed	Cam to eavesdrop 2	Chắc chắn chúng sẽ nói ra vị trí của nó.	11		0																									
+vocs_over_over_	_n07	vocs_over_over_bathhouse_briefing_n07				GEISHA	tactful	Cam to disguise 1	Tui muốn ngụy trang khi nghe lén.	8		0																									
+vocs_over_over_	_n08	vocs_over_over_bathhouse_briefing_n08				GEISHA	tactful	Cam to disguise 2	Tui cần bộ Kimono.	5		0																									
+vocs_over_over_	_n09	vocs_over_over_bathhouse_briefing_n09				NINJA	quiet		Bất cứ điều gì. Hãy lấy nó đi.	6		0																									
+vocs_over_over_	_n10	vocs_over_over_bathhouse_briefing_n10				GEISHA	tactful		Được rồi.	2		0																									
+																																					
+REDLIGHT									The team enters the neighboring redlight district.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_bathhouse_redlight_n00				NINJA	quiet	Hayato first	Ánh sáng đỏ…	2		0																									
+vocs_over_over_	_n01	vocs_over_over_bathhouse_redlight_n01				GEISHA	introspective	Hanamachi =  Geisha district	Khu đèn đỏ. Gợi cho tui nhiều ký ức.	6		0																									
+vocs_over_over_	_n02	vocs_over_over_bathhouse_redlight_n02				NINJA	quiet		Hrm…	1		0																									
+																																					
+REDLIGHT									A citizen has cornered a female resident of the hanamachi (red light district).																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_hanamachi2_n00				CIVILIAN M	lusty		Tại sao không?	3		0																									
+vo_hint_hint_	_n01	vo_hint_hint_bathhouse_hanamachi2_n01				CIVILIAN F	cold		Làm ơn, nó không bình thường đâu.	5		0																									
+vo_hint_hint_	_n02	vo_hint_hint_bathhouse_hanamachi2_n02				CIVILIAN M	lusty		Anh có tiền.	3		0																									
+vo_hint_hint_	_n03	vo_hint_hint_bathhouse_hanamachi2_n03				CIVILIAN F	cold		Vậy thì bảo với tú bà ấy.	8		0																									
+vo_hint_hint_	_n04	vo_hint_hint_bathhouse_hanamachi2_n04				CIVILIAN M	lusty		Anh không đủ tốt ư?	5		0																									
+vo_hint_hint_	_n05	vo_hint_hint_bathhouse_hanamachi2_n05				CIVILIAN F	cold		Chuẩn cmnr đấy.	7		0																									
+																																					
+RESIDENTIAL									The team passes through a residential area.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_bathhouse_residential_n00				NINJA	quiet	Hayato first	Lính canh…	1		0																									
+vocs_over_over_	_n01	vocs_over_over_bathhouse_residential_n01				GEISHA	focussed		Hộ gia đình trung lưu. Với nhiều lính canh hơn bình thường. Tui nói rồi mà.	9		0																									
+vocs_over_over_	_n02	vocs_over_over_bathhouse_residential_n02				NINJA	quiet		Hrm…	1		0																									
+																																					
+RESIDENTIAL									Citizens talk about recent events.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_residential_n00				CIVILIAN M			Oh, đây là thời khắc đen tối…	5		0																									
+vo_hint_hint_	_n01	vo_hint_hint_bathhouse_residential_n01				CIVILIAN M			Nó là thật? Con trai Mạc Chúa đã bị sát hại?	9		0																									
+vo_hint_hint_	_n02	vo_hint_hint_bathhouse_residential_n02				CIVILIAN M			Thật không an toàn để đi ra ngoài.	6		0																									
+vo_hint_hint_	_n03	vo_hint_hint_bathhouse_residential_n03				CIVILIAN M			Nghe nói Mạc Chúa đang trên đường tới Kyōto.	10		0																									
+vo_hint_hint_	_n04	vo_hint_hint_bathhouse_residential_n04				CIVILIAN M			Họ đang tìm kẻ giết người.	8		0																									
+vo_hint_hint_	_n05	vo_hint_hint_bathhouse_residential_n05				CIVILIAN M			Có biết con trai lãnh chúa Noboru ở đây không?	8		0																									
+vo_hint_hint_	_n06	vo_hint_hint_bathhouse_residential_n06				CIVILIAN M			Đề cao cảnh giác. Tránh xa mấy hẻm tối.	7		0																									
+vo_hint_hint_	_n07	vo_hint_hint_bathhouse_residential_n07				CIVILIAN F			Thời khắc đen tối.	2		0																									
+vo_hint_hint_	_n08	vo_hint_hint_bathhouse_residential_n08				CIVILIAN F			Con trai Mạc Chúa đã bị sát hại.	6		0																									
+vo_hint_hint_	_n09	vo_hint_hint_bathhouse_residential_n09				CIVILIAN F			Thật không an toàn để đi ra ngoài.	7		0																									
+vo_hint_hint_	_n10	vo_hint_hint_bathhouse_residential_n10				CIVILIAN F			Nghe nói Mạc Chúa đang trên đường tới Kyōto.	10		0																									
+vo_hint_hint_	_n11	vo_hint_hint_bathhouse_residential_n11				CIVILIAN F			Họ đang tìm kẻ giết người.	6		0																									
+vo_hint_hint_	_n12	vo_hint_hint_bathhouse_residential_n12				CIVILIAN F			Con trai lãnh chúa Noboru ở đây.	5		0																									
+vo_hint_hint_	_n13	vo_hint_hint_bathhouse_residential_n13				CIVILIAN F			Nếu tôi là cậu, tôi sẽ tránh xa mấy hẻm tối.	10		0																									
+																																					
+WANTED									The team balances on ropes to cross the well guarded market street.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_bathhouse_wanted_n00				NINJA	quiet	Hayato first	Bận rộn…	1		0																									
+vocs_over_over_	_n01	vocs_over_over_bathhouse_wanted_n01				GEISHA	focussed		Tui nghi ngờ lũ lính canh ở đây được tăng gấp đôi kể từ khi lãnh chúa Noboru biết được chúng ta trốn thoát.	14		0																									
+vocs_over_over_	_n02	vocs_over_over_bathhouse_wanted_n02				NINJA	quiet		Mmhm.	1		0																									
+																																					
+DISGUISE									Aiko picks up the disguise.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_bathhouse_disguise_n00				GEISHA	elegant		Điều đó sẽ tốt thôi. Tiếp tục nào.	7		0																									
+vocs_over_over_	_n01	vocs_over_over_bathhouse_disguise_n01				NINJA	quiet		Mmhm.	1		0																									
+vocs_over_over_	_n02	vocs_over_over_bathhouse_disguise_n02				GEISHA	respectful		Sao gần đây anh im lặng vậy, Hayato-san.	6		0																									
+vocs_over_over_	_n03	vocs_over_over_bathhouse_disguise_n03				NINJA	struggles to stay calm		…thứ tốt nhất tôi có thể làm. Cạn lời bởi vì cô giữ được bình tĩnh, như chưa có chuyện gì xảy ra.	15		0																									
+vocs_over_over_	_n04	vocs_over_over_bathhouse_disguise_n04				GEISHA	respectful		Tui đã bị ép phải làm chủ cảm xúc của mình từ hồi còn trẻ. Tui xin lỗi nếu nó làm phiên anh.	19		0																									
+																																					
+INFO									The team eavesdroppes on Masaru's men.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_bathhouse_info_n00				NINJA	quiet	Hayato first	Hiểu rồi.	2		0																									
+vocs_over_over_	_n01	vocs_over_over_bathhouse_info_n01				GEISHA	slight reproach decisive	has heard that Masaru enjoys himself at the bathhouse	Vậy nó ở đó… Hayato-san, hãy tìm vị trí an toàn và thỏa luần về thứ chúng ta nghe lén được.	18		0																									
+vocs_over_over_	_n02	vocs_over_over_bathhouse_info_n02				NINJA	quiet		Mmhm.	1		0																									
+																																					
+UNVEIL									The team knows that Masaru is currently at the bathhouse. It is unveiled as a new location in the level.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_bathhouse_unveil_n00				GEISHA	leader	Cam to bathhouse	Chúng nói rằng Masaru đang tận hưởng bản thân ở nhà tắm công cộng.	11		0																									
+vocs_over_over_	_n01	vocs_over_over_bathhouse_unveil_n01				NINJA	quiet hate		Hrm… Tên khốn.	2		0																									
+vocs_over_over_	_n02	vocs_over_over_bathhouse_unveil_n02				GEISHA	leader	Cam follow Noboruson	Nó sẽ được bảo vệ. Hãy quan sát mọi chuyển động của nó. Sẽ tìm thấy cơ hội để nhập vào đoàn tùy tùng của nó.	22		0																									
+vocs_over_over_	_n03	vocs_over_over_bathhouse_unveil_n03				GEISHA	leader	Cam to pier	Sau khi tóm được nó, phải có một lối thoát nhanh chóng. Đoán đó là con kênh.	16		0																									
+vocs_over_over_	_n04	vocs_over_over_bathhouse_unveil_n04				NINJA	quiet hate	thinks about killing Masaru	Vậy đi thôi.	3		0																									
+																																					
+RELAX									Citizens are relaxing in the bathhouse area.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_relax_n00				CIVILIAN M	relaxed	in hotspring	Ahhh…	1		0																									
+vo_hint_hint_	_n01	vo_hint_hint_bathhouse_relax_n01				CIVILIAN M	relaxed	in hotspring	Mmm…	1		0																									
+vo_hint_hint_	_n02	vo_hint_hint_bathhouse_relax_n02				CIVILIAN M	relaxed	in hotspring	Ooh! Ooh! Oooh…	3		0																									
+vo_hint_hint_	_n03	vo_hint_hint_bathhouse_relax_n03				CIVILIAN M	relaxed	in hotspring	Hmm…sake?	1		0																									
+vo_hint_hint_	_n04	vo_hint_hint_bathhouse_relax_n04				CIVILIAN M	relaxed	during massage	Agh… Ahhh…	2		0																									
+vo_hint_hint_	_n05	vo_hint_hint_bathhouse_relax_n05				CIVILIAN M	relaxed	during massage	Oh… Oh, đúng! Chỗ đó!	5		0																									
+vo_hint_hint_	_n06	vo_hint_hint_bathhouse_relax_n06				CIVILIAN M	relaxed	during massage	Đúng rồi!	2		0																									
+vo_hint_hint_	_n07	vo_hint_hint_bathhouse_relax_n07				CIVILIAN M	relaxed	during massage	Oooh… Ooh!	2		0																									
+																																					
+RAGE									The team infiltrates the bathhouse.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_bathhouse_rage_n00				GEISHA	focussed		Tốt lắm. Hãy tiến hành như kế hoạch.	7		0																									
+vocs_over_over_	_n01	vocs_over_over_bathhouse_rage_n01				NINJA	conflicted	knows his rage is getting the better of him	Sao cô làm được, huh? Nói chuyện, cúi đầu, mỉm cười sau tất cả mọi thứ xảy ra.	16		0																									
+vocs_over_over_	_n01a	vocs_over_over_bathhouse_rage_n01a				NINJA	conflicted	ALTERNATIVE	Sao cô làm được, huh? Sao có thể hành động như chưa hề có gì xảy ra?	13		0																									
+vocs_over_over_	_n02	vocs_over_over_bathhouse_rage_n02				GEISHA	open	realizes she needs to calm him down	Nếu một người phụ nữ không tự vây mình quanh những bức tường, cô ấy sẽ chết. Tất cả phụ nữ đều học nó. Ngay cả khi cảm xúc dâng trào, nó cũng phải kìm nén trong bí mật.	25		0																									
+vocs_over_over_	_n03	vocs_over_over_bathhouse_rage_n03				NINJA	conflicted		Nó… tui…tui…tui muốn giết thằng khốn Masaru và cha nó!	11		0																									
+vocs_over_over_	_n04	vocs_over_over_bathhouse_rage_n04				GEISHA	with authority		Tụi mình không đủ khả năng để cơn thịnh nộ bùng phát, Hayato-san. Nhớ lời tui dựng lên bức tường cho riêng anh. Tích trữ lòng thù hận để trả thù vào đúng thời điểm.	26		0																									
+vocs_over_over_	_n05	vocs_over_over_bathhouse_rage_n05				NINJA	conflicted	long inhale and exhale	…bà nó…được rồi…tui sẽ theo.	3		0																									
+																																					
+BATHTUBS1									The team discovers the bathtubs (large, wooden barrels for open air baths).																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_bathhouse_bathtubs1_n00				NINJA	a bit more calm	Hayato first	Hm. Bồn tắm.	2		0																									
+vocs_over_over_	_n01	vocs_over_over_bathhouse_bathtubs1_n01				GEISHA	focussed		Đây hẳn là nơi nó tắm.	8		0																									
+vocs_over_over_	_n02	vocs_over_over_bathhouse_bathtubs1_n02				NINJA	a bit more calm		Dĩ nhiên rồi. Mà chúng lấy nước nóng từ đâu?	7		0																									
+																																					
+HINT BATH									The team give a hint how to isolate Masaru from his guards in the bathing area.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_bathhouse_hintbath_n00				NINJA	a bit more calm		Đầy tớ mang nước nóng.	4		0																									
+vocs_over_over_	_n01	vocs_over_over_bathhouse_hintbath_n01				GEISHA	agrees		Tại sao không đun chúng với lửa. Để mang nước gần sôi ấy.	12		0																									
+vocs_over_over_	_n02	vocs_over_over_bathhouse_hintbath_n02				NINJA	a bit more calm		Heh… ý tưởng hay.	3		0																									
+																																					
+BATHTUBS2									Masaru wants to take a bath.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_bathtubs2_n00				BROGUNSON	brat		Bồn tắm! Ta cần bồn tắm!	6		0																									
+																																					
+HOT WATER1									Masaru calls for hot water.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_hotwater1_n00				BROGUNSON	relaxed		Ahh, gần như hoàn hảo. Người đâu? Thêm nước nóng!	7		0																									
+																																					
+HOT WATER2									Masaru gets too hot water poured onto him. He curses and runs off to cool himself in the river.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_hotwater2_n00				BROGUNSON	shock	jumps out of the tub and runs down to the shore	Aah! Aah! Aah! Ooh! Aaaah-aah!	5		0																									
+																																					
+COOLING									Masaru cools down in the river.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_cooling_n00				BROGUNSON	relief	cools himself off with cold water	Ahh, ahh…	3		0																									
+																																					
+MASSAGE1									The team discovers the massage area.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_bathhouse_massage1_n00				NINJA	a bit more calm	Hayato first	Hmm…khu vực mát xa.	3		0																									
+vocs_over_over_	_n01	vocs_over_over_bathhouse_massage1_n01				GEISHA	focussed		Đây hẳn là nơi nó mát xa.	8		0																									
+vocs_over_over_	_n02	vocs_over_over_bathhouse_massage1_n02				NINJA	a bit more calm		Hm. Ai sẽ mát xa cho nó?	5		0																									
+																																					
+HINT MASSAGE									The team give a hint how to isolate Masaru from his guards in the massage area.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_bathhouse_hintmassage_n00				NINJA	a bit more calm		Hrm…luôn giống người đấm bóp.	4		0																									
+vocs_over_over_	_n01	vocs_over_over_bathhouse_hintmassage_n01				GEISHA	agrees		Chuyện gì sẽ xảy ra nếu người đấm bóp không tới?	9		0																									
+vocs_over_over_	_n02	vocs_over_over_bathhouse_hintmassage_n02				NINJA	a bit more calm		Hmm…có thể rất thú vị.	3		0																									
+																																					
+MASSAGE2									Masaru calls for a massage.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_massage2_n00				BROGUNSON	brat		Ugh… Ta muốn mát xa, ngay!	6		0																									
+																																					
+MASSEUR1									Masaru calls for the masseur.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_masseur1_n00				BROGUNSON	relaxed		Hmm, đúng rồi. Người mát xa! Làm việc đi.	6		0																									
+																																					
+MASSEUR2									The masseur hasn't appeared, so Masaru orders his bodyguards to look for him.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_masseur2_n00				BROGUNSON	annoyed		Hắn để tao phải chờ hả. Hắn có biết tao là ai không? Tìm hắn!	13		0																									
+																																					
+MASSEUR3									The masseur appears and gives Masaru a massage.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_masseur3_n00				BROGUNSON	relaxed		Ah, chỗ đó…	4		0																									
+vo_hint_hint_	_n01	vo_hint_hint_bathhouse_masseur3_n01				BROGUNSON	relaxed	being massaged	Ohh, đúng lắm.	2		0																									
+vo_hint_hint_	_n02	vo_hint_hint_bathhouse_masseur3_n02				BROGUNSON	annoyed	being massaged	Oh, ugh…không khó…	4		0																									
+vo_hint_hint_	_n03	vo_hint_hint_bathhouse_masseur3_n03				BROGUNSON	relaxed	being massaged	Ahh…vị trí này.	3		0																									
+vo_hint_hint_	_n04	vo_hint_hint_bathhouse_masseur3_n04				BROGUNSON	annoyed		Okay… Thế đủ rồi. Ngươi có thể lui.	6		0																									
+																																					
+KIDNAPPING									The team knocks out Masaru.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_bathhouse_kidnapping_n00				NINJA	satisfaction	Hayato took him	Chúng ta đã có được nó!	3		0																									
+vocs_over_over_	_n01	vocs_over_over_bathhouse_kidnapping_n01				GEISHA	focussed	Aiko took him	Chúng ta có nó.	3		0																									
+vocs_over_over_	_n02	vocs_over_over_bathhouse_kidnapping_n02				GEISHA	leader		Nhanh lên, lên thuyền cùng nó!	6		0																									
+vocs_over_over_	_n03	vocs_over_over_bathhouse_kidnapping_n03				NINJA	confirming order		Tui đang tới!	4		0																									
+																																					
+DEBRIEFING									The team regroups at the north pier with their victim. They leave by boat.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_bathhouse_debriefing_n00				NINJA	feels a bit better		Ổn cả rồi.	3		0																									
+vocs_over_over_	_n01	vocs_over_over_bathhouse_debriefing_n01				GEISHA	respectful		Sao mà bình tĩnh được, Hayato-san? Tui vẫn còn sợ vì an toàn của con tin chúng ta?	15		0																									
+vocs_over_over_	_n02	vocs_over_over_bathhouse_debriefing_n02				NINJA	a bit ashamed		Heh…Tui không nghĩ thế… Nó sống có giá trị hơn.	8		0																									
+vocs_over_over_	_n03	vocs_over_over_bathhouse_debriefing_n03				GEISHA	respectful compassion		Anh đã làm rất tốt, Hayato-san.	4		0																									
+vocs_over_over_	_n04	vocs_over_over_bathhouse_debriefing_n04				NINJA	accepting		Ờ…cô cũng thế.	2		0																									
+vocs_over_over_	_n05	vocs_over_over_bathhouse_debriefing_n05				GEISHA	respectful compassion		Giờ hướng tới nhà an toàn. Yuki và Takuma đã sẵn sàng ở đó rồi.	15		0																									
+																																					
+											MISSION-WORDCOUNT DE:	0		TOTAL	NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+														686	138	0	0	336	0	0	0	0	65	0	0	0	0	0	0	0	0	81	66	0	0	0	0
+														102	32	0	0	30	0	0	0	0	12	0	0	0	0	0	0	0	0	18	10	0	0	0	0
