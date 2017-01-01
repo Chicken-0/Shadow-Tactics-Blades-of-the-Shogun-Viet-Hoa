@@ -1,0 +1,45 @@
+5,2,9		CUTSCENE CONTEXT WORLD				NINJA TRAPPER WARRIOR ALCHEMIST GEISHA TANUKI SHOGUN SHOGUNSON DAIMYO GENERAL BROGUN BROGUNSON	Hayato  Yuki  Ōshiro Mugen Takuma  Aiko  Kuma Shogun Ryūnosuke Yabu Okkoto Noboru Masaru	STORY:	1) The Shogun is not pleased to see our team in his tent and calls the guards. 2) The team knocks out the guards and the Shogun must listen to their story. 3) The team has Masaru explain his father’s betrayal.  4) The Shogun is shocked, but quickly regains his control. 5) The Shogun sends the team to Noboru's castle, where they must kill him.																												
+																																					
+POST									The team enters the Shogun's tent together. The Shogun is not pleased to see them.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE	Column1																								
+						TITLECARD			Shogun's private tent	3		0																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_post_n00				SHOGUN	very short surprise selfcontrol	sitting, writing	Hmm… Rồi ngươi cũng đã tới…	5		0																									
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_post_n01				SHOGUN	very short surprise selfcontrol	stops writing, looks up	…để coi, 300,000 vẫn không đủ cản được ngươi.	9		0																									
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_post_n02				GEISHA	very respectful	deep bow	Mạc Chúa của thần…	2		0																									
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_post_n03				SHOGUN	cold hard	rises	Làm những gì ngươi phải làm đi. Ta không lãng phí lời lẽ với kẻ đã làm thịt con trai ta.	17		0																									
+vocs_over_over_	_n04	vocs_over_over_shoguncamp_post_n04				GEISHA	passionate	steps forward	Chúng thần không hề đụng tới con trai ngài. Và cả trách nhiệm về cái chết của Ōshiro Mugen. Em trai của ngài là kẻ đã bẻ cong sự thật để có đạt khát vọng của hắn.	28		0																									
+vocs_over_over_	_n05	vocs_over_over_shoguncamp_post_n05				SHOGUN	cold hard	walks towards the intruders	Sao ta có thể tin vào lời buộc tội tàn nhẫn này? Ngươi có bằng chứng gì?	12		0																									
+vocs_over_over_	_n06	vocs_over_over_shoguncamp_post_n06				GEISHA	respectful		Chúng thần có một nhân chứng.	4		0																									
+vocs_over_over_	_n07	vocs_over_over_shoguncamp_post_n07				BROGUNSON	in pain	Hayato dumps Masaru before the Shogun	Agh!	1		0																									
+vocs_over_over_	_n08	vocs_over_over_shoguncamp_post_n08				SHOGUN	cold hard		Cháu trai ta? Đây là cách mà ngươi dựng thành bằng chứng?	10		0																									
+vocs_over_over_	_n09	vocs_over_over_shoguncamp_post_n09				NINJA	with contempt		Sinh vật này đã giết con trai ngài bằng bằng bàn tay bẩn thỉu của hắn.	9		0																									
+vocs_over_over_	_n10	vocs_over_over_shoguncamp_post_n10				BROGUNSON	hastily	tries to save his hide by lying	Nói dối, bác ơi! Hắn nói dối! Cháu đã thấy shinobi bẩn thỉu này cầm lưỡi kiếm sau lưng anh ấy. Hắn…hắn đã giết Ryūnosuke!	18		0																									
+vocs_over_over_	_n11	vocs_over_over_shoguncamp_post_n11				TRAPPER	desperate		Không! Không, hắn đang nói dối!	4		0																									
+vocs_over_over_	_n12	vocs_over_over_shoguncamp_post_n12				SHOGUN	contemplating		Hmm… Tiếp tục đi cháu.	4		0																									
+vocs_over_over_	_n13	vocs_over_over_shoguncamp_post_n13				BROGUNSON	slimy		Hắn cũng giết Mugen-sensei. Chúng…Bọn chúng tìm mọi cách để đánh lừa bác. Chúng làm con bị thương… Chúng đã bắt con nói dối bác, nhưng con sẽ không!	24		0																									
+vocs_over_over_	_n14	vocs_over_over_shoguncamp_post_n14				SHOGUN	with authority		Và cháu biết tất cả mọi thứ vì đã thấy vụ giết người xảy ra, đúng không?	12		0																									
+vocs_over_over_	_n15	vocs_over_over_shoguncamp_post_n15				BROGUNSON	startled		Đúng! …C-cháu, không. Ý cháu là, Cháu…là…	2		0																									
+vocs_over_over_	_n16	vocs_over_over_shoguncamp_post_n16				SHOGUN	cold		Sao cháu lại ở đó? Sao cháu lại biết được nơi ẩn náu của Ryūnosuke?	12		0																									
+vocs_over_over_	_n17	vocs_over_over_shoguncamp_post_n17				BROGUNSON	rising terror	breaks under Shogun's authority	B-bác! Bác không hiểu rồi! Cháu đã không…	6		0																									
+vocs_over_over_	_n18	vocs_over_over_shoguncamp_post_n18				SHOGUN	with authority	towers over Masaru	Cháu không thể lừa được bác, cháu trai. Giờ trả lời trung thực đi.	11		0																									
+vocs_over_over_	_n19	vocs_over_over_shoguncamp_post_n19				SHOGUN	with authority		Ai, trong phòng này, đã giết con trai ta?	8		0																									
+vocs_over_over_	_n20	vocs_over_over_shoguncamp_post_n20				BROGUNSON	terrified cowardly	breaks under Shogun's authority	Làm ơn bác ơi. Cháu chỉ làm theo những gì cha bảo. Cháu đã không muốn—Cha đã bắt cháu—Cha đưa cháu con dao! Có không phải lỗi của cháu. Cháu…	25		0																									
+vocs_over_over_	_n21	vocs_over_over_shoguncamp_post_n21				SHOGUN	cold hard anger	with finality	Đủ rồi! Không cần giải thích.	4		0																									
+vocs_over_over_	_n22	vocs_over_over_shoguncamp_post_n22				SHOGUN	heartbraking disappointment	turns away	Noboru…em trai ta…tất cả thời gian qua…	5		0																									
+vocs_over_over_	_n23	vocs_over_over_shoguncamp_post_n23				GEISHA	respectful	steps forward	Hắn đã lừa tất cả chúng ta.	4		0																									
+vocs_over_over_	_n24	vocs_over_over_shoguncamp_post_n24				SHOGUN	sees things clearly		Ta đã nên nhìn thấy chuyện này. Sự háo hức của hắn trong cuộc chiến. Không đồng ý với ta khi bàn về giải pháp hòa bình.	17		0																									
+vocs_over_over_	_n25	vocs_over_over_shoguncamp_post_n25				SHOGUN	sees things clearly		Em ta không bao giờ muốn hòa bình. Hắn chỉ muốn chinh phục. Nếu hắn được sinh ra trước một thế kỷ, hắn sẽ là vị thủ lĩnh vĩ đại nhất.	23		0																									
+vocs_over_over_	_n26	vocs_over_over_shoguncamp_post_n26				ALCHEMIST	deep		Bóng tối của quá khứ, đang phủ kín hiện tại.	9		0																									
+vocs_over_over_	_n27	vocs_over_over_shoguncamp_post_n27				GEISHA	deep respect		Tất cả chúng thần đều mong muốn trả thù cho những gì đã mất.	8		0																									
+vocs_over_over_	_n28	vocs_over_over_shoguncamp_post_n28				GEISHA	deep respect	bows, the others follow	Nhưng chúng thần sẽ theo lệnh của ngài, như Mugen đã làm trước kia.	11		0																									
+vocs_over_over_	_n29	vocs_over_over_shoguncamp_post_n29				SHOGUN	contemplating	moves behind writing table again	Mugen… Ngay cả trong khi chết, anh vẫn chứng minh được lòng trung thành của mình.	8		0																									
+vocs_over_over_	_n30	vocs_over_over_shoguncamp_post_n30				SHOGUN	decisive		Ta sẽ không để em có một cái chết danh dự. Cái chết của hắn sẽ được lãng quên, sẽ là một đoạn trích ngắn gọn trong biên niên sử.	21		0																									
+vocs_over_over_	_n31	vocs_over_over_shoguncamp_post_n31				SHOGUN	decisive		Tìm trong lãnh thổ của hắn, ở thành Sunpu! Đối mặt với hắn và làm những gì cần phải làm!	18		0																									
+vocs_over_over_	_n32	vocs_over_over_shoguncamp_post_n32				SHOGUN	decisive	sits down	Chúng ta sẽ thảo luận về tương lai khi thần quay trở về.	8		0																									
+vocs_over_over_	_n33	vocs_over_over_shoguncamp_post_n33				GEISHA	deep respect	the whole team bows	Tuân lệnh ngài, Mạc Chúa của thần.	5		0																									
+vocs_over_over_	_n34	vocs_over_over_shoguncamp_post_n34				SHOGUN	decisive		Đi ngay. Chúng ta đã lãng phí quá nhiều thời gian rồi.	8		0																									
+vocs_over_over_	_n35	vocs_over_over_shoguncamp_post_n35				SHOGUN	decisive		Còn bây giờ, tới lượt cháu.	5		0																									
+																																					
+											MISSION-WORDCOUNT DE:	0		TOTAL	NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+													Words	377	9	4	0	62	9	217	0	0	76	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+													Lines	36	1	1	0	7	1	20	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0

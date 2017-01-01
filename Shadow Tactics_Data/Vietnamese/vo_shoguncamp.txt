@@ -1,0 +1,201 @@
+5,2,11		CUTSCENE CONTEXT WORLD				NINJA TRAPPER WARRIOR ALCHEMIST GEISHA TANUKI SHOGUN SHOGUNSON DAIMYO GENERAL BROGUN BROGUNSON	Hayato  Yuki  Ōshiro Mugen Takuma  Aiko  Kuma Shogun Ryūnosuke Yabu Okkoto Noboru Masaru	STORY:	1) The Shogun's army makes camp on a snowy mountain pass. 2) The team infiltrates the camp with a tied up Masaru in tow. 3) Underway, Aiko asks Hayato because there might not be another chance. 4) Hayato tells her that Mugen made him realize why he really joined the team. 5) Hayato never was in it for the money, but because Mugen was a friend to him. 6) Through flawless teamwork the team infiltrates the Shogun's tent.																												
+																																					
+BRIEFING									The team have penetrated the outer layers of the camp and now face the final stretch up the pass to where the Shogun's massive tent is located.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+						TITLECARD			Myōgi Pass		Przełęcz Myōgi	0																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_briefing_n00				TRAPPER	amazed		Wow! Nhiều lều quá! Như một thành phố í!	8	Jej! Ile namiotów! To wygląda jak miasto!	0																									
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_briefing_n01				NINJA	focussed		Hmm … toàn bộ lính đây được lệnh bắn chúng ta nếu phát hiện.	12	Hmm… Pełne żołnierzy, którzy chcą nas zabić.	0																									
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_briefing_n02				GEISHA	careful		Đúng, mọi cố gắng của chúng ta sẽ trở nên vô nghĩa. Tốt nhất là không gây bất kỳ sự chú ý nào.	13	Tak. Trafienie do niewoli byłoby bez sensu. Lepiej nie.	0																									
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_briefing_n03				NINJA	smug	cam to tent	Lều của Mạc Chúa ở trên đỉnh. Không quá ngạc nhiên khi ngài ở đó.	11	Namiot szoguna znajduje się na samej górze. Żadna to niespodzianka.	0																									
+vocs_over_over_	_n04	vocs_over_over_shoguncamp_briefing_n04				GEISHA	focussed	cam to entrances1	Lối vào này được canh gác cẩn mật.	5	To wejście jest pilnie strzeżone.	0																									
+vocs_over_over_	_n05	vocs_over_over_shoguncamp_briefing_n05				GEISHA	focussed	cam to entrances2	Cần một chiến thuật để lẻn vào trong.	7	Potrzebujemy jakiegoś planu, by dostać się do środka.	0																									
+vocs_over_over_	_n06	vocs_over_over_shoguncamp_briefing_n06				ALCHEMIST	pondering		Lính canh có vẻ như đang thưởng thức sakê của chúng.	8	Wygląda na to, że strażnicy popijają sake.	0																									
+vocs_over_over_	_n07	vocs_over_over_shoguncamp_briefing_n07				ALCHEMIST	humorous		Lão biết một công thức giúp chúng ngủ.	10	Znam specjalny przepis, który pomoże im zasnąć.	0																									
+vocs_over_over_	_n08	vocs_over_over_shoguncamp_briefing_n08				ALCHEMIST	humorous		Lão còn sốt một thành phần. Và lão cần một chỗ để chế nó.	14	Zostało mi trochę składników. Potrzebuję tylko miejsca, by je wymieszać.	0																									
+vocs_over_over_	_n09	vocs_over_over_shoguncamp_briefing_n09				GEISHA	focussed		Cháu thích ý tưởng này.	4	Podoba mi się ten pomysł.	0																									
+vocs_over_over_	_n10	vocs_over_over_shoguncamp_briefing_n10				GEISHA	focussed		Cháu có thể đổ thuốc vào thùng sakê. Ngụy trang sẽ giúp làm việc này.	15	Mogłabym wlać twój napar do beczki z sake. Pomogłoby mi w tym przebranie.	0																									
+vocs_over_over_	_n11	vocs_over_over_shoguncamp_briefing_n11				GEISHA	focussed		Phải có một bộ kimono với đoàn tùy tùng của Mạc Chúa.	9	Przy świcie szoguna z pewnością znajdzie się jakieś kimono.	0																									
+vocs_over_over_	_n12	vocs_over_over_shoguncamp_briefing_n12				GEISHA	focussed		Cũng có thể lấy một bộ từ đầy tờ ở ngôi đền nhỏ.	12	Mogłabym też rozejrzeć się za szatami służącej w tej małej świątyni.	0																									
+vocs_over_over_	_n13	vocs_over_over_shoguncamp_briefing_n13				TRAPPER	sneaky	cam to wagon1	Em thấy xe bò! Chúng ta có thể nấp bên trong.	8	Widzę wozy! Moglibyśmy się na nich schować.	0																									
+vocs_over_over_	_n14	vocs_over_over_shoguncamp_briefing_n14				TRAPPER	sneaky	cam to wagon2	Có thể họ sẽ mang chúng ta tới Mạc Chúa. Thú vị lắm phải không?	11	Może zawiozą nas do szoguna. Może być niezła zabawa, prawda?	0																									
+vocs_over_over_	_n15	vocs_over_over_shoguncamp_briefing_n15				NINJA	smug	cam to wagon check	Rất đúng … nếu họ không tìm thấy chúng ta.	7	W rzeczy samej. Jeśli nas nie znajdą.	0																									
+vocs_over_over_	_n16	vocs_over_over_shoguncamp_briefing_n16				GEISHA	summarizing		Vậy có hai lựa chọn. Hoặc bỏ thuốc vào Sakê để khiến lính canh ngủ, hoặc tìm xe bò nào tới chỗ lều của Mạc Chúa.	27	Więc mamy dwie możliwości: zatruć sake i uśpić strażników lub skorzystać z wozu, który zmierza do namiotu szoguna.	0																									
+vocs_over_over_	_n17	vocs_over_over_shoguncamp_briefing_n17				NINJA	smug		Sẽ không dễ gì để chọn một trong hai cách. Thứ tốt là chúng ta có một thách thức.	13	Żadna z nich nie będzie łatwa. Dobrze, że nam na tym zależy.	0																									
+vocs_over_over_	_n18	vocs_over_over_shoguncamp_briefing_n18				NINJA	smug		Để mọi người tự chọn đấy.	4	Poniosę naszego gościa.	0																									
+vocs_over_over_	_n19	vocs_over_over_shoguncamp_briefing_n19				GEISHA	leader		Đồng ý. Bắt đầu nào.	5	Zgoda. Zaczynajmy.	0																									
+																																					
+BRIEFING1a									Alternative for Briefing.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+						TITLECARD			Myōgi Pass		Przełęcz Myōgi	0																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_briefing1a_n00				TRAPPER	amazed		Wow! Nhiều lều quá! Như một thành phố í!	8	Jej! Ile namiotów! To wygląda jak miasto!	0																									
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_briefing1a_n01				NINJA	focussed		Hmm … toàn bộ lính đây được lệnh bắn chúng ta nếu phát hiện.	12	Hmm… Pełne żołnierzy, którzy chcą nas zabić.	0																									
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_briefing1a_n02				GEISHA	careful		Đúng, mọi cố gắng của chúng ta sẽ trở nên vô nghĩa. Tốt nhất là không gây bất kỳ sự chú ý nào.	13	Tak. Trafienie do niewoli byłoby bez sensu. Lepiej nie.	0																									
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_briefing1a_n03				NINJA	smug	cam to tent	Lều của Mạc Chúa ở trên đỉnh. Không quá ngạc nhiên khi ngài ở đó.	12	Namiot szoguna znajduje się na samej górze. Żadna to niespodzianka.	0																									
+vocs_over_over_	_n04	vocs_over_over_shoguncamp_briefing1a_n04				GEISHA	focussed	cam to entrance1	Lối vào này được canh gác cẩn mật.	5	To wejście jest pilnie strzeżone.	0																									
+vocs_over_over_	_n05	vocs_over_over_shoguncamp_briefing1a_n05				TRAPPER	sneaky	wagon 1 through entrance1	Em thấy xe bò!	4	Widzę wozy!	0																									
+vocs_over_over_	_n06	vocs_over_over_shoguncamp_briefing1a_n06				TRAPPER	sneaky		Có thể nấp bên trong. Để họ đưa chúng ta tới đó.	9	Moglibyśmy się na nich ukryć i pozwolić, by wwiozły nas do środka.	0																									
+vocs_over_over_	_n07	vocs_over_over_shoguncamp_briefing1a_n07				ALCHEMIST	focussed		Hehe, thông minh đấy, lão cũng có một kế hoạch thứ hai.	12	Hi, hi! Sprytny pomysł, ale dobrze jest mieć zapasowy plan.	0																									
+vocs_over_over_	_n08	vocs_over_over_shoguncamp_briefing1a_n08				ALCHEMIST	pondering	cam to entrance2	Lính canh có vẻ như đang thưởng thức sakê của chúng.	9	Wygląda na to, że strażnicy popijają sake.	0																									
+vocs_over_over_	_n09	vocs_over_over_shoguncamp_briefing1a_n09				ALCHEMIST	humorous		Lão biết một công thức giúp chúng ngủ.	11	Znam specjalny przepis, który pomoże im zasnąć.	0																									
+vocs_over_over_	_n10	vocs_over_over_shoguncamp_briefing1a_n10				ALCHEMIST	planning	cam to brewing place	Lão còn sốt một thành phần. Và lão cần một chỗ để chế nó.	14	Zostało mi trochę składników. Potrzebuję tylko miejsca, by je wymieszać.	0																									
+vocs_over_over_	_n11	vocs_over_over_shoguncamp_briefing1a_n11				GEISHA	focussed		Cháu thích ý tưởng này.	4	Podoba mi się ten pomysł.	0																									
+vocs_over_over_	_n12	vocs_over_over_shoguncamp_briefing1a_n12				GEISHA	focussed	cam to disguise1	Cháu có thể đổ thuốc vào thùng sakê. Ngụy trang sẽ giúp làm việc này.	15	Mogłabym wlać twój napar do beczki z sake. Pomogłoby mi w tym przebranie.	0																									
+vocs_over_over_	_n13	vocs_over_over_shoguncamp_briefing1a_n13				GEISHA	focussed	cam to disguise2	Chỉ chọn một trong nhiều cơ hội.	7	Będzie wiele możliwości jego zdobycia.	0																									
+vocs_over_over_	_n14	vocs_over_over_shoguncamp_briefing1a_n14				NINJA	summarizing	cam back to start	Vậy có hai lựa chọn. Hoặc bỏ thuốc vào Sakê để khiến lính canh ngủ, hoặc tìm xe bò nào tới chỗ lều của Mạc Chúa.	27	Więc mamy dwie możliwości: zatruć sake i uśpić strażników lub skorzystać z wozu, który zmierza do namiotu szoguna.	0																									
+vocs_over_over_	_n15	vocs_over_over_shoguncamp_briefing1a_n15				ALCHEMIST	smug		Và rồi chúng ta đối mặt với số phận.	6	I zmierzyć się z naszym przeznaczeniem.	0																									
+vocs_over_over_	_n16	vocs_over_over_shoguncamp_briefing1a_n16				GEISHA	leader		Đó là tia hi vọng duy nhất.	6	To nasza jedyna szansa.	0																									
+vocs_over_over_	_n17	vocs_over_over_shoguncamp_briefing1a_n17				TRAPPER	anxious		Mạc Chúa sẽ tức giận chúng ta…	8	Szogun będzie na nas zły…	0																									
+vocs_over_over_	_n17a	vocs_over_over_shoguncamp_briefing1a_n17a				TRAPPER	excited	ALTERNATIVE if team never met Shogun	Chúng ta sẽ gặp Mạc Chúa …	6	Poznamy szoguna…	0																									
+vocs_over_over_	_n18	vocs_over_over_shoguncamp_briefing1a_n18				GEISHA	leader		Hayato-san. Liệu anh còn muốn cùng chúng tôi tới chỗ Mạc Chúa?	9	Hayato-san, zaniesiesz nasz prezent dla szoguna?	0																									
+vocs_over_over_	_n19	vocs_over_over_shoguncamp_briefing1a_n19				NINJA	smug	picks up Masaru	Sẵn sàng.	2	Jestem gotowy.	0																									
+vocs_over_over_	_n20	vocs_over_over_shoguncamp_briefing1a_n20				GEISHA	leader		Tốt lắm. Vậy chúng ta bắt đầu thôi.	6	Świetnie. Ruszajmy.	0																									
+																																					
+MURDER1									The team kills one of the Shogun's men.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_murder1_n00				NINJA	discontent	Hayato first	Hrm …	2	Hrm…	0																									
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_murder1_n01				TRAPPER	uncomfortable	Yuki first	Shhh … Cháu xin lỗi … Cháu xin lỗi …	9	Ciii… Przepraszam… Bardzo przepraszam…	0																									
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_murder1_n02				ALCHEMIST	serious	Takuma first	… thời khắc đen tối.	3	Mroczne czasy…	0																									
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_murder1_n03				GEISHA	determined		Nó thật tội lỗi, giết chết đồng minh của chúng ta, nhưng nó không thể thay đổi. Noboru đã gán tội chết lên đầu chúng ta.	18	Źle się czuję, zabijając sojuszników, ale nie da się tego uniknąć. Zmusił nas do tego Noboru.	0																									
+																																					
+MURDER2									The team kills more of the Shogun's men. At the 10th kill …																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_murder2_n00				NINJA	discontent	Hayato first	Hrm … thế này không đúng.	6	Hrm… To się nie godzi.	0																									
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_murder2_n01				TRAPPER	uncomfortable	Yuki first	Cháu rất xin lỗi …	3	Przykro mi…	0																									
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_murder2_n02				GEISHA	determined	Aiko first	Thứ lỗi cho thần …	3	Wybacz…	0																									
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_murder2_n03				ALCHEMIST	serious		Hmm, hôm nay là bạn, mai là thù. Không thể giúp được gì.	9	Hmm… Dzisiejszy przyjaciel jutrzejszym wrogiem. Nic na to nie poradzimy.	0																									
+																																					
+MURDER3									The team kills even more of the Shogun's men. At the 20th kill …																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_murder3_n00				NINJA	discontent	Yuki first	Hrm … khỉ thật …	4	Hrm… A niech to…	0																									
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_murder3_n01				TRAPPER	uncomfortable	Aiko first	Mình ghét chuyện này …	6	Nie podoba mi się to…	0																									
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_murder3_n02				ALCHEMIST	sad	Takuma first	Thứ lỗi cho tôi, anh bạn.	3	Wybacz, przyjacielu.	0																									
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_murder3_n03				GEISHA	determined		Chúng ta giết họ vì mạng sống của chúng ta. Phán xét đã khiến Mạc Chúa ở một mình.	13	Zabijamy ich, by przetrwać. Osądzić to może tylko szogun.	0																									
+																																					
+CARGO NIN									Hayato carries the tied up Masaru around.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_cargonin_n00				NINJA	slightly encumbered		Hrm … Tao hi vọng mày không ngáy.	8	Hrm… Mam nadzieję, że nie chrapiesz.	0																									
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_cargonin_n01				NINJA	slightly encumbered		Sao mày nặng hơn vậy?	4	Robisz się cięższy?	0																									
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_cargonin_n02				NINJA	slightly encumbered		Mày nặng hơn tao nghĩ.	5	Jesteś cięższy niż mogłoby się wydawać.	0																									
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_cargonin_n03				NINJA	slightly encumbered		Sao ngọn núi thảm hại này cao vậy.	6	Jak wysoka jest ta przeklęta góra?	0																									
+vocs_over_over_	_n04	vocs_over_over_shoguncamp_cargonin_n04				NINJA	slightly encumbered		Tốt thôi, nó dễ mà.	3	No to idziemy.	0																									
+vocs_over_over_	_n05	vocs_over_over_shoguncamp_cargonin_n05				NINJA	slightly encumbered		Chúng ta lên …	4	Na górę…	0																									
+vocs_over_over_	_n06	vocs_over_over_shoguncamp_cargonin_n06				NINJA	slightly encumbered		Lão già đã khiến mày ngủ thực sự.	9	Staruszek porządnie cię uśpił.	0																									
+																																					
+CARGO TRA									Yuki drags the tied up Masaru around.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_cargotra_n00				TRAPPER	exchausted		Urgh ... nặng kinh hồn!	4	Uch… Jaki ciężki!	0																									
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_cargotra_n01				TRAPPER	exchausted		Urgh ... Hayato-san, sao anh không thể làm nó?	8	Uch… Hayato-san, czemu się tym nie zajmiesz?	0																									
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_cargotra_n02				TRAPPER	exchausted		Urgh … quá chậm, quá chậm …	7	Uch… Za wolno… Za wolno…	0																									
+																																					
+CARGO GEI									Aiko drags the tied up Masaru around.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_cargogei_n00				GEISHA	very encumbered, focussed	Hayato first	Không, nó quá chậm.	5	Nie, zbyt wolno.	0																									
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_cargogei_n01				GEISHA	very encumbered, focussed	Yuki first	Mình nên để nó lại cho Hayato-san.	6	Powinien zająć się tym Hayato-san.	0																									
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_cargogei_n02				GEISHA	very encumbered, focussed	Aiko first	Sẽ không làm chuyện này.	3	To na nic.	0																									
+																																					
+WAGONS1									The team discovers a place where a wagon is loaded before it heads up to the small temple.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_wagons1_n00				NINJA	focussed	Hayato first	Hmm ... đây là xe bò chúng ta cần?	8	Hmm… To ten wóz, którego potrzebujemy?	0																									
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_wagons1_n01				TRAPPER	sneaky	Yuki first	Đây, có một xe bò … nhưng có đúng là xe chúng ta cần không nhỉ?	11	Znalazłam wóz… Ale czy to ten właściwy?	0																									
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_wagons1_n02				ALCHEMIST	in thought	Takuma first	Ah, thấy một xe bò, nhưng nghi là nó không dẫn chúng ta tới chỗ cần đến.	14	Widzę wóz, ale wątpię, by to był ten, którego szukamy.	0																									
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_wagons1_n03				GEISHA	leader		Xe bò này không dẫn tới lều của Mạc Chúa. Nó chỉ mang chúng ta tới đền nhỏ trên núi mà thôi.	21	Ten wóz nie zmierza do namiotu szoguna. Zabierze nas najwyżej do tej małej świątyni na górze.	0																									
+																																					
+CHECKPOINT1									The wagon driver stops briefly to talk with a guard.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_shoguncamp_checkpoint1_n00				CIVILIAN M	cheerful	as wagon driver	Có chuyện gì ở phía trước à?	3	Jakieś problemy na drodze?	0																									
+vo_hint_hint_	_n01	vo_hint_hint_shoguncamp_checkpoint1_n01				ENEMY	bored		Tất cả im lặng.	2	Wszystko w porządku.	0																									
+vo_hint_hint_	_n02	vo_hint_hint_shoguncamp_checkpoint1_n02				CIVILIAN M	cheerful	as wagon driver	Tôi đang tới ngôi đền.	5	Zmierzam do świątyni.	0																									
+vo_hint_hint_	_n03	vo_hint_hint_shoguncamp_checkpoint1_n03				ENEMY	bored		Xe của anh sẽ được kiểm tra sau.	6	Więc sprawdzimy twój wóz.	0																									
+vo_hint_hint_	_n04	vo_hint_hint_shoguncamp_checkpoint1_n04				CIVILIAN M	cheerful	as wagon driver	Ah, same as always.	4	Jak zawsze.	0																									
+vo_hint_hint_	_n05	vo_hint_hint_shoguncamp_checkpoint1_n05				ENEMY	bored		Đi tiếp đi.	5	W porządku. Możesz jechać.	0																									
+																																					
+CHECKPOINT2									A samurai halts the wagon driver to inspect the wagon.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_shoguncamp_checkpoint2_n00				SAMURAI	dutyful		Dừng lại! Chúng tôi phải kiểm tra hàng hóa của anh.	7	Stać! Musimy sprawdzić ładunek.	0																									
+vo_hint_hint_	_n01	vo_hint_hint_shoguncamp_checkpoint2_n01				CIVILIAN M	nervous	as wagon driver	Tất nhiên. Xin vui lòng.	3	Jasne. Śmiało.	0																									
+vo_hint_hint_	_n02	vo_hint_hint_shoguncamp_checkpoint2_n02				SAMURAI	dutyful		Nó sẽ mất chút thời gian.	5	To zajmie tylko chwilę.	0																									
+																																					
+WAGON CHECK									A samurai discovers a team member in the back of the wagon.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	o	CEN	PL	CDE																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_wagoncheck_n00				SAMURAI	alarmed		Ai đó đang trốn trong xe! Có kẻ đột nhập!	6	Ktoś chowa się na wozie! Intruzi!	0																									
+																																					
+WAGONS2									The team discovers a small temple where the Shogunate men load wagons before they are sent directly to the Shogun's tent.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_wagons2_n00				NINJA	neutral	Hayato first	Sống ở đền thờ này phải rất khắc nghiệt.	9	Życie w świątyni musi być ciężkie.	0																									
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_wagons2_n01				TRAPPER	curious	Yuki first	Ngôi đền ... trông thật thanh bình.	7	Świątynia… Wygląda tak spokojnie.	0																									
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_wagons2_n02				ALCHEMIST	slightly irritated	Takuma first	Ngôi đền này ... ít nhất quân đội Mạc Phủ vẫn còn tôn trọng người dân.	11	Świątynia… Armia szogunatu przynajmniej szanuje jej mieszkańców.	0																									
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_wagons2_n03				GEISHA	leader		Xe bò này được chất đầy rồi sẽ hướng tới lều của Mạc Chúa. Có thể đây là cơ hội của chúng ta.	16	Ładowane tu wozy są wysyłane do namiotu szoguna. Możemy to wykorzystać.	0																									
+																																					
+PARTY1									The team goes near the crowd of drinking soldiers.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_party1_n00				NINJA	tense	Hayato first	Không có cơ hội để lọt được vào trong đó.	7	Nie ma szans, byśmy tędy przeszli.	0																									
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_party1_n01				TRAPPER	afraid	Yuki first	Không, không phải đây! Họ sẽ thấy chúng ta!	7	Nie tędy! Zobaczą nas!	0																									
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_party1_n02				GEISHA	tense	Aiko first	Kể cả ngụy trang, mình cũng không thể lọt qua đám đông này.	13	Nawet w przebraniu nie przeszłabym przez taki tłum.	0																									
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_party1_n03				ALCHEMIST	sly		Không thể phát hiện chúng ta nếu họ đã ngủ say.	9	Nie zauważą nas, gdy będą spali.	0																									
+vocs_over_over_	_n04	vocs_over_over_shoguncamp_party1_n04				GEISHA	tense	if poison has not been brewed	Vậy chúng ta hãy tìm một nơi để lão có thể chế được thuốc ngủ.	13	Więc poszukajmy miejsca, w którym będziesz mógł przyrządzić miksturę nasenną.	0																									
+vocs_over_over_	_n05	vocs_over_over_shoguncamp_party1_n05				GEISHA	tense	if poison has been brewed	Lão hãy chế thuốc ngủ đi. Cháu sẽ ngụy trang rồi bỏ thuốc vào thùng Sakê.	18	Ty przygotowałeś miksturę nasenną, a ja nałożę przebranie i wleję ją do beczki z sake.	0																									
+																																					
+SOBER									Guards sit at the campfire near the Shogun's tent. They drink sake and talk.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_shoguncamp_sober_n00				SAMURAI	contempt		Những kẻ phản bội chết tiệt.	3	Na pohybel zdrajcom.	0																									
+vo_hint_hint_	_n01	vo_hint_hint_shoguncamp_sober_n01				ENEMY	contempt		Họ xứng đáng nhận nó, họ đã giết người kế tục Mạc Phủ.	10	Zasłużyli na to. Zamordowali spadkobiercę szogunatu.	0																									
+vo_hint_hint_	_n02	vo_hint_hint_shoguncamp_sober_n02				STATIC	contempt		Tôi vẫn không thể tin được nó.	5	Wciąż nie mogę w to uwierzyć.	0																									
+vo_hint_hint_	_n03	vo_hint_hint_shoguncamp_sober_n03				SAMURAI	contempt		Họ sẽ không thể thoát khỏi công lý!	5	Nie unikną sprawiedliwości!	0																									
+vo_hint_hint_	_n04	vo_hint_hint_shoguncamp_sober_n04				ENEMY	contempt		Tự hỏi họ đang trốn ở đâu.	4	Ciekawe, gdzie się ukrywają.	0																									
+vo_hint_hint_	_n05	vo_hint_hint_shoguncamp_sober_n05				STATIC	contempt		Kage-sama là ai?	5	Co knuje Kage-sama?	0																									
+vo_hint_hint_	_n06	vo_hint_hint_shoguncamp_sober_n06				SAMURAI	dutyful		Chúng ta phải bảo vệ Mạc Chúa!	5	Musimy chronić szoguna!	0																									
+vo_hint_hint_	_n07	vo_hint_hint_shoguncamp_sober_n07				ENEMY	anticipation		Tôi chưa bao giờ nghĩ lại có thể nhìn thấy được Nhật Hoàng.	10	Nie sądziłem, że zobaczę cesarza.	0																									
+vo_hint_hint_	_n08	vo_hint_hint_shoguncamp_sober_n08				STATIC	weary		Đường tới Kyoto còn dài.	7	Droga do Kioto jest długa.	0																									
+vo_hint_hint_	_n09	vo_hint_hint_shoguncamp_sober_n09				SAMURAI	neutral		Sake!	1	Sake!	0																									
+vo_hint_hint_	_n10	vo_hint_hint_shoguncamp_sober_n10				ENEMY	neutral		Sake!	1	Sake!	0																									
+vo_hint_hint_	_n11	vo_hint_hint_shoguncamp_sober_n11				STATIC	neutral		Sake!	1	Sake!	0																									
+																																					
+BREW									Takuma brews a very strong liquid. Aiko can slip this into sake barrels to make the crowd of drinking soldiers harmless.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_brew_n00				ALCHEMIST	pleased with himself		Hehe, một hỗn hợp hiệu nghiệm. Chỉ cần khiến những chàng trai cạnh đống lửa đi ngủ.	14	Hi, hi! Silna mieszanina. Uśpi ludzi przy ognisku.	0																									
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_brew_n01				GEISHA	focussed		Để cháu mang cái bình. Cháu có thể ngụy trang rồi bỏ nó vào thùng sakê.	18	Daj mi tę butelkę. Wykorzystam przebranie i wleję jej zawartość do beczki z sake.	0																									
+																																					
+PARTY2									Aiko pours Takuma's brew into the sake barrels.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_party2_n00				GEISHA	elegant		Đây … giờ chỉ chờ người hầu tới hoàn thành nốt phần việc của họ.	12	Gotowe… Poczekajmy, aż służąca dokończy dzieła.	0																									
+																																					
+DRUNK									The wagon driver stops briefly to talk with a guard.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_shoguncamp_drunk_n00				SAMURAI	sleeping	*snore*		0		0																									
+vo_hint_hint_	_n01	vo_hint_hint_shoguncamp_drunk_n01				ENEMY	sleeping	*snore*		0		0																									
+vo_hint_hint_	_n02	vo_hint_hint_shoguncamp_drunk_n02				STATIC	sleeping	*snore*		0		0																									
+vo_hint_hint_	_n03	vo_hint_hint_shoguncamp_drunk_n03				SAMURAI	super drunk	*mumbling*		0		0																									
+vo_hint_hint_	_n04	vo_hint_hint_shoguncamp_drunk_n04				ENEMY	super drunk	*mumbling*		0		0																									
+vo_hint_hint_	_n05	vo_hint_hint_shoguncamp_drunk_n05				STATIC	super drunk	*mumbling*		0		0																									
+vo_hint_hint_	_n06	vo_hint_hint_shoguncamp_drunk_n06				SAMURAI	super drunk		Hmn … sake …	4		0																									
+vo_hint_hint_	_n07	vo_hint_hint_shoguncamp_drunk_n07				ENEMY	super drunk		Hmhm … kehehehe …	4		0																									
+vo_hint_hint_	_n08	vo_hint_hint_shoguncamp_drunk_n08				STATIC	super drunk		Hhn? Uhm … chả có nhẽ …	6		0																									
+																																					
+REASONS1									Hayato carries Masaru halfway to the Shogun's tent.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_reasons1_n00				GEISHA	honest gratitude		Cảm ơn anh đã tin tưởng, Hayato-san. Tui thừa nhận tui không nghĩ là anh sẽ ở lại với chúng tôi.	18	Dziękuję za zaufanie, Hayato-san. Muszę przyznać, że nie byłam pewna, czy z nami zostaniesz.	0																									
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_reasons1_n01				NINJA	cool		Xin đừng, đừng nhắc đến nó.	4	Nie ma o czym mówić.	0																									
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_reasons1_n02				GEISHA	respectful		Xin thông cảm nhưng tui hơi tò mò. Anh đã được trả công đầy đủ chăng? Tui tự hỏi thế vì không còn lý do nào khác.	21	Wybacz, ale nurtuje mnie jedno pytanie. Czy robisz to tylko dla pieniędzy? Zastanawiam się, czy istnieje jeszcze jakiś powód.	0																									
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_reasons1_n03				NINJA	remembers		Heh … cô biết đấy, Mugen cũng hỏi tui như thế này.	10	Heh… Mugen też mnie o to pytał.	0																									
+vocs_over_over_	_n04	vocs_over_over_shoguncamp_reasons1_n04				GEISHA	respectful		Đó có phải là câu trả lời của anh?	7	I odpowiedziałeś mu?	0																									
+vocs_over_over_	_n05	vocs_over_over_shoguncamp_reasons1_n05				NINJA	quiet		Giờ không phải lúc.	3	Wtedy nie.	0																									
+																																					
+REASONS2									Hayato has carried Masaru to the Shogun's tent.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_reasons2_n00				GEISHA	last chance		Gần kết thúc rồi, Hayato-san. Anh sẽ nói cho tôi biết sao anh làm tất cả những chuyện này chứ? Sao anh vào nhóm Mugen? Rồi sao anh vẫn còn ở lại với chúng tôi?	26	Jesteśmy prawie na miejscu, Hayato-san. Powiesz mi, dlaczego zgodziłeś się na to wszystko? Dlaczego służyłeś Mugenowi? Dlaczego zostałeś z nami?	0																									
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_reasons2_n01				NINJA	wondering		Có lẽ tôi chỉ thích giúp đỡ bạn bè. Còn giờ, nó là quyết định cá nhân.	15	Może po prostu chciałem pomóc przyjacielowi. A teraz… Cóż… Zrobiła się z tego sprawa osobista.	0																									
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_reasons2_n02				GEISHA	persistent		Nhưng sao anh còn chiến đấu cùng chúng tôi? Sao anh không tìm kiếm sự trả thù của riêng anh?	13	Ale dlaczego walczysz u naszego boku? Dlaczego nie szukasz zemsty samotnie?	0																									
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_reasons2_n03				NINJA	honest	new feeling of duty	Vì cô đã đúng. Đây không phải là con người tôi. Đây là những thứ mà Mugen muốn.	14	Bo miałaś rację. Nie chodzi o mnie. Chodzi o to, czego chciałby Mugen.	0																									
+vocs_over_over_	_n04	vocs_over_over_shoguncamp_reasons2_n04				GEISHA	grateful		Cảm ơn anh, Hayato-san.	4	Dziękuję, Hayato-san.	0																									
+vocs_over_over_	_n05	vocs_over_over_shoguncamp_reasons2_n05				NINJA	cool		Như tôi đã nói. Đừng nhắc đến nó nữa.	7	Mówiłem już: nie ma za co.	0																									
+																																					
+TENT									The team is almost at the Shogun's tent.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	PL	CDE																									
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_tent_n00				TRAPPER	amazed		Ooh, lều của ngài ấy bị quá!	5	Ten namiot jest ogromny!	0																									
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_tent_n01				GEISHA	elegant		Đây là đích đến của chúng ta.	4	Tam właśnie zmierzamy.	0																									
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_tent_n02				ALCHEMIST	epic		Thời khắc của sự thật đã đến gần.	6	Zbliża się chwila prawdy.	0																									
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_tent_n03				NINJA	focussed		Tốt hơn nên chắc chắn chúng ta có Masaru trước khi vào trong.	10	Przed wejściem lepiej upewnijmy się, że mamy ze sobą Masuru.	0																									
+																																					
+									MISSION-WORDCOUNT EN:	1051	MISSION-WORDCOUNT DE:	#REF!		TOTAL	NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+													Words	1051	238	129	0	414	153	0	0	0	0	0	0	0	0	42	24	36	0	15	0	0	0	0	0
+													Lines	131	29	18	0	37	16	0	0	0	0	0	0	0	0	10	7	10	0	4	0	0	0	0	0
