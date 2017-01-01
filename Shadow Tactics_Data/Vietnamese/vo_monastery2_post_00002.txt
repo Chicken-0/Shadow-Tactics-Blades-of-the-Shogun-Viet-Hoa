@@ -1,0 +1,39 @@
+4,2,9		CUTSCENE CONTEXT WORLD				NINJA TRAPPER WARRIOR ALCHEMIST GEISHA TANUKI SHOGUN SHOGUNSON DAIMYO GENERAL BROGUN BROGUNSON	Hayato  Yuki  Ōshiro Mugen Takuma  Aiko  Kuma Shogun Ryūnosuke Yabu Okkoto Noboru Masaru	STORY:	1) Noboru convinces the Shogun that Mugen's team killed his heir. 2) The team goes into hiding, struggling to plan their next move. 3) The loss of their leader drives the group to the breaking point. 4) It is Aiko who convinces everyone that only together can they stop Noboru 5) She discovers the location of Masaru and plans to kidnap him.																												
+																																					
+CINEMATIC									Stylyzed render cutscene with narration.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery2_post_n00				NARRATOR			Mặc dù tù nhân của hắn trốn thoát, nhưng lãnh chúa Noboru đã ứng biến một cách tinh ranh. Với lời lẽ của mình, hắn khép cho họ tội danh sát hại con trai Mạc Chúa và Mugen.	27		0																									
+vocs_over_over_	_n01	vocs_over_over_monastery2_post_n01				NARRATOR			Trong khi Mạc Chúa gửi người đi săn lùng những kẻ giết người bị buộc tội, Noboru đang thầm lặng lên kế hoạch ám sát anh trai mình.	21		0																									
+vocs_over_over_	_n02	vocs_over_over_monastery2_post_n02				NARRATOR			Trong khi đó, Đồng đội của Mugen vẫn có thế làm nhiều chuyện hơn là lẩn tránh cơn thịnh nộ của Mạc Chúa.	15		0																									
+vocs_over_over_	_n03	vocs_over_over_monastery2_post_n03				NARRATOR			Biết được mong muốn cuối cùng của người cô yêu, Aiko đã chuẩn bị mọi thứ cho một kế hoạch liều lĩnh.	14		0																									
+																																					
+TAVERN									A hidden meeting place. Hayato, Yuki and Takuma wait for Aiko to return.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+						TITLECARD			Two weeks later			0																									
+vocs_over_over_	_n04	vocs_over_over_monastery2_post_n04				NINJA	tense		…lão nghĩ gặp nhau ở đây là ý tưởng hay hả?	9		0																									
+vocs_over_over_	_n05	vocs_over_over_monastery2_post_n05				ALCHEMIST	weary	looking at shelf	Eh, nơi này trước đây đã bị lục soát. Cả thêm sét đánh nữa, nhưng chả phải nơi nguy hiểm nhất là nơi an toàn nhất hả.	18		0																									
+vocs_over_over_	_n06	vocs_over_over_monastery2_post_n06				TRAPPER	worried	takuma turns to Yuki	…Aiko-san ở đâu ạ?	2		0																									
+vocs_over_over_	_n07	vocs_over_over_monastery2_post_n07				ALCHEMIST	weary		Ông không biết, Yuki-chan. Giờ cô ây đã nên ở đây rồi.	10		0																									
+vocs_over_over_	_n08	vocs_over_over_monastery2_post_n08				NINJA	impatient	turns to leave	Nói thế đủ nhiều rồi. Tôi đi đây…	7		0																									
+vocs_over_over_	_n09	vocs_over_over_monastery2_post_n09				TRAPPER	desperate	steps to Hayato	Không, đừng đi mà Hayato-san! Xin anh đó…	5		0																									
+vocs_over_over_	_n10	vocs_over_over_monastery2_post_n10				TRAPPER	huge relief	Hayato is at the door when Aiko enters the room	Aiko-san! Chị quay lại rồi!	3		0																									
+vocs_over_over_	_n11	vocs_over_over_monastery2_post_n11				NINJA	reserved		…huh. Tui nghĩ cô không đến cơ.	5		0																									
+vocs_over_over_	_n12	vocs_over_over_monastery2_post_n12				GEISHA	a bit tired, serious		Vậy tui xin cảm kích vì anh đã chờ.	8		0																									
+vocs_over_over_	_n13	vocs_over_over_monastery2_post_n13				ALCHEMIST	curious	Hayato leans against the wall away from the others	Hmm…Cháu cần giải thích tại sao lại để chúng ta chờ lâu như vậy?	9		0																									
+vocs_over_over_	_n14	vocs_over_over_monastery2_post_n14				GEISHA	determined		Cháu tìm ra được nơi ở của Masaru. Nó không bao giờ sống ở thành phố này.	14		0																									
+vocs_over_over_	_n15	vocs_over_over_monastery2_post_n15				NINJA	hard	still away from the others	Tốt. Giết hắn thôi.	5		0																									
+vocs_over_over_	_n16	vocs_over_over_monastery2_post_n16				GEISHA	patient		Tui biết rõ cơn thịnh nộ của anh, Hayato-san, nhưng cần phải bắn sống nó. Chúng ta sẽ thẩm vấn nó và rồi đưa nó tới Mạc Chúa.	23		0																									
+vocs_over_over_	_n17	vocs_over_over_monastery2_post_n17				NINJA	hard	still away from the others	Hrgh…tui không muốn thực thi công lý.	5		0																									
+vocs_over_over_	_n18	vocs_over_over_monastery2_post_n18				GEISHA	determined		Nhưng như thế mới tôn vinh được sự hi sinh của Mugen. Takuma-san, lão sẽ chuẩn bị mọi thứ để thẩm vấn?	14		0																									
+vocs_over_over_	_n19	vocs_over_over_monastery2_post_n19				ALCHEMIST	submissive		Tốt thôi, chả có gì nhiều để chuẩn bị. Có lẽ chất độc chăng? Ta cần thành phấn, nhưng…cháy túi rồi…	17		0																									
+vocs_over_over_	_n20	vocs_over_over_monastery2_post_n20				TRAPPER	eager		Đi với cháu, Takuma-sensei! Ông chỉ cháu nhưng thứ ông cần, và cháu sẽ lấy nó cho ông!	17		0																									
+vocs_over_over_	_n21	vocs_over_over_monastery2_post_n21				ALCHEMIST	serious		Tốt lắm. Bọn ta sẽ cần thời gian để tập trung chế tạo nó, Aiko-san.	13		0																									
+vocs_over_over_	_n22	vocs_over_over_monastery2_post_n22				GEISHA	serious		Thế thì tốt quá. Tui cũng muốn anh giúp vụ Masaru, Hayato-san.	12		0																									
+vocs_over_over_	_n23	vocs_over_over_monastery2_post_n23				NINJA	barely supressed anger	leaves through the door	Được thôi, miễn là chúng ta cùng điều gì đó…	7		0																									
+vocs_over_over_	_n24	vocs_over_over_monastery2_post_n24				GEISHA	determined		Chúng ta sẽ hội nhóm sớm. Nhớ bảo trọng, Takuma-san, Yuki-chan.	10		0																									
+vocs_over_over_	_n25	vocs_over_over_monastery2_post_n25				ALCHEMIST	serious	Aiko leaves	Cháu đừng lo. Bọn ta sẽ thu xếp.	6		0																									
+																																					
+																																					
+											MISSION-WORDCOUNT DE:	0		TOTAL	NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+													Words	296	38	27	0	81	73	0	0	0	0	0	0	77	0	0	0	0	0	0	0	0	0	0	0
+													Lines	26	6	4	0	6	6	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0
