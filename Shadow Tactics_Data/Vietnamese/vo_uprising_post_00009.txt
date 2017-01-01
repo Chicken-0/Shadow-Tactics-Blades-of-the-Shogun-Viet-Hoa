@@ -1,78 +1,50 @@
-4,2,9		"CUTSCENE
-CONTEXT DIALOG"				"NINJA
-TRAPPER
-WARRIOR
-ALCHEMIST
-GEISHA
-TANUKI
-SHOGUN
-SHOGUNSON
-DAIMYO
-GENERAL
-BROGUN
-BROGUNSON"	"Hayato 
-Yuki 
-Ōshiro Mugen
-Takuma 
-Aiko 
-Kuma
-Shogun
-Ryūnosuke
-Yabu
-Okkoto
-Noboru
-Masaru"	STORY:	"1) After the battle of Kanazawa, everyone returns to Edo.
-2) The Shogun and Noboru commend Mugen and his team for their achievements.
-3) Mugen is ordered to move against Kage-sama and bring him back dead or alive.
-4) Noboru, who IS Kage-sama, now knows how to set a trap for Mugen.
-5) Mugen prepares his team for what he thinks is the final mission.
-6) This is the closest our characters come to being a happy, complete team."																												
+4,2,9		CUTSCENE CONTEXT DIALOG				NINJA TRAPPER WARRIOR ALCHEMIST GEISHA TANUKI SHOGUN SHOGUNSON DAIMYO GENERAL BROGUN BROGUNSON	Hayato  Yuki  Ōshiro Mugen Takuma  Aiko  Kuma Shogun Ryūnosuke Yabu Okkoto Noboru Masaru	STORY:	1) After the battle of Kanazawa, everyone returns to Edo. 2) The Shogun and Noboru commend Mugen and his team for their achievements. 3) Mugen is ordered to move against Kage-sama and bring him back dead or alive. 4) Noboru, who IS Kage-sama, now knows how to set a trap for Mugen. 5) Mugen prepares his team for what he thinks is the final mission. 6) This is the closest our characters come to being a happy, complete team.																												
 																																					
 CINEMATIC									Narration with stylized render cutscene.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_uprising_post_n00				NARRATOR			With General Okkoto's death, the end of the rebellion was certain. 	12		0																									
-vocs_over_over_	_n01	vocs_over_over_uprising_post_n01				NARRATOR			Under Lord Noboru's command, the Shogunate army crushed the remaining rebels and restored the peace. Mugen and his companions had achieved an important victory. 	25		0																									
-vocs_over_over_	_n02	vocs_over_over_uprising_post_n02				NARRATOR			Armed with the knowledge of Kage-sama's secret hideout, they traveled to Edo, where they would await the orders of the Shogun.	21		0																									
+vocs_over_over_	_n00	vocs_over_over_uprising_post_n00				NARRATOR			Với cái chết của tướng Okkoto, nhất định cuộc nổi loạn đã kết thúc.	12		0																									
+vocs_over_over_	_n01	vocs_over_over_uprising_post_n01				NARRATOR			Theo lệnh lãnh chúa Noboru, quân đội Mạc Phủ phải nghiền nát đám phiến quân tàn dư và khôi phục lại hòa bình. Mugen cùng đồng đội đã đạt được một chiến thắng vinh quang.	25		0																									
+vocs_over_over_	_n02	vocs_over_over_uprising_post_n02				NARRATOR			Được trang bị kiến thức về nơi ẩn náu của Kage-sama, họ đã tới Edo, nơi mà sẽ nhận được lệnh từ Mạc Chúa.	21		0																									
 																																					
 EDO									Back in Edo, Mugen, Noboru and the team present themselves to the Shogun																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 						TITLECARD			Edo Castle audience chamber			0																									
-vocs_over_over_	_n03	vocs_over_over_uprising_post_n03				SHOGUN	pleased	everyone walks before the Shogun	Ah, Lord Noboru. I was pleased when I received news of your victory.	13		0																									
-vocs_over_over_	_n03a	vocs_over_over_uprising_post_n03a				SHOGUN	pleased	everyone walks before the Shogun	Your victory over the rebel Okkoto prevented this country from falling into chaos. I chose well when I entrusted you with this task, brother.	24		0																									
-vocs_over_over_	_n04	vocs_over_over_uprising_post_n04				BROGUN			The Shogunate army brought about the end of the rebellion. However, it would bring me shame if I did not mention the involvement of Mugen-san and his comrades.	28		0																									
-vocs_over_over_	_n05	vocs_over_over_uprising_post_n05				SHOGUN	praise		Ah yes, Mugen-san. To think that a group of only five could achieve this much. You chose well, Mugen.	19		0																									
-vocs_over_over_	_n05a	vocs_over_over_uprising_post_n05a				SHOGUN	praise		Hmm…impressive. To think that a group of only five facilitated such a victory. You chose well, Mugen.	17		0																									
-vocs_over_over_	_n06	vocs_over_over_uprising_post_n06				WARRIOR	proud		Your words honor us, my Shogun.	6		0																									
-vocs_over_over_	_n06a	vocs_over_over_uprising_post_n06a				WARRIOR	proud		Your words honor me, my Shogun.	6		0																									
-vocs_over_over_	_n07	vocs_over_over_uprising_post_n07				SHOGUN	praise		Together you even uncovered the location of Kage-sama. You must be very proud of these men and women.	18		0																									
-vocs_over_over_	_n08	vocs_over_over_uprising_post_n08				WARRIOR	proud		I am, my Shogun. I have rarely seen such skill in a group. I am honored that they trust me as their leader.	23		0																									
-vocs_over_over_	_n09	vocs_over_over_uprising_post_n09				BROGUN	generous		Now all that is left is to bring an end to Kage-sama. I say Mugen-san has earned the right to finish this matter himself.	24		0																									
-vocs_over_over_	_n10	vocs_over_over_uprising_post_n10				SHOGUN	just		I agree. No doubt a large attack force would only alert our enemy. I leave this matter to you, Mugen.	20		0																									
-vocs_over_over_	_n11	vocs_over_over_uprising_post_n11				WARRIOR	dutiful		Do you want him captured alive, my Shogun?	8		0																									
-vocs_over_over_	_n12	vocs_over_over_uprising_post_n12				SHOGUN	hard		Alive or dead, I want you to bring him to me. I must see the face of the man that conspired against me.	23		0																									
-vocs_over_over_	_n13	vocs_over_over_uprising_post_n13				WARRIOR	dutiful	pays respects, then leaves with team	We will not disappoint you, my Shogun. Noboru-sama.	8		0																									
-vocs_over_over_	_n14	vocs_over_over_uprising_post_n14				SHOGUN	a tiny bit softer		I must thank you too, brother. We may disagree on certain things, but I know there is no finer man to command the Shogunate army.	25		0																									
-vocs_over_over_	_n15	vocs_over_over_uprising_post_n15				BROGUN	formulated		I only fulfill my duty, brother. To my Shogun, and to Japan.	12		0																									
+vocs_over_over_	_n03	vocs_over_over_uprising_post_n03				SHOGUN	pleased	everyone walks before the Shogun	Ah, Noboru. Ta rất hài lòng khi nhận được tin thắng trận của em.	13		0																									
+vocs_over_over_	_n03a	vocs_over_over_uprising_post_n03a				SHOGUN	pleased	everyone walks before the Shogun	Chiến thắng của em trước lũ phiến quân Okkoto đã giúp nước ta thoát khỏi hỗn loạn. Ta rất hài lòng khi giao phó nhiệm vụ này cho em.	24		0																									
+vocs_over_over_	_n04	vocs_over_over_uprising_post_n04				BROGUN			Quân đội Mạc Phủ đã kết thúc hỗn loạn. Tuy nhiên, sẽ rất xấu hổ nếu không nhắc tới sự tham gia của Mugen-san và đồng đội.	28		0																									
+vocs_over_over_	_n05	vocs_over_over_uprising_post_n05				SHOGUN	praise		Ah đúng, Mugen-san. Một nhóm chỉ với số năm có thể làm được nhiều việc như thế. Thần chọn tốt lắm, Mugen.	19		0																									
+vocs_over_over_	_n05a	vocs_over_over_uprising_post_n05a				SHOGUN	praise		Hmm…quá ấn tượng. Một nhóm chỉ với số năm đã làm nên chiến thắng. Thần chọn tốt lắm, Mugen.	17		0																									
+vocs_over_over_	_n06	vocs_over_over_uprising_post_n06				WARRIOR	proud		Chúng thần vinh dự vì lời nói của ngài, Mạc Chúa của thần.	6		0																									
+vocs_over_over_	_n06a	vocs_over_over_uprising_post_n06a				WARRIOR	proud		Thần vinh dự vì lời nói của ngài, Mạc Chúa của thần.	6		0																									
+vocs_over_over_	_n07	vocs_over_over_uprising_post_n07				SHOGUN	praise		Cùng nhau tìm ra vị trí của Kage-sama. Thần phải tự hào về những chàng trai và cô gái này đấy.	18		0																									
+vocs_over_over_	_n08	vocs_over_over_uprising_post_n08				WARRIOR	proud		Vâng, Mạc Chúa của thần. Thần hiếm khi thấy kĩ năng như vậy trong một nhóm. Thần rất vinh dự khi họ tin tưởng vào sự chỉ đạo của thần.	23		0																									
+vocs_over_over_	_n09	vocs_over_over_uprising_post_n09				BROGUN	generous		Giờ tất cả những gì còn lại là mang kết thúc đến với Kage-sama. Mugen-san có đủ sức thuyết phục để kết thúc vấn đề này.	24		0																									
+vocs_over_over_	_n10	vocs_over_over_uprising_post_n10				SHOGUN	just		Đồng ý. Không có nghi ngờ gì khi một lực lượng tấn công lớn sẽ chỉ đả động cho hắn biết. Ta để vấn đề này lại cho thần, Mugen.	20		0																									
+vocs_over_over_	_n11	vocs_over_over_uprising_post_n11				WARRIOR	dutiful		Ngài có muốn bắt sống hắn không, Mạc Chúa của thần?	8		0																									
+vocs_over_over_	_n12	vocs_over_over_uprising_post_n12				SHOGUN	hard		Sống hoặc chết, mang hắn về đây cho ta. Ta phải nhìn thấy được khuôn mặt của kẻ dám chống lại ta.	23		0																									
+vocs_over_over_	_n13	vocs_over_over_uprising_post_n13				WARRIOR	dutiful	pays respects, then leaves with team	Sẽ không làm ngài thất vọng, Mạc Chúa của thần. Noboru-sama.	8		0																									
+vocs_over_over_	_n14	vocs_over_over_uprising_post_n14				SHOGUN	a tiny bit softer		Ta cũng phải cảm ơn em đấy. Có thể không đồng ý vào những chuyện này, những ta biết không có người đàn ông nào giỏi chỉ huy quân đội Mạc Phủ hơn.	25		0																									
+vocs_over_over_	_n15	vocs_over_over_uprising_post_n15				BROGUN	formulated		Em chỉ thực hiện nhiệm vụ của mình thôi anh à. Vì Mạc Chúa, và vì Japan.	12		0																									
 												0																									
 PREPARE									The team prepares in the meeting place for the final battle.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 						TITLECARD			Safe house			0																									
-vocs_over_over_	_n16	vocs_over_over_uprising_post_n16				TRAPPER	amazed	only if team was present in cutscene before	We really met the Shogun! That was exciting!	8		0																									
-vocs_over_over_	_n17	vocs_over_over_uprising_post_n17				NINJA	in thought		So…this is it, huh?	4		0																									
-vocs_over_over_	_n18	vocs_over_over_uprising_post_n18				WARRIOR	pleased	*preparing*	Yes, we will finally meet our enemy face to face.	10		0																									
-vocs_over_over_	_n19	vocs_over_over_uprising_post_n19				NINJA	a bit uncomfortable		When this is done…I think I'll need some time alone… Have to think about a few things.	17		0																									
-vocs_over_over_	_n20	vocs_over_over_uprising_post_n20				WARRIOR	a bit disappointed		I see… Well, I am grateful that you are here for this most important mission.	15		0																									
-vocs_over_over_	_n21	vocs_over_over_uprising_post_n21				GEISHA	slightly concerened		Will we receive support from the Shogunate troops?	8		0																									
-vocs_over_over_	_n22	vocs_over_over_uprising_post_n22				WARRIOR	looking forward		No, we cannot risk spies warning off our prey. There will not be a better chance than this.	18		0																									
-vocs_over_over_	_n23	vocs_over_over_uprising_post_n23				GEISHA	slightly concerened		While that is true, I am not certain you have given this enough thought.	14		0																									
-vocs_over_over_	_n24	vocs_over_over_uprising_post_n24				WARRIOR	teasing		Will you not come with me, and point me in the right direction?	13		0																									
-vocs_over_over_	_n25	vocs_over_over_uprising_post_n25				GEISHA	still serious		I can hardly leave you alone on such an important occasion.	11		0																									
-vocs_over_over_	_n26	vocs_over_over_uprising_post_n26				TRAPPER	perplexed		Will we all be together on this one?	8		0																									
-vocs_over_over_	_n27	vocs_over_over_uprising_post_n27				WARRIOR	good mood		Indeed, Yuki-chan. That is, if Takuma-san feels ready.	8		0																									
-vocs_over_over_	_n28	vocs_over_over_uprising_post_n28				ALCHEMIST	amused	helps her prepare	No need to worry about me, Mugen.	7		0																									
-vocs_over_over_	_n29	vocs_over_over_uprising_post_n29				WARRIOR	ceremonial		Very good. Everyone! Listen here!	5		0																									
-vocs_over_over_	_n30	vocs_over_over_uprising_post_n30				WARRIOR	ceremonial	readies tablet with sake bowls	Together we have come far, and we only need to go a little further. Whatever comes after we have finished with Kage-sama, know that I am honored by your trust and loyalty.	32		0																									
-vocs_over_over_	_n31	vocs_over_over_uprising_post_n31				WARRIOR	ceremonial	toasts with a bowl of sake	A toast. To the Shogun and his trusted blades. May we bring an end to Kage-sama. Kanpai!	17		0																									
+vocs_over_over_	_n16	vocs_over_over_uprising_post_n16				TRAPPER	amazed	only if team was present in cutscene before	Chúng ta thực sự đã gặp Mạc Chúa! Thú vị wá đi!	8		0																									
+vocs_over_over_	_n17	vocs_over_over_uprising_post_n17				NINJA	in thought		So…đây là nó, huh?	4		0																									
+vocs_over_over_	_n18	vocs_over_over_uprising_post_n18				WARRIOR	pleased	*preparing*	Đúng rồi, chúng ta cuối cùng cũng đối mặt được với kẻ thù.	10		0																									
+vocs_over_over_	_n19	vocs_over_over_uprising_post_n19				NINJA	a bit uncomfortable		Khi chuyện này xong…Tôi sẽ cần chút thời gian ở một mình… Phải suy ngẫm về một số thứ.	17		0																									
+vocs_over_over_	_n20	vocs_over_over_uprising_post_n20				WARRIOR	a bit disappointed		Tôi biết… Tốt lắm, tôi rất cảm kích khi cậu ở đây cho nhiệm vụ quan trọng này.	15		0																									
+vocs_over_over_	_n21	vocs_over_over_uprising_post_n21				GEISHA	slightly concerened		Chúng sẽ nhận được hỗ trợ từ quân đội Mạc Phủ?	8		0																									
+vocs_over_over_	_n22	vocs_over_over_uprising_post_n22				WARRIOR	looking forward		Không, không thể mạo hiểm để gián điệp kích động tới con mồi của chúng ta. Sẽ không còn cơ hội tốt như thế này.	18		0																									
+vocs_over_over_	_n23	vocs_over_over_uprising_post_n23				GEISHA	slightly concerened		Nếu nó là thật, em không biết là anh đã nghĩ kĩ chưa.	14		0																									
+vocs_over_over_	_n24	vocs_over_over_uprising_post_n24				WARRIOR	teasing		Sao em không đi cùng anh, rồi chỉ cho anh đi đúng hướng?	13		0																									
+vocs_over_over_	_n25	vocs_over_over_uprising_post_n25				GEISHA	still serious		Em khó mà có thể bỏ mặc anh trong nhiệm vụ quan trọng như thế này.	11		0																									
+vocs_over_over_	_n26	vocs_over_over_uprising_post_n26				TRAPPER	perplexed		Tất cả chúng ta sẽ cùng nhau làm chuyện này?	8		0																									
+vocs_over_over_	_n27	vocs_over_over_uprising_post_n27				WARRIOR	good mood		Đúng đó, Yuki-chan. Đó là nếu Takuma-san cảm thấy sẵn sàng.	8		0																									
+vocs_over_over_	_n28	vocs_over_over_uprising_post_n28				ALCHEMIST	amused	helps her prepare	Không cần lo cho thân già này, Mugen.	7		0																									
+vocs_over_over_	_n29	vocs_over_over_uprising_post_n29				WARRIOR	ceremonial		Tốt quá. Mọi người nghe đây!	5		0																									
+vocs_over_over_	_n30	vocs_over_over_uprising_post_n30				WARRIOR	ceremonial	readies tablet with sake bowls	Chúng ta đã cùng nhau đi một chặng đường dài, và giờ chỉ cần đi xa thêm đoạn nữa. Dù sau khi hoàn thành vụ Kage-sama, tôi sẽ luôn luôn tự hào về niềm tin và lòng trong thành của mọi người.	32		0																									
+vocs_over_over_	_n31	vocs_over_over_uprising_post_n31				WARRIOR	ceremonial	toasts with a bowl of sake	Cầm chén lên. Vì Mạc Chúa và lòng tin của ngài ấy. Chúng ta có thể chấm dứt Kage-sama. Kanpai!	17		0																									
 vocs_over_over_	_n32	vocs_over_over_uprising_post_n32				NINJA	cool	together	Kanpai!	1		0																									
 vocs_over_over_	_n33	vocs_over_over_uprising_post_n33				TRAPPER	happy	together	Kanpai!	1		0																									
 vocs_over_over_	_n34	vocs_over_over_uprising_post_n34				GEISHA	elegant	together	Kanpai!	1		0																									
