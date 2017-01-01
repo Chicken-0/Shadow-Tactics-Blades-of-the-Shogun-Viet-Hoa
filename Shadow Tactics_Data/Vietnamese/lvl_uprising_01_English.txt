@@ -1,0 +1,16 @@
+1,0,3
+1951240981	MiMissionTaskHandler	Element 0 Str Task Name	Destroy the Depot
+1263516502	MiMissionTaskHandler	Element 0 Str Description	Place a barrel of gunpowder near the supply depot and shoot it to blow up the building.
+-1477602831	MiMissionTaskHandler	Element 1 Str Task Name	Regroup
+1285602772	MiMissionTaskHandler	Element 1 Str Description	Gather at a safe spot near General Okkoto's tent. 
+-1195985696	MiMissionTaskHandler	Element 2 Str Task Name	Kill General Okkoto
+198365393	MiMissionTaskHandler	Element 2 Str Description	Kill General Okkoto to end the rebellion.
+1379945351	MiMissionTaskHandler	Element 3 Str Task Name	Rebel Officers
+20692585	MiMissionTaskHandler	Element 3 Str Description	Killing officers will confuse the rebels, exposing them to the Shogunate army.
+1123870409	MiMissionTaskHandler	Element 4 Str Task Name	Barrels
+-1779139528	MiMissionTaskHandler	Element 4 Str Description	Remember: Only Mugen can carry the heavy barrel to the supply depot.
+1945751014	MiMissionTaskHandler	Element 5 Str Task Name	Explosives
+-1323036364	MiMissionTaskHandler	Element 5 Str Description	All firearms can blow up gunpowder barrels, but Takuma's rifle is the safest option.
+1634864919	missionfail_barrel_blown_up_wrong	Str Description	You cannot complete your mission objective.
+-2082953194	UITooltipDataClickable_Saveable	Str Display Top	Firippo Pekotsu
+567873829	UITooltipDataClickable_Saveable	Str Display Top	Okkoto

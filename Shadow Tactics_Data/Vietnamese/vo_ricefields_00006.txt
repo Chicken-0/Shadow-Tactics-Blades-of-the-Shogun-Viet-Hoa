@@ -1,278 +1,231 @@
-5,2,9		"CUTSCENE
-CONTEXT DIALOG
-WORLD"				"NINJA
-TRAPPER
-WARRIOR
-ALCHEMIST
-GEISHA
-TANUKI
-SHOGUN
-SHOGUNSON
-DAIMYO
-GENERAL
-BROGUN
-BROGUNSON"	"Hayato 
-Yuki 
-Ōshiro Mugen
-Takuma 
-Aiko 
-Kuma
-Shogun
-Ryūnosuke
-Yabu
-Okkoto
-Noboru
-Masaru"	STORY:	"1) Farming village has been attacked by rebels, survivors are questioned and killed
-2) Mugen has been captured, Takuma is hiding
-3) Yuki arrives in time to help Takuma
-4) Together they rescue Mugen and the surviving farmers
-5) Yuki is the driving force behind this mission. She motivates Takuma
-6) Takuma is impressed by her simple sense of justice and eagerness to help
-7) Takuma considers passing on his knowledge to her and wants to connect"																												
+5,2,9		CUTSCENE CONTEXT DIALOG WORLD				NINJA TRAPPER WARRIOR ALCHEMIST GEISHA TANUKI SHOGUN SHOGUNSON DAIMYO GENERAL BROGUN BROGUNSON	Hayato  Yuki  Ōshiro Mugen Takuma  Aiko  Kuma Shogun Ryūnosuke Yabu Okkoto Noboru Masaru	STORY:	1) Farming village has been attacked by rebels, survivors are questioned and killed 2) Mugen has been captured, Takuma is hiding 3) Yuki arrives in time to help Takuma 4) Together they rescue Mugen and the surviving farmers 5) Yuki is the driving force behind this mission. She motivates Takuma 6) Takuma is impressed by her simple sense of justice and eagerness to help 7) Takuma considers passing on his knowledge to her and wants to connect																												
 																																					
 BRIEFING									Takuma is hiding from the rebels, who are on the search for him, when suddenly Yuki enters his hidingspot.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 						TITLECARD			Suganuma village			0																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_briefing_n00	omuk	hambo		ALCHEMIST	dark		Will death take me now? Perhaps it has been long enough…	11		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_briefing_n00	omuk	hambo		ALCHEMIST	dark		Chắc mình đến lúc phải dẹo rồi? Đời nó đã đủ dài…	11		0																									
 vocs_over_over_	_n01	vocs_over_over_ricefields_briefing_n01	omuk	hambo		TRAPPER	loud whispering	*sneaks beside Takuma*	Psst. Takuma-sama!	2		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_briefing_n02	omuk	hambo		ALCHEMIST	startled		Ah! …Yuki-chan! It's you, child. Are you alone?	8		0																									
-vocs_over_over_	_n03	vocs_over_over_ricefields_briefing_n03	omuk	hambo		TRAPPER	tense		Yes. I followed Kuma here. The others couldn't come. What happened?	11		0																									
-vocs_over_over_	_n04	vocs_over_over_ricefields_briefing_n04	omuk	hambo		ALCHEMIST	troubled		Darkness and horror. The rebels slaughtered the farmers. Most of them are dead.	13		0																									
-vocs_over_over_	_n05	vocs_over_over_ricefields_briefing_n05	omuk	hambo		ALCHEMIST	troubled		Mugen tried to help. Now he's a prisoner himself, being interrogated and, most likely, soon executed.	16		0																									
-vocs_over_over_	_n06	vocs_over_over_ricefields_briefing_n06	omuk	hambo		TRAPPER	determined		No. We'll save him…	4		0																									
-vocs_over_over_	_n07	vocs_over_over_ricefields_briefing_n07	omuk	hambo		ALCHEMIST	dark		It's impossible, child! We are hardly a force to be reckoned with.	12		0																									
-vocs_over_over_	_n08	vocs_over_over_ricefields_briefing_n08	omuk	hambo		TRAPPER	sincere		We have to try! He's our friend! You don't leave friends behind!	12		0																									
-vocs_over_over_	_n09	vocs_over_over_ricefields_briefing_n09	omuk	hambo		ALCHEMIST	gives in		Such a young mind… Very well, Yuki-chan. If we shall die, we might as well do so with purpose. Lead the way.	22		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_briefing_n02	omuk	hambo		ALCHEMIST	startled		Ah! …Yuki-chan! Là cháu, nhóc. Tới một mình?	8		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_briefing_n03	omuk	hambo		TRAPPER	tense		Dạ. Cháu theo Kuma tới đây. Người người khác không thể đến. Chuyện gì đã xảy ra ạ?	11		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_briefing_n04	omuk	hambo		ALCHEMIST	troubled		Tối tăm và kinh dị. Phiến quân tàn sát nông dân. Họ chết gần hết rồi.	13		0																									
+vocs_over_over_	_n05	vocs_over_over_ricefields_briefing_n05	omuk	hambo		ALCHEMIST	troubled		Mugen đã cố giúp. Giờ thì chú ấy thành tù nhân, rồi bị thẩm vấn, chắc vậy, sẽ sớm thôi.	16		0																									
+vocs_over_over_	_n06	vocs_over_over_ricefields_briefing_n06	omuk	hambo		TRAPPER	determined		Không. Chúng ta sẽ cứu chú ấy…	4		0																									
+vocs_over_over_	_n07	vocs_over_over_ricefields_briefing_n07	omuk	hambo		ALCHEMIST	dark		Bất khả thi nhóc à! Chúng ta không đủ mạnh như thế.	12		0																									
+vocs_over_over_	_n08	vocs_over_over_ricefields_briefing_n08	omuk	hambo		TRAPPER	sincere		Phải thử chứ! Chú ấy là bạn của chúng ta mà! Cháu không bỏ rơi bạn của mình đâu!	12		0																									
+vocs_over_over_	_n09	vocs_over_over_ricefields_briefing_n09	omuk	hambo		ALCHEMIST	gives in		Hẳn là ý chí tuổi trẻ… Được thôi, Yuki-chan. Nếu chúng ta chết như thế thì hẳn là vẫn có giá trị hơn. Dẫn đường đi.	22		0																									
 																																					
 SHOOTING									A rebel has line up a group of farmers and shoots them one by one.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
 vo_hint_hint_	_n00	vo_hint_hint_ricefields_shooting_n00	omuk	hambo		CIVILIAN M	in terror		Ah!	1		0																									
 vo_hint_hint_	_n01	vo_hint_hint_ricefields_shooting_n01	omuk	hambo		CIVILIAN F	in terror		No…	1		0																									
-vo_hint_hint_	_n02	vo_hint_hint_ricefields_shooting_n02	omuk	hambo		CIVILIAN F	hateful		Demon! Monster! I curse you…	5		0																									
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_shooting_n02	omuk	hambo		CIVILIAN F	hateful		Ác nhân! Quái vật! Tao nguyên rủa mày…	5		0																									
 vo_hint_hint_	_n03	vo_hint_hint_ricefields_shooting_n03	omuk	hambo		CIVILIAN F	in terror	*sobbing*		0		0																									
 																																					
 TANUKI									Takuma sets down Kuma. Yuki mentions how she met the tanuki.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_tanuki_n00	omuk	hambo		TRAPPER	worried		Why did Kuma have blood on his fur?	8		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_tanuki_n01	omuk	hambo		ALCHEMIST	dark		A farmer died right next to him. I'm surprised you could get him to return here.	16		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_tanuki_n02	omuk	hambo		TRAPPER	nonchalant		It wasn't hard. I just made that sound you do.	10		0																									
-vocs_over_over_	_n03	vocs_over_over_ricefields_tanuki_n03	omuk	hambo		ALCHEMIST	slightly intrigued		Hmm…so you picked up on that…	6		0																									
-vocs_over_over_	_n04	vocs_over_over_ricefields_tanuki_n04	omuk	hambo		TRAPPER	worried		I bet Kuma wants to rescue master samurai too!	9		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_tanuki_n00	omuk	hambo		TRAPPER	worried		Sao lại có máu dính trên lông của Kuma?	8		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_tanuki_n01	omuk	hambo		ALCHEMIST	dark		Một nông dân chết gần nó. Ta rất ngạc nhiên khi nó đưa cháu tới được đây.	16		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_tanuki_n02	omuk	hambo		TRAPPER	nonchalant		Chả có gì khó. Cháu chỉ cần bắt chước tiếng của ông là được.	10		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_tanuki_n03	omuk	hambo		ALCHEMIST	slightly intrigued		Hmm…rồi cháu có được nó…	6		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_tanuki_n04	omuk	hambo		TRAPPER	worried		Cháu cá Kuma cũng muốn giải cứu chú Samurai xịn!	9		0																									
 																																					
 FIELDS									The team enters a field of rice. The high growing crops provide cover. However, rebels are searching the fields.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_fields_n00	omuk	hambo		ALCHEMIST	intrigued	Takuma first	Ah, the rice will provide cover.	6		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_fields_n01	omuk	hambo		TRAPPER	cautious		Rebels! …why are they searching the fields?	7		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_fields_n02	omuk	hambo		ALCHEMIST	intrigued		I'd say they are hunting for survivors.	7		0																									
-vocs_over_over_	_n03	vocs_over_over_ricefields_fields_n03	omuk	hambo		TRAPPER	disturbed		Are the others…are they all dead? Mugen-sama…	7		0																									
-vocs_over_over_	_n04	vocs_over_over_ricefields_fields_n04	omuk	hambo		ALCHEMIST	intrigued		Stay calm, Yuki-chan! We must become the hunters and rescue Mugen.	11		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_fields_n00	omuk	hambo		ALCHEMIST	intrigued	Takuma first	Ah, lúa sẽ cho ta chỗ nấp.	6		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_fields_n01	omuk	hambo		TRAPPER	cautious		Phiến quân! …sao chúng lùng cả trong ruộng?	7		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_fields_n02	omuk	hambo		ALCHEMIST	intrigued		Chúng đi săn mấy kẻ còn sống.	7		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_fields_n03	omuk	hambo		TRAPPER	disturbed		Còn những người khác…họ đã chết hết? Mugen-sama…	7		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_fields_n04	omuk	hambo		ALCHEMIST	intrigued		Bình tĩnh nào, Yuki-chan! Chúng ta cũng phải trở thành thợ săn và giải cứu Mugen.	11		0																									
 																																					
 SEARCH									A rebel officer is ordering others to search the ricefields for hiding farmers.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vo_hint_hint_	_n00	vo_hint_hint_ricefields_search_n00	omuk	hambo		OFFICER	commanding		I saw a shadow. Find him!	6		0																									
-vo_hint_hint_	_n01	vo_hint_hint_ricefields_search_n01	omuk	hambo		OFFICER	commanding		No one must escape! Lord Okkoto's orders.	7		0																									
-vo_hint_hint_	_n02	vo_hint_hint_ricefields_search_n02	omuk	hambo		OFFICER	commanding		Someone's in there! I know it.	6		0																									
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_search_n00	omuk	hambo		OFFICER	commanding		Ta thấy một bóng người. Tìm hắn!	6		0																									
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_search_n01	omuk	hambo		OFFICER	commanding		Không để một ai bỏ trốn! Lệnh của Okkoto.	7		0																									
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_search_n02	omuk	hambo		OFFICER	commanding		Có người ở đây! Tao biết mà.	6		0																									
 																																					
 RIFLE									Takuma uses his rifle to snipe an enemy.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_rifle_n00	omuk	hambo		TRAPPER	amazed		I do like your leg! It's quick and deadly, and it can hide, like my little trap.	17		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_rifle_n01	omuk	hambo		ALCHEMIST	intrigued		Hmm, what an unusual compliment! Do you know how I made it so quiet?	14		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_rifle_n02	omuk	hambo		TRAPPER	focussed		No, don't tell! It's a good puzzle, but no time for puzzles now!	13		0																									
-vocs_over_over_	_n03	vocs_over_over_ricefields_rifle_n03	omuk	hambo		ALCHEMIST	mild teasing		How right you are. Onward to Mugen.	7		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_rifle_n00	omuk	hambo		TRAPPER	amazed		Nghiện cái chân của ông quá! Nhanh và chết người, và có thể giấu nó, như bẫy của cháu í.	17		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_rifle_n01	omuk	hambo		ALCHEMIST	intrigued		Hmm, một lời khen không bình thường! Cháu có biết ta làm nó thầm lặng như thế nào không?	14		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_rifle_n02	omuk	hambo		TRAPPER	focussed		Không, ông đừng nói! Đó là một câu đó hay, nhưng giờ không có thời gian để giải đố!	13		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_rifle_n03	omuk	hambo		ALCHEMIST	mild teasing		Cháu đúng đấy. Hướng tới Mugen.	7		0																									
 																																					
 SCOUTS									A couple of rebel scouts leave the area for patrol.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_scouts_n00	omuk			OFFICER	relaxed	returning from patrol	Let's search the fields further down the road to see if anyone's there.	13		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_scouts_n01	omuk			TRAPPER	focussed		Yes, stay away…	3		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_scouts_n02	omuk			ALCHEMIST	intrigued		They will return, eventually. We should not forget about them.	10		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_scouts_n00	omuk			OFFICER	relaxed	returning from patrol	Tìm kiếm ruộng dưới đường xem có ai ở đó không.	13		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_scouts_n01	omuk			TRAPPER	focussed		Đúng, cút đi…	3		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_scouts_n02	omuk			ALCHEMIST	intrigued		Chúng rồi sẽ quay lại. Chúng ta không nên quên mất chúng.	10		0																									
 																																					
 TRAGEDY1									A farming woman tries to escape from a house. A rebel shoots her.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vo_hint_hint_	_n00	vo_hint_hint_ricefields_tragedy1_n00	omuk	hambo		CIVILIAN F	in terror	bursts out of the door	No! Please, no! Help me! Help!	6		0																									
-vo_hint_hint_	_n00a	vo_hint_hint_ricefields_tragedy1_n00a	omuk	hambo		CIVILIAN M	in terror	bursts out of the door	No! Please…please no! Help me! Help!	6		0																									
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_tragedy1_n00	omuk	hambo		CIVILIAN F	in terror	bursts out of the door	Không! Làm ơn đừng! Giúp tôi! Giúp!	6		0																									
+vo_hint_hint_	_n00a	vo_hint_hint_ricefields_tragedy1_n00a	omuk	hambo		CIVILIAN M	in terror	bursts out of the door	Không! Làm ơn…làm ơn đừng! Giúp tôi! Giúp!	6		0																									
 								rebel comes out the door and shoots escapee		0		0																									
-vo_hint_hint_	_n01	vo_hint_hint_ricefields_tragedy1_n01	omuk	hambo		ENEMY		returns inside	Tch…serves you right.	3		0																									
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_tragedy1_n01	omuk	hambo		ENEMY		returns inside	Tch…mày phải tuân lệnh.	3		0																									
 																																					
 VICTIMS1									Right after the rebels shot the helpless farming woman																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_victims1_n01	omuk	hambo		TRAPPER	uneasy		They didn't have to shoot him.	6		0																									
-vocs_over_over_	_n01a	vocs_over_over_ricefields_victims1_n01a	omuk	hambo		TRAPPER	uneasy		They didn't have to shoot her.	6		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_victims1_n02	omuk	hambo		ALCHEMIST	calming		These men are beasts. They'll do whatever they want, with or without reason.	13		0																									
-vocs_over_over_	_n03	vocs_over_over_ricefields_victims1_n03	omuk	hambo		TRAPPER	uneasy	if Mugen hasn't been freed	I hope Mugen-sama is okay.	5		0																									
-vocs_over_over_	_n04	vocs_over_over_ricefields_victims1_n04	omuk	hambo		ALCHEMIST	calming		"Yuki-chan. Do not worry; we will save him."	8		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_victims1_n01	omuk	hambo		TRAPPER	uneasy		Chúng không thể bắn anh ấy.	6		0																									
+vocs_over_over_	_n01a	vocs_over_over_ricefields_victims1_n01a	omuk	hambo		TRAPPER	uneasy		Chúng không thể bắn cô ấy.	6		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_victims1_n02	omuk	hambo		ALCHEMIST	calming		Mấy thằng đó là quái vật. Làm những gì chúng muốn, có hoặc không cần lý do nào cả.	13		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_victims1_n03	omuk	hambo		TRAPPER	uneasy	if Mugen hasn't been freed	Hi vọng Mugen-sama vẫn ổn.	5		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_victims1_n04	omuk	hambo		ALCHEMIST	calming		Yuki-chan. Đừng lo lắng; chúng ta sẽ cứu được.	8		0																									
 																																					
 VICTIMS2									The team discovers a pile of executed farmers.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_victims2_n00	omuk	hambo		ALCHEMIST	sad	Takuma first	Such shame.	2		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_victims2_n01	omuk	hambo		TRAPPER	shocked		Why did they have to die? They didn't hurt anyone.	10		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_victims2_n02	omuk	hambo		ALCHEMIST	calm		To make a point. These farmers died because they remained loyal to the Shogun.	14		0																									
-vocs_over_over_	_n03	vocs_over_over_ricefields_victims2_n03	omuk	hambo		TRAPPER	urgent	if Mugen hasn't been freed	Please don't die, master samurai.	5		0																									
-vocs_over_over_	_n04	vocs_over_over_ricefields_victims2_n04	omuk	hambo		ALCHEMIST	calm	if Mugen hasn't been freed	He is strong, Yuki-chan. We will reach him in time.	10		0																									
-vocs_over_over_	_n05	vocs_over_over_ricefields_victims2_n05	omuk	hambo		WARRIOR	serious	if Mugen has been freed	All the more reason to help those who survived.	9		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_victims2_n00	omuk	hambo		ALCHEMIST	sad	Takuma first	Quá nhục nhã.	2		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_victims2_n01	omuk	hambo		TRAPPER	shocked		Sao họ lại chết? Họ có làm hại ai đâu.	10		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_victims2_n02	omuk	hambo		ALCHEMIST	calm		Có thể nói. Nông dân chết bởi vì họ vẫn trung thành với Mạc Chúa.	14		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_victims2_n03	omuk	hambo		TRAPPER	urgent	if Mugen hasn't been freed	Làm ơn đừng chết, chú samurai xịn.	5		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_victims2_n04	omuk	hambo		ALCHEMIST	calm	if Mugen hasn't been freed	Chú ấy rất khỏe, Yuki-chan. Chúng ta sẽ tới đó đúng lúc.	10		0																									
+vocs_over_over_	_n05	vocs_over_over_ricefields_victims2_n05	omuk	hambo		WARRIOR	serious	if Mugen has been freed	Chúng ta sẽ giúp đỡ những người sống sót.	9		0																									
 																																					
 TRAGEDY2									Two rebels keep knocking on a door an demanding entrance.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vo_hint_hint_	_n00	vo_hint_hint_ricefields_tragedy2_n00	omuk	hambo		SAMURAI	menacing		Open up!	2		0																									
-vo_hint_hint_	_n01	vo_hint_hint_ricefields_tragedy2_n01	omuk	hambo		SAMURAI	menacing		Open the door!	3		0																									
-vo_hint_hint_	_n02	vo_hint_hint_ricefields_tragedy2_n02	omuk	hambo		SAMURAI	menacing		We'll get in eventually!	4		0																									
-vo_hint_hint_	_n03	vo_hint_hint_ricefields_tragedy2_n03	omuk	hambo		SAMURAI	menacing		It won't hold forever!	4		0																									
-vo_hint_hint_	_n04	vo_hint_hint_ricefields_tragedy2_n04	omuk	hambo		SAMURAI	menacing		Open it! Now!	3		0																									
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_tragedy2_n00	omuk	hambo		SAMURAI	menacing		Mở ra!	2		0																									
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_tragedy2_n01	omuk	hambo		SAMURAI	menacing		Mở cửa!	3		0																									
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_tragedy2_n02	omuk	hambo		SAMURAI	menacing		Chúng ta rồi cũng làm được!	4		0																									
+vo_hint_hint_	_n03	vo_hint_hint_ricefields_tragedy2_n03	omuk	hambo		SAMURAI	menacing		Không giữ được mãi đâu!	4		0																									
+vo_hint_hint_	_n04	vo_hint_hint_ricefields_tragedy2_n04	omuk	hambo		SAMURAI	menacing		Mở nó! Ngay!	3		0																									
 																																					
 TRAGEDY3									Two rebels break down a door and storm inside a house. You hears screaming from the inside.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
 vo_hint_hint_	_n00	vo_hint_hint_ricefields_tragedy3_n00	omuk	hambo		ENEMY	triumphantly	breaks down the door	Hah!	1		0																									
-vo_hint_hint_	_n01	vo_hint_hint_ricefields_tragedy3_n01	omuk	hambo		CIVILIAN F	in terror		Please! Leave us alone…	4		0																									
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_tragedy3_n01	omuk	hambo		CIVILIAN F	in terror		Làm ơn! Để chúng tôi yên…	4		0																									
 vo_hint_hint_	_n02	vo_hint_hint_ricefields_tragedy3_n02	omuk	hambo		CIVILIAN F	absolute terror	screaming and sobbing		0		0																									
 																																					
 VICTIMS3									The team witnesses rebels who force their way into a house. You hear screaming from inside.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_victims3_n00	omuk	hambo		ALCHEMIST	angry		Vile beasts.	2		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_victims3_n01	omuk	hambo		TRAPPER	dark memories		Just like Okaa-san...	3		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_victims3_n00	omuk	hambo		ALCHEMIST	angry		Quái nhân hèn hạ.	2		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_victims3_n01	omuk	hambo		TRAPPER	dark memories		Cũng giống Okaa-san...	3		0																									
 vocs_over_over_	_n02	vocs_over_over_ricefields_victims3_n02	omuk	hambo		ALCHEMIST	cautious		Yuki-chan?	1		0																									
-vocs_over_over_	_n03	vocs_over_over_ricefields_victims3_n03	omuk	hambo		TRAPPER	evasive		Nothing. Mugen-sama needs us.	4		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_victims3_n03	omuk	hambo		TRAPPER	evasive		Không có gì. Mugen-sama cần chúng ta.	4		0																									
 																																					
 LOOTERS									The team sees looters putting bags and crates on wagons.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_looters_n00	omuk	hambo		ALCHEMIST	disgusted	Takuma first	Hmm. Looters.	2		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_looters_n01	omuk	hambo		TRAPPER	focussed		Maybe Mugen-sama's weapons are here somewhere.	6		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_looters_n02	omuk	hambo		ALCHEMIST	appreciative		Ah, good thinking!	3		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_looters_n00	omuk	hambo		ALCHEMIST	disgusted	Takuma first	Hmm. Kẻ trộm.	2		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_looters_n01	omuk	hambo		TRAPPER	focussed		Có thể vũ khí Mugen-sama ở đâu đây.	6		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_looters_n02	omuk	hambo		ALCHEMIST	appreciative		Ah, tư duy giỏi!	3		0																									
 																																					
 WARRIOR1									Yuki and Takuma approach the area where Mugen is held captive and questioned by a samurai.			0																									
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_warrior1_n00	omuk	hambo		TRAPPER	eager		There's Mugen-sama!	2		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_warrior1_n01	omuk	hambo		ALCHEMIST	focussed		He is well guarded. We must take on his interrogator together, yes?	12		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_warrior1_n02	omuk	hambo		TRAPPER	eager		Hai! You shoot, I finish him!	6		0																									
-vocs_over_over_	_n03	vocs_over_over_ricefields_warrior1_n03	omuk	hambo		ALCHEMIST	intrigued		Yuki-chan, why are you so eager to risk your life for Mugen?	12		0																									
-vocs_over_over_	_n04	vocs_over_over_ricefields_warrior1_n04	omuk	hambo		TRAPPER	persistent	Mugen is the only kind/accepting samurai she met	I told you, he's a friend. And a GOOD samurai.	10		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_warrior1_n00	omuk	hambo		TRAPPER	eager		Mugen-sama đây rồi!	2		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_warrior1_n01	omuk	hambo		ALCHEMIST	focussed		Chú ấy đang bị giam giữ. Chúng ta phải cùng xử lý kẻ thẩm vấn kia, đồng ý không?	12		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_warrior1_n02	omuk	hambo		TRAPPER	eager		Hai! Ông bắn, cháu kết thúc hắn!	6		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_warrior1_n03	omuk	hambo		ALCHEMIST	intrigued		Yuki-chan, sao cháu lại mạo hiểm cả mạng sống để cứu Mugen?	12		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_warrior1_n04	omuk	hambo		TRAPPER	persistent	Mugen is the only kind/accepting samurai she met	Cháu nói rồi, chú ấy là bạn. Và là một samurai tốt bụng.	10		0																									
 																																					
 QUESTIONS									A samurai interrogates Mugen																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vo_hint_hint_	_n00	vo_hint_hint_ricefields_questions_n00	omuk	hambo		SAMURAI	harsh		How did you know we were coming?	7		0																									
-vo_hint_hint_	_n01	vo_hint_hint_ricefields_questions_n01	omuk	hambo		SAMURAI	harsh		Were you alone? Or are other Shogunate dogs hiding in the fields?	12		0																									
-vo_hint_hint_	_n02	vo_hint_hint_ricefields_questions_n02	omuk	hambo		SAMURAI	cold		Your resistance will earn you nothing!	6		0																									
-vo_hint_hint_	_n03	vo_hint_hint_ricefields_questions_n03	omuk	hambo		SAMURAI	harsh		What does the Shogun's brother know of our plans?	9		0																									
-vo_hint_hint_	_n04	vo_hint_hint_ricefields_questions_n04	omuk	hambo		SAMURAI	impatient		Speak, and I will grant you an honorable death.	9		0																									
-vo_hint_hint_	_n05	vo_hint_hint_ricefields_questions_n05	omuk	hambo		SAMURAI	cruel		Did you really think you could stand against Lord Okkoto? 	11		0																									
-vo_hint_hint_	_n06	vo_hint_hint_ricefields_questions_n06	omuk	hambo		SAMURAI	cruel		You will talk soon enough when we boil you alive. 	11		0																									
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_questions_n00	omuk	hambo		SAMURAI	harsh		Sao mày biết bọn tạo chuẩn bị làm gì?	7		0																									
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_questions_n01	omuk	hambo		SAMURAI	harsh		Một mình hả? Hay một con chó Mạc Phủ khác đang lủi trong ruộng?	12		0																									
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_questions_n02	omuk	hambo		SAMURAI	cold		Sự kháng cự của ngươi chẳng giúp ích gì đâu!	6		0																									
+vo_hint_hint_	_n03	vo_hint_hint_ricefields_questions_n03	omuk	hambo		SAMURAI	harsh		Thằng em Mạc Chúa biết kế hoạch của bọn tao?	9		0																									
+vo_hint_hint_	_n04	vo_hint_hint_ricefields_questions_n04	omuk	hambo		SAMURAI	impatient		Nói, và tao sẽ ban cho mày cái chết danh dự.	9		0																									
+vo_hint_hint_	_n05	vo_hint_hint_ricefields_questions_n05	omuk	hambo		SAMURAI	cruel		Mày nghĩ mày có thể chống lại ngài Okkoto?	11		0																									
+vo_hint_hint_	_n06	vo_hint_hint_ricefields_questions_n06	omuk	hambo		SAMURAI	cruel		Mày sẽ khai hết khi bọn tao đun sống mày.	11		0																									
 																																					
 WARRIOR2									Yuki and Takuma free Mugen from his shackles.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_warrior2_n00	omuk	hambo		WARRIOR	heavy breathing	Yuki first	…Yuki-chan. What are you doing here?!	6		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_warrior2_n01	omuk	hambo		WARRIOR	heavy breathing	Takuma first	…Takuma-san. You returned for me?	5		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_warrior2_n02	omuk	hambo		ALCHEMIST	praise		Yuki-chan has saved us both, Mugen. We are in her debt.	11		0																									
-vocs_over_over_	_n03	vocs_over_over_ricefields_warrior2_n03	omuk	hambo		WARRIOR	deep gratitude	rubs his chaffed wrists	My dear Yuki-chan! I owe you my life! By my honor, I will not forget this!	16		0																									
-vocs_over_over_	_n04	vocs_over_over_ricefields_warrior2_n04	omuk	hambo		TRAPPER	very happy		Thank you, master samurai!	4		0																									
-vocs_over_over_	_n05	vocs_over_over_ricefields_warrior2_n05	omuk	hambo		WARRIOR	back in action		Now, we must find the surviving farmers and give them the same courtesy as you gave me.	17		0																									
-vocs_over_over_	_n06	vocs_over_over_ricefields_warrior2_n06	omuk	hambo		TRAPPER	cautious	doesn't like being praised so much	Uhm, Mugen-sama, they…they took your armor…	6		0																									
-vocs_over_over_	_n07	vocs_over_over_ricefields_warrior2_n07	omuk	hambo		WARRIOR	urgent		Ah, yes, we must find my equipment first. Let us make haste!	12		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_warrior2_n00	omuk	hambo		WARRIOR	heavy breathing	Yuki first	…Yuki-chan. Cháu làm gì ở đây?!	6		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_warrior2_n01	omuk	hambo		WARRIOR	heavy breathing	Takuma first	…Takuma-san. Lão quay lại vì tôi?	5		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_warrior2_n02	omuk	hambo		ALCHEMIST	praise		Yuki-chan đã cứu cả hai, Mugen. Chúng ta mắc nợ nhóc ấy.	11		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_warrior2_n03	omuk	hambo		WARRIOR	deep gratitude	rubs his chaffed wrists	Yuki-chan thân mến! Chú nợ cháu cả mạng sống này! Bằng danh dự, chú sẽ không bao giờ quên nó!	16		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_warrior2_n04	omuk	hambo		TRAPPER	very happy		Cảm ơn chú samurai xịn ^^!	4		0																									
+vocs_over_over_	_n05	vocs_over_over_ricefields_warrior2_n05	omuk	hambo		WARRIOR	back in action		Giờ, chúng ta phải tìm những nông dân còn sống và cứu họ như cháu đã làm với ta.	17		0																									
+vocs_over_over_	_n06	vocs_over_over_ricefields_warrior2_n06	omuk	hambo		TRAPPER	cautious	doesn't like being praised so much	Uhm, Mugen-sama, chúng…chúng đã lấy bộ giáp của chú…	6		0																									
+vocs_over_over_	_n07	vocs_over_over_ricefields_warrior2_n07	omuk	hambo		WARRIOR	urgent		Ah, đúng rồi, phải tìm đồ của chú đầu tiên. Chúng ta nhanh lên nào!	12		0																									
 																																					
 GEAR1									Yuki or Takuma find Mugen's gear.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_gear1_n00	omuk	hambo		ALCHEMIST	pondering	Takuma first	Ah, samurai gear, but no samurai to carry it.	9		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_gear1_n01	omuk	hambo		TRAPPER	exhausted	Yuki first	Ergh…so heavy. It wants to be with Mugen-sama. 	9		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_gear1_n02	omuk	hambo		WARRIOR	in haste	if Mugen has been freed	I will be there soon!	5		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_gear1_n00	omuk	hambo		ALCHEMIST	pondering	Takuma first	Ah, đồ samurai, nhưng không có samurai mặc nó.	9		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_gear1_n01	omuk	hambo		TRAPPER	exhausted	Yuki first	Ergh…nặng vãi. Nó muốn đến với Mugen-sama.	9		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_gear1_n02	omuk	hambo		WARRIOR	in haste	if Mugen has been freed	Sẽ tới đó sớm!	5		0																									
 																																					
 GEAR2									Mugen picks up his gear and now wants to free the farmers.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_gear2_n00	omuk	hambo		WARRIOR	pleased		Ah, alive again! Now, we must ascend to the main farm! The survivors must be there.	16		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_gear2_n01	omuk	hambo		ALCHEMIST	inquisitive		Are there any left?	4		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_gear2_n02	omuk	hambo		WARRIOR	urgent		If we make haste.	4		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_gear2_n00	omuk	hambo		WARRIOR	pleased		Ah, lại sống lần nữa! Giờ phải tới trang trại chính! Những người còn sống hẳn ở đó.	16		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_gear2_n01	omuk	hambo		ALCHEMIST	inquisitive		Vẫn còn?	4		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_gear2_n02	omuk	hambo		WARRIOR	urgent		Nếu chúng ta kịp lúc.	4		0																									
 																																					
 TROUBLE									On the way to the farmers.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_trouble_n00	omuk	hambo		WARRIOR	focussed		Are Aiko-san and Hayato-san nearby?	5		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_trouble_n01	omuk	hambo		TRAPPER	more and more anxious	afraid Mugen will kick her out	No. They're following that general. I, uh…had a message for Lord Noboru. But then I met Kuma, and… Am I in trouble?	22		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_trouble_n02	omuk	hambo		WARRIOR	"reassuring
-showing gratitude"		Do not worry, Yuki-chan. You saved our lives, so the responsibility is mine. We will deliver your message together.	19		0																									
-vocs_over_over_	_n03	vocs_over_over_ricefields_trouble_n03	omuk	hambo		TRAPPER	"very relieved
-grateful"		Hai, Mugen-sama!	2		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_trouble_n00	omuk	hambo		WARRIOR	focussed		Aiko-san và Hayato-san ở gần đây?	5		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_trouble_n01	omuk	hambo		TRAPPER	more and more anxious	afraid Mugen will kick her out	Không ạ. Anh chị ấy đang đi với nhau. Cháu, uh…có một tin cấp báo cho lãnh chúa Noboru. Nhưng rồi cháu gặp Kuma, và… Cháu có bị gì không ạ?	22		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_trouble_n02	omuk	hambo		WARRIOR	reassuring showing gratitude		Đừng lo, Yuki-chan. Cháu đã cứu chúng ta, nên giờ trách nhiệm là của chú. Chúng ta sẽ cùng cấp báo với nhau sau nhé.	19		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_trouble_n03	omuk	hambo		TRAPPER	very relieved grateful		Hai, Mugen-sama!	2		0																									
 																																					
 PRISONERS									The team discoveres the captured farmers.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_prisoners_n00	omuk	hambo		ALCHEMIST	pondering	Takuma first	Men and women, penned together like cattle.	7		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_prisoners_n01	omuk	hambo		TRAPPER	focussed	Yuki first	I see them…at the stables and in the backyard.	9		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_prisoners_n02	omuk	hambo		WARRIOR	tension		We must free them. I will speak to them after we have slain the rebels.	15		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_prisoners_n00	omuk	hambo		ALCHEMIST	pondering	Takuma first	Đàn ông và phụ nữ, bị đối xử như gia súc.	7		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_prisoners_n01	omuk	hambo		TRAPPER	focussed	Yuki first	Cháu thấy họ…ở chuồng bò và trong sân.	9		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_prisoners_n02	omuk	hambo		WARRIOR	tension		Phải giải thoát cho họ. Sẽ nói chuyện với họ sau khi chúng ta xử lý lũ phiến quân.	15		0																									
 																																					
 IMPRISONED									A group of farmers is penned in at the stables. (loop)																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vo_hint_hint_	_n00	vo_hint_hint_ricefields_imprisoned_n00	omuk	hambo		CIVILIAN M	extremely nervous	pacing up and down	Oh, this is bad… Maybe we should…	7		0																									
-vo_hint_hint_	_n01	vo_hint_hint_ricefields_imprisoned_n01	omuk	hambo		CIVILIAN F	depressed		Dark times, dark times…	4		0																									
-vo_hint_hint_	_n02	vo_hint_hint_ricefields_imprisoned_n02	omuk	hambo		CIVILIAN M	not thinking clearly		They are going to kill us!	6		0																									
-vo_hint_hint_	_n03	vo_hint_hint_ricefields_imprisoned_n03	omuk	hambo		CIVILIAN F	worried		Husband…be safe…	2		0																									
-vo_hint_hint_	_n04	vo_hint_hint_ricefields_imprisoned_n04	omuk	hambo		CIVILIAN M	not thinking clearly		We should have surrendered.	4		0																									
-vo_hint_hint_	_n05	vo_hint_hint_ricefields_imprisoned_n05	omuk	hambo		CIVILIAN F	praying		We must not give in to fear. Someone will come.	10		0																									
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_imprisoned_n00	omuk	hambo		CIVILIAN M	extremely nervous	pacing up and down	Oh, điềm xấu… có lẽ chúng ta nên…	7		0																									
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_imprisoned_n01	omuk	hambo		CIVILIAN F	depressed		Thời khắc đen tối x2…	4		0																									
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_imprisoned_n02	omuk	hambo		CIVILIAN M	not thinking clearly		Họ tới để giết chúng ta!	6		0																									
+vo_hint_hint_	_n03	vo_hint_hint_ricefields_imprisoned_n03	omuk	hambo		CIVILIAN F	worried		Chồng của em…phải an toàn nhé…	2		0																									
+vo_hint_hint_	_n04	vo_hint_hint_ricefields_imprisoned_n04	omuk	hambo		CIVILIAN M	not thinking clearly		Chúng ta nên đầu hàng.	4		0																									
+vo_hint_hint_	_n05	vo_hint_hint_ricefields_imprisoned_n05	omuk	hambo		CIVILIAN F	praying		Không được sợ hãi. Có ai đó đang tới.	10		0																									
 																																					
 FARMERS									The team frees the farmers.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_farmers_n00	omuk	hambo		CIVILIAN M	deep gratitude		Thank you! Oh, thank you! We knew the Shogun would send help!	12		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_farmers_n01	omuk	hambo		CIVILIAN F	pleading		My husband! They took him away…	6		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_farmers_n02	omuk	hambo		WARRIOR	"reassuring
-tense"	if headfarmer not free	"He will live; you have my word. Now, follow our lead."	11		0																									
-vocs_over_over_	_n03	vocs_over_over_ricefields_farmers_n03	omuk	hambo		WARRIOR	"reassuring
-tense"	if headfarmer free	He is already with us. Stay close and we will escape together.	12		0																									
-vocs_over_over_	_n04	vocs_over_over_ricefields_farmers_n04	omuk	hambo		CIVILIAN F	submissive		We will follow you.	4		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_farmers_n00	omuk	hambo		CIVILIAN M	deep gratitude		Đa tạ! Oh, đa tạ! Bọn tôi biết Mạc Chúa gửi người tới giúp!	12		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_farmers_n01	omuk	hambo		CIVILIAN F	pleading		Chồng của tôi! Họ bắt anh ấy đi…	6		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_farmers_n02	omuk	hambo		WARRIOR	reassuring tense	if headfarmer not free	Anh ấy sẽ sống; tôi tin chắc. Giờ hãy theo sự chỉ dẫn.	11		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_farmers_n03	omuk	hambo		WARRIOR	reassuring tense	if headfarmer free	Anh ấy đã ở với chúng tôi. Lại đây và chúng ta thoát cùng nhau.	12		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_farmers_n04	omuk	hambo		CIVILIAN F	submissive		Tôi sẽ theo anh.	4		0																									
 																																					
 INTERROGATE									A samurai interrogates a farmer in the backyard.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vo_hint_hint_	_n00	vo_hint_hint_ricefields_interrogate_n00	omuk	hambo		SAMURAI	malicious		Who is the samurai that came to your aid?	9		0																									
-vo_hint_hint_	_n01	vo_hint_hint_ricefields_interrogate_n01	omuk	hambo		HUSBAND	defiant	"Civilian M
-hard voice"	I don't know who he is.	6		0																									
-vo_hint_hint_	_n02	vo_hint_hint_ricefields_interrogate_n02	omuk	hambo		SAMURAI			Don't lie to me, peasant.	5		0																									
-vo_hint_hint_	_n03	vo_hint_hint_ricefields_interrogate_n03	omuk	hambo		HUSBAND	defiant	"Civilian M
-hard voice"	I only know the Shogun will send more like him. They will kill you.	14		0																									
-vo_hint_hint_	_n04	vo_hint_hint_ricefields_interrogate_n04	omuk	hambo		SAMURAI			Haha! Your defiance means nothing! We will make you talk.	10		0																									
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_interrogate_n00	omuk	hambo		SAMURAI	malicious		Gã Samurai đến giúp mày là ai?	9		0																									
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_interrogate_n01	omuk	hambo		HUSBAND	defiant	Civilian M hard voice	Tôi không biết hắn là ai.	6		0																									
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_interrogate_n02	omuk	hambo		SAMURAI			Mày đừng hòng lừa tao.	5		0																									
+vo_hint_hint_	_n03	vo_hint_hint_ricefields_interrogate_n03	omuk	hambo		HUSBAND	defiant	Civilian M hard voice	Tôi chỉ biết Mạc Chúa sẽ gửi thêm người như hắn. Họ sẽ giết anh.	14		0																									
+vo_hint_hint_	_n04	vo_hint_hint_ricefields_interrogate_n04	omuk	hambo		SAMURAI			Haha! Thách thức của mày không có nghĩa lý gì! Bọn tao sẽ nói chuyện với mày sau.	10		0																									
 																																					
 HUSBAND									The team frees the head farmer.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_husband_n00	omuk	hambo		HUSBAND	pleading		Thank you, my lord. Please! Others are at the stables. My wife, too…	13		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_husband_n01	omuk	hambo		WARRIOR	"reassuring
-tense"	if farmers not free	We will free them. Now, you must do as I tell you.	12		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_husband_n02	omuk	hambo		WARRIOR	"reassuring
-tense"	if farmers free	They have been freed. Now, come with us and we will escape together.	13		0																									
-vocs_over_over_	_n03	vocs_over_over_ricefields_husband_n03	omuk	hambo		HUSBAND	submissive		I will follow your lead.	5		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_husband_n00	omuk	hambo		HUSBAND	pleading		Đội ơn ngài. Làm ơn! Những người khác ở chuồng ngựa. Có cả vợ tôi…	13		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_husband_n01	omuk	hambo		WARRIOR	reassuring tense	if farmers not free	Chúng tôi sẽ giải thoát cho họ. Giờ anh phải làm những gì tôi nói.	12		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_husband_n02	omuk	hambo		WARRIOR	reassuring tense	if farmers free	Họ đã được tự do. Giờ đi cùng chúng tôi rồi trốn thoát cùng nhau.	13		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_husband_n03	omuk	hambo		HUSBAND	submissive		Tôi sẽ theo anh.	5		0																									
 																																					
-ALARM									"The prison patrol discovers that someone has escaped.
-(also used this for when Mugen's escape is discovered)"																												
+ALARM									The prison patrol discovers that someone has escaped. (also used this for when Mugen's escape is discovered)																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_alarm_n00	omuk			SAMURAI	commanding		Someone escaped! Search the area!	5		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_alarm_n01	omuk			SAMURAI	commanding		Someone escaped! Search the area!	5		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_alarm_n00	omuk			SAMURAI	commanding		Có người thoát! Tìm xung quanh ngay!	5		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_alarm_n01	omuk			SAMURAI	commanding		Có người thoát! Tìm xung quanh ngay!	5		0																									
 																																					
 DEBT									During the escape, halfway out the level.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_debt_n00	omuk	hambo		HUSBAND			We can never repay you for this kindness.	8		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_debt_n01	omuk	hambo		WARRIOR			We have not made it to safety yet.	8		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_debt_n02	omuk	hambo		CIVILIAN F			We would be dead already if not for you.	9		0																									
-vocs_over_over_	_n03	vocs_over_over_ricefields_debt_n03	omuk	hambo		WARRIOR			Then spread the word: the Shogun does not abandon his people.	11		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_debt_n00	omuk	hambo		HUSBAND			Chúng tôi không bao giờ có thể trả được hết ơn huệ của anh.	8		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_debt_n01	omuk	hambo		WARRIOR			Chúng ta chưa tới được nơi an toàn.	8		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_debt_n02	omuk	hambo		CIVILIAN F			Chúng tôi sẽ chết nếu không có anh.	9		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_debt_n03	omuk	hambo		WARRIOR			Vậy hãy nhắc mọi người: Mạc Chúa không bao giờ bỏ rơi con dân của mình.	11		0																									
 																																					
 MORE									A couple of rebel scouts enter the farm and block the exit.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_more_n00	omuk	hambo		OFFICER	relaxed, then tense	returning from patrol	Well, we're back! Looks like… Wait, something's wrong here! Everyone! Block the road!	13		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_more_n01	omuk	hambo		WARRIOR	tense		Scouts, returning from patrol. Everyone, keep your distance!	8		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_more_n02	omuk	hambo		ALCHEMIST	cheeky		Hm, I told you they'd come back. Hehe! I feel a sudden itch in my leg.	16		0																									
-vocs_over_over_	_n03	vocs_over_over_ricefields_more_n03	omuk	hambo		TRAPPER	tense		We're almost out! So close!	5		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_more_n00	omuk	hambo		OFFICER	relaxed, then tense	returning from patrol	Rồi, bọn ta quay về! Hình như… Chờ đã, có gì đó sai sai ở đây! Mọi người! Chặn đường lại!	13		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_more_n01	omuk	hambo		WARRIOR	tense		Linh canh quay lại tuần tra. Mọi người, giữ khoảng cách!	8		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_more_n02	omuk	hambo		ALCHEMIST	cheeky		Hm, ta nói với anh là họ sẽ quay lại mà. Hehe! Tự nhiên thấy ngứa ngứa ở chân.	16		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_more_n03	omuk	hambo		TRAPPER	tense		Chúng ta gần xong rồi! Xíu nữa!	5		0																									
 																																					
 DEBRIEFING									At the exit of the level.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_debriefing_n00	omuk	hambo		WARRIOR			Is everyone all right?	4		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_debriefing_n01	omuk	hambo		HUSBAND	nervous		Y-yes. Thank you, my lord. Thank you!	7		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_debriefing_n02	omuk	hambo		WARRIOR			We must all thank this brave young woman here. Her name is Yuki, and without her, none of us would be alive.	22		0																									
-vocs_over_over_	_n03	vocs_over_over_ricefields_debriefing_n03	omuk	hambo		TRAPPER	surprised		N-no no, that's not…	4		0																									
-vocs_over_over_	_n04	vocs_over_over_ricefields_debriefing_n04	omuk	hambo		CIVILIAN F	greatful	all farmers bow in gratitude	We owe you everything, Yuki-chan. I pray that we can return this kindness one day.	15		0																									
-vocs_over_over_	_n05	vocs_over_over_ricefields_debriefing_n05	omuk	hambo		TRAPPER	blushing		I, ah… You're welcome.	4		0																									
-vocs_over_over_	_n06	vocs_over_over_ricefields_debriefing_n06	omuk	hambo		WARRIOR			Now, we should leave, before more rebels arrive.	8		0																									
-vocs_over_over_	_n07	vocs_over_over_ricefields_debriefing_n07	omuk	hambo		HUSBAND	cautious		Where will you take us?	5		0																									
-vocs_over_over_	_n08	vocs_over_over_ricefields_debriefing_n08	omuk	hambo		WARRIOR		Mugen and farmers leave	We will head for Lord Noboru's camp. You will find shelter there until this matter is resolved.	17		0																									
-vocs_over_over_	_n09	vocs_over_over_ricefields_debriefing_n09	omuk	hambo		ALCHEMIST	delighted		Well done, Yuki-chan.	3		0																									
-vocs_over_over_	_n10	vocs_over_over_ricefields_debriefing_n10	omuk	hambo		TRAPPER	blushing		Thank you, Takuma-sama!	3		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_debriefing_n00	omuk	hambo		WARRIOR			Mọi người ổn cả chứ?	4		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_debriefing_n01	omuk	hambo		HUSBAND	nervous		V-vâng. Cảm ơn ngài. Cảm ơn!	7		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_debriefing_n02	omuk	hambo		WARRIOR			Chúng ta phải cảm ơn người phụ nữ trẻ này. Tên cháu ấy là Yuki, không có cháu thì chúng ta sẽ không một ai còn sống sót.	22		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_debriefing_n03	omuk	hambo		TRAPPER	surprised		K-không không, không phải…	4		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_debriefing_n04	omuk	hambo		CIVILIAN F	greatful	all farmers bow in gratitude	Chúng tôi nợ cháu mọi thứ, Yuki-chan. Cô cầu chúng ta có thể đáp trả lòng tốt mỗi ngày.	15		0																									
+vocs_over_over_	_n05	vocs_over_over_ricefields_debriefing_n05	omuk	hambo		TRAPPER	blushing		Cháu, ah… Không có gì đâu.	4		0																									
+vocs_over_over_	_n06	vocs_over_over_ricefields_debriefing_n06	omuk	hambo		WARRIOR			Giờ nên thoát khỏi đây, trước khi thêm lũ phiến quân tới.	8		0																									
+vocs_over_over_	_n07	vocs_over_over_ricefields_debriefing_n07	omuk	hambo		HUSBAND	cautious		Anh sẽ đưa chúng ta đi đâu?	5		0																									
+vocs_over_over_	_n08	vocs_over_over_ricefields_debriefing_n08	omuk	hambo		WARRIOR		Mugen and farmers leave	Chúng ta sẽ tới trại lãnh chúa Noboru. Anh sẽ tìm thấy nơi trú ẩn cho đến khi mọi chuyện được giải quyết.	17		0																									
+vocs_over_over_	_n09	vocs_over_over_ricefields_debriefing_n09	omuk	hambo		ALCHEMIST	delighted		Giỏi lắm, Yuki-chan.	3		0																									
+vocs_over_over_	_n10	vocs_over_over_ricefields_debriefing_n10	omuk	hambo		TRAPPER	blushing		Cảm ơn ông, Takuma-sama!	3		0																									
 																																					
 											MISSION-WORDCOUNT DE:	0		TOTAL	NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
 													Words	1101	0	234	255	0	288	0	0	0	0	0	0	0	45	4	0	115	0	36	66	58	0	0	0
 													Lines	137	0	33	23	0	31	0	0	0	0	0	0	0	5	2	0	17	0	6	13	7	0	0	0
-																																					
-																																					
-																																					
-																																					
-																																					
-																																					
-																																					
-																																					

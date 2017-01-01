@@ -9,7 +9,7 @@
 7	hud_con_context_action_hideBody	Ẩn Thân
 8	hud_con_context_action_jumpDown	Nhảy Xuống
 9	hud_con_context_action_jumpAcross	Nhảy
-10	hud_con_context_action_noGear	Thiếu Công Cụ
+10	hud_con_context_action_noGear	Thiếu Trang Bị
 11	hud_con_skill_cancel_carry	Hạ Xuống
 12	hud_con_skill_activate	Ngắm
 13	hud_con_skill_do	Sử Dụng Kĩ Năng
@@ -710,7 +710,7 @@
 739	gui_missionMenu_badge_LakeVillage_EavesdropRight	Nghe trộm lính tuần tra ở chuồng bò.
 740	gui_missionMenu_badge_LakeVillage_HelpVillagers	Giúp thường dân bị ngược đãi.
 741	gui_missionMenu_badge_Ricefields_NoClimbing	Không leo thang hoặc cây leo trinh đằng, và không sử dụng móc.
-742	gui_missionMenu_badge_Ricefields_DontEquipWar	Hoàn thành nhiệm vụ mà không thu hồi vũ khí của Mugen.
+742	gui_missionMenu_badge_Ricefields_DontEquipWar	Hoàn thành nhiệm vụ mà lấy lại trang bị của Mugen.
 743	gui_missionMenu_badge_Ricefields_RescueFarmersFirst	Giải cứu nông dân trước khi cứu Mugen.
 744	gui_missionMenu_badge_Ricefields_AOEGrenade	Giết {0} kẻ địch với một quả lựu đạn duy nhất.
 745	gui_missionMenu_badge_Ricefields_KillXWithRocks	Giết {0} kẻ địch bằng cách nghiền chúng với đá.
@@ -722,7 +722,7 @@
 751	gui_missionMenu_badge_BambooForest_KnockoutKageSama	Nốc ao đánh ngất Kage-sama thay vì giết chết hắn ta.
 752	gui_missionMenu_badge_BambooForest_AOEGrenade	Giết {0} kẻ địch với một quả lựu đạn duy nhất.
 753	gui_missionMenu_badge_Monastery2_KillAllAfterSeppuku	Giết tất cả địch sau khi tái hợp với Mugen.
-754	gui_missionMenu_badge_Monastery2_NoGear	Không thu hồi vũ khí nào.
+754	gui_missionMenu_badge_Monastery2_NoGear	Không lấy lại trang bị nào hết.
 755	gui_missionMenu_badge_Monastery2_NoClimbing	Không leo thang hoặc cây leo trinh đằng, và không sử dụng móc.
 756	gui_missionMenu_badge_Monastery2_EscapeWithNinja	Hayato trốn thoát đầu tiên.
 757	gui_missionMenu_badge_Monastery2_EscapeWithTrapper	Yuki trốn thoát đầu tiên.

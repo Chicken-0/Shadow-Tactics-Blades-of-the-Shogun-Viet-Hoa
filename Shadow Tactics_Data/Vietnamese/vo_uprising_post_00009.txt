@@ -1,0 +1,83 @@
+4,2,9		"CUTSCENE
+CONTEXT DIALOG"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) After the battle of Kanazawa, everyone returns to Edo.
+2) The Shogun and Noboru commend Mugen and his team for their achievements.
+3) Mugen is ordered to move against Kage-sama and bring him back dead or alive.
+4) Noboru, who IS Kage-sama, now knows how to set a trap for Mugen.
+5) Mugen prepares his team for what he thinks is the final mission.
+6) This is the closest our characters come to being a happy, complete team."																												
+																																					
+CINEMATIC									Narration with stylized render cutscene.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_uprising_post_n00				NARRATOR			With General Okkoto's death, the end of the rebellion was certain. 	12		0																									
+vocs_over_over_	_n01	vocs_over_over_uprising_post_n01				NARRATOR			Under Lord Noboru's command, the Shogunate army crushed the remaining rebels and restored the peace. Mugen and his companions had achieved an important victory. 	25		0																									
+vocs_over_over_	_n02	vocs_over_over_uprising_post_n02				NARRATOR			Armed with the knowledge of Kage-sama's secret hideout, they traveled to Edo, where they would await the orders of the Shogun.	21		0																									
+																																					
+EDO									Back in Edo, Mugen, Noboru and the team present themselves to the Shogun																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+						TITLECARD			Edo Castle audience chamber			0																									
+vocs_over_over_	_n03	vocs_over_over_uprising_post_n03				SHOGUN	pleased	everyone walks before the Shogun	Ah, Lord Noboru. I was pleased when I received news of your victory.	13		0																									
+vocs_over_over_	_n03a	vocs_over_over_uprising_post_n03a				SHOGUN	pleased	everyone walks before the Shogun	Your victory over the rebel Okkoto prevented this country from falling into chaos. I chose well when I entrusted you with this task, brother.	24		0																									
+vocs_over_over_	_n04	vocs_over_over_uprising_post_n04				BROGUN			The Shogunate army brought about the end of the rebellion. However, it would bring me shame if I did not mention the involvement of Mugen-san and his comrades.	28		0																									
+vocs_over_over_	_n05	vocs_over_over_uprising_post_n05				SHOGUN	praise		Ah yes, Mugen-san. To think that a group of only five could achieve this much. You chose well, Mugen.	19		0																									
+vocs_over_over_	_n05a	vocs_over_over_uprising_post_n05a				SHOGUN	praise		Hmm…impressive. To think that a group of only five facilitated such a victory. You chose well, Mugen.	17		0																									
+vocs_over_over_	_n06	vocs_over_over_uprising_post_n06				WARRIOR	proud		Your words honor us, my Shogun.	6		0																									
+vocs_over_over_	_n06a	vocs_over_over_uprising_post_n06a				WARRIOR	proud		Your words honor me, my Shogun.	6		0																									
+vocs_over_over_	_n07	vocs_over_over_uprising_post_n07				SHOGUN	praise		Together you even uncovered the location of Kage-sama. You must be very proud of these men and women.	18		0																									
+vocs_over_over_	_n08	vocs_over_over_uprising_post_n08				WARRIOR	proud		I am, my Shogun. I have rarely seen such skill in a group. I am honored that they trust me as their leader.	23		0																									
+vocs_over_over_	_n09	vocs_over_over_uprising_post_n09				BROGUN	generous		Now all that is left is to bring an end to Kage-sama. I say Mugen-san has earned the right to finish this matter himself.	24		0																									
+vocs_over_over_	_n10	vocs_over_over_uprising_post_n10				SHOGUN	just		I agree. No doubt a large attack force would only alert our enemy. I leave this matter to you, Mugen.	20		0																									
+vocs_over_over_	_n11	vocs_over_over_uprising_post_n11				WARRIOR	dutiful		Do you want him captured alive, my Shogun?	8		0																									
+vocs_over_over_	_n12	vocs_over_over_uprising_post_n12				SHOGUN	hard		Alive or dead, I want you to bring him to me. I must see the face of the man that conspired against me.	23		0																									
+vocs_over_over_	_n13	vocs_over_over_uprising_post_n13				WARRIOR	dutiful	pays respects, then leaves with team	We will not disappoint you, my Shogun. Noboru-sama.	8		0																									
+vocs_over_over_	_n14	vocs_over_over_uprising_post_n14				SHOGUN	a tiny bit softer		I must thank you too, brother. We may disagree on certain things, but I know there is no finer man to command the Shogunate army.	25		0																									
+vocs_over_over_	_n15	vocs_over_over_uprising_post_n15				BROGUN	formulated		I only fulfill my duty, brother. To my Shogun, and to Japan.	12		0																									
+												0																									
+PREPARE									The team prepares in the meeting place for the final battle.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+						TITLECARD			Safe house			0																									
+vocs_over_over_	_n16	vocs_over_over_uprising_post_n16				TRAPPER	amazed	only if team was present in cutscene before	We really met the Shogun! That was exciting!	8		0																									
+vocs_over_over_	_n17	vocs_over_over_uprising_post_n17				NINJA	in thought		So…this is it, huh?	4		0																									
+vocs_over_over_	_n18	vocs_over_over_uprising_post_n18				WARRIOR	pleased	*preparing*	Yes, we will finally meet our enemy face to face.	10		0																									
+vocs_over_over_	_n19	vocs_over_over_uprising_post_n19				NINJA	a bit uncomfortable		When this is done…I think I'll need some time alone… Have to think about a few things.	17		0																									
+vocs_over_over_	_n20	vocs_over_over_uprising_post_n20				WARRIOR	a bit disappointed		I see… Well, I am grateful that you are here for this most important mission.	15		0																									
+vocs_over_over_	_n21	vocs_over_over_uprising_post_n21				GEISHA	slightly concerened		Will we receive support from the Shogunate troops?	8		0																									
+vocs_over_over_	_n22	vocs_over_over_uprising_post_n22				WARRIOR	looking forward		No, we cannot risk spies warning off our prey. There will not be a better chance than this.	18		0																									
+vocs_over_over_	_n23	vocs_over_over_uprising_post_n23				GEISHA	slightly concerened		While that is true, I am not certain you have given this enough thought.	14		0																									
+vocs_over_over_	_n24	vocs_over_over_uprising_post_n24				WARRIOR	teasing		Will you not come with me, and point me in the right direction?	13		0																									
+vocs_over_over_	_n25	vocs_over_over_uprising_post_n25				GEISHA	still serious		I can hardly leave you alone on such an important occasion.	11		0																									
+vocs_over_over_	_n26	vocs_over_over_uprising_post_n26				TRAPPER	perplexed		Will we all be together on this one?	8		0																									
+vocs_over_over_	_n27	vocs_over_over_uprising_post_n27				WARRIOR	good mood		Indeed, Yuki-chan. That is, if Takuma-san feels ready.	8		0																									
+vocs_over_over_	_n28	vocs_over_over_uprising_post_n28				ALCHEMIST	amused	helps her prepare	No need to worry about me, Mugen.	7		0																									
+vocs_over_over_	_n29	vocs_over_over_uprising_post_n29				WARRIOR	ceremonial		Very good. Everyone! Listen here!	5		0																									
+vocs_over_over_	_n30	vocs_over_over_uprising_post_n30				WARRIOR	ceremonial	readies tablet with sake bowls	Together we have come far, and we only need to go a little further. Whatever comes after we have finished with Kage-sama, know that I am honored by your trust and loyalty.	32		0																									
+vocs_over_over_	_n31	vocs_over_over_uprising_post_n31				WARRIOR	ceremonial	toasts with a bowl of sake	A toast. To the Shogun and his trusted blades. May we bring an end to Kage-sama. Kanpai!	17		0																									
+vocs_over_over_	_n32	vocs_over_over_uprising_post_n32				NINJA	cool	together	Kanpai!	1		0																									
+vocs_over_over_	_n33	vocs_over_over_uprising_post_n33				TRAPPER	happy	together	Kanpai!	1		0																									
+vocs_over_over_	_n34	vocs_over_over_uprising_post_n34				GEISHA	elegant	together	Kanpai!	1		0																									
+vocs_over_over_	_n35	vocs_over_over_uprising_post_n35				ALCHEMIST	cheerful	together	Kanpai!	1		0																									
+																																					
+											MISSION-WORDCOUNT DE:	0		TOTAL	NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+													Words	531	22	17	169	34	8	159	0	64	0	0	0	58	0	0	0	0	0	0	0	0	0	0	0
+													Lines	39	3	3	13	4	2	8	0	3	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
