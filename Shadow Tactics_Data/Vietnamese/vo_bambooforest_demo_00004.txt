@@ -1,0 +1,41 @@
+5,2,9		CUTSCENE CONTEXT DIALOG WORLD				NINJA TRAPPER WARRIOR ALCHEMIST GEISHA TANUKI SHOGUN SHOGUNSON DAIMYO GENERAL BROGUN BROGUNSON	Hayato  Yuki  Ōshiro Mugen Takuma  Aiko  Kuma Shogun Ryūnosuke Yabu Okkoto Noboru Masaru	STORY:	In the demo level, the player must get inside a small encampment and kill a spy.																												
+																																					
+BRIEFING									Hayato and Yuki have snuck close to a small enemy camp where they must kill a spy.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+						TITLECARD			Next morning, somewhere on the Nakasendo route			0																									
+vocs_over_over_	_n00	vocs_over_over_bambooforest_demo_briefing_n00				TRAPPER			Bài kiếm tra cuối cùng. Mình phải làm cho Hayato-sensei tự hào. Cá là anh ấy đang ở đó.	14		0																									
+vocs_over_over_	_n01	vocs_over_over_bambooforest_demo_briefing_n01				NINJA			Hmm…Mình thấy Yuki-chan ở đó rồi. Nhóc con thông minh. Em chỉ cần giữ được tập trung thì mọi chuyện sẽ ổn thôi.	19		0																									
+vocs_over_over_	_n02	vocs_over_over_bambooforest_demo_briefing_n02				NINJA			Gián điệp là mục tiêu của chúng ta. Tiếp cận rồi xử đẹp hắn, hoặc bỏ độc vào trà của hắn cũng được.	15		0																									
+vocs_over_over_	_n03	vocs_over_over_bambooforest_demo_briefing_n03				NINJA			Khi chúng ta xong thì sẽ trốn thoát bằng con đường đó.	8		0																									
+vocs_over_over_	_n04	vocs_over_over_bambooforest_demo_briefing_n04				NINJA			Được rồi, Yuki…cho anh thấy những gì em có thể làm nào.	8		0																									
+vocs_over_over_	_n05	vocs_over_over_bambooforest_demo_briefing_n05				TRAPPER			Hah! …Đừng lo lắng, đồ ngốc, mày có thể làm được.	8		0																									
+																																					
+SpyDead									Description																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN																											
+vocs_over_over_	_n00	vocs_over_over_bambooforest_demo_spydead_n00				NINJA		Hayato First	…và hắn đã chết.	3																											
+vocs_over_over_	_n01	vocs_over_over_bambooforest_demo_spydead_n01				TRAPPER		Yuki First	Xử xong rồi, Hayato-sensei! Giờ làm gì tiếp?	5																											
+vocs_over_over_	_n02	vocs_over_over_bambooforest_demo_spydead_n02				TRAPPER			Cần phải thoát khỏi đây. Hướng về phía tây và mặt nhau ở gần lối thoát.	14																											
+																																					
+KillNPC									Description																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN																											
+vocs_over_over_	_n00	vocs_over_over_bambooforest_demo_killnpc_n00				NINJA		Hayato First	Oy. Hắn không cần phải chết.	6																											
+vocs_over_over_	_n01	vocs_over_over_bambooforest_demo_killnpc_n01				TRAPPER		Yuki First	…xin lỗi, xin lỗi. Mày không cần phải giết hắn, đồ ngốc!	9																											
+																																					
+ExitBoth																																					
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN																											
+vocs_over_over_	_n00	vocs_over_over_bambooforest_demo_exitboth_n00				NINJA		Hayato First	Đó là lối thoát. Sao Yuki-chan lâu vậy? Chúng ta phải trốn thoát cùng nhau.	13																											
+vocs_over_over_	_n01	vocs_over_over_bambooforest_demo_exitboth_n01				TRAPPER		Hayato First	Đây rồi! Lối thoát… Hayato-sensei đâu rồi? Anh ấy nói chúng ta phải thoát cùng nhau.	11																											
+																																					
+DEBRIEFING									Hayato and Yuki have snuck close to a small enemy camp where they must kill a spy.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_bambooforest_demo_debriefing_n00				NINJA			Rồi, tất cả đã xong.	3		0																									
+vocs_over_over_	_n01	vocs_over_over_bambooforest_demo_debriefing_n01				TRAPPER			Chúng ta đã làm được!	3		0																									
+vocs_over_over_	_n02	vocs_over_over_bambooforest_demo_debriefing_n02				NINJA			Hm. Em làm tốt lắm, Yuki-chan.	5		0																									
+vocs_over_over_	_n03	vocs_over_over_bambooforest_demo_debriefing_n03				NINJA			Anh biết Takuma-sama sẽ tự hào về em lắm.	7		0																									
+vocs_over_over_	_n04	vocs_over_over_bambooforest_demo_debriefing_n04				TRAPPER			Em… Cảm ơn anh, Hayato-sensei!	4		0																									
+vocs_over_over_	_n05	vocs_over_over_bambooforest_demo_debriefing_n05				NINJA			Được rồi. Ra khỏi đây thôi.	6		0																									
+																																					
+																																					
+											MISSION-WORDCOUNT DE:	0		TOTAL	NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+													Words	161	93	68	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+													Lines	19	11	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
