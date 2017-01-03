@@ -1,12 +1,12 @@
 1,0,3			
 280759577	MiMissionTaskHandler	Element 0 Str Task Name	Giải cứu Mugen
 629928307	MiMissionTaskHandler	Element 0 Str Description	Mugen đang bị tra khảo bởi một samurai phiến quân. Giết samurai và giải cứu Mugen.
-454379243	MiMissionTaskHandler	Element 1 Str Task Name	Lấy lại trang bị cho Mugen
--875361560	MiMissionTaskHandler	Element 1 Str Description	Phiến quân đã lấy trang bị của Mugen. Lấy lại nó cho Mugen.
-569193077	MiMissionTaskHandler	Element 2 Str Task Name	Giải phóng nông dân
--926836000	MiMissionTaskHandler	Element 2 Str Description	Một số nông dân vẫn còn sống. Phải giải cứu tất cả họSome farmers are still alive. You must rescue them all.
+454379243	MiMissionTaskHandler	Element 1 Str Task Name	Lấy lại đồ cho Mugen
+-875361560	MiMissionTaskHandler	Element 1 Str Description	Phiến quân đã lấy đồ của Mugen. Lấy lại nó cho Mugen.
+569193077	MiMissionTaskHandler	Element 2 Str Task Name	Giải cứu nông dân
+-926836000	MiMissionTaskHandler	Element 2 Str Description	Một số nông dân vẫn còn sống. Phải giải cứu tất cả họ.
 -1276784885	MiMissionTaskHandler	Element 3 Str Task Name	Sân sau
--1506802054	MiMissionTaskHandler	Element 3 Str Description	Một nông dân đang bị thẩm vấn ở sân sau.
+-1506802054	MiMissionTaskHandler	Element 3 Str Description	Một nông dân đang bị tra hỏi ở sân sau.
 1678707664	MiMissionTaskHandler	Element 4 Str Task Name	Chuồng bò
 -402215371	MiMissionTaskHandler	Element 4 Str Description	Một nhóm nông dân đang ở cùng nhau tại chuồng bò.
 -758626040	MiMissionTaskHandler	Element 5 Str Task Name	Bảo vệ nông dân
@@ -24,9 +24,9 @@
 -630977109	MiMissionTaskHandler	Element 11 Str Task Name	Cùng trốn thoát
 -95330651	MiMissionTaskHandler	Element 11 Str Description	Tới gần đường bị chặn và thoát khỏi làng Suganuma.
 1062099708	MiMissionTaskHandler	Element 12 Str Task Name	Ruộng lúa
--438022458	MiMissionTaskHandler	Element 12 Str Description	Ruộng lúa là khu vực ẩn nấp rộng, nhưng đi qua nó tạo nhiều tiếng động.
+-438022458	MiMissionTaskHandler	Element 12 Str Description	Ruộng lúa là khu vực ẩn nấp rộng, nhưng băng qua đó sẽ tạo nhiều tiếng động.
 1624913245	MiMissionTaskHandler	Element 13 Str Task Name	Vũng nước
-624356955	MiMissionTaskHandler	Element 13 Str Description	Cẩn thận vũng nước. Lội qua nó tạo nhiều tiếng động.
+624356955	MiMissionTaskHandler	Element 13 Str Description	Cẩn thận vũng nước. Lội qua đó sẽ tạo nhiều tiếng động.
 359114620	MiMissionTaskHandler	Element 14 Str Task Name	Giết Samurai
 -433199176	MiMissionTaskHandler	Element 14 Str Description	Hãy nhớ: Có thể làm choáng Samurai với hỏa lực, rồi kết thúc hắn bằng tấn công cận chiến.
 2040009445	tutorialbox_farmers	Str Header Text	Điều khiển thường dân

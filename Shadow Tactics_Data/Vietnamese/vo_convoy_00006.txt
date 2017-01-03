@@ -3,17 +3,17 @@
 BRIEFING									Hayato has snuck close to the weapons transport that he is supposed to attack. He get's a lay of the land, talking to himself in a practical manner.	Hayato has snuck close to the weapons transport that he is supposed to attack. He get's a lay of the land, talking to himself in a practical manner.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 								TITLECARD	Next morning, Nakasendō route	Next morning, Nakasendō route			0																									
-vocs_over_over_	_n00	vocs_over_over_convoy_briefing_n00	omuk		Mo	NINJA	focussed		Được rồi. Hẳn đó là phương tiện di chuyển. Tự hỏi sao nó bị dừng lại.	All right. That must be the transport. Wonder why it's stopped.	11		0																									
-vocs_over_over_	_n01	vocs_over_over_convoy_briefing_n01	omuk		Mo	NINJA	smug		Hmm…có vẻ như cây cầu có vấn đề. Quá ngon cho mình rồi...	Hmm…looks like the bridge gave in. That's fine with me...	10		0																									
+vocs_over_over_	_n00	vocs_over_over_convoy_briefing_n00	omuk		Mo	NINJA	focussed		Được rồi. Hẳn đó là phương tiện di chuyển. Sao nó phải dừng lại nhỉ.	All right. That must be the transport. Wonder why it's stopped.	11		0																									
+vocs_over_over_	_n01	vocs_over_over_convoy_briefing_n01	omuk		Mo	NINJA	smug		Hmm…có vẻ như cầu gặp vấn đề. Quá ngon cho mình rồi...	Hmm…looks like the bridge gave in. That's fine with me...	10		0																									
 vocs_over_over_	_n02	vocs_over_over_convoy_briefing_n02	omuk		Mo	NINJA	smug		Những người mang cờ là Chỉ Huy. Để được an toàn, sẽ phải giết ít nhất 4 người.	The ones with the flags are the officers. Think I'll kill at least four, just to be safe.	18		0																									
-vocs_over_over_	_n03	vocs_over_over_convoy_briefing_n03	omuk		Mo	NINJA	planning		Mình sẽ phát tín hiệu cho Mugen khi hoàn tất. Bức tượng có vẻ là một vị trí tốt.	I'll signal Mugen when I'm done. That statue looks like a good spot.	13		0																									
-vocs_over_over_	_n04	vocs_over_over_convoy_briefing_n04	omuk		Mo	NINJA	alert		Hm…chúng đang tìm kiếm thứ gì đó. Hoặc một ai đó. Tốt hơn là cúi cái đầu của mình xuống.	Hm…they are looking for something. Or someone. Better keep my head down.	12		0																									
+vocs_over_over_	_n03	vocs_over_over_convoy_briefing_n03	omuk		Mo	NINJA	planning		Mình sẽ phát tín hiệu cho Mugen khi hoàn tất. Bức tượng có vẻ là vị trí thuận lợi.	I'll signal Mugen when I'm done. That statue looks like a good spot.	13		0																									
+vocs_over_over_	_n04	vocs_over_over_convoy_briefing_n04	omuk		Mo	NINJA	alert		Hm…chúng đang tìm kiếm thứ gì chăng. Hay là ai đó nhỉ. Tốt hơn là nên cúi thấp đầu xuống.	Hm…they are looking for something. Or someone. Better keep my head down.	12		0																									
 																																						
 SEARCH									A guard orders another to search the underbrush for Yuki.	A guard orders another to search the underbrush for Yuki.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
-vo_hint_hint_	_n00	vo_hint_hint_convoy_search_n00	omuk		Mo	ENEMY	tense		Ả ta phải nấu đâu đó quanh đây!	She must be hiding here somewhere!	6		0																									
+vo_hint_hint_	_n00	vo_hint_hint_convoy_search_n00	omuk		Mo	ENEMY	tense		Con nhóc phải lủi đâu đó quanh đây!	She must be hiding here somewhere!	6		0																									
 vo_hint_hint_	_n01	vo_hint_hint_convoy_search_n01	omuk		Mo	ENEMY	tense		Tiếp tục tìm!	Keep searching!	2		0																									
-vo_hint_hint_	_n02	vo_hint_hint_convoy_search_n02	omuk		Mo	ENEMY	tense		Ả ta đây, tôi biết ngay mà!	She's here, I know it!	5		0																									
+vo_hint_hint_	_n02	vo_hint_hint_convoy_search_n02	omuk		Mo	ENEMY	tense		Con nhóc đây, tao biết ngay mà!	She's here, I know it!	5		0																									
 																																						
 TRAPPER									Yuki is hidden in a bush and lures a guard to his death. Hayato notices the scene and moves in to investigate.	Yuki is hidden in a bush and lures a guard to his death. Hayato notices the scene and moves in to investigate.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
@@ -21,11 +21,11 @@ vocs_over_over_	_n00	vocs_over_over_convoy_trapper_n00	omuk		Mo	NINJA	surprised	
 vocs_over_over_	_n01	vocs_over_over_convoy_trapper_n01	omuk		Mo	NINJA	interested	sees guard die moves in to investigate	Hmm, một cái bẫy. Thú vị đấy…	Hmm, a trap. Interesting…	4		0																									
 vocs_over_over_	_n02	vocs_over_over_convoy_trapper_n02	omuk		Mo	TRAPPER	sneaky	threatens him with knife	Cấm cử động! …ngươi là ai? Một con sói đơn độc?	Don't move! …what are you? A lonely wolf?	8		0																									
 vocs_over_over_	_n03	vocs_over_over_convoy_trapper_n03	omuk		Mo	NINJA	slightly intrigued	whirls around and puts his sword at her throat	…một đứa trẻ, huh? Em là người mà bọn chúng đang truy lùng.	…a child, huh? You're the one they're looking for.	9		0																									
-vocs_over_over_	_n04	vocs_over_over_convoy_trapper_n04	omuk		Mo	TRAPPER	lying		K-không họ không phải! Em thầm lặng, như một con mèo đó!	N-no they're not! I'm silent, like a cat!	8		0																									
+vocs_over_over_	_n04	vocs_over_over_convoy_trapper_n04	omuk		Mo	TRAPPER	lying		K-không họ không phải! Em thầm lặng, như một con mèo nhé!	N-no they're not! I'm silent, like a cat!	8		0																									
 vocs_over_over_	_n05	vocs_over_over_convoy_trapper_n05	omuk		Mo	NINJA	slightly amused		Em đang làm cái quái gì ở đây vậy?	What are you doing here?	5		0																									
-vocs_over_over_	_n06	vocs_over_over_convoy_trapper_n06	omuk		Mo	TRAPPER	devious		Em thấy những thứ trên xe ngựa. Chúng có vẻ như không muốn ở đó, cho nên em…em nghĩ sẽ đựa chúng về với em.	I saw things on those wagons. They didn't look happy there, so I…I thought I'd take them with me.	19		0																									
-vocs_over_over_	_n07	vocs_over_over_convoy_trapper_n07	omuk		Mo	NINJA	serious now		Tốt hơn là ra khỏi đây đi. Điều tồi tệ sẽ xảy ra nếu có trẻ em ở đây. Tìm chỗ khác mà chơi ấy.	Better run along now. Bad things happen to children out here. Go play somewhere else.	15		0																									
-vocs_over_over_	_n08	vocs_over_over_convoy_trapper_n08	omuk		Mo	TRAPPER	cunning		Anh đã thấy những cái bẫy bé bỏng của em, phải hem? Em…em sẽ giúp anh! Nếu anh đuổi em đi thì em vẫn tự mình làm việc một lần nữa mà thôi.	You saw my little trap, right? I…I could help you! If you send me away, I'll just try on my own again.	23		0																									
+vocs_over_over_	_n06	vocs_over_over_convoy_trapper_n06	omuk		Mo	TRAPPER	devious		Em thấy những thứ trên xe bò. Chúng có vẻ như không muốn ở đó, cho nên em…em nghĩ sẽ lấy chúng về với em.	I saw things on those wagons. They didn't look happy there, so I…I thought I'd take them with me.	19		0																									
+vocs_over_over_	_n07	vocs_over_over_convoy_trapper_n07	omuk		Mo	NINJA	serious now		Tốt hơn là ra khỏi đây đi. Thứ tồi tệ sẽ xảy ra nếu có trẻ em ở đây. Tìm chỗ khác mà chơi ấy.	Better run along now. Bad things happen to children out here. Go play somewhere else.	15		0																									
+vocs_over_over_	_n08	vocs_over_over_convoy_trapper_n08	omuk		Mo	TRAPPER	cunning		Anh đã thấy những cái bẫy bé bỏng của em, phải hem? Em…em sẽ giúp anh! Nếu anh đuổi em đi thì em vẫn tự mình làm lại việc này mà thôi.	You saw my little trap, right? I…I could help you! If you send me away, I'll just try on my own again.	23		0																									
 vocs_over_over_	_n09	vocs_over_over_convoy_trapper_n09	omuk		Mo	NINJA	tense, then giving in	briefly hesitates, then and puts away his sword	…ugh, anh không có thời gian cho chuyện này. Tốt thôi, em có thể đi theo. Nhưng em phải làm theo chính xác những gì anh nói—hiểu không?	…ugh, I don't have time for this. Fine, you can come along. But you do exactly what I tell you—got it?	21		0																									
 vocs_over_over_	_n10	vocs_over_over_convoy_trapper_n10	omuk		Mo	TRAPPER	playful		Hai, sensei!	Hai, sensei!	2		0																									
 vocs_over_over_	_n11	vocs_over_over_convoy_trapper_n11	omuk		Mo	NINJA	annoyed		Cấm gọi anh như thế.	Don't call me that.	4		0																									
@@ -33,23 +33,23 @@ vocs_over_over_	_n11	vocs_over_over_convoy_trapper_n11	omuk		Mo	NINJA	annoyed		C
 CARRY TRA									Yuki tries to move a corpse, which is a slow and tedious affair	Yuki tries to move a corpse, which is a slow and tedious affair																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_convoy_carrytra_n00	omuk		Mo	TRAPPER	exhausted	groan	Ugh…ergh…engh!	Ugh…ergh…engh!	1		0																									
-vocs_over_over_	_n01	vocs_over_over_convoy_carrytra_n01	omuk		Mo	NINJA	amused		Trời. Cần giúp một tay không?	Tch. Need help with that?	5		0																									
-vocs_over_over_	_n02	vocs_over_over_convoy_carrytra_n02	omuk		Mo	TRAPPER	stubborn		Ungh… Thôi khỏi, em tự lo.	Ungh… I'm fine, thank you.	5		0																									
+vocs_over_over_	_n01	vocs_over_over_convoy_carrytra_n01	omuk		Mo	NINJA	amused		Trời. Cần phụ một tay không?	Tch. Need help with that?	5		0																									
+vocs_over_over_	_n02	vocs_over_over_convoy_carrytra_n02	omuk		Mo	TRAPPER	stubborn		Ungh… Thôi khỏi, em tự lo được.	Ungh… I'm fine, thank you.	5		0																									
 																																						
 CARRY NIN									Hayato has just stashed a corpse inside a bush. Carrying corpses is much easier vor him, so Hayato is a little jealous.	Hayato has just stashed a corpse inside a bush. Carrying corpses is much easier vor him, so Hayato is a little jealous.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_convoy_carrynin_n00	omuk		Mo	NINJA	business as usual		Lại đây nào.	There we go.	3		0																									
-vocs_over_over_	_n01	vocs_over_over_convoy_carrynin_n01	omuk		Mo	TRAPPER	a little jealous		Anh làm nó trông thật dễ dàng.	Looks so easy for you.	5		0																									
+vocs_over_over_	_n01	vocs_over_over_convoy_carrynin_n01	omuk		Mo	TRAPPER	a little jealous		Anh làm nó trông dễ thật.	Looks so easy for you.	5		0																									
 vocs_over_over_	_n02	vocs_over_over_convoy_carrynin_n02	omuk		Mo	NINJA	smug		Đó là vì anh đã lớn.	That's because I'm a grown-up.	5		0																									
 																																						
 USE TRAP									There's a group of guards around the corner. The situation is more suited to Yuki's abilities than Hayato's	There's a group of guards around the corner. The situation is more suited to Yuki's abilities than Hayato's																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_convoy_usetrap_n00	omuk		Mo	NINJA	tense	Hayato first	Góc khuất. Xử lý chúng khá là lộn xộn đây.	Tight spot. This could get messy.	6		0																									
-vocs_over_over_	_n01	vocs_over_over_convoy_usetrap_n01	omuk		Mo	TRAPPER	cautious		Đợi phát. Em sẽ gọi chúng lại bằng tiếng chim thánh thót của em. Bọn chúng nghiện nó lắm.	Wait. I'll just call them with my bird's voice. They like that.	12		0																									
+vocs_over_over_	_n01	vocs_over_over_convoy_usetrap_n01	omuk		Mo	TRAPPER	cautious		Đợi chút. Em sẽ gọi họ lại bằng tiếng chim thánh thót của em. Bọn họ nghiện nó lắm.	Wait. I'll just call them with my bird's voice. They like that.	12		0																									
 																																						
 TRAP KILL									A guard has just been killed by a trap that Yuki has set up beforehand.	A guard has just been killed by a trap that Yuki has set up beforehand.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_convoy_trapkill_n00	omuk		Mo	TRAPPER	happy		Nhìn nè? Nó hoạt động!	See? It works!	3		0																									
+vocs_over_over_	_n00	vocs_over_over_convoy_trapkill_n00	omuk		Mo	TRAPPER	happy		Nhìn nó hoạt động nè!	See? It works!	3		0																									
 vocs_over_over_	_n01	vocs_over_over_convoy_trapkill_n01	omuk		Mo	NINJA	genuinly impressed		Không tệ. Ai làm cho em cái bẫy đó?	Not bad. Who made you that trap?	7		0																									
 vocs_over_over_	_n02	vocs_over_over_convoy_trapkill_n02	omuk		Mo	TRAPPER	proud		Không ai cả! Em tự làm cho mình!	No one! I built it myself!	6		0																									
 vocs_over_over_	_n03	vocs_over_over_convoy_trapkill_n03	omuk		Mo	NINJA	yeah right		Hmph. Chắc là em làm nó thật.	Hmph. Sure you did.	4		0																									
@@ -58,14 +58,14 @@ SHURIKEN									Hayato has just killed someone with a well aimed shuriken.	Haya
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_convoy_shuriken_n00	omuk		Mo	TRAPPER	excited		Ooh, shuriken! Cho em một cái được không?	Ooh, shuriken! Can I have one?	6		0																									
 vocs_over_over_	_n01	vocs_over_over_convoy_shuriken_n01	omuk		Mo	NINJA	amused		Chắc chắn không.	Definitely not.	2		0																									
-vocs_over_over_	_n02	vocs_over_over_convoy_shuriken_n02	omuk		Mo	TRAPPER	disappointed		Ki bo chưa, tại sao không?	Why not?	2		0																									
+vocs_over_over_	_n02	vocs_over_over_convoy_shuriken_n02	omuk		Mo	TRAPPER	disappointed		Ki bo chưa, sao lại không?	Why not?	2		0																									
 vocs_over_over_	_n03	vocs_over_over_convoy_shuriken_n03	omuk		Mo	NINJA	amused		Heh…	Heh…	1		0																									
 vocs_over_over_	_n03a	vocs_over_over_convoy_shuriken_n03a	omuk		Mo	NINJA	amused	ALTERNATIVE1	Không lằng nhằng.	No spares.	2		0																									
 vocs_over_over_	_n03b	vocs_over_over_convoy_shuriken_n03b	omuk		Mo	NINJA	amused	ALTERNATIVE2	Bởi vì không.	Because not.	2		0																									
 																																						
 KNIFED									Yuki is killing someone with her knife.	Yuki is killing someone with her knife.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_convoy_knifed_n00	omuk		Mo	NINJA	surprised		Em khá nhanh với con dao đó đấy.	You're quick with that knife.	5		0																									
+vocs_over_over_	_n00	vocs_over_over_convoy_knifed_n00	omuk		Mo	NINJA	surprised		Em khá nhanh với con dao kia đấy.	You're quick with that knife.	5		0																									
 vocs_over_over_	_n01	vocs_over_over_convoy_knifed_n01	omuk		Mo	TRAPPER	happy		Quá khen, sensei!	Thank you, sensei!	3		0																									
 vocs_over_over_	_n02	vocs_over_over_convoy_knifed_n02	omuk		Mo	NINJA	slightly annoyed		Bảo rồi: CẤM GỌI ANH NHƯ THẾ.	I told you: Don't call me that.	7		0																									
 																																						
@@ -73,52 +73,52 @@ JUMPS									As they get to higher ground, the team notices that they can move 
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_convoy_jumps_n00	omuk		Mo	NINJA	practical	Hayato first	Nhiều xe hàng ở lối này...	More wagons this way…	4		0																									
 vocs_over_over_	_n01	vocs_over_over_convoy_jumps_n01	omuk		Mo	TRAPPER	focussed		Những xe hàng lười nhác. Không ai nhìn lên đó. Hãy nhảy ở phía trên ấy!	Lazy wagons. No one looks up there. Let's jump on top!	11		0																									
-vocs_over_over_	_n02	vocs_over_over_convoy_jumps_n02	omuk		Mo	NINJA	agrees		Ý tưởng không tồi, thật đó.	Not a bad idea, actually.	5		0																									
+vocs_over_over_	_n02	vocs_over_over_convoy_jumps_n02	omuk		Mo	NINJA	agrees		Ý tưởng không tồi đâu.	Not a bad idea, actually.	5		0																									
 																																						
 VERTICAL									As he is making some daring jumping, Hayato is surpised that Yuki can easily keep up with him.	As he is making some daring jumping, Hayato is surpised that Yuki can easily keep up with him.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_convoy_vertical_n00	omuk		Mo	TRAPPER	joyful	jumping noise	Hấp!	Hep!	1		0																									
-vocs_over_over_	_n01	vocs_over_over_convoy_vertical_n01	omuk		Mo	NINJA	slightly surprised		Thăng bằng tốt. Ai dạy em vậyWho taught you?	Good balance. Who taught you?	5		0																									
-vocs_over_over_	_n02	vocs_over_over_convoy_vertical_n02	omuk		Mo	TRAPPER	cocky		Mấy con mèo trong hẻm.	Alley cats.	2		0																									
+vocs_over_over_	_n01	vocs_over_over_convoy_vertical_n01	omuk		Mo	NINJA	slightly surprised		Thăng bằng tốt. Ai chỉ cho em vậy?	Good balance. Who taught you?	5		0																									
+vocs_over_over_	_n02	vocs_over_over_convoy_vertical_n02	omuk		Mo	TRAPPER	cocky		Mấy con mèo trong hẻm í.	Alley cats.	2		0																									
 vocs_over_over_	_n03	vocs_over_over_convoy_vertical_n03	omuk		Mo	NINJA	amused		Pft… Mèo trong hẻm!	Pft… Alley cats!	3		0																									
 																																						
 ROCK									The team discovers a lose outcrop of rock that can be dropped on an enemy.	The team discovers a lose outcrop of rock that can be dropped on an enemy.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_convoy_rock_n00	omuk		Mo	NINJA	curious		Nhìn thấy tảng đá ở trên vách không? Nó nói cho em điều gì?	See that large rock on the cliff? What does it tell you?	12		0																									
-vocs_over_over_	_n01	vocs_over_over_convoy_rock_n01	omuk		Mo	TRAPPER	focussed		Hmm…tảng đá đẹp. Giống như đang tạo dáng cạnh vách đá vậy. Có thể cô ấy đang chờ ai đó ở dưới chăng!	Hmm…beautiful stone. Likes to lean over the edge. Maybe she's waiting for someone below!	14		0																									
-vocs_over_over_	_n02	vocs_over_over_convoy_rock_n02	omuk		Mo	NINJA	agrees		Giống với suy nghĩ của anh.	My thoughts exactly.	3		0																									
+vocs_over_over_	_n01	vocs_over_over_convoy_rock_n01	omuk		Mo	TRAPPER	focussed		Hmm…tảng đá xinh đẹp. Giống như đang tạo dáng cạnh vách đá vậy. Có thể cô ấy đang chờ ai đó ở dưới chăng!	Hmm…beautiful stone. Likes to lean over the edge. Maybe she's waiting for someone below!	14		0																									
+vocs_over_over_	_n02	vocs_over_over_convoy_rock_n02	omuk		Mo	NINJA	agrees		Cùng suy nghĩ với anh.	My thoughts exactly.	3		0																									
 vocs_over_over_	_n02a	vocs_over_over_convoy_rock_n02a	omuk		Mo	NINJA	agrees	has to process her crazy talk	Eh…không phải mấy từ ngữ mĩ miều này, nhưng ý vẫn là thế.	Eh…not the words I'd choose, but good in theory.	9		0																									
 																																						
 WAGON									The team discovers a wagon standing on a slope. It can be let loose so it crushes an enemy.	The team discovers a wagon standing on a slope. It can be let loose so it crushes an enemy.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_convoy_wagon_n00	omuk		Mo	NINJA	curious	Hayato first	Em thấy xe hàng kia không? Một trong những khẩu pháo?	You see the wagon there? The one with the cannons?	10		0																									
 vocs_over_over_	_n01	vocs_over_over_convoy_wagon_n01	omuk		Mo	TRAPPER	focussed		Oh…bánh xe đã bị chặn lại! Anh ấy muốn được tự do kìa!	Oh…the wagon's wheels are blocked! He wants to be free!	10		0																									
-vocs_over_over_	_n02	vocs_over_over_convoy_wagon_n02	omuk		Mo	NINJA	agrees		Chúng ta nên loại bỏ mấy thùng chèn vào bánh kia.	Then we should remove those brakes.	6		0																									
-vocs_over_over_	_n02a	vocs_over_over_convoy_wagon_n02a	omuk		Mo	NINJA	agrees	has to process her crazy talk	Uh-huh… Tốt thôi, nếu "giải phóng" đúng thời điểm, nó sẽ giúp ích cho chúng ta.	Uh-huh… Well, if we "free" it at the right time, it could work out for us.	16		0																									
+vocs_over_over_	_n02	vocs_over_over_convoy_wagon_n02	omuk		Mo	NINJA	agrees		Chúng ta nên di chuyển cái thùng đang chèn vào bánh kia.	Then we should remove those brakes.	6		0																									
+vocs_over_over_	_n02a	vocs_over_over_convoy_wagon_n02a	omuk		Mo	NINJA	agrees	has to process her crazy talk	Uh-huh… Tốt thôi, nếu "giải thoát" đúng thời điểm, nó sẽ giúp ích cho chúng ta.	Uh-huh… Well, if we "free" it at the right time, it could work out for us.	16		0																									
 																																						
 OXEN									Hayato notices an officer standing close to a drinking ox. If he throws a stone at the ox, it will run wild and kill the officer.	Hayato notices an officer standing close to a drinking ox. If he throws a stone at the ox, it will run wild and kill the officer.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_convoy_oxen_n00	omuk		Mo	NINJA	smug		Hmm…con bò…nguy hiểm nếu khiêu khích nó. Tại sao lại không thử nhỉ…	Hmm…oxen…dangerous if provoked. Why not make use of that…	9		0																									
 vocs_over_over_	_n01	vocs_over_over_convoy_oxen_n01	omuk		Mo	TRAPPER	doesn't get it		Đừng làm tổn thương em ấy!	Don't hurt him!	3		0																									
-vocs_over_over_	_n02	vocs_over_over_convoy_oxen_n02	omuk		Mo	NINJA	smug		Con bò? Không, anh chỉ cần chọc nó chút thôi.	The ox? No, he just needs a little poke.	9		0																									
+vocs_over_over_	_n02	vocs_over_over_convoy_oxen_n02	omuk		Mo	NINJA	smug		Con bò? Không, anh chỉ chọc nó chút thôi.	The ox? No, he just needs a little poke.	9		0																									
 																																						
 MONK									The team notices a monk being with the convoy.	The team notices a monk being with the convoy.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_convoy_monk_n00	omuk		Mo	TRAPPER	fascinated	Yuki first	Người đàn ông lạ với quần áo tươi sáng…	Strange man with bright clothes…	5		0																									
+vocs_over_over_	_n00	vocs_over_over_convoy_monk_n00	omuk		Mo	TRAPPER	fascinated	Yuki first	Người đàn ông lạ với bộ đồ tươi sáng…	Strange man with bright clothes…	5		0																									
 vocs_over_over_	_n01	vocs_over_over_convoy_monk_n01	omuk		Mo	NINJA	wondering		Huh…áo choàng vàng… Tại sao chúng có nhà sư ở đây?	Huh…yellow robes… Why did they take a monk with them?	10		0																									
-vocs_over_over_	_n02	vocs_over_over_convoy_monk_n02	omuk		Mo	TRAPPER	doesn't get it		Có thể anh ấy cầu nguyện cho chuyến đi an toàn?	Maybe he's praying for safe travel?	6		0																									
-vocs_over_over_	_n03	vocs_over_over_convoy_monk_n03	omuk		Mo	NINJA	smug		Rồi, anh ấy không làm việc tốt này.	Well, he's not doing a good job then.	8		0																									
+vocs_over_over_	_n02	vocs_over_over_convoy_monk_n02	omuk		Mo	TRAPPER	doesn't get it		Có thể anh ấy đang cầu nguyện cho chuyến đi được an toàn?	Maybe he's praying for safe travel?	6		0																									
+vocs_over_over_	_n03	vocs_over_over_convoy_monk_n03	omuk		Mo	NINJA	smug		Được rồi, hắn ta ở để không làm việc tốt.	Well, he's not doing a good job then.	8		0																									
 																																						
 WORK									The team hears a pair of civilians talk.	The team hears a pair of civilians talk.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
-vo_hint_hint_	_n00	vo_hint_hint_convoy_work_n00	omuk		Mo	CIVILIAN M	meek		Các chàng trai đang làm việc chăm chỉ. Tôi hi vọng chúng ta có thể di chuyển sớm.	The men are working hard. I hope we can move soon.	11		0																									
-vo_hint_hint_	_n01	vo_hint_hint_convoy_work_n01	omuk		Mo	CIVILIAN F	tired	different voice	Chuyến đi gập ghềnh. Một số cần phải được nghỉ ngơi.	The journey was rough. Some rest'll do us good.	9		0																									
+vo_hint_hint_	_n00	vo_hint_hint_convoy_work_n00	omuk		Mo	CIVILIAN M	meek		Mọi người đang làm việc chăm chỉ. Hi vọng chúng ta có thể di chuyển sớm.	The men are working hard. I hope we can move soon.	11		0																									
+vo_hint_hint_	_n01	vo_hint_hint_convoy_work_n01	omuk		Mo	CIVILIAN F	tired	different voice	Chuyến đi gập ghềnh. Một số người cần phải được nghỉ ngơi.	The journey was rough. Some rest'll do us good.	9		0																									
 																																						
 DRUNK1									The team encounters a drunken guard and a servant.	The team encounters a drunken guard and a servant.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
-vo_hint_hint_	_n00	vo_hint_hint_convoy_drunk1_n00	omuk			ENEMY	grumpy	spectacularly drunk	…thêm rượu…!	…more sake…!	2		0																									
-vo_hint_hint_	_n01	vo_hint_hint_convoy_drunk1_n01	omuk			CIVILIAN F	pleading		Tôi xin ngài dừng lại. Hành động của ngài rất đang hổ thẹn.	I beg you, stop. Your behavior is disgraceful.	8		0																									
-vo_hint_hint_	_n02	vo_hint_hint_convoy_drunk1_n02	omuk			ENEMY	very grumpy		…thêm rượu!	…more sake!	2		0																									
+vo_hint_hint_	_n00	vo_hint_hint_convoy_drunk1_n00	omuk			ENEMY	grumpy	spectacularly drunk	…thêm sa kê…!	…more sake…!	2		0																									
+vo_hint_hint_	_n01	vo_hint_hint_convoy_drunk1_n01	omuk			CIVILIAN F	pleading		Tôi xin ngài hãy dừng lại. Hành động của ngài rất đáng hổ thẹn.	I beg you, stop. Your behavior is disgraceful.	8		0																									
+vo_hint_hint_	_n02	vo_hint_hint_convoy_drunk1_n02	omuk			ENEMY	very grumpy		…thêm sa kê!	…more sake!	2		0																									
 																																						
 DRUNK2									Drunken guards are sleeping.	Drunken guards are sleeping.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
@@ -134,16 +134,16 @@ vo_hint_hint_	_n07	vo_hint_hint_convoy_drunk2_n07	omuk			STATIC	drunken sleep			
 NERVOUS									The team hears a pair of guards talk.	The team hears a pair of guards talk.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vo_hint_hint_	_n00	vo_hint_hint_convoy_nervous_n00	omuk		Mo	ENEMY	worried		Phải chờ bao lâu nữa? Nơi này làm tôi lo lắng.	How much longer must we wait? This place makes me nervous.	11		0																									
-vo_hint_hint_	_n01	vo_hint_hint_convoy_nervous_n01	omuk		Mo	STATIC	relaxed		Bình tĩnh. Kage-sama đã trả tiền để dẹp mấy tên cướp địa phương. Không có ai sẽ tấn công chúng ta.	Calm down. Kage-sama has paid off the local bandits. No one will attack us.	14		0																									
+vo_hint_hint_	_n01	vo_hint_hint_convoy_nervous_n01	omuk		Mo	STATIC	relaxed		Bình tĩnh. Kage-sama đã trả tiền để dẹp mấy tên cướp địa phương. Sẽ không có ai tấn công chúng ta hết.	Calm down. Kage-sama has paid off the local bandits. No one will attack us.	14		0																									
 																																						
 OFFICER1									An officer is annoyed by how slow the bridge is being repaired.	An officer is annoyed by how slow the bridge is being repaired.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
-vo_hint_hint_	_n00	vo_hint_hint_convoy_officer1_n00	omuk		Mo	OFFICER	grumpy		Ugh, nó làm chúng ta chậm lại!	Ugh, this is going too slow!	6		0																									
-vo_hint_hint_	_n01	vo_hint_hint_convoy_officer1_n01	omuk		Mo	OFFICER	grumpy		Đang lãng phí thời gian!	We're losing time!	3		0																									
+vo_hint_hint_	_n00	vo_hint_hint_convoy_officer1_n00	omuk		Mo	OFFICER	grumpy		Ugh, chuyến hàng bị chậm trễ!	Ugh, this is going too slow!	6		0																									
+vo_hint_hint_	_n01	vo_hint_hint_convoy_officer1_n01	omuk		Mo	OFFICER	grumpy		Bọn tao đang bị lãng phí thời gian!	We're losing time!	3		0																									
 vo_hint_hint_	_n02	vo_hint_hint_convoy_officer1_n02	omuk		Mo	OFFICER	grumpy		Lũ lười biếng.	Lazy peasants.	2		0																									
 vo_hint_hint_	_n03	vo_hint_hint_convoy_officer1_n03	omuk		Mo	OFFICER	grumpy		Cầu cho may mắn.	Just my luck.	3		0																									
-vo_hint_hint_	_n04	vo_hint_hint_convoy_officer1_n04	omuk		Mo	OFFICER	grumpy	stands next to an ox	Tiếp tục uống, bạn bò ngốc.	Keep drinking, you stupid ox.	5		0																									
-vo_hint_hint_	_n05	vo_hint_hint_convoy_officer1_n05	omuk		Mo	OFFICER	grumpy		Lãnh chúa của ta sẽ không hài lòng.	Our lord won't be pleased.	5		0																									
+vo_hint_hint_	_n04	vo_hint_hint_convoy_officer1_n04	omuk		Mo	OFFICER	grumpy	stands next to an ox	Uống tiếp nào, bạn bò ngốc.	Keep drinking, you stupid ox.	5		0																									
+vo_hint_hint_	_n05	vo_hint_hint_convoy_officer1_n05	omuk		Mo	OFFICER	grumpy		Lãnh chúa của tao sẽ không hài lòng.	Our lord won't be pleased.	5		0																									
 																																						
 OFFICER1									The team has killed 1 of 4 officers (mission objective).	The team has killed 1 of 4 officers (mission objective).																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
@@ -156,7 +156,7 @@ vo_hint_hint_	_n00	vo_hint_hint_convoy_officer2_n00	omuk		Mo	OFFICER	dutyful		Co
 vo_hint_hint_	_n01	vo_hint_hint_convoy_officer2_n01	omuk		Mo	OFFICER	dutyful		Đừng mất tập trung.	Don't lose focus.	3		0																									
 vo_hint_hint_	_n02	vo_hint_hint_convoy_officer2_n02	omuk		Mo	OFFICER	dutyful		Hãy khôn ngoan.	Keep sharp.	2		0																									
 vo_hint_hint_	_n03	vo_hint_hint_convoy_officer2_n03	omuk		Mo	OFFICER	dutyful		Không ai phải đụng vào các xe hàng.	No one must touch these wagons.	6		0																									
-vo_hint_hint_	_n04	vo_hint_hint_convoy_officer2_n04	omuk		Mo	OFFICER	dutyful	stands next to an ox	Chỉ cần dùng một mắt nhìn trông chừng bọn trộm.	Just keep an eye on the thieving peasants.	8		0																									
+vo_hint_hint_	_n04	vo_hint_hint_convoy_officer2_n04	omuk		Mo	OFFICER	dutyful	stands next to an ox	Chỉ cần dùng một mắt để trông chừng bọn trộm.	Just keep an eye on the thieving peasants.	8		0																									
 																																						
 OFFICER2									The team has killed 2 of 4 officers (mission objective).	The team has killed 2 of 4 officers (mission objective).																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
@@ -175,21 +175,21 @@ vo_hint_hint_	_n05	vo_hint_hint_convoy_officer3_n05	omuk		Mo	OFFICER	annoyed		N�
 OFFICER3									The team has killed 3 of 4 officers (mission objective).	The team has killed 3 of 4 officers (mission objective).																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_convoy_officer3_n00	omuk		Mo	TRAPPER	focussed		Đáng đời! Haha.	Three down! Haha.	3		0																									
-vocs_over_over_	_n01	vocs_over_over_convoy_officer3_n01	omuk		Mo	NINJA	suspicious		Em chả tốt đẹp chút nào hết?	Aren't you a bit too good at this?	8		0																									
+vocs_over_over_	_n01	vocs_over_over_convoy_officer3_n01	omuk		Mo	NINJA	suspicious		Em chả tốt đẹp tý nào cả?	Aren't you a bit too good at this?	8		0																									
 vocs_over_over_	_n02	vocs_over_over_convoy_officer3_n02	omuk		Mo	TRAPPER	unsure		Ý anh là sao?	What do you mean?	4		0																									
 vocs_over_over_	_n03	vocs_over_over_convoy_officer3_n03	omuk		Mo	NINJA	dismissive		Thôi dẹp đi. Tiếp tục nào.	Never mind. One to go.	5		0																									
 																																						
 OFFICER4									An officer orders sake from a servant.	An officer orders sake from a servant.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
-vo_hint_hint_	_n00	vo_hint_hint_convoy_officer4_n00	omuk		Mo	OFFICER	direct		Sake.	Sake.	1		0																									
+vo_hint_hint_	_n00	vo_hint_hint_convoy_officer4_n00	omuk		Mo	OFFICER	direct		Sa kê.	Sake.	1		0																									
 vo_hint_hint_	_n01	vo_hint_hint_convoy_officer4_n01	omuk		Mo	CIVILIAN F	subservient		Hai!	Hai!	1		0																									
 vo_hint_hint_	_n02	vo_hint_hint_convoy_officer4_n02	omuk		Mo	OFFICER	relaxing	drinks sake	Hmm.	Hmm.	1		0																									
 																																						
 OFFICER4									The team has killed 4 of 4 officers (mission objective).	The team has killed 4 of 4 officers (mission objective).																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_convoy_officer4_n00	omuk		Mo	NINJA	focussed	Hayato first	Bốn mạng.	Four down.	2		0																									
-vocs_over_over_	_n01	vocs_over_over_convoy_officer4_n01	omuk		Mo	TRAPPER	yearning	Yuki first	Bốn lá cờ. Giờ làm gì?	Four flags. What now?	4		0																									
-vocs_over_over_	_n02	vocs_over_over_convoy_officer4_n02	omuk		Mo	NINJA	focussed		Chúng ta phải phát tín hiệu cho Mugen ở chỗ bức tượng.	Now we have to signal Mugen at the statue.	9		0																									
+vocs_over_over_	_n01	vocs_over_over_convoy_officer4_n01	omuk		Mo	TRAPPER	yearning	Yuki first	Bốn lá cờ. Giờ làm gì anh?	Four flags. What now?	4		0																									
+vocs_over_over_	_n02	vocs_over_over_convoy_officer4_n02	omuk		Mo	NINJA	focussed		Chúng ta phải gửi tín hiệu cho Mugen ở chỗ bức tượng.	Now we have to signal Mugen at the statue.	9		0																									
 vocs_over_over_	_n03	vocs_over_over_convoy_officer4_n03	omuk		Mo	TRAPPER	slightly alarmed		Mugen là ai rứa?	Who's Mugen?	2		0																									
 vocs_over_over_	_n04	vocs_over_over_convoy_officer4_n04	omuk		Mo	NINJA	smug		Chờ sẽ thấy.	Wait and see.	3		0																									
 																																						
@@ -203,26 +203,26 @@ vo_hint_hint_	_n04	vo_hint_hint_convoy_officer5_n04	omuk		Mo	OFFICER	smug		Đi a
 																																						
 DEBRIEFING									Hayato gives the signal for Mugen's men to attack. Mugen arrives with some men. Once the convoy is confiscated, Mugen meets up with the other two.	Hayato gives the signal for Mugen's men to attack. Mugen arrives with some men. Once the convoy is confiscated, Mugen meets up with the other two.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_convoy_debriefing_n00	omuk		Mo	NINJA	tense	gives the signal (fireworks)	Cúi cái đầu xuống.	Keep your head down.	4		0																									
+vocs_over_over_	_n00	vocs_over_over_convoy_debriefing_n00	omuk		Mo	NINJA	tense	gives the signal (fireworks)	Thấp cái đầu xuống.	Keep your head down.	4		0																									
 vocs_over_over_	_n01	vocs_over_over_convoy_debriefing_n01	omuk		Mo	TRAPPER	nervous		H-hai, sensei!	H-hai, sensei!	2		0																									
 vocs_over_over_	_n02	vocs_over_over_convoy_debriefing_n02	omuk		Mo	WARRIOR	for duty	Mugen's men arrive shooting	Tiến lên các chàng trai! Vì Mạc Chúa!	Forward men! For the Shogun!	5		0																									
 			omuk		Mo	–		Fade to show passage of time	–	–			0																									
 vocs_over_over_	_n03	vocs_over_over_convoy_debriefing_n03	omuk		Mo	WARRIOR	satisfied	Oversees how convoy goods are carried off.	Chúng ta đã chiếm được xe hàng với đôi chút kháng cự. Kĩ năng của cậu vẫn sắc bén hơn bao giờ hết.	We took the wagons with little resistance. Your skills are as sharp as ever.	14		0																									
 vocs_over_over_	_n04	vocs_over_over_convoy_debriefing_n04	omuk		Mo	NINJA	full disclosure		Phải nói thật, tôi…có nhờ một ít hỗ trợ.	Got to admit, I…had a little assistance.	7		0																									
 vocs_over_over_	_n05	vocs_over_over_convoy_debriefing_n05	omuk		Mo	WARRIOR	intrigued		Ah rồi, tôi đã thấy bạn đồng hành của cậu. Nghĩ sao về nhóc ấy?	Ah yes, I saw your companion. What do you think of her?	12		0																									
-vocs_over_over_	_n09	vocs_over_over_convoy_debriefing_n09	omuk		Mo	NINJA	all business		Em ấy đôi chút hoang đại nhưng có tài năng.	She's a bit wild maybe, but she has talent.	9		0																									
-vocs_over_over_	_n10	vocs_over_over_convoy_debriefing_n10	omuk		Mo	NINJA	mumbles	talking to himself	Cho là vậy, tôi cũng bất cẩn… Chả hiểu sao em ấy lại lọt vào được…	Either that, or I'm getting careless… How did she sneak up on me…	13		0																									
+vocs_over_over_	_n09	vocs_over_over_convoy_debriefing_n09	omuk		Mo	NINJA	all business		Nhóc ấy đôi chút hoang đại nhưng có tài năng.	She's a bit wild maybe, but she has talent.	9		0																									
+vocs_over_over_	_n10	vocs_over_over_convoy_debriefing_n10	omuk		Mo	NINJA	mumbles	talking to himself	Cho là thế, mà tôi cũng bất cẩn… Chả hiểu sao nhóc ấy lại lọt vào được…	Either that, or I'm getting careless… How did she sneak up on me…	13		0																									
 vocs_over_over_	_n11	vocs_over_over_convoy_debriefing_n11	omuk		Mo	WARRIOR	amused		Cái gì cơ, Hayato-san?	What was that, Hayato-san?	4		0																									
 vocs_over_over_	_n12	vocs_over_over_convoy_debriefing_n12	omuk		Mo	NINJA	oops	leaves	Không, không có gì. Hẹn gặp nhau ở nhà an toàn, đúng không?	Nothing, nothing. See you at the safe house, right?	9		0																									
 vocs_over_over_	_n06	vocs_over_over_convoy_debriefing_n06	omuk		Mo	WARRIOR	inquisitive	walks to Yuki	Tên nhóc là gì, cô gái trẻ?	What is your name, young woman?	6		0																									
-vocs_over_over_	_n07	vocs_over_over_convoy_debriefing_n07	omuk		Mo	TRAPPER	nervous		Yuki, thưa Samurai xịn.	Yuki, master samurai.	3		0																									
-vocs_over_over_	_n08	vocs_over_over_convoy_debriefing_n08	omuk		Mo	WARRIOR	respectful		Tên đẹp đấy. Ta là Ōshiro Mugen. Không việc gì phải sợ.	A fine name. I am Ōshiro Mugen. No need to be afraid.	12		0																									
+vocs_over_over_	_n07	vocs_over_over_convoy_debriefing_n07	omuk		Mo	TRAPPER	nervous		Yuki ạ, thưa chú Samurai.	Yuki, master samurai.	3		0																									
+vocs_over_over_	_n08	vocs_over_over_convoy_debriefing_n08	omuk		Mo	WARRIOR	respectful		Tên đẹp đấy. Chú là Ōshiro Mugen. Không việc gì mà phải sợ cả.	A fine name. I am Ōshiro Mugen. No need to be afraid.	12		0																									
 vocs_over_over_	_n15	vocs_over_over_convoy_debriefing_n15	omuk		Mo	TRAPPER	cautious		Chú là bạn của Hayato-san?	Are you a friend of Hayato-san?	6		0																									
-vocs_over_over_	_n16	vocs_over_over_convoy_debriefing_n16	omuk		Mo	WARRIOR	honest		Ta nghĩ vậy. Mặc dù cậu ta lại không nghĩ vậy…	I like to think so. Though, he might not see it that way…	13		0																									
-vocs_over_over_	_n17	vocs_over_over_convoy_debriefing_n17	omuk		Mo	TRAPPER	a little shy	gets too close	Samurai xịn nè? Liệu cháu có thể ở lại với hai người? Hoặc chỉ một cũng được?	Master samurai? Can I stay with you two? Just for a while?	12		0																									
-vocs_over_over_	_n18	vocs_over_over_convoy_debriefing_n18	omuk		Mo	WARRIOR	pondering	Yuki realizes that she's too close and backs away	Ta đang tự hỏi phải làm gì với cháu. Hayato-san có vẻ ấn tượng hơn. Tuy nhiên, để một đứa trẻ rơi vào nguy hiểm như vậy…	I was wondering what to do with you. Hayato-san certainly seemed impressed. Still, to put a child in such danger…	20		0																									
+vocs_over_over_	_n16	vocs_over_over_convoy_debriefing_n16	omuk		Mo	WARRIOR	honest		Chú nghĩ thế. Mặc dù anh ta lại không nghĩ vậy…	I like to think so. Though, he might not see it that way…	13		0																									
+vocs_over_over_	_n17	vocs_over_over_convoy_debriefing_n17	omuk		Mo	TRAPPER	a little shy	gets too close	Samurai xịn thiệt nè? Liệu cháu đi theo với hai người không? Hay chỉ một cũng được?	Master samurai? Can I stay with you two? Just for a while?	12		0																									
+vocs_over_over_	_n18	vocs_over_over_convoy_debriefing_n18	omuk		Mo	WARRIOR	pondering	Yuki realizes that she's too close and backs away	Chú đang tự hỏi phải làm gì với cháu. Hayato-san có vẻ ấn tượng hơn. Tuy nhiên, để một đứa trẻ rơi vào nguy hiểm như vậy…	I was wondering what to do with you. Hayato-san certainly seemed impressed. Still, to put a child in such danger…	20		0																									
 vocs_over_over_	_n19	vocs_over_over_convoy_debriefing_n19	omuk		Mo	TRAPPER	honest		Làm ơi, Cháu…cháu muốn anh ấy làm Sensei cho cháu! Anh ấy có nhiều thứ hay ho mà cháu không thể học được từ ai khác!	Please, I…I want him to be my sensei! He's got tricks that I can learn from no one else!	19		0																									
-vocs_over_over_	_n20	vocs_over_over_convoy_debriefing_n20	omuk		Mo	WARRIOR	considers it		Hmmm… ta sẽ xem xét.	Hmmm… I will consider it.	5		0																									
+vocs_over_over_	_n20	vocs_over_over_convoy_debriefing_n20	omuk		Mo	WARRIOR	considers it		Hmmm… chú sẽ xem xét.	Hmmm… I will consider it.	5		0																									
 																																						
 												MISSION-WORDCOUNT DE:	0		TOTAL	NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
 															814	354	216	91	0	0	0	0	0	0	0	0	0	80	29	15	0	0	11	18	0	0	0	0

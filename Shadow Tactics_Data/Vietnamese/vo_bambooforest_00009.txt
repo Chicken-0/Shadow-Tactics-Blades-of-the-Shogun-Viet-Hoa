@@ -3,23 +3,23 @@
 BRIEFING									Aiko and Takuma are positioned on a slope overlooking the hidden camp in the bamboo forest. Hayato, Yuki and Mugen arrive at the camp entrance.	Aiko and Takuma are positioned on a slope overlooking the hidden camp in the bamboo forest. Hayato, Yuki and Mugen arrive at the camp entrance.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - PROOFREAD	EN - PROOFREAD	CEN	DE	CDE																									
 						TITLECARD			Kage-sama's hideout	Kage-sama's hideout			0																									
-vocs_over_over_	_n00	vocs_over_over_bambooforest_briefing_n00				GEISHA	focussed	Cam at A+T Start	Lão đã thấy gì, Takuma-sama?	What do you see, Takuma-sama?	5		0																									
-vocs_over_over_	_n01	vocs_over_over_bambooforest_briefing_n01				ALCHEMIST	pleased	in sniper position	Cháy ở trung tâm trại.	Fire, at the heart of the camp.	7		0																									
+vocs_over_over_	_n00	vocs_over_over_bambooforest_briefing_n00				GEISHA	focussed	Cam at A+T Start	Lão thấy được gì, Takuma-sama?	What do you see, Takuma-sama?	5		0																									
+vocs_over_over_	_n01	vocs_over_over_bambooforest_briefing_n01				ALCHEMIST	pleased	in sniper position	Đống lửa ở trung tâm trại.	Fire, at the heart of the camp.	7		0																									
 vocs_over_over_	_n02	vocs_over_over_bambooforest_briefing_n02				ALCHEMIST	pleased	Cam to middle camp	Lão nghĩ đó là nơi Kage-sama ở.	I'd reckon that's where Kage-sama is.	6		0																									
-vocs_over_over_	_n03	vocs_over_over_bambooforest_briefing_n03				GEISHA	focussed		Cháu đồng ý. Còn những người khác vào vị trí chưa?	I agree. Are the others in position?	7		0																									
-vocs_over_over_	_n04	vocs_over_over_bambooforest_briefing_n04				TRAPPER	tense	cam to H+M+T start	Sao Aiko-san và Takuma-san lại đi theo lối khác?	Why did Aiko-san and Takuma-san go another way?	8		0																									
-vocs_over_over_	_n05	vocs_over_over_bambooforest_briefing_n05				NINJA	planning		Chúng ta sẽ tấn công từ hai hướng, vây lại rồi tóm lấy hắn.	We'll attack from two sides, circle in on him, then take him out.	13		0																									
+vocs_over_over_	_n03	vocs_over_over_bambooforest_briefing_n03				GEISHA	focussed		Cháu đồng ý. Vậy những người khác vào vị trí chưa?	I agree. Are the others in position?	7		0																									
+vocs_over_over_	_n04	vocs_over_over_bambooforest_briefing_n04				TRAPPER	tense	cam to H+M+T start	Sao Aiko-san và Takuma-san lại đi hướng khác?	Why did Aiko-san and Takuma-san go another way?	8		0																									
+vocs_over_over_	_n05	vocs_over_over_bambooforest_briefing_n05				NINJA	planning		Vì chúng ta sẽ tấn công từ hai hướng, vây lại rồi tóm lấy hắn.	We'll attack from two sides, circle in on him, then take him out.	13		0																									
 vocs_over_over_	_n06	vocs_over_over_bambooforest_briefing_n06				WARRIOR			Nhớ rằng Mạc Chúa muốn mang Kage-sama về. Cần phải bắt được hắn, dù sống hoặc đã chết.	Remember that the Shogun wants Kage-sama delivered. We need to take him with us, whether he is alive or dead.	20		0																									
-vocs_over_over_	_n07	vocs_over_over_bambooforest_briefing_n07				NINJA	smug		Chết thì tốt hơn với tôi. Chúng ta sẽ không có rắc rối trên đường về.	Dead's fine with me. Saves us trouble on the road.	10		0																									
-vocs_over_over_	_n08	vocs_over_over_bambooforest_briefing_n08				WARRIOR			Một khi vô hiệu hóa được hắn, mang hắn về đây và chúng ta cùng thoát khỏi khu rừng này với chiến công.	Once we have incapacitated him, we will carry him back here and leave this forest with our prize.	18		0																									
+vocs_over_over_	_n07	vocs_over_over_bambooforest_briefing_n07				NINJA	smug		Chết thì tốt hơn với tôi. Chúng ta không gặp thêm rắc rối trên đường về.	Dead's fine with me. Saves us trouble on the road.	10		0																									
+vocs_over_over_	_n08	vocs_over_over_bambooforest_briefing_n08				WARRIOR			Một khi vô hiệu hóa được hắn, mang hắn về đây và cùng thoát khỏi khu rừng này với chiến công.	Once we have incapacitated him, we will carry him back here and leave this forest with our prize.	18		0																									
 vocs_over_over_	_n09	vocs_over_over_bambooforest_briefing_n09				TRAPPER	tense		Ah! Lẻn vào trong, tóm lấy cái bóng, rồi lại lẻn ra ngoài.	Ah! Sneak inside, catch the shadow, sneak back out.	9		0																									
 vocs_over_over_	_n10	vocs_over_over_bambooforest_briefing_n10				NINJA	smug		Heh, nghe đơn giản ghê. Được rồi, kết thúc vụ này thôi.	Heh, sounds simple. All right, let's finish this.	8		0																									
 																																						
 FORCE									Mugen's group tackles the heavily guarded entrance to the camp	Mugen's group tackles the heavily guarded entrance to the camp																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_bambooforest_force_n00				NINJA	smug	Hayato first	Khỉ gì thế này? Có thể đầy thử thách…	What's this? Almost looks challenging…	5		0																									
+vocs_over_over_	_n00	vocs_over_over_bambooforest_force_n00				NINJA	smug	Hayato first	Khỉ gì thế này? Có vẻ đầy thử thách…	What's this? Almost looks challenging…	5		0																									
 vocs_over_over_	_n01	vocs_over_over_bambooforest_force_n01				TRAPPER	excited	Yuki first	Oh, một thử thách!	Oh, a challenge!	3		0																									
-vocs_over_over_	_n02	vocs_over_over_bambooforest_force_n02				WARRIOR	proud		Ha! Những người đàn ông họ không biết đang chống lại ai đây mà.	Ha! These men do not know what they're up against.	10		0																									
+vocs_over_over_	_n02	vocs_over_over_bambooforest_force_n02				WARRIOR	proud		Ha! Những người đàn ông này họ không biết đang chống lại ai đây mà.	Ha! These men do not know what they're up against.	10		0																									
 																																						
 WORKERS									Mugen's group discovers civilians working in the camp.	Mugen's group discovers civilians working in the camp.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
@@ -30,10 +30,10 @@ vocs_over_over_	_n02	vocs_over_over_bambooforest_workers_n02				WARRIOR	focussed
 WORKERS1									Civilians carry wood and build walkways over swampy ground. Nearby guards push them on.	Civilians carry wood and build walkways over swampy ground. Nearby guards push them on.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vo_hint_hint_	_n00	vo_hint_hint_bambooforest_workers1_n00				ENEMY	pushy	to civilians	Là nó, mang về.	That's it, carry on.	4		0																									
-vo_hint_hint_	_n01	vo_hint_hint_bambooforest_workers1_n01				STATIC	pushy	to civilians	Cấm lười biếng!	No slacking!	2		0																									
-vo_hint_hint_	_n02	vo_hint_hint_bambooforest_workers1_n02				ENEMY	pushy	to civilians	Chúng ta vẫn chưa xong.	We're not done yet.	4		0																									
+vo_hint_hint_	_n01	vo_hint_hint_bambooforest_workers1_n01				STATIC	pushy	to civilians	Đéo được lười!	No slacking!	2		0																									
+vo_hint_hint_	_n02	vo_hint_hint_bambooforest_workers1_n02				ENEMY	pushy	to civilians	Vẫn chưa xong.	We're not done yet.	4		0																									
 vo_hint_hint_	_n03	vo_hint_hint_bambooforest_workers1_n03				STATIC	pushy	to civilians	Nào, nhanh lên.	Come on, faster.	3		0																									
-vo_hint_hint_	_n04	vo_hint_hint_bambooforest_workers1_n04				ENEMY	pushy	to civilians	Kage-sama muốn những lối đi này được hoàn thành.	Kage-sama wants these walkways finished.	5		0																									
+vo_hint_hint_	_n04	vo_hint_hint_bambooforest_workers1_n04				ENEMY	pushy	to civilians	Kage-sama muốn những lối đi này được hoàn tất.	Kage-sama wants these walkways finished.	5		0																									
 vo_hint_hint_	_n05	vo_hint_hint_bambooforest_workers1_n05				STATIC	pushy	to civilians	Ngươi biết chuyện gì xảy ra khi Kage-sama không hài lòng không.	You know what happens when Kage-sama is displeased.	8		0																									
 vo_hint_hint_	_n06	vo_hint_hint_bambooforest_workers1_n06				CIVILIAN M	encumbered	carrying heavy logs	Hrgn…	Hrgn…	1		0																									
 vo_hint_hint_	_n07	vo_hint_hint_bambooforest_workers1_n07				CIVILIAN M	encumbered	carrying heavy logs	Ugh…nặng…	Ugh…heavy…	1		0																									
@@ -43,7 +43,7 @@ WORKERS2									Civilians cut down bamboo trees to expand the hidden camp. Near
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vo_hint_hint_	_n00	vo_hint_hint_bambooforest_workers2_n00				ENEMY	pushy	to civilians	Mày quá chậm.	You're too slow.	3		0																									
 vo_hint_hint_	_n01	vo_hint_hint_bambooforest_workers2_n01				STATIC	pushy	to civilians	Không được nói nhiều.	This is taking forever.	4		0																									
-vo_hint_hint_	_n02	vo_hint_hint_bambooforest_workers2_n02				ENEMY	pushy	to civilians	Ngươi coi nó là trò chơi?	You call that a swing?	5		0																									
+vo_hint_hint_	_n02	vo_hint_hint_bambooforest_workers2_n02				ENEMY	pushy	to civilians	Ngươi gọi nó là trò chơi hả?	You call that a swing?	5		0																									
 vo_hint_hint_	_n03	vo_hint_hint_bambooforest_workers2_n03				STATIC	pushy	to civilians	Nhanh lên, chết tiệt!	Faster, damn it!	3		0																									
 vo_hint_hint_	_n04	vo_hint_hint_bambooforest_workers2_n04				ENEMY	pushy	to civilians	Kage-sama sẽ không hài lòng.	Kage-sama won't be pleased.	4		0																									
 vo_hint_hint_	_n05	vo_hint_hint_bambooforest_workers2_n05				STATIC	pushy	to civilians	Đứa nào không kéo nổi sẽ bị xử tử. Lệnh của Kage-sama.	Those who don't pull their weight will be executed. Kage-sama's orders.	11		0																									
@@ -53,44 +53,44 @@ vo_hint_hint_	_n08	vo_hint_hint_bambooforest_workers2_n08				CIVILIAN F	tired	ha
 																																						
 CAMP									Mugen's group encounters stronger fortifications in the camp	Mugen's group encounters stronger fortifications in the camp																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_bambooforest_camp_n00				NINJA	impressed	Hayato first	Không tệ. Nhỏ. Dấu tốt lắm. Không còn thắc mắc khi không có ai tìm được nó.	Not bad. Small. Well hidden. No wonder no one ever found it.	12		0																									
+vocs_over_over_	_n00	vocs_over_over_bambooforest_camp_n00				NINJA	impressed	Hayato first	Không tệ. Nhỏ đấy. Dấu tốt lắm. Không còn thắc mắc khi chả có ai tìm ra được chỗ này.	Not bad. Small. Well hidden. No wonder no one ever found it.	12		0																									
 vocs_over_over_	_n01	vocs_over_over_bambooforest_camp_n01				WARRIOR	evaluating	Mugen first	Trại này nhỏ nhưng được phỏng thủ kiên cố.	The camp may be small, but it's well defended.	9		0																									
 vocs_over_over_	_n02	vocs_over_over_bambooforest_camp_n02				TRAPPER	excited		Nơi này…nó như một làng shinobi bí ẩn!	This place…it's like a hidden shinobi village!	7		0																									
-vocs_over_over_	_n03	vocs_over_over_bambooforest_camp_n03				NINJA	amused		Heh. Tin anh đi: nếu đúng thế thì giờ chúng ta đã dẹo rồi.	Heh. Trust me: if it were, we'd be dead by now.	11		0																									
+vocs_over_over_	_n03	vocs_over_over_bambooforest_camp_n03				NINJA	amused		Heh. Tin anh đi: nếu đúng là thế thì giờ chúng ta đã dẹo hết rồi.	Heh. Trust me: if it were, we'd be dead by now.	11		0																									
 																																						
 NEMESIS									Mugen's group gets close enough to see Kage-sama (the fake one).	Mugen's group gets close enough to see Kage-sama (the fake one).																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_bambooforest_nemesis_n00				NINJA	smug	Hayato first	Gã này ở trung tâm…đoán đó là Kage-sama.	That man in the center…guess that's Kage-sama.	7		0																									
-vocs_over_over_	_n01	vocs_over_over_bambooforest_nemesis_n01				TRAPPER	excited	Yuki first	Nhìn kìa! Con nhện trong lưới của hắn! Kage-sama!	Look! The spider in his web! Kage-sama!	7		0																									
+vocs_over_over_	_n00	vocs_over_over_bambooforest_nemesis_n00				NINJA	smug	Hayato first	Gã này ở trung tâm…đoán hắn là Kage-sama.	That man in the center…guess that's Kage-sama.	7		0																									
+vocs_over_over_	_n01	vocs_over_over_bambooforest_nemesis_n01				TRAPPER	excited	Yuki first	Nhìn kìa! Con nhện trong lưới của mình! Kage-sama!	Look! The spider in his web! Kage-sama!	7		0																									
 vocs_over_over_	_n02	vocs_over_over_bambooforest_nemesis_n02				WARRIOR	eager		Đồ đen, như kiểu chúng lấy nó từ bóng đêm. Kage-sama thực sự sống đúng với cái tên của hắn.	Black clothes, like they were cut from shadow. Kage-sama truly lives up to his name.	15		0																									
-vocs_over_over_	_n03	vocs_over_over_bambooforest_nemesis_n03				TRAPPER	fascinated		Hắn chỉ ngồi ở đó, như một bức tượng. Sao hắn lại làm thế?	He's just sitting there, like a statue. Why is he doing that?	12		0																									
+vocs_over_over_	_n03	vocs_over_over_bambooforest_nemesis_n03				TRAPPER	fascinated		Chỉ ngồi ở đó như một bức tượng. Sao hắn lại làm thế?	He's just sitting there, like a statue. Why is he doing that?	12		0																									
 vocs_over_over_	_n04	vocs_over_over_bambooforest_nemesis_n04				NINJA	smug		Không quan trọng. Hắn sẽ không làm việc đó lâu nữa đâu.	Doesn't matter. He won't be doing it for much longer.	10		0																									
 																																						
 WORRY									Aiko climbs down to help Mugen's group.	Aiko climbs down to help Mugen's group.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_bambooforest_worry_n00				GEISHA	slightly weary		Cháu sẽ đi gặp những người khác. Cháu tin lão sẽ lo được phần còn lại.	I shall go meet the others. I trust you'll watch over my descent.	13		0																									
 vocs_over_over_	_n01	vocs_over_over_bambooforest_worry_n01				ALCHEMIST	suspicious		Dĩ nhiên lão làm được. Cháu có vấn đề gì hả, Aiko-san?	Of course I will. Is something troubling you, Aiko-san?	9		0																									
-vocs_over_over_	_n02	vocs_over_over_bambooforest_worry_n02				GEISHA	slightly weary		Có lẽ ở đây có nhiều tai mắt hơn thế này.	Perhaps. I think there is more to this place than meets the eye.	13		0																									
-vocs_over_over_	_n03	vocs_over_over_bambooforest_worry_n03				ALCHEMIST	suspicious		Ah, thận trọng. Lão hiểu. Lão sẽ xem chừng việc bất thường hoặc sẽ rời khỏi đây.	Ah, caution. I understand. I will watch for anything unusual or out of place.	14		0																									
-vocs_over_over_	_n04	vocs_over_over_bambooforest_worry_n04				GEISHA	elegant		Cảm ơn, Takuma-san.	Thank you, Takuma-san.	3		0																									
+vocs_over_over_	_n02	vocs_over_over_bambooforest_worry_n02				GEISHA	slightly weary		Dường như ở đây còn nhiều tai mắt hơn thế này.	Perhaps. I think there is more to this place than meets the eye.	13		0																									
+vocs_over_over_	_n03	vocs_over_over_bambooforest_worry_n03				ALCHEMIST	suspicious		Ah, thận trọng nhé. Lão hiểu rồi. Lão sẽ canh chừng, nếu có gì bất thường thì sẽ rời khỏi đây.	Ah, caution. I understand. I will watch for anything unusual or out of place.	14		0																									
+vocs_over_over_	_n04	vocs_over_over_bambooforest_worry_n04				GEISHA	elegant		Cảm ơn lão, Takuma-san.	Thank you, Takuma-san.	3		0																									
 																																						
 CONTEMPT									Aiko lays eyes on Kage-sama (fake)	Aiko lays eyes on Kage-sama (fake)																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_bambooforest_contempt_n00				GEISHA	with contempt		Gã này là nguồn gốc của mọi rắc rồi. Mình phải nói rằng quá thất vọng. Hắn đã lãng phí thời gian của mọi người.	The man who caused all this trouble. Quite disappointing, I must say. You have wasted enough of everyone's time.	19		0																									
+vocs_over_over_	_n00	vocs_over_over_bambooforest_contempt_n00				GEISHA	with contempt		Gã này là nguồn gốc của mọi rắc rồi. Phải nói rằng quá thất vọng. Hắn đã lãng phí nhiều thời gian của mọi người.	The man who caused all this trouble. Quite disappointing, I must say. You have wasted enough of everyone's time.	19		0																									
 																																						
 REUNION									Aiko reunites with Mugen's group.	Aiko reunites with Mugen's group.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_bambooforest_reunion_n00				NINJA	neutral	Hayato first	Hey…	Hey…	1		0																									
 vocs_over_over_	_n01	vocs_over_over_bambooforest_reunion_n01				TRAPPER	happy	Yuki first	Aiko-san!	Aiko-san!	1		0																									
 vocs_over_over_	_n02	vocs_over_over_bambooforest_reunion_n02				GEISHA	elegant	Aiko first	Em thấy anh làm rất tốt.	I see you are doing well.	6		0																									
-vocs_over_over_	_n03	vocs_over_over_bambooforest_reunion_n03				WARRIOR	pleased		Ah, Aiko-san. Anh rất vui khi em tham gia cùng chiến thắng này.	Ah, Aiko-san. I am glad you join me for this victory.	11		0																									
-vocs_over_over_	_n04	vocs_over_over_bambooforest_reunion_n04				GEISHA	worried		Em cảm thấy lo lắng khi mọi việc quá dễ dàng thế này. Chúng mình phải thận trọng hơn.	I cannot shake the feeling that not all is as it seems. Let us be cautious.	16		0																									
+vocs_over_over_	_n03	vocs_over_over_bambooforest_reunion_n03				WARRIOR	pleased		Ah, Aiko-san. Anh rất vui khi em tham gia vào cùng chiến thắng này.	Ah, Aiko-san. I am glad you join me for this victory.	11		0																									
+vocs_over_over_	_n04	vocs_over_over_bambooforest_reunion_n04				GEISHA	worried		Em có linh tính bất thường khi mọi việc quá dễ dàng thế này. Chúng mình cần phải thận trọng hơn.	I cannot shake the feeling that not all is as it seems. Let us be cautious.	16		0																									
 																																						
 SHADOWS									The fake Kage-sama meditates at the center of his camp.	The fake Kage-sama meditates at the center of his camp.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vo_hint_hint_	_n00	vo_hint_hint_bambooforest_shadows_n00				FAKE	mysterious		Đúng, gần đến lúc rồi.	Yes, the time is near.	5		0																									
-vo_hint_hint_	_n01	vo_hint_hint_bambooforest_shadows_n01				FAKE	mysterious		Khoảng khắc yên tĩnh.	A quiet moment.	3		0																									
-vo_hint_hint_	_n02	vo_hint_hint_bambooforest_shadows_n02				FAKE	mysterious		Nhưng mọi thứ đang chuyển động.	Yet everything is in motion.	5		0																									
+vo_hint_hint_	_n01	vo_hint_hint_bambooforest_shadows_n01				FAKE	mysterious		Một khoảng khắc yên tĩnh.	A quiet moment.	3		0																									
+vo_hint_hint_	_n02	vo_hint_hint_bambooforest_shadows_n02				FAKE	mysterious		Nhưng mọi thứ thì đang chuyển động.	Yet everything is in motion.	5		0																									
 vo_hint_hint_	_n03	vo_hint_hint_bambooforest_shadows_n03				FAKE	mysterious		Nó nên như thế.	It is as it should be.	6		0																									
 vo_hint_hint_	_n04	vo_hint_hint_bambooforest_shadows_n04				FAKE	mysterious		Cuộc sống là cuộc sống.	A life for a life.	5		0																									
 vo_hint_hint_	_n05	vo_hint_hint_bambooforest_shadows_n05				FAKE	mysterious		Tất cả đàn ông đều chọn nhiệm cụ cho họ.	All men choose their duty.	5		0																									
@@ -106,32 +106,32 @@ vocs_over_over_	_n04	vocs_over_over_bambooforest_debriefing_n04				GEISHA	panick
 vocs_over_over_	_n05	vocs_over_over_bambooforest_debriefing_n05						Fade to Black --> Fade to new scene			0		0																									
 vocs_over_over_	_n06	vocs_over_over_bambooforest_debriefing_n06				OFFICER		everyone has  been captured, including Takuma	Mọi thứ đã xong, Kage-sama. Lão già ở trên sườn dốc gần đây. Chúng tới một mình, như ngài đã bảo.	It is done, Kage-sama. The old man was on a slope nearby. They came alone, just like you said.	19		0																									
 vocs_over_over_	_n07	vocs_over_over_bambooforest_debriefing_n07				WARRIOR	shocked		Kage-sama…NGƯƠI!	Kage-sama… YOU!	2		0																									
-vocs_over_over_	_n08	vocs_over_over_bambooforest_debriefing_n08				BROGUN	cold	Officer presents him Mugens Katana	…Tao nhớ rằng anh tao trao cho mày thứ này… Một vũ khí đáng chú ý.	…I remember my brother giving you this… A remarkable weapon.	10		0																									
+vocs_over_over_	_n08	vocs_over_over_bambooforest_debriefing_n08				BROGUN	cold	Officer presents him Mugens Katana	…Ta nhớ rằng anh ta đã trao cho ngươi thứ này… Một vũ khí đáng gườm.	…I remember my brother giving you this… A remarkable weapon.	10		0																									
 vocs_over_over_	_n09	vocs_over_over_bambooforest_debriefing_n09				BROGUN	cold	takes Mugen's katana from Officer	Thật lãng phí.	Such a waste.	3		0																									
-vocs_over_over_	_n10	vocs_over_over_bambooforest_debriefing_n10				WARRIOR	disbelief		Chẳng có nghĩa gì cả… Sao chuyện này lại có thể?!	It makes no sense… How is this possible?!	8		0																									
-vocs_over_over_	_n11	vocs_over_over_bambooforest_debriefing_n11				BROGUN	cold	goes to Mugen	Anh tao và tao bất đồng về nhiều thứ, Mugen. Nếu biết mức độ của nó thì mày sẽ không phải ngạc nhiên đâu.	My brother and I disagree on so many things, Mugen. If you knew the extent of it, you would not be surprised.	22		0																									
+vocs_over_over_	_n10	vocs_over_over_bambooforest_debriefing_n10				WARRIOR	disbelief		Chuyện này chả có nghĩa gì hết… Sao lại có thể xảy ra như thế?!	It makes no sense… How is this possible?!	8		0																									
+vocs_over_over_	_n11	vocs_over_over_bambooforest_debriefing_n11				BROGUN	cold	goes to Mugen	Anh ta và ta bất đồng về nhiều thứ, Mugen. Nếu biết mức độ của nó thì ngươi sẽ không phải ngạc nhiên thế này đâu.	My brother and I disagree on so many things, Mugen. If you knew the extent of it, you would not be surprised.	22		0																									
 vocs_over_over_	_n12	vocs_over_over_bambooforest_debriefing_n12				WARRIOR	hate, disgust		Rồi mày làm những gì mày muốn hả, thằng phản bội?!	Then what do you want, traitor?!	6		0																									
 vocs_over_over_	_n13	vocs_over_over_bambooforest_debriefing_n13				BROGUN			Một thỏa thuận tuyệt vời. Mugen, với mày…	A great deal. Mugen, from you…	6		0																									
 vocs_over_over_	_n14	vocs_over_over_bambooforest_debriefing_n14				BROGUN	cold		…Tao muốn biết nơi mày đang dấu Ryūnosuke.	…I want to know where you hid Ryūnosuke.	8		0																									
-vocs_over_over_	_n15	vocs_over_over_bambooforest_debriefing_n15				WARRIOR	contempt		Mày nghĩ là tao sẽ cho phép mày làm hại tới người kế tục Mạc Phủ!	Do you think I would let you harm the heir to the Shogunate?!	13		0																									
+vocs_over_over_	_n15	vocs_over_over_bambooforest_debriefing_n15				WARRIOR	contempt		Mày nghĩ là tao sẽ cho phép mày làm hại tới người kế tục Mạc Phủ ư!	Do you think I would let you harm the heir to the Shogunate?!	13		0																									
 vocs_over_over_	_n16	vocs_over_over_bambooforest_debriefing_n16				BROGUN	cold	turns around	Dĩ nhiên không.	Of course not.	3		0																									
 vocs_over_over_	_n17	vocs_over_over_bambooforest_debriefing_n17				BROGUN			Tao biết rõ mày, Ōshiro Mugen.	I know you, Ōshiro Mugen.	5		0																									
 vocs_over_over_	_n18	vocs_over_over_bambooforest_debriefing_n18				BROGUN			Mày là người đàn ông trung thành nhất mà tao từng gặp.	You are the most loyal man I have ever met.	10		0																									
 vocs_over_over_	_n19	vocs_over_over_bambooforest_debriefing_n19				BROGUN			Mày thà chết còn hơn là phản bội lại Mạc Chúa của mày.	You would rather die than betray your precious Shogun.	9		0																									
 vocs_over_over_	_n20	vocs_over_over_bambooforest_debriefing_n20				BROGUN	cold	stands before Yuki	Nhưng tao tự hỏi…	But I wonder…	3		0																									
-vocs_over_over_	_n21	vocs_over_over_bambooforest_debriefing_n21				BROGUN	cold		Lòng trung thành của mày với anh tao được bao lâu?	How far does your loyalty to my brother go?	9		0																									
-vocs_over_over_	_n22	vocs_over_over_bambooforest_debriefing_n22				BROGUN	cold	stands before Takuma	Có đủ để hi sinh vì bạn bè của mày…?	Far enough to sacrifice your friends…?	6		0																									
+vocs_over_over_	_n21	vocs_over_over_bambooforest_debriefing_n21				BROGUN	cold		Lòng trung thành của mày với anh tao sẽ lớn như thế nào?	How far does your loyalty to my brother go?	9		0																									
+vocs_over_over_	_n22	vocs_over_over_bambooforest_debriefing_n22				BROGUN	cold	stands before Takuma	Có đủ để hi sinh bạn bè của mày…?	Far enough to sacrifice your friends…?	6		0																									
 vocs_over_over_	_n23	vocs_over_over_bambooforest_debriefing_n23				BROGUN	cold	stands before Hayato	Lũ này tự hào về…	These people you are so proud of…	7		0																									
-vocs_over_over_	_n24	vocs_over_over_bambooforest_debriefing_n24				BROGUN	cold		Mày sẽ xem chúng chết?	Would you rather watch them die?	6		0																									
-vocs_over_over_	_n25	vocs_over_over_bambooforest_debriefing_n25				WARRIOR	hot hatred	Noboru threatens Aiko with sword	Mệt kiếp thằng chó! Trời tru đất diệt mày!	Damn you! Damn you for all eternity!	7		0																									
-vocs_over_over_	_n26	vocs_over_over_bambooforest_debriefing_n26				BROGUN	cold determination		Nào Mugen. Hoặc ả ta sẽ chết đầu tiên.	The boy, Mugen. Or she will be the first to die.	11		0																									
-vocs_over_over_	_n27	vocs_over_over_bambooforest_debriefing_n27				GEISHA	strong		…tao trước. Tao sẽ chết với đôi mắt mở to!	…go ahead. I will face death with open eyes!	9		0																									
+vocs_over_over_	_n24	vocs_over_over_bambooforest_debriefing_n24				BROGUN	cold		Mày sẽ mặc chúng chết ư?	Would you rather watch them die?	6		0																									
+vocs_over_over_	_n25	vocs_over_over_bambooforest_debriefing_n25				WARRIOR	hot hatred	Noboru threatens Aiko with sword	Mẹ kiếp thằng chó! Trời tru đất diệt mày!	Damn you! Damn you for all eternity!	7		0																									
+vocs_over_over_	_n26	vocs_over_over_bambooforest_debriefing_n26				BROGUN	cold determination		Nào Mugen. Hoặc ả này sẽ chết đầu tiên.	The boy, Mugen. Or she will be the first to die.	11		0																									
+vocs_over_over_	_n27	vocs_over_over_bambooforest_debriefing_n27				GEISHA	strong		…tao đi trước. Tao sẽ chết với đôi mắt mở to!	…go ahead. I will face death with open eyes!	9		0																									
 vocs_over_over_	_n28	vocs_over_over_bambooforest_debriefing_n28				TRAPPER	panicking	tries to get to Aiko	Aiko-san!	Aiko-san!	1		0																									
 vocs_over_over_	_n29	vocs_over_over_bambooforest_debriefing_n29				TRAPPER		is hit by Masaru and thrown on the ground	…agh!	…agh!	1		0																									
 vocs_over_over_	_n30	vocs_over_over_bambooforest_debriefing_n30				BROGUNSON	delighted	takes delight in suffering	Câm cái mồm thối lại, trẻ ranh.	Shut your mouth, brat.	4		0																									
 vocs_over_over_	_n31	vocs_over_over_bambooforest_debriefing_n31				BROGUN	cold		Quyết định đi Mugen. Nó sẽ không như thế này.	A decision, Mugen. It does not have to be like this.	11		0																									
-vocs_over_over_	_n32	vocs_over_over_bambooforest_debriefing_n32				WARRIOR	emotional	Mugen stands up guards take aim at the rest of the team	…Tên tao là Ōshiro Mugen. Tao là một Samurai.	…My name is Ōshiro Mugen. I am samurai.	8		0																									
-vocs_over_over_	_n33	vocs_over_over_bambooforest_debriefing_n33				WARRIOR	emotional	to himself	Một samurai phải phụng sự chủ của mình…	A samurai must serve his lord…	6		0																									
+vocs_over_over_	_n32	vocs_over_over_bambooforest_debriefing_n32				WARRIOR	emotional	Mugen stands up guards take aim at the rest of the team	…Tên tôi là Ōshiro Mugen. Tôi là một Samurai.	…My name is Ōshiro Mugen. I am samurai.	8		0																									
+vocs_over_over_	_n33	vocs_over_over_bambooforest_debriefing_n33				WARRIOR	emotional	to himself	Một samurai thì phải phụng sự chủ của mình…	A samurai must serve his lord…	6		0																									
 vocs_over_over_	_n34	vocs_over_over_bambooforest_debriefing_n34				WARRIOR	emotional	to himself	…bảo vệ chủ của mình…	…protect his lord…	3		0																									
 vocs_over_over_	_n35	vocs_over_over_bambooforest_debriefing_n35				WARRIOR	emotional	to himself	…chết vì chủ của mình.	…die for his lord.	4		0																									
 vocs_over_over_	_n36	vocs_over_over_bambooforest_debriefing_n36				WARRIOR	in tears	to himself	…Nhưng không thể!	…But I cannot!	3		0																									
@@ -139,7 +139,7 @@ vocs_over_over_	_n37	vocs_over_over_bambooforest_debriefing_n37				WARRIOR	in te
 vocs_over_over_	_n38	vocs_over_over_bambooforest_debriefing_n38				GEISHA	losing hope		Đừng anh…	No…	2		0																									
 vocs_over_over_	_n39	vocs_over_over_bambooforest_debriefing_n39				WARRIOR	broken	to himself	Mạc Chúa, thứ lỗi cho thần!	My Shogun, forgive me!	4		0																									
 vocs_over_over_	_n40	vocs_over_over_bambooforest_debriefing_n40				BROGUN	pleased		Một lựa chọn khôn ngoan, Mugen.	A wise choice, Mugen.	4		0																									
-vocs_over_over_	_n41	vocs_over_over_bambooforest_debriefing_n41				WARRIOR	hot hatred		Thế với tao bằng mạng sống mày và con trai mày, rằng mày sẽ không làm hại tới đồng đội của tạo!	Swear to me, on your life and the life of your son, that you will not harm my companions!	19		0																									
+vocs_over_over_	_n41	vocs_over_over_bambooforest_debriefing_n41				WARRIOR	hot hatred		Thế với tao bằng mạng sống mày và con trai mày, rằng mày sẽ không làm hại tới đồng đội của tao!	Swear to me, on your life and the life of your son, that you will not harm my companions!	19		0																									
 vocs_over_over_	_n42	vocs_over_over_bambooforest_debriefing_n42				BROGUN	cold		Tao sẽ không động tới chúng. Nếu như mày giữ lời.	I will not touch them. On this you have my word.	11		0																									
 vocs_over_over_	_n43	vocs_over_over_bambooforest_debriefing_n43				WARRIOR	broken		…vậy…tao mang… mày thắng…	…then…I yield… You have won…	5		0																									
 vocs_over_over_	_n44	vocs_over_over_bambooforest_debriefing_n44				BROGUN	cold		Tốt. Mày sẽ dẫn đường. Rồi bạn của mày sẽ về với mày.	Good. You will lead the way. Your friends will come with us.	12		0																									
@@ -147,7 +147,7 @@ vocs_over_over_	_n45	vocs_over_over_bambooforest_debriefing_n45				BROGUN	cold	l
 vocs_over_over_	_n46	vocs_over_over_bambooforest_debriefing_n46				BROGUNSON	disappointed	Mugen lead away behind Noboru	Vâng thưa cha…	Yes, father…	2		0																									
 vocs_over_over_	_n47	vocs_over_over_bambooforest_debriefing_n47				BROGUNSON	disappointed	orders guards around	Mày! Chờ cái đéo gì nữa?! Làm việc đi.	You! What are you waiting for?! Get to work.	9		0																									
 vocs_over_over_	_n48	vocs_over_over_bambooforest_debriefing_n48				GEISHA	anger	being tied up	Mình biết là có chuyện không ổn mà. Đáng lẽ mình phải biết nhiều hơn thế…	I knew something was wrong. I should have known better…	10		0																									
-vocs_over_over_	_n49	vocs_over_over_bambooforest_debriefing_n49				ALCHEMIST	tired	being tied up	Nó không quan trọng. Hãy giữ sức của cháu. Nhiều thứ tối tăm đang chờ phía trước.	It doesn't matter. Save your strength. Dark things lie ahead.	10		0																									
+vocs_over_over_	_n49	vocs_over_over_bambooforest_debriefing_n49				ALCHEMIST	tired	being tied up	Nó không quan trọng. Hãy giữ sức của cháu. Nhiều thứ tối tăm đang chờ ở phía trước.	It doesn't matter. Save your strength. Dark things lie ahead.	10		0																									
 vocs_over_over_	_n50	vocs_over_over_bambooforest_debriefing_n50				NINJA	anger	being tied up	Mugen…	Mugen…	1		0																									
 																																						
 												MISSION-WORDCOUNT DE:	0		TOTAL	NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE

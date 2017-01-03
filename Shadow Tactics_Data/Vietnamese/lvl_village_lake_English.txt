@@ -16,7 +16,7 @@
 713300851	MiMissionTaskHandler	Element 7 Str Task Name	Vị trí an toàn D
 -751924318	MiMissionTaskHandler	Element 7 Str Description	Có thể tập hợp nhóm ở đằng sau quán rượu.
 1587942303	MiMissionTaskHandler	Element 8 Str Task Name	Vị trí an toàn E
--743005551	MiMissionTaskHandler	Element 8 Str Description	Có thể tập hợp nhóm ở đằng sau chuồng ga.
+-743005551	MiMissionTaskHandler	Element 8 Str Description	Có thể tập hợp nhóm ở đằng sau chuồng gà.
 -1242356905	MiMissionTaskHandler	Element 9 Str Task Name	Vị trí an toàn F
 1960750485	MiMissionTaskHandler	Element 9 Str Description	Có thể tập hợp nhóm cạnh xưởng gỗ.
 759430947	MiMissionTaskHandler	Element 10 Str Task Name	Nghe lén Okkoto
@@ -39,8 +39,8 @@
 -1535662883	tutorialbox_night	Str Header Text	Nhiệm vụ đêm
 -2006619692	tutorialbox_night	Element 0 Str Body Text PC	Vào ban đêm, địch có tầm nhìn hơi khác.
 1742472304	tutorialbox_night	Element 0 Str Body Text Console	Vào ban đêm, địch có tầm nhìn hơi khác.
-274677125	tutorialbox_night	Element 1 Str Body Text PC	Vùng sáng của tầm nhìn nhỏ hơn, và hình nón của ngắn hơn đáng kể.
-2131913481	tutorialbox_night	Element 1 Str Body Text Console	Vùng sáng của tầm nhìn nhỏ hơn, và hình nón của ngắn hơn đáng kể.
+274677125	tutorialbox_night	Element 1 Str Body Text PC	Vùng sáng của tầm nhìn nhỏ hơn, và hình nón ngắn hơn đáng kể.
+2131913481	tutorialbox_night	Element 1 Str Body Text Console	Vùng sáng của tầm nhìn nhỏ hơn, và hình nón ngắn hơn đáng kể.
 1304548668	tutorialbox_night	Element 2 Str Body Text PC	Nhược điểm là các nguồn ánh sáng sẽ tạo thêm vùng sáng cho tầm nhìn.
 -371317730	tutorialbox_night	Element 2 Str Body Text Console	Nhược điểm là các nguồn ánh sáng sẽ tạo thêm vùng sáng cho tầm nhìn.
 -582968262	tutorialbox_night	Element 3 Str Body Text PC	Tránh đứng quá nhiều dưới ánh sáng, bởi vì sẽ bị phát hiện kể cả khi đứng hoặc cúi người.

@@ -4,20 +4,20 @@
 1986787858	MiMissionTaskHandler	Element 1 Str Task Name	Masaru
 -2028312160	MiMissionTaskHandler	Element 1 Str Description	Mang Masaru vào lều của Mạc Chúa.
 901955324	MiMissionTaskHandler	Element 2 Str Task Name	Ngụy trang A
--1253582799	MiMissionTaskHandler	Element 2 Str Description	Aiko có thể lấy cắp Kimono từ dây phơi đồ.
+-1253582799	MiMissionTaskHandler	Element 2 Str Description	Aiko có thể lấy cắp Kimono ở chỗ dây phơi đồ.
 -1249333164	MiMissionTaskHandler	Element 3 Str Task Name	Ngụy trang B
 -512671401	MiMissionTaskHandler	Element 3 Str Description	Aiko có thể đánh ngất hầu nữ đền thờ và lấy đồ của cô ấy.
 -1275621667	MiMissionTaskHandler	Element 4 Str Task Name	Trạm giả kim
 -1064469139	MiMissionTaskHandler	Element 4 Str Description	Takuma có thể chế thuốc ngủ tại trạm giả kim.
 555074746	MiMissionTaskHandler	Element 5 Str Task Name	Xe bò đỏ
 631540649	MiMissionTaskHandler	Element 5 Str Description	Xe bò đỏ mang hàng hóa tới đền nhỏ.
--2074878088	MiMissionTaskHandler	Element 6 Str Task Name	Sake
-1399975723	MiMissionTaskHandler	Element 6 Str Description	Người hầu lấy sake từ thùng và phục vụ quân lính uống.
+-2074878088	MiMissionTaskHandler	Element 6 Str Task Name	Sa kê
+1399975723	MiMissionTaskHandler	Element 6 Str Description	Người hầu lấy sa kê từ thùng và phục vụ cho quân lính uống.
 -920419008	CmdShowMissionEndState	Str Description	Không thể hoàn thành mục tiêu của nhiệm vụ.
 1839816933	UITooltipDataClickable_Saveable	Str Display Top	Oda Cemunaga
--744521855	UITooltipDataWorld_Saveable_sake	Str Display Top	Thùng Sake
+-744521855	UITooltipDataWorld_Saveable_sake	Str Display Top	Thùng Sa kê
 1127892843	UITooltipDataWorld_Saveable_sake	Str Display Bottom	Aiko có thể trộn thuốc ngủ của Takuma vào rượu.
-1973308638	UsableQuestItem_poison_alcohol	Str Custom Action Name	Thuốc ngủ Sake
+1973308638	UsableQuestItem_poison_alcohol	Str Custom Action Name	Thuốc ngủ sa kê
 385119923	UITooltipDataWorld_Saveable_alchemy_station	Str Display Top	Trạm giả kim
 -1038660798	UITooltipDataWorld_Saveable_alchemy_station	Str Display Bottom	Takuma có thể chế thuốc ngủ ở đây.
 -562179089	UITooltipDataWorld_Saveable_sake (1)	Str Display Top	Lều của Mạc Chúa

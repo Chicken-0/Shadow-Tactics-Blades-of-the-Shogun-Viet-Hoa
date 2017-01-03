@@ -12,21 +12,21 @@
 -1467857439	MiMissionTaskHandler	Element 5 Str Task Name	Điểm an toàn B
 559528377	MiMissionTaskHandler	Element 5 Str Description	Gặp nhau trên mái nhà biệt thự Masaru.
 710192023	MiMissionTaskHandler	Element 6 Str Task Name	Bắt cóc Masaru
--1872348537	MiMissionTaskHandler	Element 6 Str Description	Tách Masaru ra khỏi đám hộ vệ và đánh ngất nó. Đừng giết nó!
+-1872348537	MiMissionTaskHandler	Element 6 Str Description	Tách Masaru ra khỏi đám hộ vệ rồi đánh ngất. Đừng giết nó!
 2129995523	MiMissionTaskHandler	Element 7 Str Task Name	Bỏ trốn
 -2130663672	MiMissionTaskHandler	Element 7 Str Description	Mang Masaru lên thuyền và cùng bỏ trốn.
 296966941	MiMissionTaskHandler	Element 8 Str Task Name	Tìm lớp ngụy trang
 139848394	MiMissionTaskHandler	Element 8 Str Description	Tìm bộ Kimono cho Aiko.
 892792051	MiMissionTaskHandler	Element 9 Str Task Name	Ngụy trang A
-1684751663	MiMissionTaskHandler	Element 9 Str Description	Có thể lấy Kimono từ dây phơi đồ.
+1684751663	MiMissionTaskHandler	Element 9 Str Description	Có thể lấy Kimono từ chỗ dây phơi đồ.
 -362375548	MiMissionTaskHandler	Element 10 Str Task Name	Ngụy trang B
--122899729	MiMissionTaskHandler	Element 10 Str Description	Có thể đánh ngất một kĩ nữ và ăn cắp Kimono của cổ.
+-122899729	MiMissionTaskHandler	Element 10 Str Description	Có thể đánh ngất một kĩ nữ và lấy cắp Kimono của cô ta.
 211534986	MiMissionTaskHandler	Element 11 Str Task Name	Nghe lén
-282233302	MiMissionTaskHandler	Element 11 Str Description	Nhớ rằng:\nKhi đang nghe lén, giữ đủ khoảng cách với mục tiêu cho đến khi bộ đếm đầy.
+282233302	MiMissionTaskHandler	Element 11 Str Description	Nhớ rằng:\nKhi đang nghe lén, phải luôn giữ đủ khoảng cách với mục tiêu cho đến khi bộ đếm đầy.
 418434573	MiMissionTaskHandler	Element 12 Str Task Name	Thói quen
--758192894	MiMissionTaskHandler	Element 12 Str Description	Masaru có một thói quen đơn giản trong khi nó thưởng thức bản thân ở phòng tắm.
+-758192894	MiMissionTaskHandler	Element 12 Str Description	Masaru có một thói quen đơn giản trong khi nó hưởng thụ bản thân ở phòng tắm.
 1904025542	MiMissionTaskHandler	Element 13 Str Task Name	Hộ vệ
-1839773153	MiMissionTaskHandler	Element 13 Str Description	Làm hỏng thói quen của Masaru để tách nó ra khỏi đám hộ vệ.
+1839773153	MiMissionTaskHandler	Element 13 Str Description	Phá hỏng thói quen của Masaru để tách nó ra khỏi đám hộ vệ.
 2056529375	MiMissionTaskHandler	Element 14 Str Task Name	Người đấm bóp
 310427707	MiMissionTaskHandler	Element 14 Str Description	Masaru mát xa từ một người đấm bóp riêng.
 180934342	MiMissionTaskHandler	Element 15 Str Task Name	Nước nóng

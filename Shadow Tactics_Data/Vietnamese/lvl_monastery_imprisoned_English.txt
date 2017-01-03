@@ -22,15 +22,15 @@
 -850331955	MiMissionTaskHandler	Element 10 Str Task Name	Phi tiêu Shuriken
 -766954177	MiMissionTaskHandler	Element 10 Str Description	-
 -2096340589	MiMissionTaskHandler	Element 11 Str Task Name	Giải thoát Aiko
-1674806723	MiMissionTaskHandler	Element 11 Str Description	Aiko đang bị thẩm vấn. Giải thoát cho cô ấy.
+1674806723	MiMissionTaskHandler	Element 11 Str Description	Aiko đang bị thẩm vấn. Hãy giải thoát cho cô ấy.
 1070695862	MiMissionTaskHandler	Element 12 Str Task Name	Tới gần Mugen
 277321055	MiMissionTaskHandler	Element 12 Str Description	Mugen không còn là chính mình. Mọi người lại gần để giúp anh ấy.
 1035267972	MiMissionTaskHandler	Element 13 Str Task Name	Thoát
 786677113	MiMissionTaskHandler	Element 13 Str Description	Tới gần đường chính và thoát khỏi núi Tsuru.
-127356369	MiMissionTaskHandler	Element 14 Str Task Name	Kẻ giảm ngục
+127356369	MiMissionTaskHandler	Element 14 Str Task Name	Kẻ giám ngục
 -717872926	MiMissionTaskHandler	Element 14 Str Description	Giám ngục sẽ kiểm tra tù nhân định kỳ. Nếu có người trốn thoát, hắn sẽ biết được.
 -1270754819	MiMissionTaskHandler	Element 15 Str Task Name	Móc túi
--2059279271	MiMissionTaskHandler	Element 15 Str Description	Kẻ địch nào đang cầm trang bị của bạn thì cỏ thể móc túi được.
+-2059279271	MiMissionTaskHandler	Element 15 Str Description	Kẻ địch nào đang cầm trang bị của nhân vật thì có thể móc túi được.
 147192016	MiMissionTaskHandler	Element 16 Str Task Name	Kuma
 784507646	MiMissionTaskHandler	Element 16 Str Description	Kuma đã bỏ chạy khi bị bắt. Thử gọi nó xem.
 -1925410101	MiMissionTaskHandler	Element 17 Str Task Name	Tượng Crane

@@ -4,8 +4,8 @@
 -2024086920	MiMissionTaskHandler	Element 1 Str Task Name	Samurai
 -1924644715	MiMissionTaskHandler	Element 1 Str Description	Đối phó với Samurai đang canh giữ Takuma.
 166422007	MiMissionTaskHandler	Element 2 Str Task Name	Tụ họp
-974095167	MiMissionTaskHandler	Element 2 Str Description	Mugen phải nói với Takuma ngay khi xử lý xong Samurai.
--1324768845	MiMissionTaskHandler	Element 3 Str Task Name	Trốn thoát cùng
+974095167	MiMissionTaskHandler	Element 2 Str Description	Mugen phải nói chuyện với Takuma ngay khi xử lý xong Samurai.
+-1324768845	MiMissionTaskHandler	Element 3 Str Task Name	Cùng trốn thoát
 -121211609	MiMissionTaskHandler	Element 3 Str Description	Tất cả mọi người trốn khỏi núi Tsuru bằng lối thoát.
 -2059079447	MiMissionTaskHandler	Element 4 Str Task Name	Đường chính
 -591225842	MiMissionTaskHandler	Element 4 Str Description	Rời đi bằng đường chính
@@ -14,12 +14,12 @@
 269201283	MiMissionTaskHandler	Element 6 Str Task Name	Lối bí mật B
 874702748	MiMissionTaskHandler	Element 6 Str Description	Có thể sử dụng bức tượng gần nghĩa trang để mở ra lối tắt bí mật.
 -553744899	MiMissionTaskHandler	Element 7 Str Task Name	Rung chuông
-1879477878	MiMissionTaskHandler	Element 7 Str Description	Có thể rung cuông để gọi tất cả nhà sư tới cầu nguyện và mở đường cho Mugen.
+1879477878	MiMissionTaskHandler	Element 7 Str Description	Có thể rung cuông để gọi tất cả nhà sư tới niệm kinh và mở đường cho Mugen.
 898822713	MiMissionTaskHandler	Element 8 Str Task Name	Ngụy trang A
 673603820	MiMissionTaskHandler	Element 8 Str Description	Aiko có thể hạ gục đầy tớ ngôi đền và lấy cắp quần áo của cô ấy.
 1269675663	MiMissionTaskHandler	Element 9 Str Task Name	Ngụy trang B
 -245087566	MiMissionTaskHandler	Element 9 Str Description	Aiko có thể lấy trang phục đầy tớ từ giỏ đựng quần áo này.
-797637290	UITooltipDataClickable_Saveable	Str Display Top	Daimyo
+797637290	UITooltipDataClickable_Saveable	Str Display Top	Đại Danh
 -133837944	tutorialbox_disguise	Str Header Text	Ngụy trang
 -2039536599	tutorialbox_disguise	Element 0 Str Body Text PC	Aiko có thể mặc lớp ngụy trang để che dấu thân phận và nói chuyện với địch để đánh lạc hướng.
 578325823	tutorialbox_disguise	Element 0 Str Body Text Console	Aiko có thể mặc lớp ngụy trang để che dấu thân phận và nói chuyện với địch để đánh lạc hướng.

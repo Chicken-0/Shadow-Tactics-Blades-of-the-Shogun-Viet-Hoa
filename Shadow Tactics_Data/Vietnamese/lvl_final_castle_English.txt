@@ -8,7 +8,7 @@
 -200607195	MiMissionTaskHandler	Element 3 Str Task Name	Giếng B
 -1884161912	MiMissionTaskHandler	Element 3 Str Description	Có thể xuống giếng ở gần tường phía Bắc, băng qua các lính canh chểnh mảng.
 -841962253	MiMissionTaskHandler	Element 4 Str Task Name	Giết lãnh chúa Noboru
--687160244	MiMissionTaskHandler	Element 4 Str Description	Lãnh chúa Noboru ở trên ban công của hắn. Đối đầu và kết thúc mạng sống của hắn.
+-687160244	MiMissionTaskHandler	Element 4 Str Description	Lãnh chúa Noboru ở trên ban công. Đối đầu và kết thúc mạng sống của hắn.
 -1273267266	MiMissionTaskHandler	Element 5 Str Task Name	Bò và Tượng
 441917828	MiMissionTaskHandler	Element 5 Str Description	Con bò nguy hiểm đứng gần bức tượng.
 86043650	MiMissionTaskHandler	Element 6 Str Task Name	Nơi diễn tập bắn súng

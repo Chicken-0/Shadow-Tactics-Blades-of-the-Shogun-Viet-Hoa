@@ -3,13 +3,13 @@
 -184246624	Textquicksave_00_mouse	Text	{0} để lưu nhanh
 -1184480434	Text_camrotate_cont	Text	Xoay Camera\n(Giữ {0})
 281664816	Text_quicksave_00_cont	Text	Lưu nhanh ({0})
-244161932	MiMissionTaskHandler	Element 0 Str Task Name	Giết Gián Điệp
+244161932	MiMissionTaskHandler	Element 0 Str Task Name	Giết gián điệp
 -2042307143	MiMissionTaskHandler	Element 0 Str Description	Làm theo cách mà bạn muốn để lọt vào trại của hắn ta và ám sát gián điệp.
 -513099499	MiMissionTaskHandler	Element 1 Str Task Name	Trốn thoát
 -1462046965	MiMissionTaskHandler	Element 1 Str Description	Thoát khỏi trại bằng con đường ở phía Đông
 -544980731	tutorialbox_viewcone	Str Header Text	Tầm nhìn
--1768209428	tutorialbox_viewcone	Element 0 Str Body Text PC	Tất cả kẻ địch đều tầm nhìn, được mô tả bởi hình nón màu xanh.
--1188931758	tutorialbox_viewcone	Element 0 Str Body Text Console	Tất cả kẻ địch đều tầm nhìn, được mô tả bởi hình nón màu xanh.
+-1768209428	tutorialbox_viewcone	Element 0 Str Body Text PC	Tất cả kẻ địch đều có tầm nhìn, được mô tả bởi hình nón màu xanh.
+-1188931758	tutorialbox_viewcone	Element 0 Str Body Text Console	Tất cả kẻ địch đều có tầm nhìn, được mô tả bởi hình nón màu xanh.
 -975665355	tutorialbox_viewcone	Element 1 Str Body Text PC	Lọt vào tầm nhìn địch, nó sẽ chuyển sang màu vàng.\nNếu màu vàng, địch sẽ thấy bạn và tạo báo động.
 2123685994	tutorialbox_viewcone	Element 1 Str Body Text Console	Lọt vào tầm nhìn địch, nó sẽ chuyển sang màu vàng.\nNếu màu vàng, địch sẽ thấy bạn và tạo báo động.
 811151381	tutorialbox_viewcone	Element 2 Str Body Text PC	Tầm nhìn của kẻ địch có 2 vùng: Sáng và Tối.

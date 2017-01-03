@@ -4,7 +4,7 @@
 2099631708	MiMissionTaskHandler	Element 1 Str Task Name	Tiếp cận Cổng
 1117140869	MiMissionTaskHandler	Element 1 Str Description	Tiếp cận Cổng bên trong thành.
 -846449451	MiMissionTaskHandler	Element 2 Str Task Name	Giúp Mugen
--1193877725	MiMissionTaskHandler	Element 2 Str Description	Đánh lạc hướng kẻ địch đang ghì chặt Mugen xuống.
+-1193877725	MiMissionTaskHandler	Element 2 Str Description	Đánh lạc hướng kẻ địch đang cầm chân Mugen.
 1455471637	MiMissionTaskHandler	Element 3 Str Task Name	Mở Cổng
 89925598	MiMissionTaskHandler	Element 3 Str Description	Mugen bắn pháo để mở Cổng cho Hayato.
 1270832144	MiMissionTaskHandler	Element 4 Str Task Name	Tìm chất nổ
@@ -16,23 +16,23 @@
 -1911540076	MiMissionTaskHandler	Element 7 Str Task Name	Thùng
 -1932622704	MiMissionTaskHandler	Element 7 Str Description	Thùng thuốc súng nặng. Chỉ Mugen mới đủ khỏe để di chuyển được chúng.
 -586517079	MiMissionTaskHandler	Element 8 Str Task Name	Takuma
--1222490226	MiMissionTaskHandler	Element 8 Str Description	Takuma có thể bắn kẻ địch từ khoảng cách an toàn. Lão luôn mang thêm đạn để dành cho mục tiêu của nhiệm vụ.
+-1222490226	MiMissionTaskHandler	Element 8 Str Description	Takuma có thể bắn kẻ địch từ khoảng cách an toàn. Lão luôn mang thêm đạn dành riêng cho mục tiêu của nhiệm vụ.
 2026293247	tutorialbox_hide_bodies	Str Header Text	Giấu xác
 -627711469	tutorialbox_hide_bodies	Element 0 Str Body Text PC	Nếu địch thấy xác chết, họ sẽ báo động cho người khác biết.
 1301131974	tutorialbox_hide_bodies	Element 0 Str Body Text Console	Nếu địch thấy xác chết, họ sẽ báo động cho người khác biết.
 1504216109	tutorialbox_hide_bodies	Element 1 Str Body Text PC	Giữ <hotkey>{0}</hotkey> và sử dụng <hotkey>{1}</hotkey> để nhặt xác chết. Trong khi vác, giữ <hotkey>{0}</hotkey> và nhấn <hotkey>{1}</hotkey> để đặt xác chết xuống.
 1545614178	tutorialbox_hide_bodies	Element 1 Str Body Text Console	Tiếp cận một xác chết, nhấn {0} để vác lên. Trong khi vác, nhấn {0} để đặt xác xuống.\n
-1501719114	tutorialbox_hide_bodies	Element 2 Str Body Text PC	Vác xác ra khỏi tầm nhìn để tránh nâng mức báo động.
--595577981	tutorialbox_hide_bodies	Element 2 Str Body Text Console	Vác xác ra khỏi tầm nhìn để tránh nâng mức báo động.
-1976337260	tutorialbox_hide_bodies	Element 3 Str Body Text PC	Mẹo: Giấu trong bụi cây, giếng nước, thùng, hoặc nước sâu sẽ giúp xác biến mất mãi mãi.
--1534529559	tutorialbox_hide_bodies	Element 3 Str Body Text Console	Mẹo: Giấu trong bụi cây, giếng nước, thùng, hoặc nước sâu sẽ giúp xác biến mất mãi mãi.
+1501719114	tutorialbox_hide_bodies	Element 2 Str Body Text PC	Di chuyển xác chết ra khỏi tầm nhìn để tránh kẻ địch tạo báo động.
+-595577981	tutorialbox_hide_bodies	Element 2 Str Body Text Console	Di chuyển xác chết ra khỏi tầm nhìn để tránh kẻ địch tạo báo động.
+1976337260	tutorialbox_hide_bodies	Element 3 Str Body Text PC	Mẹo: Giấu trong bụi cây, giếng nước, thùng, hoặc nước sâu sẽ giúp xác chết biến mất mãi mãi.
+-1534529559	tutorialbox_hide_bodies	Element 3 Str Body Text Console	Mẹo: Giấu trong bụi cây, giếng nước, thùng, hoặc nước sâu sẽ giúp xác chết biến mất mãi mãi.
 -403262954	tutorialbox_quicksave	Str Header Text	Lưu save nhanh
 -1843485653	tutorialbox_quicksave	Element 0 Str Body Text PC	Có thể lưu save nhanh tại bất kỳ thời điểm nào trong Game.
 -1941791307	tutorialbox_quicksave	Element 0 Str Body Text Console	Có thể lưu save nhanh tại bất kỳ thời điểm nào trong Game.
 1453777011	tutorialbox_quicksave	Element 1 Str Body Text PC	Nhấn <hotkey>{0}</hotkey> để lưu nhanh. Nhấn <hotkey>{1}</hotkey> để tải save nhanh, hoặc mở Menu để xem 3 save lưu nhanh gần đây nhất.
 -1939468997	tutorialbox_quicksave	Element 1 Str Body Text Console	Nhấn {0} để lưu nhanh. Để tải, nhấn {1} và chọn một trong ba Save gần đây nhất nhất.
-775757820	tutorialbox_quicksave	Element 2 Str Body Text PC	Mẹo: Bộ đếm thời gian ở phía trên là đếm thời gian kể từ lưu nhanh mới nhất.
--478687028	tutorialbox_quicksave	Element 2 Str Body Text Console	Mẹo: Bộ đếm thời gian ở phía trên là đếm thời gian kể từ lưu nhanh mới nhất.
+775757820	tutorialbox_quicksave	Element 2 Str Body Text PC	Mẹo: Bộ đếm thời gian ở phía trên là đếm thời gian kể từ lần lưu nhanh gần nhất.
+-478687028	tutorialbox_quicksave	Element 2 Str Body Text Console	Mẹo: Bộ đếm thời gian ở phía trên là đếm thời gian kể từ lần lưu nhanh gần nhất.
 -1594667261	tutorialbox_planning	Str Header Text	Chế Độ Shadow
 572409589	tutorialbox_planning	Element 0 Str Body Text PC	Nếu muốn các nhân vật hành động đồng thời, sử dụng Chế Độ Shadow.
 2050514632	tutorialbox_planning	Element 0 Str Body Text Console	Nếu muốn các nhân vật hành động đồng thời, sử dụng Chế Độ Shadow.
@@ -41,8 +41,8 @@
 -1755925167	tutorialbox_planning	Element 2 Str Body Text PC	Nhấn <hotkey>{0}</hotkey> để thực hiện tất cả hành động cùng một lúc.
 1578176191	tutorialbox_planning	Element 2 Str Body Text Console	Nhấn {0} để thực hiện tất cả hành động cùng một lúc.
 -1205866662	tutorialbox_viewcone	Str Header Text	Tầm nhìn hình nón của địch
--1950761443	tutorialbox_viewcone	Element 0 Str Body Text PC	Tất cả kẻ địch đều tầm nhìn, được mô tả bởi hình nón màu xanh.
-260569775	tutorialbox_viewcone	Element 0 Str Body Text Console	Tất cả kẻ địch đều tầm nhìn, được mô tả bởi hình nón màu xanh.
+-1950761443	tutorialbox_viewcone	Element 0 Str Body Text PC	Tất cả kẻ địch đều có tầm nhìn được mô tả bởi hình nón màu xanh.
+260569775	tutorialbox_viewcone	Element 0 Str Body Text Console	Tất cả kẻ địch đều có tầm nhìn được mô tả bởi hình nón màu xanh.
 -1237927517	tutorialbox_viewcone	Element 1 Str Body Text PC	Chọn một kẻ địch và sử dụng <hotkey>{0}</hotkey> để hiển thị tầm nhìn của chúng.
 -28680662	tutorialbox_viewcone	Element 1 Str Body Text Console	Giữ {0} và di chuyển chuột đến kẻ địch để hiển thị tầm nhìn của chúng.
 168840536	tutorialbox_viewcone	Element 2 Str Body Text PC	Lọt vào tầm nhìn địch, nó sẽ chuyển sang màu vàng.
@@ -70,11 +70,11 @@
 1065351727	tutorialbox_stone	Element 2 Str Body Text Console	Địch trong vòng tròn xanh sẽ nhìn vào nơi bị ném trong vài giây.
 424910935	tutorialbox_stone	Element 3 Str Body Text PC	Mẹo: Có thể không thu hút địch bằng đá, nhưng với ít giây ngắn ngủi đó sẽ giúp bạn đi được cả một đoạn đường dài đấy.
 1975115914	tutorialbox_stone	Element 3 Str Body Text Console	Mẹo: Có thể không thu hút địch bằng đá, nhưng với ít giây ngắn ngủi đó sẽ giúp bạn đi được cả một đoạn đường dài đấy.
--1897636167	tutorialbox_sake	Str Header Text	Chai Sa-kê
-192954259	tutorialbox_sake	Element 0 Str Body Text PC	Mugen có thể sử dụng Chai Sa-kê để làm mồi nhử địch.
-72159265	tutorialbox_sake	Element 0 Str Body Text Console	Mugen có thể sử dụng Chai Sa-kê để làm mồi nhử địch.
+-1897636167	tutorialbox_sake	Str Header Text	Chai sa kê
+192954259	tutorialbox_sake	Element 0 Str Body Text PC	Mugen có thể sử dụng Chai sa kê để làm mồi nhử địch.
+72159265	tutorialbox_sake	Element 0 Str Body Text Console	Mugen có thể sử dụng Chai sa kê để làm mồi nhử địch.
 -195205584	tutorialbox_sake	Element 1 Str Body Text PC	Nhấn <hotkey>{0}</hotkey>, chọn vị trí và sử dụng <hotkey>{1}</hotkey> để đặt chai rượu.
-1311459607	tutorialbox_sake	Element 1 Str Body Text Console	Giữ {0} và chọn Chai Sa-kê. Giữ {1} để ngắm và nhấn {2} để đặt.
+1311459607	tutorialbox_sake	Element 1 Str Body Text Console	Giữ {0} và chọn Chai sa kê. Giữ {1} để ngắm và nhấn {2} để đặt.
 -444749100	tutorialbox_sake	Element 2 Str Body Text PC	Địch có thể thấy chai rượu trong vùng sáng của tầm nhìn chúng.
 1302600172	tutorialbox_sake	Element 2 Str Body Text Console	Địch có thể thấy chai rượu trong vùng sáng của tầm nhìn chúng.
 1487887572	tutorialbox_sake	Element 3 Str Body Text PC	Mẹo: Nếu địch nhặt chai, bạn phải hạ chúng thì mới lấy lại được chai rượu đó.
@@ -109,13 +109,13 @@
 574797318	tutorialbox_vcmarker	Element 0 Str Body Text Console	Nếu muốn chắc chắn vị trí này có bị nhìn thấy hay không, sử dụng Đánh Dấu Kiểm Tra Tầm Nhìn.
 136897933	tutorialbox_vcmarker	Element 1 Str Body Text PC	Chọn vị trí và giữ <hotkey>{0}</hotkey> để đánh dấu kiểm tra tầm nhìn.
 2060051899	tutorialbox_vcmarker	Element 1 Str Body Text Console	Giữ {0}, chọn vị trí và nhấn {1} để đánh dấu kiểm tra tầm nhìn.
--1338768355	tutorialbox_vcmarker	Element 2 Str Body Text PC	Kẻ địch thấy điểm đánh dấu thì sẽ phát sáng. Nếu ra khỏi tầm mắt thì sẽ không phát sáng.
--952630117	tutorialbox_vcmarker	Element 2 Str Body Text Console	Kẻ địch thấy điểm đánh dấu thì sẽ phát sáng. Nếu ra khỏi tầm mắt thì sẽ không phát sáng.
+-1338768355	tutorialbox_vcmarker	Element 2 Str Body Text PC	Kẻ địch thấy điểm đánh dấu thì sẽ phát sáng. Nếu không thấy thì sẽ không phát sáng.
+-952630117	tutorialbox_vcmarker	Element 2 Str Body Text Console	Kẻ địch thấy điểm đánh dấu thì sẽ phát sáng. Nếu không thấy thì sẽ không phát sáng.
 -476895601	tutorialbox_static	Str Header Text	Mũ Rơm
 394336998	tutorialbox_static	Element 0 Str Body Text PC	Mũ Rơm là loại kẻ địch ít bị tác động bởi những thứ khác.
 1059804026	tutorialbox_static	Element 0 Str Body Text Console	Mũ Rơm là loại kẻ địch ít bị tác động bởi những thứ khác.
-1492740664	tutorialbox_static	Element 1 Str Body Text PC	Chúng ít bị tác động với bởi mồi nhử như Rượu Sa-kê của Mugen, hay cả với tiếng động cũng vậy.
--1995521734	tutorialbox_static	Element 1 Str Body Text Console	Chúng ít bị tác động với bởi mồi nhử như Rượu Sa-kê của Mugen, hay cả với tiếng động cũng vậy.
+1492740664	tutorialbox_static	Element 1 Str Body Text PC	Chúng ít bị tác động bởi mồi nhử như Rượu sa kê của Mugen, hay cả với tiếng động cũng vậy.
+-1995521734	tutorialbox_static	Element 1 Str Body Text Console	Chúng ít bị tác động bởi mồi nhử như Rượu sa kê của Mugen, hay cả với tiếng động cũng vậy.
 1913713790	tutorialbox_static	Element 2 Str Body Text PC	Nếu Mũ Rơm phát hiện ra mối đe dạo, chúng sẽ gửi lính canh đến điều tra.
 2063255176	tutorialbox_static	Element 2 Str Body Text Console	Nếu Mũ Rơm phát hiện ra mối đe dạo, chúng sẽ gửi lính canh đến điều tra.
 -1336841734	tutorialbox_melee	Str Header Text	Kiếm Ninja
@@ -132,8 +132,8 @@
 985071745	tutorialbox_crouch	Element 0 Str Body Text Console	Tầm nhìn của kẻ địch có 2 vùng: Sáng và Tối.
 288763587	tutorialbox_crouch	Element 1 Str Body Text PC	Nhấn <hotkey>{0}</hotkey> để cúi người và di chuyển băng qua vùng tối để không bị phát hiện.
 1228549089	tutorialbox_crouch	Element 1 Str Body Text Console	Nhấn {0} để cúi người và di chuyển băng qua vùng tối để không bị phát hiện.
--11253887	tutorialbox_crouch	Element 2 Str Body Text PC	Đối tượng như bụi cây và đá sẽ giúp tạo vùng tối.
-1066024853	tutorialbox_crouch	Element 2 Str Body Text Console	Đối tượng như bụi cây và đá sẽ giúp tạo vùng tối.
+-11253887	tutorialbox_crouch	Element 2 Str Body Text PC	Vật thể như bụi cây và đá sẽ giúp tạo vùng tối.
+1066024853	tutorialbox_crouch	Element 2 Str Body Text Console	Vật thể như bụi cây và đá sẽ giúp tạo vùng tối.
 1394664387	tutorialbox_crouch	Element 3 Str Body Text PC	Mẹo: Cúi người sẽ giúp ẩn thân trên vùng đất cao hơn.
 -439996815	tutorialbox_crouch	Element 3 Str Body Text Console	Mẹo: Cúi người sẽ giúp ẩn thân trên vùng đất cao hơn.
 1530821810	mission_fail	Str Description	Đã mất cả hai thùng thuốc súng.

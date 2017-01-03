@@ -8,12 +8,12 @@ vocs_over_over_	_n01	vocs_over_over_bambooforest_demo_briefing_n01				NINJA			Hm
 vocs_over_over_	_n02	vocs_over_over_bambooforest_demo_briefing_n02				NINJA			Gián điệp là mục tiêu của chúng ta. Tiếp cận rồi xử đẹp hắn, hoặc bỏ độc vào trà của hắn cũng được.	15		0																									
 vocs_over_over_	_n03	vocs_over_over_bambooforest_demo_briefing_n03				NINJA			Khi chúng ta xong thì sẽ trốn thoát bằng con đường đó.	8		0																									
 vocs_over_over_	_n04	vocs_over_over_bambooforest_demo_briefing_n04				NINJA			Được rồi, Yuki…cho anh thấy những gì em có thể làm nào.	8		0																									
-vocs_over_over_	_n05	vocs_over_over_bambooforest_demo_briefing_n05				TRAPPER			Hah! …Đừng lo lắng, đồ ngốc, mày có thể làm được.	8		0																									
+vocs_over_over_	_n05	vocs_over_over_bambooforest_demo_briefing_n05				TRAPPER			Hah! …Đừng run, đồ ngốc, mày có thể làm được.	8		0																									
 																																					
 SpyDead									Description																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN																											
 vocs_over_over_	_n00	vocs_over_over_bambooforest_demo_spydead_n00				NINJA		Hayato First	…và hắn đã chết.	3																											
-vocs_over_over_	_n01	vocs_over_over_bambooforest_demo_spydead_n01				TRAPPER		Yuki First	Xử xong rồi, Hayato-sensei! Giờ làm gì tiếp?	5																											
+vocs_over_over_	_n01	vocs_over_over_bambooforest_demo_spydead_n01				TRAPPER		Yuki First	Em xử xong rồi, Hayato-sensei! Giờ làm gì tiếp theo?	5																											
 vocs_over_over_	_n02	vocs_over_over_bambooforest_demo_spydead_n02				TRAPPER			Cần phải thoát khỏi đây. Hướng về phía tây và mặt nhau ở gần lối thoát.	14																											
 																																					
 KillNPC									Description																												
@@ -24,7 +24,7 @@ vocs_over_over_	_n01	vocs_over_over_bambooforest_demo_killnpc_n01				TRAPPER		Yu
 ExitBoth																																					
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN																											
 vocs_over_over_	_n00	vocs_over_over_bambooforest_demo_exitboth_n00				NINJA		Hayato First	Đó là lối thoát. Sao Yuki-chan lâu vậy? Chúng ta phải trốn thoát cùng nhau.	13																											
-vocs_over_over_	_n01	vocs_over_over_bambooforest_demo_exitboth_n01				TRAPPER		Hayato First	Đây rồi! Lối thoát… Hayato-sensei đâu rồi? Anh ấy nói chúng ta phải thoát cùng nhau.	11																											
+vocs_over_over_	_n01	vocs_over_over_bambooforest_demo_exitboth_n01				TRAPPER		Hayato First	Đây rồi! Lối thoát… Hayato-sensei đâu rồi? Anh ấy nói chúng ta phải thoát cùng nhau mà.	11																											
 																																					
 DEBRIEFING									Hayato and Yuki have snuck close to a small enemy camp where they must kill a spy.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
@@ -33,7 +33,7 @@ vocs_over_over_	_n01	vocs_over_over_bambooforest_demo_debriefing_n01				TRAPPER	
 vocs_over_over_	_n02	vocs_over_over_bambooforest_demo_debriefing_n02				NINJA			Hm. Em làm tốt lắm, Yuki-chan.	5		0																									
 vocs_over_over_	_n03	vocs_over_over_bambooforest_demo_debriefing_n03				NINJA			Anh biết Takuma-sama sẽ tự hào về em lắm.	7		0																									
 vocs_over_over_	_n04	vocs_over_over_bambooforest_demo_debriefing_n04				TRAPPER			Em… Cảm ơn anh, Hayato-sensei!	4		0																									
-vocs_over_over_	_n05	vocs_over_over_bambooforest_demo_debriefing_n05				NINJA			Được rồi. Ra khỏi đây thôi.	6		0																									
+vocs_over_over_	_n05	vocs_over_over_bambooforest_demo_debriefing_n05				NINJA			Được rồi. Rời khỏi đây thôi.	6		0																									
 																																					
 																																					
 											MISSION-WORDCOUNT DE:	0		TOTAL	NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE

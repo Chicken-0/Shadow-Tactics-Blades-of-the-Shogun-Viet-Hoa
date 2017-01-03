@@ -7,10 +7,10 @@ vocs_over_over_	_n01	vocs_over_over_bathhouse_post_n01				ALCHEMIST	apologetic		
 vocs_over_over_	_n02	vocs_over_over_bathhouse_post_n02				GEISHA	pragmatic		Vậy chúng ta phải làm với tất cả những gì chúng ta có.	8		0																									
 vocs_over_over_	_n03	vocs_over_over_bathhouse_post_n03				TRAPPER	with contempt	to Masaru	Để em làm hắn bị thương.	4		0																									
 vocs_over_over_	_n04	vocs_over_over_bathhouse_post_n04				GEISHA	in thought		Nó là cơ hội duy nhất để chúng ta giải quyết vấn đề này.	10		0																									
-vocs_over_over_	_n05	vocs_over_over_bathhouse_post_n05				ALCHEMIST	intrigued		Hmm… Cháu có kế hoạch?	5		0																									
+vocs_over_over_	_n05	vocs_over_over_bathhouse_post_n05				ALCHEMIST	intrigued		Hmm… Cháu có kế hoạch rồi hả?	5		0																									
 vocs_over_over_	_n06	vocs_over_over_bathhouse_post_n06				GEISHA	leader		Mạc Chúa không bao giờ tin nếu chúng ta cố gắng tự bào chữa cho bản thân. Nhưng nếu Masaru thú nhận nó là kẻ giết Ryūnosuke thì mọi thứ sẽ có lợi cho chúng ta.	30		0																									
-vocs_over_over_	_n07	vocs_over_over_bathhouse_post_n07				TRAPPER	puzzled		Vậy…chúng ta mang hắn tới Mạc Chúa? Như một gói hàng?	9		0																									
-vocs_over_over_	_n08	vocs_over_over_bathhouse_post_n08				NINJA	worried		Thật không dễ dàng với lệnh truy nã những cái đầu của chúng ta.	10		0																									
+vocs_over_over_	_n07	vocs_over_over_bathhouse_post_n07				TRAPPER	puzzled		Vậy…chúng ta mang hắn tới Mạc Chúa? Như một gói hàng phải không?	9		0																									
+vocs_over_over_	_n08	vocs_over_over_bathhouse_post_n08				NINJA	worried		Thật không dễ dàng với những lệnh truy nã của chúng ta.	10		0																									
 vocs_over_over_	_n09	vocs_over_over_bathhouse_post_n09				ALCHEMIST	troubled		Còn nữa. Yuki và lão nghe được một số tin khi chuẩn bị bỏ đi. Mạc Chúa đã rời Edo cách đây không lâu.	19		0																									
 vocs_over_over_	_n10	vocs_over_over_bathhouse_post_n10				TRAPPER			Ngài đang trên đường tới thăm Nhật Hoàng ở Kyōto.	10		0																									
 vocs_over_over_	_n11	vocs_over_over_bathhouse_post_n11				NINJA	isn't that good		Vậy ngài ấy không ở trong thành Edo. Chúng ta có thể làm được.	13		0																									
@@ -26,11 +26,11 @@ vocs_over_over_	_n20	vocs_over_over_bathhouse_post_n20				TRAPPER	honest		…Ch�
 vocs_over_over_	_n21	vocs_over_over_bathhouse_post_n21				ALCHEMIST	surprised		Yuki-chan!	1		0																									
 vocs_over_over_	_n22	vocs_over_over_bathhouse_post_n22				TRAPPER	pleading		Takuma-sensei…Cháu muốn đi với chị ấy.	6		0																									
 vocs_over_over_	_n23	vocs_over_over_bathhouse_post_n23				ALCHEMIST	about to give up		Nhóc à…	1		0																									
-vocs_over_over_	_n24	vocs_over_over_bathhouse_post_n24				TRAPPER	pleading		Xin ông. Cháu không muốn lựa chọn. Đừng bắt cháu chọn.	10		0																									
-vocs_over_over_	_n25	vocs_over_over_bathhouse_post_n25				ALCHEMIST	giving up		Grrrr…được thôi, Yuki-chan. Một lần nữa ông sẽ theo cháu tới ranh giới của chết chóc.	14		0																									
+vocs_over_over_	_n24	vocs_over_over_bathhouse_post_n24				TRAPPER	pleading		Xin ông. Cháu không muốn lựa chọn. Đừng bắt cháu chọn mà.	10		0																									
+vocs_over_over_	_n25	vocs_over_over_bathhouse_post_n25				ALCHEMIST	giving up		Grrrr…được thôi, Yuki-chan. Một lần nữa ông sẽ theo cháu tới bờ vực của cái chết.	14		0																									
 vocs_over_over_	_n26	vocs_over_over_bathhouse_post_n26				TRAPPER	happy		Hai!	1		0																									
-vocs_over_over_	_n27	vocs_over_over_bathhouse_post_n27				GEISHA	honest gratitude		Cháu xin cảm ơn nhiều. Giờ Mạc Chúa đang ở đâu?	13		0																									
-vocs_over_over_	_n28	vocs_over_over_bathhouse_post_n28				NINJA	prepared		Có thể nói ngày ấy đi theo đường Nakasendō. Chúng ta có thể bắt kịp ngày ấy ở trên đèo Myōgi.	18		0																									
+vocs_over_over_	_n27	vocs_over_over_bathhouse_post_n27				GEISHA	honest gratitude		Cháu xin cảm ơn nhiều. Còn Mạc Chúa giờ đang ở đâu?	13		0																									
+vocs_over_over_	_n28	vocs_over_over_bathhouse_post_n28				NINJA	prepared		Có thể nói ngày ấy đi theo đường Nakasendō. Chúng ta có thể bắt kịp ở trên đèo Myōgi.	18		0																									
 vocs_over_over_	_n29	vocs_over_over_bathhouse_post_n29				GEISHA	honest gratitude		Thời gian này ở đó sẽ lạnh đấy. Chúng ta hãy chuẩn bị cho những điều tồi tệ nhất.	15		0																									
 																																					
 											MISSION-WORDCOUNT DE:	0		TOTAL	NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
