@@ -2,17 +2,17 @@
 																																					
 INTRO3									Narration with stylized render cutscene.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE		Changed?																							
-vocs_over_over_	_n00	vocs_over_over_mansion_post_n00				NARRATOR	epic		Lãnh chúa Yabu chết là một chiến thắng nhỏ. Mạc Chúa cũng đã chiếm được đền thờ cổ. Kage-sama một đi một đồng minh, nhưng hắn sẽ trả thù sớm.	25		0																									
-vocs_over_over_	_n01	vocs_over_over_mansion_post_n01				NARRATOR	epic		Sau khi thu thập và chuyển bị nhiều vũ khí hơn, hắn đã sẵn sàng để tấn công Mạc Chúa.	16		0																									
-vocs_over_over_	_n02	vocs_over_over_mansion_post_n02				NARRATOR	epic		Theo lệnh Kage-sama, tướng Okkoto tàn bạo lan truyền nỗi sợ hãi tới khắp đất nước, cướp những ngôi làng không hề thương sót.	18		0																									
-vocs_over_over_	_n03	vocs_over_over_mansion_post_n03				NARRATOR	epic		Rồi họ tiếp tục, Okkoto và người đàn ông đó càng tàn bạo hơn với mọi cuộc tấn công. Mạc Chúa, lo sợ một cuộc tấn công vào thành Edo, ra lệnh cho Mugen đưa con trai Ryūnosuke của mình tới một chỗ bí mật…	31		0		YES																							
+vocs_over_over_	_n00	vocs_over_over_mansion_post_n00				NARRATOR	epic		Lãnh chúa Yabu chết là một chiến thắng nhỏ. Mạc Chúa cũng đã chiếm được đền thờ cổ. Kage-sama mất đi một đồng minh, nhưng hắn sẽ trả thù sớm.	25		0																									
+vocs_over_over_	_n01	vocs_over_over_mansion_post_n01				NARRATOR	epic		Sau khi thu thập và chuẩn bị nhiều vũ khí hơn, hắn đã sẵn sàng để tấn công Mạc Chúa.	16		0																									
+vocs_over_over_	_n02	vocs_over_over_mansion_post_n02				NARRATOR	epic		Theo lệnh Kage-sama, tướng Okkoto tàn bạo lan truyền nỗi sợ hãi tới khắp đất nước, cướp những ngôi làng mà không hề thương sót.	18		0																									
+vocs_over_over_	_n03	vocs_over_over_mansion_post_n03				NARRATOR	epic		Rồi tiếp tục, Okkoto và người đàn ông đó càng tàn bạo hơn với mọi cuộc tấn công. Mạc Chúa, lo sợ một cuộc tấn công vào thành Edo, ra lệnh cho Mugen đưa con trai Ryūnosuke của mình tới một chỗ ẩn náu bí mật…	31		0		YES																							
 																																					
 EDO									Because of the rebellion, the Shogun orders Mugen to bring his son to safety. They both leave for an unknown location, later revealed to be Mount Tsuru.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 						TITLECARD			Edo Castle, 3 months later			0																									
-vocs_over_over_	_n04	vocs_over_over_mansion_post_n04				SHOGUN	displeased		Cách sử lý của thần làm kẻ phản bội Yabu bất cẩn. Nó làm cho kẻ thù bị đả kích với lực lượng hùng hậu hơn.	18		0																									
-vocs_over_over_	_n05	vocs_over_over_mansion_post_n05				WARRIOR	stoic		Thần nghĩ rằng hắn chính là Kage-sama. Đó là sai lầm của thần, và thần xin tự chịu trách nhiệm.	16		0																									
-vocs_over_over_	_n06	vocs_over_over_mansion_post_n06				SHOGUN	neutral		Em của ta hiện tại đang chiến đấu chống phiến quân với lính Mạc Phủ. Ta để thần ở dưới sự chỉ huy của em ấy.	20		0																									
+vocs_over_over_	_n04	vocs_over_over_mansion_post_n04				SHOGUN	displeased		Cách xử lý của thần làm kẻ phản bội Yabu nổi giận. Giờ kẻ thù sẽ đả kích với lực lượng hùng hậu hơn.	18		0																									
+vocs_over_over_	_n05	vocs_over_over_mansion_post_n05				WARRIOR	stoic		Thần đã nghĩ hắn chính là Kage-sama. Đó là sai lầm của thần, và thần xin tự chịu trách nhiệm.	16		0																									
+vocs_over_over_	_n06	vocs_over_over_mansion_post_n06				SHOGUN	neutral		Em của ta hiện tại đang chiến đấu chống phiến quân cùng lính Mạc Phủ. Ta để thần ở dưới sự chỉ huy của em ấy.	20		0																									
 vocs_over_over_	_n07	vocs_over_over_mansion_post_n07				WARRIOR	subservient		Như ngài muốn. Phụng sự em trai ngài cũng là phụng sự Mạc Phủ.	10		0																									
 vocs_over_over_	_n08	vocs_over_over_mansion_post_n08				SHOGUN	neutral		Giúp em ấy dẹp cuộc nổi loạn này, và chúng ta không thể để Kage-sama gây thêm thiệt hại nữa.	15		0																									
 vocs_over_over_	_n09	vocs_over_over_mansion_post_n09				SHOGUNSON	worried	a bit naive	Thầy nghĩ mất bao lâu để dẹp bọn phiến quân này, Mugen-sensei?	12		0		YES																							
@@ -25,8 +25,8 @@ vocs_over_over_	_n15	vocs_over_over_mansion_post_n15				SHOGUN	tiny hint of worr
 vocs_over_over_	_n16	vocs_over_over_mansion_post_n16				WARRIOR	dutyful		Thần sẽ bảo vệ bằng cả mạng sống của mình.	7		0																									
 vocs_over_over_	_n16a	vocs_over_over_mansion_post_n16a				WARRIOR	dutyful		Thần sẽ chết ngàn lần trước khi một ai đó làm hại được con trai ngài.	14		0																									
 vocs_over_over_	_n17	vocs_over_over_mansion_post_n17				SHOGUN	trust, then authority again		Ta biết thần sẽ thế. Giờ hãy đi và tham gia với em trai của ta ở trại chiến đến khi nào xong việc.	18		0																									
-vocs_over_over_	_n17a	vocs_over_over_mansion_post_n17a				SHOGUN	trust, then authority again		Đó là nhiệm vụ của cậu. Giờ hãy đi và tham gia với em trai của ta ở trại chiến đến khi nào xong việc.	18		0																									
-vocs_over_over_	_n18	vocs_over_over_mansion_post_n18				WARRIOR	subservient	bows and leaves	Mạc Chúa của thần.	2		0																									
+vocs_over_over_	_n17a	vocs_over_over_mansion_post_n17a				SHOGUN	trust, then authority again		Đó là nhiệm vụ của thần. Giờ hãy đi và tham gia với em trai của ta ở trại chiến đến khi nào xong việc.	18		0																									
+vocs_over_over_	_n18	vocs_over_over_mansion_post_n18				WARRIOR	subservient	bows and leaves	Tuân lệnh Mạc Chúa.	2		0																									
 																																					
 WAR CAMP									The team have gathered around an impressive looking planning table. Brogun and Mugen explain the situation.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
@@ -35,7 +35,7 @@ vocs_over_over_	_n19	vocs_over_over_mansion_post_n19				WARRIOR			Lãnh chúa No
 vocs_over_over_	_n20	vocs_over_over_mansion_post_n20				BROGUN	doesn't waste words	indicates two points on the map	Mugen-san. Đội do thám của ta đã quay về. Họ báo cáo phiến quân hoạt động ở làng Hida và Suganuma.	16		0		YES																							
 vocs_over_over_	_n21	vocs_over_over_mansion_post_n21				WARRIOR	submissive		Ngài muốn chúng thần điều tra?	6		0																									
 vocs_over_over_	_n22	vocs_over_over_mansion_post_n22				BROGUN	commanding		Ta sẽ. Chúng ta phải sử dụng mọi cơ hội để nắm được kế hoạch của Okkoto.	11		0																									
-vocs_over_over_	_n23	vocs_over_over_mansion_post_n23				GEISHA	elegant		Làm gián điệp. Chúng ta lẻn vào làng vào ban đêm, rồi xem chúng ta tìm được gì.	16		0		YES																							
+vocs_over_over_	_n23	vocs_over_over_mansion_post_n23				GEISHA	elegant		Làm gián điệp. Lẻn vào làng vào ban đêm, rồi xem chúng ta tìm được gì.	16		0		YES																							
 vocs_over_over_	_n24	vocs_over_over_mansion_post_n24				BROGUNSON	arrogant	player's should dislike him	Mugen-san. Họ nói rằng ngài sinh ra là một nông dân, cho nên ngài sẽ biết cách để xử lý bọn nhà quê.	17		0		YES																							
 vocs_over_over_	_n25	vocs_over_over_mansion_post_n25				BROGUN	commanding		Con của ta hơi thất lễ!	6		0																									
 vocs_over_over_	_n26	vocs_over_over_mansion_post_n26				BROGUNSON	unnerving	player's should dislike him	…Ta xin lỗi, Mugen-sama.	3		0		YES																							
@@ -47,12 +47,12 @@ vocs_over_over_	_n31	vocs_over_over_mansion_post_n31				GEISHA	aknowledging		…
 vocs_over_over_	_n32	vocs_over_over_mansion_post_n32				NINJA	mumbling		Hrm… Ai khiến cô làm trưởng nhóm?	6		0		YES																							
 vocs_over_over_	_n33	vocs_over_over_mansion_post_n33				TRAPPER	bold		Tại sao chúng ta không thể đến một chỗ cùng với nhau?	9		0																									
 vocs_over_over_	_n34	vocs_over_over_mansion_post_n34				WARRIOR	quick		Im lặng, Yuki-chan.	2		0																									
-vocs_over_over_	_n35	vocs_over_over_mansion_post_n35				BROGUNSON	unnerving		Cha ta đã ra lệnh, cô gái à. Cậu là ai mà dám thắc mắc?	14		0																									
+vocs_over_over_	_n35	vocs_over_over_mansion_post_n35				BROGUNSON	unnerving		Cha ta đã ra lệnh, nhóc con. Ngươi là ai mà dám thắc mắc?	14		0																									
 vocs_over_over_	_n36	vocs_over_over_mansion_post_n36				TRAPPER	unnerved		Mình…mình…	1		0		YES																							
-vocs_over_over_	_n37	vocs_over_over_mansion_post_n37				ALCHEMIST	nonchalant		Còn ngươi là ai, cậu bé, dọa cả trẻ em khi chiến tranh đến tận nhà chúng ta rồi?	15		0																									
-vocs_over_over_	_n38	vocs_over_over_mansion_post_n38				BROGUNSON	enraged		Thế quái nào ngươi dám nói chuyện với ta, lão già!	8		0		YES																							
-vocs_over_over_	_n39	vocs_over_over_mansion_post_n39				BROGUN	commanding		Đủ rồi! Okkoto đang gây hỗn loạn và xáo trộn với tên Kage-sama. Chúng ta phải tìm hắn sớm và thực thi công lý.	23		0		YES																							
-vocs_over_over_	_n40	vocs_over_over_mansion_post_n40				WARRIOR	relieved	all bow and leave	Tuân lệnh, lãnh chúa Noboru. Chúng tôi sẽ mang chiến thắng trở về.	7		0																									
+vocs_over_over_	_n37	vocs_over_over_mansion_post_n37				ALCHEMIST	nonchalant		Còn ngươi là ai, cậu bé, dọa cả trẻ em khi chiến tranh đã đến tận nhà ư?	15		0																									
+vocs_over_over_	_n38	vocs_over_over_mansion_post_n38				BROGUNSON	enraged		Thế quái nào ngươi dám nói chuyện với ta, lão già kia!	8		0		YES																							
+vocs_over_over_	_n39	vocs_over_over_mansion_post_n39				BROGUN	commanding		Đủ rồi! Okkoto đang gây hỗn loạn và xáo trộn mọi thứ cùng gã Kage-sama. Chúng ta phải tìm hắn sớm và thực thi công lý.	23		0		YES																							
+vocs_over_over_	_n40	vocs_over_over_mansion_post_n40				WARRIOR	relieved	all bow and leave	Tuân lệnh, lãnh chúa Noboru. Chúng thần sẽ mang chiến thắng trở về.	7		0																									
 																																					
 											MISSION-WORDCOUNT DE:	0		TOTAL	NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
 														509	6	10	82	32	15	127	16	89	42	0	0	90	0	0	0	0	0	0	0	0	0	0	0

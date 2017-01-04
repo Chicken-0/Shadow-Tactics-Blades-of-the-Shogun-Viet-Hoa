@@ -20,9 +20,9 @@ vocs_over_over_	_n02	vocs_over_over_lakevillage_night_n02				NINJA	in his elemen
 																																					
 LAMP									One of the team members extinguishes a lamp to hide in the shadows.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_lakevillage_lamp_n00				NINJA	smug	Hayato first	Lửa tàn. Một ai đó nên chú ý.	6		0																									
-vocs_over_over_	_n01	vocs_over_over_lakevillage_lamp_n01				TRAPPER	sneaky	Yuki first	Lửa tắt! Đi trước khi lính canh thấy nó!	8		0																									
-vocs_over_over_	_n02	vocs_over_over_lakevillage_lamp_n02				GEISHA	elegant	Aiko first	Màn đêm mới sẽ không còn được chú ý.	7		0																									
+vocs_over_over_	_n00	vocs_over_over_lakevillage_lamp_n00				NINJA	smug	Hayato first	Lửa tàn. Một ai đó sẽ chú ý.	6		0																									
+vocs_over_over_	_n01	vocs_over_over_lakevillage_lamp_n01				TRAPPER	sneaky	Yuki first	Lửa tắt! Phải đi trước khi lính canh thấy nó!	8		0																									
+vocs_over_over_	_n02	vocs_over_over_lakevillage_lamp_n02				GEISHA	elegant	Aiko first	Thêm bóng tối sẽ không còn được chú ý.	7		0																									
 																																					
 BURN									A rebel orders a villager to burn their belongings.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
@@ -30,7 +30,7 @@ vo_hint_hint_	_n00	vo_hint_hint_lakevillage_burn_n00				ENEMY	commanding		Thêm 
 vo_hint_hint_	_n01	vo_hint_hint_lakevillage_burn_n01				ENEMY	commanding		Bọn tao đốt hết!	3		0																									
 vo_hint_hint_	_n02	vo_hint_hint_lakevillage_burn_n02				ENEMY	smug		Bọn tao không để lửa tắt.	7		0																									
 vo_hint_hint_	_n03	vo_hint_hint_lakevillage_burn_n03				ENEMY	smug		Nhanh lên! Lạnh rồi đó.	4		0																									
-vo_hint_hint_	_n04	vo_hint_hint_lakevillage_burn_n04				ENEMY	asshole		Lẹ lên, đồ bần nông.	4		0																									
+vo_hint_hint_	_n04	vo_hint_hint_lakevillage_burn_n04				ENEMY	asshole		Lẹ lên, lũ bần nông.	4		0																									
 vo_hint_hint_	_n05	vo_hint_hint_lakevillage_burn_n05				ENEMY	asshole		Đây không thể là tất cả, hả?	6		0																									
 																																					
 FEAR1									Yuki is disturbed by the rebels abuse of the villagers.																												
@@ -44,9 +44,9 @@ vocs_over_over_	_n04	vocs_over_over_lakevillage_fear1_n04				TRAPPER	disturbed		
 LAKE									Aiko and Hayato argue whether or not they should swim through the lake. (ARGUMENT)																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_lakevillage_lake_n00				GEISHA	determined	Aiko first.	Bơi qua đó tụi mình sẽ tới gần quán rượu.	9		0																									
-vocs_over_over_	_n01	vocs_over_over_lakevillage_lake_n01				NINJA	stubborn		Đừng nghĩ bọn tôn chịu đi bằng lối đó.	7		0																									
+vocs_over_over_	_n01	vocs_over_over_lakevillage_lake_n01				NINJA	stubborn		Đừng nghĩ bọn tui chịu đi bằng lối đó.	7		0																									
 vocs_over_over_	_n02	vocs_over_over_lakevillage_lake_n02				GEISHA	teasing		Hayato-san! Đừng nói là không biết bơi nhé!	7		0																									
-vocs_over_over_	_n03	vocs_over_over_lakevillage_lake_n03				NINJA	teased		Không được làm nghiêm trọng nó quá…	4		0																									
+vocs_over_over_	_n03	vocs_over_over_lakevillage_lake_n03				NINJA	teased		Không được nghiêm trọng nó thế…	4		0																									
 																																					
 ROAD									Aiko and Hayato argue whether or not they should take the road through the outer village. (ARGUMENT)																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
@@ -59,8 +59,8 @@ vocs_over_over_	_n04	vocs_over_over_lakevillage_road_n04				NINJA	teased		Tui…
 DISGUISE1									The team discovers a disguise near the generals tent. (ARGUMENT)																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_lakevillage_disguise1_n00				GEISHA	pleased	Aiko first	Tui thấy dây đồ kia. Có vẻ hứa hẹn.	7		0																									
-vocs_over_over_	_n01	vocs_over_over_lakevillage_disguise1_n01				NINJA	annoyed		Làm đủ mọi thứ để mò tới đây. Hi vọng cô hài lòng.	11		0																									
-vocs_over_over_	_n02	vocs_over_over_lakevillage_disguise1_n02				GEISHA	more pleased		Quá luôn ấy chứ. Từ chối đề nghị của anh vui hơn nhiều lần.	8		0																									
+vocs_over_over_	_n01	vocs_over_over_lakevillage_disguise1_n01				NINJA	annoyed		Làm đủ mọi thứ chỉ để mò tới đây. Hi vọng cô hài lòng.	11		0																									
+vocs_over_over_	_n02	vocs_over_over_lakevillage_disguise1_n02				GEISHA	more pleased		Quá luôn ấy chứ. Từ chối kế hoạch của anh vui hơn nhiều lần.	8		0																									
 vocs_over_over_	_n03	vocs_over_over_lakevillage_disguise1_n03				NINJA	more annoyed		Ugh…	1		0																									
 																																					
 DISGUISE2									Aiko puts on ther disguise. (ARGUMENT)																												
@@ -68,7 +68,7 @@ PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	D
 vocs_over_over_	_n00	vocs_over_over_lakevillage_disguise2_n00				GEISHA	pleased		Giờ đẹp hơn rồi.	5		0																									
 vocs_over_over_	_n01	vocs_over_over_lakevillage_disguise2_n01				NINJA	smug		Muốn bê tới cả cái nhà tắm không?	8		0																									
 vocs_over_over_	_n02	vocs_over_over_lakevillage_disguise2_n02				GEISHA	teasing		Cảm ơn, thế thì tuyệt quá.	6		0																									
-vocs_over_over_	_n03	vocs_over_over_lakevillage_disguise2_n03				NINJA	less smug		Chưa bao giờ trả lại chỗ cũ, phải không?	5		0																									
+vocs_over_over_	_n03	vocs_over_over_lakevillage_disguise2_n03				NINJA	less smug		Chưa bao giờ trả đồ về chủ cũ, phải không?	5		0																									
 																																					
 ABUSE									A rebel guards two terrified village women.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
@@ -97,7 +97,7 @@ vocs_over_over_	_n03	vocs_over_over_lakevillage_officersa_n03				GEISHA	cool	wit
 																																					
 TAVERN1									Rebels are drinking heavily at the tavern and terrorize the servants.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
-vo_hint_hint_	_n00	vo_hint_hint_lakevillage_tavern1_n00				STATIC	drunk		Hey! Quái gì mà lâu thế? Thêm Sa-kê!	7		0																									
+vo_hint_hint_	_n00	vo_hint_hint_lakevillage_tavern1_n00				STATIC	drunk		Hey! Quái gì mà lâu thế? Thêm sa kê!	7		0																									
 vo_hint_hint_	_n01	vo_hint_hint_lakevillage_tavern1_n01				CIVILIAN F	afraid	comes running	Xin thứ lỗi. Bọn tôi phải đi tìm thùng khác.	8		0																									
 vo_hint_hint_	_n01a	vo_hint_hint_lakevillage_tavern1_n01a				CIVILIAN M	afraid	comes running	Xin thứ lỗi. Bọn tôi phải đi tìm thùng khác.	8		0																									
 vo_hint_hint_	_n02	vo_hint_hint_lakevillage_tavern1_n02				STATIC	drunk		Hah… Nhìn ta có vẻ quan tâm không hả? Khi bọn tao gọi, mày phải tới, hiểu không?!	14		0																									
@@ -106,7 +106,7 @@ vo_hint_hint_	_n03a	vo_hint_hint_lakevillage_tavern1_n03a				CIVILIAN M	afraid		
 																																					
 TAVERN2									Rebels are drinking heavily at the tavern and terrorize the servants. (random)																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
-vo_hint_hint_	_n00	vo_hint_hint_lakevillage_tavern2_n00				STATIC	drunk		Thêm sake!	2		0																									
+vo_hint_hint_	_n00	vo_hint_hint_lakevillage_tavern2_n00				STATIC	drunk		Thêm sa kê!	2		0																									
 vo_hint_hint_	_n01	vo_hint_hint_lakevillage_tavern2_n01				STATIC	drunk laughter		Mmmm, haha!	2		0																									
 vo_hint_hint_	_n02	vo_hint_hint_lakevillage_tavern2_n02				ENEMY			Tướng Okkoto!	3		0																									
 vo_hint_hint_	_n03	vo_hint_hint_lakevillage_tavern2_n03				ENEMY	satisfied	drinks sake	Ahhh…	1		0																									
@@ -114,13 +114,13 @@ vo_hint_hint_	_n04	vo_hint_hint_lakevillage_tavern2_n04				ENEMY		*snore*		0		0
 vo_hint_hint_	_n05	vo_hint_hint_lakevillage_tavern2_n05				ENEMY			Nhanh lên, lũ nhà quê!	2		0																									
 vo_hint_hint_	_n06	vo_hint_hint_lakevillage_tavern2_n06				CIVILIAN F	afraid		Thứ lỗi cho tôi.	2		0																									
 vo_hint_hint_	_n07	vo_hint_hint_lakevillage_tavern2_n07				CIVILIAN F	afraid		V-vâng. Dĩ nhiên ạ.	3		0																									
-vo_hint_hint_	_n08	vo_hint_hint_lakevillage_tavern2_n08				CIVILIAN M	afraid		A-at once.	2		0																									
+vo_hint_hint_	_n08	vo_hint_hint_lakevillage_tavern2_n08				CIVILIAN M	afraid		Ngay lập tức.	2		0																									
 vo_hint_hint_	_n09	vo_hint_hint_lakevillage_tavern2_n09				CIVILIAN M	afraid		Dĩ nhiên bất cứ thứ gì, thưa ngài.	7		0																									
 																																					
 FEAR3									Yuki is disturbed by the rebels abuse of the villagers.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_lakevillage_fear3_n00				TRAPPER	anxious		Chúng sẽ để người phụ nữ đi?	6		0																									
-vocs_over_over_	_n01	vocs_over_over_lakevillage_fear3_n01				NINJA	pragmatic		Anh muốn nói có. Nhưng anh không nghĩ Sake sẽ giúp được chuyện đó.	16		0																									
+vocs_over_over_	_n01	vocs_over_over_lakevillage_fear3_n01				NINJA	pragmatic		Anh muốn nói có. Nhưng anh không nghĩ sa kê sẽ giúp được chuyện đó.	16		0																									
 vocs_over_over_	_n02	vocs_over_over_lakevillage_fear3_n02				TRAPPER	disturbed		Em không thích mấy người này.	5		0																									
 vocs_over_over_	_n03	vocs_over_over_lakevillage_fear3_n03				GEISHA	focussed		Tụi mình cùng chia sẻ cảm thông.	6		0																									
 																																					
@@ -134,12 +134,12 @@ vocs_over_over_	_n03	vocs_over_over_lakevillage_officersb_n03				NINJA	giving in
 PEACE1									Yuki is concerned because her teammates are constantly bickering. (happens after 2 ARGUMENTs)																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_lakevillage_peace1_n00				TRAPPER	cautious		Uhm…sao anh không quất tụi nó luôn?	4		0																									
-vocs_over_over_	_n01	vocs_over_over_lakevillage_peace1_n01				NINJA	irritated		Không phải giờ, Yuki…	3		0																									
+vocs_over_over_	_n01	vocs_over_over_lakevillage_peace1_n01				NINJA	irritated		Không phải lúc này, Yuki…	3		0																									
 																																					
 PEACE2									Yuki tries to make peace between her team mates. (happens after 4 ARGUMENTs or after GENERAL)																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_lakevillage_peace2_n00				TRAPPER	worried		Hayato-sensei…sao anh không chịu nhường Aiko-san vậy?	6		0																									
-vocs_over_over_	_n01	vocs_over_over_lakevillage_peace2_n01				NINJA	annoyed		Có lẽ do anh là một Sensei tệ. Sao em lại không đi tìm một người khác nhỉ?	16		0																									
+vocs_over_over_	_n01	vocs_over_over_lakevillage_peace2_n01				NINJA	annoyed		Có lẽ do anh là một sensei tệ. Sao em lại không đi tìm một người khác nhỉ?	16		0																									
 vocs_over_over_	_n02	vocs_over_over_lakevillage_peace2_n02				TRAPPER	disappointed		Hayato-san…	1		0																									
 vocs_over_over_	_n03	vocs_over_over_lakevillage_peace2_n03				NINJA	sorry	knows he hurt Yuki a bit, with a sigh	Xin lỗi. Anh đã có một chút động chạm tới em. Chúng ta sẽ nói chuyện sau, được không?	12		0																									
 																																					
@@ -166,21 +166,21 @@ vocs_over_over_	_n00	vocs_over_over_lakevillage_general_n00				TRAPPER	focussed	
 vocs_over_over_	_n01	vocs_over_over_lakevillage_general_n01				GEISHA	focussed	Aiko first	Tướng Okkoto. Một gã đàn ông xấu xa.	5		0																									
 vocs_over_over_	_n02	vocs_over_over_lakevillage_general_n02				NINJA	smug		Okkoto. Hmm…tưởng tượng nếu tụi mình xử hắn. Cuộc nổi loạn này sẽ chấm dứt nhanh chóng.	12		0																									
 vocs_over_over_	_n03	vocs_over_over_lakevillage_general_n03				GEISHA	tense		Anh chỉ tự kết thúc đời mình thôi! Đừng tấn công hắn!	9		0																									
-vocs_over_over_	_n04	vocs_over_over_lakevillage_general_n04				NINJA	annoyed		Cô không thực sự nghĩ tôi ngu à, đúng không?	9		0																									
+vocs_over_over_	_n04	vocs_over_over_lakevillage_general_n04				NINJA	annoyed		Cô không thực sự nghĩ tui ngu lắm à?	9		0																									
 																																					
 ORDERS									Okkoto is giving orders to his officers.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 vo_hint_hint_	_n00	vo_hint_hint_lakevillage_orders_n00				GENERAL	commanding		Chúng ta sẽ khởi quân vào lúc bình minh. 	8		0																									
 vo_hint_hint_	_n01	vo_hint_hint_lakevillage_orders_n01				GENERAL	commanding		Đàn ông có ít thời gian để hưởng thụ cho bản thân.	8		0																									
 vo_hint_hint_	_n02	vo_hint_hint_lakevillage_orders_n02				GENERAL	commanding		Ta không quan tâm lũ bần nông bẩn thỉu.	8		0																									
-vo_hint_hint_	_n03	vo_hint_hint_lakevillage_orders_n03				GENERAL	commanding		Hãy chắn chắc xe đảm bảo đã được chất đầy.	8		0																									
+vo_hint_hint_	_n03	vo_hint_hint_lakevillage_orders_n03				GENERAL	commanding		Hãy đảm bảo chắn chắc xe đã được chất đầy.	8		0																									
 vo_hint_hint_	_n04	vo_hint_hint_lakevillage_orders_n04				GENERAL	commanding		Chúng ta sẽ chiến thắng vinh quang và danh dự vì Kage-sama.	8		0																									
 vo_hint_hint_	_n05	vo_hint_hint_lakevillage_orders_n05				GENERAL	commanding		Chúng ta đã chờ rất lâu cho cuộc chiến này.	8		0																									
 vo_hint_hint_	_n06	vo_hint_hint_lakevillage_orders_n06				GENERAL	commanding		Bất kỳ đứa nhà quê nào không tuân lệnh sẽ bị xử tử.	9		0																									
 																																					
 INFO MAIN									The team comes close to Okkoto at the town elder's house.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_lakevillage_infomain_n00				GENERAL	commanding		Chúng ta sẽ lấy hết gạo từ kho thóc của chúng, cả mấy con bò nữa. Báo ta khi hoàn tất.	18		0																									
+vocs_over_over_	_n00	vocs_over_over_lakevillage_infomain_n00				GENERAL	commanding		Chúng ta sẽ lấy hết gạo từ kho thóc của chúng, cả mấy con bò nữa. Báo cho ta khi hoàn tất.	18		0																									
 vocs_over_over_	_n01	vocs_over_over_lakevillage_infomain_n01				OFFICER	submissive	Elder bows and leaves	…lũ nông dân…chúng sẽ không thể sống qua năm.	7		0																									
 vocs_over_over_	_n02	vocs_over_over_lakevillage_infomain_n02				GENERAL	hard	Shiroyama =  a castle town	Nếu muốn có ăn thì chúng phải tham gia vào quân đội ta. Kage-sama vĩ đại đã ra lệnh chúng ta phải chiếm được Kanazawa vào ngày mai. Ta muốn lính của ta được ăn đủ no.	30		0																									
 vocs_over_over_	_n03	vocs_over_over_lakevillage_infomain_n03				OFFICER	submissive		Tôi sẽ bảo các chỉ huy bổ sung thêm khẩu phần ăn.	10		0																									
@@ -196,7 +196,7 @@ vocs_over_over_	_n04	vocs_over_over_lakevillage_done_n04				TRAPPER	relieved		Oh
 																																					
 DEBRIEFING									Aiko wants to stay and follow general Okkoto. Hayato wants to stay himself. Yuki convinces Aiko that she can deliver the news to Brogun so both can stay.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_lakevillage_debriefing_n00				GEISHA	just got an idea		Đơi phát!	1		0																									
+vocs_over_over_	_n00	vocs_over_over_lakevillage_debriefing_n00				GEISHA	just got an idea		Đợi phát!	1		0																									
 vocs_over_over_	_n01	vocs_over_over_lakevillage_debriefing_n01				NINJA	annoyed	with a sigh	Ugh, gì nữa má?	3		0																									
 vocs_over_over_	_n02	vocs_over_over_lakevillage_debriefing_n02				GEISHA	explaining		Sẽ khôn ngoan hơn nếu bám theo hắn và tìm hiểu kĩ về kế hoạch. Tui sẽ giả làm vợ lẽ để lừa đoàn tùy tùng của hắn.	23		0																									
 vocs_over_over_	_n03	vocs_over_over_lakevillage_debriefing_n03				NINJA	blunt		Ý hay đấy, nhưng quá nguy hiểm. Lấy cái bè; tui sẽ bám theo chúng từ xa.	16		0																									

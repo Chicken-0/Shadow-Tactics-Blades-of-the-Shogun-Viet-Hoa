@@ -4,14 +4,14 @@ CINEMATIC									Stylyzed render cutscene with narration.
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_monastery2_post_n00				NARRATOR			Mặc dù tù nhân của hắn trốn thoát, nhưng lãnh chúa Noboru đã ứng biến một cách tinh ranh. Với lời lẽ của mình, hắn khép cho họ tội danh sát hại con trai Mạc Chúa và Mugen.	27		0																									
 vocs_over_over_	_n01	vocs_over_over_monastery2_post_n01				NARRATOR			Trong khi Mạc Chúa gửi người đi săn lùng những kẻ giết người bị buộc tội, Noboru đang thầm lặng lên kế hoạch ám sát anh trai mình.	21		0																									
-vocs_over_over_	_n02	vocs_over_over_monastery2_post_n02				NARRATOR			Trong khi đó, Đồng đội của Mugen vẫn có thế làm nhiều chuyện hơn là lẩn tránh cơn thịnh nộ của Mạc Chúa.	15		0																									
+vocs_over_over_	_n02	vocs_over_over_monastery2_post_n02				NARRATOR			Trong khi đó, Đồng đội của Mugen cần phải làm nhiều việc hơn là lẩn tránh cơn thịnh nộ của Mạc Chúa.	15		0																									
 vocs_over_over_	_n03	vocs_over_over_monastery2_post_n03				NARRATOR			Biết được mong muốn cuối cùng của người cô yêu, Aiko đã chuẩn bị mọi thứ cho một kế hoạch liều lĩnh.	14		0																									
 																																					
 TAVERN									A hidden meeting place. Hayato, Yuki and Takuma wait for Aiko to return.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 						TITLECARD			Two weeks later			0																									
 vocs_over_over_	_n04	vocs_over_over_monastery2_post_n04				NINJA	tense		…lão nghĩ gặp nhau ở đây là ý tưởng hay hả?	9		0																									
-vocs_over_over_	_n05	vocs_over_over_monastery2_post_n05				ALCHEMIST	weary	looking at shelf	Eh, nơi này trước đây đã bị lục soát. Cả thêm sét đánh nữa, nhưng chả phải nơi nguy hiểm nhất là nơi an toàn nhất hả.	18		0																									
+vocs_over_over_	_n05	vocs_over_over_monastery2_post_n05				ALCHEMIST	weary	looking at shelf	Eh, nơi này trước đây đã bị lục soát. Cả thêm sét đánh nữa, nhưng chả phải nơi nguy hiểm nhất là nơi an toàn nhất sao.	18		0																									
 vocs_over_over_	_n06	vocs_over_over_monastery2_post_n06				TRAPPER	worried	takuma turns to Yuki	…Aiko-san ở đâu ạ?	2		0																									
 vocs_over_over_	_n07	vocs_over_over_monastery2_post_n07				ALCHEMIST	weary		Ông không biết, Yuki-chan. Giờ cô ây đã nên ở đây rồi.	10		0																									
 vocs_over_over_	_n08	vocs_over_over_monastery2_post_n08				NINJA	impatient	turns to leave	Nói thế đủ nhiều rồi. Tôi đi đây…	7		0																									
@@ -21,15 +21,15 @@ vocs_over_over_	_n11	vocs_over_over_monastery2_post_n11				NINJA	reserved		…hu
 vocs_over_over_	_n12	vocs_over_over_monastery2_post_n12				GEISHA	a bit tired, serious		Vậy tui xin cảm kích vì anh đã chờ.	8		0																									
 vocs_over_over_	_n13	vocs_over_over_monastery2_post_n13				ALCHEMIST	curious	Hayato leans against the wall away from the others	Hmm…Cháu cần giải thích tại sao lại để chúng ta chờ lâu như vậy?	9		0																									
 vocs_over_over_	_n14	vocs_over_over_monastery2_post_n14				GEISHA	determined		Cháu tìm ra được nơi ở của Masaru. Nó không bao giờ sống ở thành phố này.	14		0																									
-vocs_over_over_	_n15	vocs_over_over_monastery2_post_n15				NINJA	hard	still away from the others	Tốt. Giết hắn thôi.	5		0																									
-vocs_over_over_	_n16	vocs_over_over_monastery2_post_n16				GEISHA	patient		Tui biết rõ cơn thịnh nộ của anh, Hayato-san, nhưng cần phải bắn sống nó. Chúng ta sẽ thẩm vấn nó và rồi đưa nó tới Mạc Chúa.	23		0																									
+vocs_over_over_	_n15	vocs_over_over_monastery2_post_n15				NINJA	hard	still away from the others	Tốt. Giết nó thôi.	5		0																									
+vocs_over_over_	_n16	vocs_over_over_monastery2_post_n16				GEISHA	patient		Tui biết rõ cơn thịnh nộ của anh, Hayato-san, nhưng cần phải bắt sống nó. Chúng ta sẽ thẩm vấn rồi đưa nó tới Mạc Chúa.	23		0																									
 vocs_over_over_	_n17	vocs_over_over_monastery2_post_n17				NINJA	hard	still away from the others	Hrgh…tui không muốn thực thi công lý.	5		0																									
-vocs_over_over_	_n18	vocs_over_over_monastery2_post_n18				GEISHA	determined		Nhưng như thế mới tôn vinh được sự hi sinh của Mugen. Takuma-san, lão sẽ chuẩn bị mọi thứ để thẩm vấn?	14		0																									
-vocs_over_over_	_n19	vocs_over_over_monastery2_post_n19				ALCHEMIST	submissive		Tốt thôi, chả có gì nhiều để chuẩn bị. Có lẽ chất độc chăng? Ta cần thành phấn, nhưng…cháy túi rồi…	17		0																									
+vocs_over_over_	_n18	vocs_over_over_monastery2_post_n18				GEISHA	determined		Nhưng như thế mới tôn vinh được sự hi sinh của Mugen. Takuma-san, lão có thể dụng cụ đồ để thẩm vấn chứ?	14		0																									
+vocs_over_over_	_n19	vocs_over_over_monastery2_post_n19				ALCHEMIST	submissive		Tốt thôi, chả có gì nhiều để chuẩn bị. Có lẽ chất độc chăng? Ta cần thành phần chế tạo, nhưng…cháy túi rồi…	17		0																									
 vocs_over_over_	_n20	vocs_over_over_monastery2_post_n20				TRAPPER	eager		Đi với cháu, Takuma-sensei! Ông chỉ cháu nhưng thứ ông cần, và cháu sẽ lấy nó cho ông!	17		0																									
 vocs_over_over_	_n21	vocs_over_over_monastery2_post_n21				ALCHEMIST	serious		Tốt lắm. Bọn ta sẽ cần thời gian để tập trung chế tạo nó, Aiko-san.	13		0																									
 vocs_over_over_	_n22	vocs_over_over_monastery2_post_n22				GEISHA	serious		Thế thì tốt quá. Tui cũng muốn anh giúp vụ Masaru, Hayato-san.	12		0																									
-vocs_over_over_	_n23	vocs_over_over_monastery2_post_n23				NINJA	barely supressed anger	leaves through the door	Được thôi, miễn là chúng ta cùng điều gì đó…	7		0																									
+vocs_over_over_	_n23	vocs_over_over_monastery2_post_n23				NINJA	barely supressed anger	leaves through the door	Được thôi, miễn là chúng ta cùng làm vì Mugen…	7		0																									
 vocs_over_over_	_n24	vocs_over_over_monastery2_post_n24				GEISHA	determined		Chúng ta sẽ hội nhóm sớm. Nhớ bảo trọng, Takuma-san, Yuki-chan.	10		0																									
 vocs_over_over_	_n25	vocs_over_over_monastery2_post_n25				ALCHEMIST	serious	Aiko leaves	Cháu đừng lo. Bọn ta sẽ thu xếp.	6		0																									
 																																					

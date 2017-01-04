@@ -5,7 +5,7 @@ PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	D
 						TITLECARD			Kanazawa city			0																									
 vocs_over_over_	_n00	vocs_over_over_uprising_briefing_n00	omuk		mo	BROGUN	commanding	Cam at start	Phiến quân đã củng cố sức mạnh trong thành Kanazawa. Các thần phải đột nhật vào đó và làm suy yếu chúng từ bên trong.	20		0																									
 vocs_over_over_	_n01	vocs_over_over_uprising_briefing_n01	omuk		mo	BROGUN	commanding	Cam to 1, then 2	Chia đôi nhóm hành động và tấn công từ hai phía.	13		0																									
-vocs_over_over_	_n02	vocs_over_over_uprising_briefing_n02	omuk		mo	BROGUN	commanding	Cam to wall with officer	Lực lượng của ta sẽ đối mặt với lính Okkoto. Thần giết các chỉ huy của hắn sẽ giúp lính của ta công dễ dàng hơn.	17		0																									
+vocs_over_over_	_n02	vocs_over_over_uprising_briefing_n02	omuk		mo	BROGUN	commanding	Cam to wall with officer	Lực lượng của ta sẽ đối mặt với lính Okkoto. Giết các chỉ huy của hắn sẽ giúp lính của ta công dễ dàng hơn.	17		0																									
 vocs_over_over_	_n03	vocs_over_over_uprising_briefing_n03	omuk		mo	BROGUN	commanding	Cam to depot	Tìm đường lẻn vào trong và thổi bay kho tiếp tế của chúng.	13		0																									
 vocs_over_over_	_n04	vocs_over_over_uprising_briefing_n04	omuk		mo	BROGUN	commanding	Cam to Okkoto	Một khi xong, thần có thể tự do đối đầu với tướng Okkoto.	11		0																									
 vocs_over_over_	_n05	vocs_over_over_uprising_briefing_n05	omuk		mo	BROGUN	commanding		Cái chết của hắn sẽ là dấu niêm phong cho thất bại. Hắn là kẻ thù ghê gớm, cần phải sẵn sàng trước khi đối đầu với hắn.	19		0																									
@@ -29,23 +29,23 @@ vocs_over_over_	_n04	vocs_over_over_uprising_duty2_n04	omuk		mo	NINJA	not satisf
 DUTY3									Mugen and Hayato reach the castle entrance.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_uprising_duty3_n00	omuk		mo	WARRIOR	honest	Mugen first	Gần vào bên trong rồi…	4		0																									
-vocs_over_over_	_n02	vocs_over_over_uprising_duty3_n02	omuk		mo	NINJA	stubborn		Tôi không lấy nó. Danh dự chả mua được khỉ gì. Đặc biệt khi anh đã nghẻo.	13		0																									
+vocs_over_over_	_n02	vocs_over_over_uprising_duty3_n02	omuk		mo	NINJA	stubborn		Tôi không lấy nó đâu. Danh dự chả mua được khỉ gì. Đặc biệt khi anh đã nghẻo.	13		0																									
 vocs_over_over_	_n03	vocs_over_over_uprising_duty3_n03	omuk		mo	WARRIOR	direct		Theo như cậu nói, Hayato-san. Sao cậu lại theo tôi tới cuộc hỗn chiến điên rồ này? Tiền có phải là lý do thực sự?	19		0																									
 vocs_over_over_	_n04	vocs_over_over_uprising_duty3_n04	omuk		mo	NINJA	lost for words	has never thought about it	Bởi vì… Tôi…	2		0																									
-vocs_over_over_	_n05	vocs_over_over_uprising_duty3_n05	omuk		mo	WARRIOR	honest		Mỗi người đàn ông chọn nhiệm vụ cho riêng mình. Không có nhiệm vụ thì sống chả có mục đích. Tôi không cần cậu hiểu sao tôi lại chọn nó, Hayato-san. Nhưng tôi cầu cho anh hiểu được bản thân anh.	28		0																									
+vocs_over_over_	_n05	vocs_over_over_uprising_duty3_n05	omuk		mo	WARRIOR	honest		Mỗi người đàn ông chọn nhiệm vụ cho riêng mình. Không có nhiệm vụ thì sống chả có mục đích. Tôi không cần cậu hiểu sao tôi lại chọn nó, Hayato-san. Nhưng tôi cầu cho cậu hiểu được bản thân mình.	28		0																									
 																																					
 SENSEI1									Yuki and Takuma start their mission.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_uprising_sensei1_n00	omuk		mo	TRAPPER	remembering		Cháu nhớ chỗ này. Nhà samurai bự.	7		0																									
-vocs_over_over_	_n01	vocs_over_over_uprising_sensei1_n01	omuk		mo	ALCHEMIST	curious		Cháu đã sống ở đây, Yuki-chan?	5		0																									
-vocs_over_over_	_n02	vocs_over_over_uprising_sensei1_n02	omuk		mo	TRAPPER	remembering		Vâng, với Okaa-san. Mặc dù không lâu.	6		0																									
+vocs_over_over_	_n01	vocs_over_over_uprising_sensei1_n01	omuk		mo	ALCHEMIST	curious		Cháu đã sống ở đây hả, Yuki-chan?	5		0																									
+vocs_over_over_	_n02	vocs_over_over_uprising_sensei1_n02	omuk		mo	TRAPPER	remembering		Vâng, với Okaa-san. Mặc dù không lâu lắm.	6		0																									
 vocs_over_over_	_n03	vocs_over_over_uprising_sensei1_n03	omuk		mo	ALCHEMIST	cautious		Vậy sao cháu bỏ đi? Đã có chuyện gì à?	8		0																									
 vocs_over_over_	_n04	vocs_over_over_uprising_sensei1_n04	omuk		mo	TRAPPER	surpressing		Nhiều thứ tệ lắm. Cũng lâu rồi. Nó…nó cũng y thế này một xíu.	10		0																									
 vocs_over_over_	_n05	vocs_over_over_uprising_sensei1_n05	omuk		mo	ALCHEMIST	forget that I asked		Ah…ký ức u ám. Quên nó đi. Giờ chúng ta phải lẻn vào thành.	12		0																									
 																																					
 SENSEI2									Yuki and Takuma come closer to the castle.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
-vocs_over_over_	_n00	vocs_over_over_uprising_sensei2_n00	omuk		mo	ALCHEMIST	persistent		Yuki-chan… CHuyện gì xảy ra sau khi cháu bỏ đi?	5		0																									
+vocs_over_over_	_n00	vocs_over_over_uprising_sensei2_n00	omuk		mo	ALCHEMIST	persistent		Yuki-chan… Chuyện gì xảy ra sau khi cháu bỏ đi?	5		0																									
 vocs_over_over_	_n01	vocs_over_over_uprising_sensei2_n01	omuk		mo	TRAPPER	difficult	doesn't want to remember	…sao ông lại muốn biết?	6		0																									
 vocs_over_over_	_n02	vocs_over_over_uprising_sensei2_n02	omuk		mo	ALCHEMIST	persistent		Ta tự hỏi…làm thế nào mà cháu học được mấy thứ này.	9		0																									
 vocs_over_over_	_n03	vocs_over_over_uprising_sensei2_n03	omuk		mo	TRAPPER	struggles a bit		Dạ…số thứ cháu học từ con người. Số khác thì không. Nếu như không ai có thể chỉ cho cháu…	17		0																									
@@ -62,7 +62,7 @@ vocs_over_over_	_n04	vocs_over_over_uprising_sensei3_n04	omuk		mo	ALCHEMIST	enco
 vocs_over_over_	_n05	vocs_over_over_uprising_sensei3_n05	omuk		mo	TRAPPER	emotional		Ý ông là…như một sensei?	4		0																									
 vocs_over_over_	_n06	vocs_over_over_uprising_sensei3_n06	omuk		mo	ALCHEMIST	very pleased		Nếu đó là thứ cháu muốn, Yuki-chan.	7		0																									
 vocs_over_over_	_n07	vocs_over_over_uprising_sensei3_n07	omuk		mo	TRAPPER	very happy	has a new sensei	Thiệt hả?! Có! Có, cháu muốn lắm!	6		0																									
-vocs_over_over_	_n08	vocs_over_over_uprising_sensei3_n08	omuk		mo	ALCHEMIST	very pleased		Hehehe. Ai mà biết được mình lại có thể tìm được một học trò ở trên chiến trường.	13		0																									
+vocs_over_over_	_n08	vocs_over_over_uprising_sensei3_n08	omuk		mo	ALCHEMIST	very pleased		Hehehe. Ai mà biết được mình lại có thể tìm được một học trò ở trên chiến trường không cơ chứ.	13		0																									
 																																					
 WARZONE									Screams of soldiers across the warzone. (random)																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
@@ -107,7 +107,7 @@ PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	D
 vocs_over_over_	_n00	vocs_over_over_uprising_regroup_n00	omuk			WARRIOR	rush of battle		Mọi người đã vào trong?	3		0																									
 vocs_over_over_	_n01	vocs_over_over_uprising_regroup_n01	omuk			NINJA	cool		Tôi với anh.	3		0																									
 vocs_over_over_	_n02	vocs_over_over_uprising_regroup_n02	omuk			ALCHEMIST	glad he made it		Đây. Và Yuki-chan nữa.	3		0																									
-vocs_over_over_	_n03	vocs_over_over_uprising_regroup_n03	omuk			WARRIOR	rush of battle		Tốt. Phải nhanh chóng phát hủy kho tiếp tế!	10		0																									
+vocs_over_over_	_n03	vocs_over_over_uprising_regroup_n03	omuk			WARRIOR	rush of battle		Tốt. Phải nhanh chóng phá hủy kho tiếp tế!	10		0																									
 																																					
 PRIORITIES									The team gets close to General Okkoto's tent before they blow up the barracks.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
@@ -120,14 +120,14 @@ PRISONERS									The team frees some captured Shogunate troops
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_uprising_prisoners_n00	omuk			CIVILIAN M	surprised	character: friendly soldier	A-anh…không phải là người của Okkoto.	4		0																									
 vocs_over_over_	_n01	vocs_over_over_uprising_prisoners_n01	omuk			WARRIOR	stay calm		Đã mở cổng cho anh, nhưng vẫn cần phải ở đây cho đến khi lãnh chúa Noboru càn quét thành xong.	14		0																									
-vocs_over_over_	_n02	vocs_over_over_uprising_prisoners_n02	omuk			CIVILIAN M	focussed	character: friendly soldier	Đã thông. Nhưng cần cẩn thận khi đối mặt với tướng quân. Anh cần kĩ năng của một samurai thực thụ để hạ được hắn.	21		0																									
-vocs_over_over_	_n02a	vocs_over_over_uprising_prisoners_n02a	omuk			CIVILIAN M	focussed	character: friendly soldier	Đã thông. Xin đa tạ.	3		0																									
+vocs_over_over_	_n02	vocs_over_over_uprising_prisoners_n02	omuk			CIVILIAN M	focussed	character: friendly soldier	Hiểu rồi. Nhưng cần cẩn thận khi đối mặt với tướng quân. Anh cần kĩ năng của một samurai thực thụ để hạ được hắn.	21		0																									
+vocs_over_over_	_n02a	vocs_over_over_uprising_prisoners_n02a	omuk			CIVILIAN M	focussed	character: friendly soldier	Hiểu rồi. Xin đa tạ.	3		0																									
 																																					
 EXPLOSIVES1									Mugen picks up the barrel of gunpowder.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_uprising_explosives1_n00	omuk			WARRIOR	exhausted	picks up the barrel	…	1		0																									
 vocs_over_over_	_n01	vocs_over_over_uprising_explosives1_n01	omuk			ALCHEMIST	teasing		Hehe! Thấy già chưa Mugen?	4		0																									
-vocs_over_over_	_n02	vocs_over_over_uprising_explosives1_n02	omuk			WARRIOR	teasing back	encumbered	Một người đàn ông phải tự hào về tuổi của mình, lão cũng biết nó mà.	13		0																									
+vocs_over_over_	_n02	vocs_over_over_uprising_explosives1_n02	omuk			WARRIOR	teasing back	encumbered	Một người đàn ông phải tự hào về tuổi của mình, lão cũng biết thế mà.	13		0																									
 vocs_over_over_	_n03	vocs_over_over_uprising_explosives1_n03	omuk			ALCHEMIST	amused		Oh, nói khôn đấy, Mugen. Hehe! Rất khôn.	7		0																									
 																																					
 EXPLOSIVES2									Mugen places the gunpowder near the supply depot.																												
@@ -188,23 +188,23 @@ vo_hint_hint_	_n04	vo_hint_hint_uprising_insult_n04	omuk			GENERAL	full of hate	
 DEBRIEFING									Okkoto has been mortally wounded. Mugen wants to question him before he dies.		Okkoto has been mortally wounded. Mugen wants to question him before he dies.																										
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_uprising_debriefing_n00	omuk			GENERAL	stubborn hopeful	mortally wounded	Mày không thể giết tao, đồ chó. Tại sao Kage-sama lại bắt tao phải chờ…	11	*coughs* So Kage-sama sent demons to slay me! *coughs* How fitting.	11																									
-vocs_over_over_	_n01	vocs_over_over_uprising_debriefing_n01	omuk			WARRIOR	direct		Anh không thấy sao? Không ai tới cả. Kage-sama bỏ mặc anh chết.	13	My name is Oshiro Mugen. I serve the Shogun, not Kage-sama.	11																									
+vocs_over_over_	_n01	vocs_over_over_uprising_debriefing_n01	omuk			WARRIOR	direct		Anh không thấy sao? Không ai tới cả. Kage-sama bỏ mặc anh tới chết.	13	My name is Oshiro Mugen. I serve the Shogun, not Kage-sama.	11																									
 vocs_over_over_	_n02	vocs_over_over_uprising_debriefing_n02	omuk			GENERAL	broken	mortally wounded	Tao… Đéo đời nào! Kage-sama… Ngài không có danh dự ư? Như thế là kẻ phản bội hèn nhát đấy!	12	*coughs* Oshiro …  Mugen.	5																									
 vocs_over_over_	_n03	vocs_over_over_uprising_debriefing_n03	omuk			WARRIOR	honest		Tên tôi là Ōshiro Mugen. Tôi và anh đều là người đàn ông danh dự. Nói cho tôi ai là Kage-sama, và tôi sẽ cho anh chết như một samurai.	28	If Kage-sama is your enemy then tell me who he is!	11																									
-vocs_over_over_	_n04	vocs_over_over_uprising_debriefing_n04	omuk			GENERAL	full of contempt	mortally wounded	Haha! Mày đùa tao à. Nhưng tao không thể lấy lời đề nghị của mày. Tao đã bao giờ thấy mặt hắn đâu.	17	*short laugh* *coughing* You think I know who he is? I never saw his face.	15																									
+vocs_over_over_	_n04	vocs_over_over_uprising_debriefing_n04	omuk			GENERAL	full of contempt	mortally wounded	Haha! Mày đùa tao à. Nhưng tao không thể lấy lời đề nghị của mày rồi. Tao đã bao giờ thấy mặt hắn đếch đâu.	17	*short laugh* *coughing* You think I know who he is? I never saw his face.	15																									
 vocs_over_over_	_n05	vocs_over_over_uprising_debriefing_n05	omuk			WARRIOR	persistend	approaches Okkoto	Vậy nói cho tôi những gì anh biết.	6	Then this conversation is over …	6																									
 vocs_over_over_	_n08	vocs_over_over_uprising_debriefing_n08	omuk			GENERAL	bitter	mortally wounded	Chết tiệt… Có 3 người trong liên minh bọn tao: lãnh chúa Yabu, Kage-sama và tao. Bọn tao đang tập trung lực để chiếm Edo… Rồi sát thủ xử lý Yabu…	25	*cough* He hates the Shogun ... wants him to suffer. *cough* He will see his line destroyed ... his brother ...  his wife ...	25																									
 vocs_over_over_	_n10	vocs_over_over_uprising_debriefing_n10	omuk			WARRIOR	questioning		Mục tiêu liên mình là gì? Sao lại hủy hoại hòa bình, khi mà chúng ta đã có được nó?	17	Why were you betrayed? What was the goal of your alliance?	11																									
-vocs_over_over_	_n11	vocs_over_over_uprising_debriefing_n11	omuk			GENERAL	bitter	mortally wounded	Một samurai thời bình thì làm cái khỉ gì? Chúng ta dựng nên cuộc chiến! Chúng ta chỉ có thể sống sốt trong đó! Kage-sama cũng điều này, và ta đã đi theo hắn!	27	We were gathering strenght to take Edo Castle … but when assasins came for Yabu, I knew Kage-sama had betrayed us …	22																									
+vocs_over_over_	_n11	vocs_over_over_uprising_debriefing_n11	omuk			GENERAL	bitter	mortally wounded	Một samurai thời bình thì làm cái khỉ gì? Chúng ta dựng nên cuộc chiến! Chúng ta chỉ có thể sống sốt trong đó! Kage-sama cũng biết điều này, và ta đã đi theo hắn!	27	We were gathering strenght to take Edo Castle … but when assasins came for Yabu, I knew Kage-sama had betrayed us …	22																									
 vocs_over_over_	_n12	vocs_over_over_uprising_debriefing_n12	omuk			WARRIOR	direct		Rồi cuối cùng hắn cũng phản bội anh. Hắn không có danh dự. Hắn phải bị đưa ra trước công lý.	18	Yabu …	2																									
 vocs_over_over_	_n13	vocs_over_over_uprising_debriefing_n13	omuk			GENERAL	full of hatred	hates Mugen, hates Kage-sama, hates that he must break his vows	Được thôi. Lần cuối bọn tao gặp nhau là ở trại bí ẩn. Tao có bản đồ tới lều của hắn. Có thể mày sẽ tìm được hắn. Giờ…tôn trọng thỏa thuận của mày đi!	25	*cough* This is all ... *cough* Now, honor our agreement!	10																									
-vocs_over_over_	_n14	vocs_over_over_uprising_debriefing_n14	omuk			WARRIOR	dutyful		Tôi sẽ thực hiện những gì cần phải làm. Bắt lấy này…	9	… very well. Here, take this. You will all bear witness. I must assist him.	15																									
+vocs_over_over_	_n14	vocs_over_over_uprising_debriefing_n14	omuk			WARRIOR	dutyful		Tôi sẽ thực hiện những gì cần phải làm. Cầm lấy này…	9	… very well. Here, take this. You will all bear witness. I must assist him.	15																									
 vocs_over_over_	_n15	vocs_over_over_uprising_debriefing_n15	omuk			WARRIOR		gives Okkoto his short blade then goes into position	Tôi sẽ hỗ trợ anh. Mọi người, làm chứng!	7		0																									
 vocs_over_over_	_n16	vocs_over_over_uprising_debriefing_n16	omuk			GENERAL	speaks his death poem		…Ashura sẽ hồi sinh một người đàn ông như ta? …Ta sẽ được sinh ra lần nữa…và ta sẽ lấy đầu của Ōshiro Mugen…	17	Heh … Shall Ashura subdue a man like me? I shall be born again … and cut off Oshiro Mugen's head …	19																									
 vocs_over_over_	_n16a	vocs_over_over_uprising_debriefing_n16a	omuk			GENERAL	speaks his death poem	ALTERNATIVE	…Ashura sẽ hồi sinh một người đàn ông như ta? …Ta sẽ được sinh ra lần nữa…và ta sẽ lấy đầu của Kage-sama…	16		0																									
 vocs_over_over_	_n17	vocs_over_over_uprising_debriefing_n17	omuk			GENERAL	dying	plunges the sword in his belly	…	2	HGRNNN	1																									
 vocs_over_over_	_n18	vocs_over_over_uprising_debriefing_n18	omuk			WARRIOR	killing	waits, then readies his sword, then decapitates Okkoto	…	2	… … HA!	3																									
-vocs_over_over_	_n19	vocs_over_over_uprising_debriefing_n19	omuk			NINJA	focussed	after a brief silence, Mugen walks away from Okkoto	Tự hỏi sao Kage-sama phản bội hắn.	5	What now?	2																									
+vocs_over_over_	_n19	vocs_over_over_uprising_debriefing_n19	omuk			NINJA	focussed	after a brief silence, Mugen walks away from Okkoto	Sao Kage-sama phản bội hắn nhỉ?	5	What now?	2																									
 vocs_over_over_	_n20	vocs_over_over_uprising_debriefing_n20	omuk			WARRIOR	excited dutiful		Khó mà biết được. Nếu mà Okkoto nói thật, Kage-sama sẽ nằm trong tay chúng ta.	14	All of you did well. BROGUN will be pleased. I must send a pigeon and inform the Shogun that his SHOGNSON is in danger.	24																									
 vocs_over_over_	_n21	vocs_over_over_uprising_debriefing_n21	omuk			ALCHEMIST			Hmm…vậy chúng ta nên cẩn thận.	5		0																									
 vocs_over_over_	_n22	vocs_over_over_uprising_debriefing_n22	omuk			TRAPPER	thinking		Mình tự hỏi Aiko-san đang làm gì ta?	6		0																									

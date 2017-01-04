@@ -58,7 +58,7 @@ SHURIKEN									Hayato has just killed someone with a well aimed shuriken.	Haya
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	EN - Proofread	CEN	DE	CDE																									
 vocs_over_over_	_n00	vocs_over_over_convoy_shuriken_n00	omuk		Mo	TRAPPER	excited		Ooh, shuriken! Cho em một cái được không?	Ooh, shuriken! Can I have one?	6		0																									
 vocs_over_over_	_n01	vocs_over_over_convoy_shuriken_n01	omuk		Mo	NINJA	amused		Chắc chắn không.	Definitely not.	2		0																									
-vocs_over_over_	_n02	vocs_over_over_convoy_shuriken_n02	omuk		Mo	TRAPPER	disappointed		Ki bo chưa, sao lại không?	Why not?	2		0																									
+vocs_over_over_	_n02	vocs_over_over_convoy_shuriken_n02	omuk		Mo	TRAPPER	disappointed		Sao lại không?	Why not?	2		0																									
 vocs_over_over_	_n03	vocs_over_over_convoy_shuriken_n03	omuk		Mo	NINJA	amused		Heh…	Heh…	1		0																									
 vocs_over_over_	_n03a	vocs_over_over_convoy_shuriken_n03a	omuk		Mo	NINJA	amused	ALTERNATIVE1	Không lằng nhằng.	No spares.	2		0																									
 vocs_over_over_	_n03b	vocs_over_over_convoy_shuriken_n03b	omuk		Mo	NINJA	amused	ALTERNATIVE2	Bởi vì không.	Because not.	2		0																									

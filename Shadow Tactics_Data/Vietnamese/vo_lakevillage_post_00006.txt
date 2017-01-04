@@ -3,7 +3,7 @@
 TANUKI									While heading for the war camp, Yuki spots Kuma on the road.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE	Column1																								
 						TITLECARD			The next morning, on the road to Lord Noboru's war camp			#NAME?																									
-vocs_over_over_	_n00	vocs_over_over_lakevillage_post_n00				TRAPPER	a little sad, but also happy	has left raft behind	Hah, bè cùi bắp. Giờ ở cái xó này một mình. Nhưng gần tới nơi rồi, đúng không nhỉ?	#NAME?		#NAME?																									
+vocs_over_over_	_n00	vocs_over_over_lakevillage_post_n00				TRAPPER	a little sad, but also happy	has left raft behind	Hah, cái bè cùi bắp. Giờ ở cái xó này một mình. Nhưng gần tới nơi rồi, đúng không nhỉ?	#NAME?		#NAME?																									
 vocs_over_over_	_n01	vocs_over_over_lakevillage_post_n01				TANUKI		tanuki sound	…!			#NAME?																									
 vocs_over_over_	_n02	vocs_over_over_lakevillage_post_n02				TRAPPER	surprised		Hey! Là Kuma, phải không?	#NAME?		#NAME?																									
 vocs_over_over_	_n03	vocs_over_over_lakevillage_post_n03				TANUKI		tanuki sound	…!			#NAME?																									

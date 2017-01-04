@@ -3,15 +3,15 @@
 POST									At Noboru's warcamp.																												
 PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE	Column1																								
 						TITLECARD			The following day			0																									
-vocs_over_over_	_n00	vocs_over_over_ricefields_post_n00				BROGUN	displeased		Chúng đẩy lùi được cuộc tấn công đầu tiên của chúng ta. Chúng ta phải tấn công thành với lực lượng đầy đủ, không để chúng có thời gian để thở.	20		0																									
+vocs_over_over_	_n00	vocs_over_over_ricefields_post_n00				BROGUN	displeased		Chúng đẩy lùi được cuộc tấn công đầu tiên của chúng ta. Phải tấn công thành với lực lượng đông đủ, không để chúng có thời gian được thở.	20		0																									
 vocs_over_over_	_n00a	vocs_over_over_ricefields_post_n00a				BROGUN	displeased		Chúng tăng cường sức mạnh trong thành Kanazawa. Ta sẽ không để chúng nghỉ ngơi trên chiến thắng ấy. Phải di chuyển để kết thúc cuộc nổi loạn này và dừng Okkoto một lần và mãi mãi.	29		0																									
-vocs_over_over_	_n01	vocs_over_over_ricefields_post_n01				WARRIOR	stubborn		Thần sẽ không sử dụng pháo trước khi thần có tin báo từ Aiko và Hayato!	16		0																									
+vocs_over_over_	_n01	vocs_over_over_ricefields_post_n01				WARRIOR	stubborn		Sẽ không nổ pháo trước khi thần có được tin báo từ Aiko và Hayato!	16		0																									
 vocs_over_over_	_n01a	vocs_over_over_ricefields_post_n01a				WARRIOR	stubborn		Với lòng kính trọng, Noboru-sama, nhưng trước khi bước vào trận chiến, chúng ta nên chờ cho đến khi có được tin báo từ Aiko và Hayato.	20		0																									
-vocs_over_over_	_n02	vocs_over_over_ricefields_post_n02				BROGUNSON	sharp		Như thầy nói, Mugen. Nếu chúng ta có được tin trước cuộc tấn công sớm, chúng ta đã không phải có trận chiến ngày hôm nay.	17		0																									
-vocs_over_over_	_n03	vocs_over_over_ricefields_post_n03				GEISHA	tense	enters scene with Hayato	Một vấn đề thần thấy bản thân rất khó hiểu. Tại sao tướng Okkoto đã chiếm được thành Kanazawa?	16		0																									
-vocs_over_over_	_n04	vocs_over_over_ricefields_post_n04				WARRIOR	greatly relieved	loves her	Aiko-san! And Hayato-san!	3		0																									
+vocs_over_over_	_n02	vocs_over_over_ricefields_post_n02				BROGUNSON	sharp		Như thầy nói, Mugen. Nếu chúng ta có được tin trước cuộc tấn công, chúng ta đã không phải nhận lấy thất bại ngày hôm nay.	17		0																									
+vocs_over_over_	_n03	vocs_over_over_ricefields_post_n03				GEISHA	tense	enters scene with Hayato	Có một vấn đề thần thấy rất khó hiểu. Tại sao tướng Okkoto đã chiếm được thành Kanazawa?	16		0																									
+vocs_over_over_	_n04	vocs_over_over_ricefields_post_n04				WARRIOR	greatly relieved	loves her	Aiko-san! Và Hayato-san!	3		0																									
 vocs_over_over_	_n05	vocs_over_over_ricefields_post_n05				NINJA	relaxed	greeting	Bằng xương bằng thịt.	3		0																									
-vocs_over_over_	_n06	vocs_over_over_ricefields_post_n06				GEISHA	perplexed		Chúng thần đã biết trước kế hoạch của Okkoto ở làng Hida. Đứa nhóc đã không truyền tin của chúng thần?	15		0																									
+vocs_over_over_	_n06	vocs_over_over_ricefields_post_n06				GEISHA	perplexed		Chúng thần đã biết trước kế hoạch của Okkoto ở làng Hida. Đứa nhóc đã không truyền tin của chúng thần ư?	15		0																									
 vocs_over_over_	_n07	vocs_over_over_ricefields_post_n07				TRAPPER	anxious		Er…	1		0																									
 vocs_over_over_	_n08	vocs_over_over_ricefields_post_n08				GEISHA	angered	goes towards Yuki	Yuki-chan!	1		0																									
 vocs_over_over_	_n09	vocs_over_over_ricefields_post_n09				GEISHA	angered		Chị đã nói với em nó quan trọng thế nào rồi mà, em biết không?	10		0																									
@@ -19,21 +19,21 @@ vocs_over_over_	_n10	vocs_over_over_ricefields_post_n10				ALCHEMIST	protective	
 vocs_over_over_	_n11	vocs_over_over_ricefields_post_n11				WARRIOR	appeasing gentle	loves Aiko	Aiko-san. Cháu ấy đã tạm gác công việc để có thể cứu sống anh.	12		0																									
 vocs_over_over_	_n12	vocs_over_over_ricefields_post_n12				BROGUN	commanding	interrupting their argument	Không ai có tội cả! Chúng ta phải làm những gì mà chúng ta có. Cả hai có thể nói về khả năng phòng thủ của Okkoto không?	22		0																									
 vocs_over_over_	_n13	vocs_over_over_ricefields_post_n13				NINJA	to the point		Chúng thần đã bám theo hắn và quân đội của hắn ở Hida. Bọn chúng được đào tạo, trang bị tốt và chiến đấu có kỉ luật. Chiếm được thành là quá dễ dàng đối với chúng.	24		0																									
-vocs_over_over_	_n14	vocs_over_over_ricefields_post_n14				GEISHA	to the point		Lương thực đạn dược đầy đủl. Chúng có thể cầm cự cả tháng trời. Và nghe nói rằng Kage-sama sẽ gửi quân tiếp viện tới.	24		0																									
+vocs_over_over_	_n14	vocs_over_over_ricefields_post_n14				GEISHA	to the point		Lương thực đạn dược đầy đủ. Chúng có thể cầm cự cả tháng trời. Và nghe nói rằng Kage-sama sẽ gửi quân tiếp viện tới.	24		0																									
 vocs_over_over_	_n15	vocs_over_over_ricefields_post_n15				BROGUN	commanding		Ta sẽ không chờ cả tháng. Hãy chuẩn bị đi! Thần sẽ là một phần của cuộc tấn công tiếp theo. Ta mong thần có thể thay đổi được thế trận.	27		0																									
 vocs_over_over_	_n16	vocs_over_over_ricefields_post_n16				GEISHA	professional		Lãnh chúa Noboru! Thần có kiến thức chính xác về phòng thủ của Okkoto. Liệu thần có thể giúp ngài trong cuộc chiến tiếp theo?	19		0																									
-vocs_over_over_	_n17	vocs_over_over_ricefields_post_n17				BROGUN	commanding	goes into the tent	Nếu hiểu biết của cô quan trọng như việc cô làm được nó, Aiko-san, vậy thì tham gia với bọn ta. Chuẩn bị phần còn lại cho trận chiến. Có sẽ nhận được lệnh sớm.	30		0																									
+vocs_over_over_	_n17	vocs_over_over_ricefields_post_n17				BROGUN	commanding	goes into the tent	Nếu hiểu biết của cô thực sự quan trọng, Aiko-san, vậy thì tham gia với bọn ta. Chuẩn bị cho phần còn lại của trận chiến. Cô sẽ nhận được lệnh sớm.	30		0																									
 vocs_over_over_	_n18	vocs_over_over_ricefields_post_n18				GEISHA	professional	follows Noboru	Tuân lệnh ngài, lãnh chúa Noboru.	5		0																									
 vocs_over_over_	_n19	vocs_over_over_ricefields_post_n19				BROGUNSON	sharp		Tch, đàn bà ở bàn chiến lược? Nực cười…	8		0																									
 vocs_over_over_	_n20	vocs_over_over_ricefields_post_n20				WARRIOR	submissive	moves away from Noboru with team	Mọi người quay về chuẩn bị đi nào.	5		0																									
 								Aiko follows Noboru and Masaru, the rest walk away from the tent.		0		0																									
 vocs_over_over_	_n21	vocs_over_over_ricefields_post_n21				NINJA	eager		Vậy, Backdoor địch lần nữa hả?	5		0																									
-vocs_over_over_	_n22	vocs_over_over_ricefields_post_n22				WARRIOR	worried		Dường như vậy.	4		0																									
+vocs_over_over_	_n22	vocs_over_over_ricefields_post_n22				WARRIOR	worried		Chắc vậy.	4		0																									
 vocs_over_over_	_n23	vocs_over_over_ricefields_post_n23				ALCHEMIST	pleased		Hehe, cảm giác như này xưa rồi.	6		0																									
-vocs_over_over_	_n24	vocs_over_over_ricefields_post_n24				TRAPPER	determined		Sao Aiko-san không cùng chúng ta?	5		0																									
-vocs_over_over_	_n25	vocs_over_over_ricefields_post_n25				WARRIOR			Chị ấy giúp chúng ta theo cách riêng, cố vấn lãnh chúa Noboru. Đầu chiến tuyến rất nguy hiểm. Nếu cháu không muốn thì không cần phải tới.	29		0																									
+vocs_over_over_	_n24	vocs_over_over_ricefields_post_n24				TRAPPER	determined		Sao Aiko-san không đi cùng chúng ta?	5		0																									
+vocs_over_over_	_n25	vocs_over_over_ricefields_post_n25				WARRIOR			Chị ấy giúp chúng ta theo cách riêng, cố vấn cho lãnh chúa Noboru. Đầu chiến tuyến rất nguy hiểm. Nếu cháu không muốn thì không cần phải tới đó.	29		0																									
 vocs_over_over_	_n26	vocs_over_over_ricefields_post_n26				TRAPPER			Không, cháu muốn giúp. Cháu được sinh ra ở đó. Kanazawa, Ý là cháu biết tất cả các con hẻm.	18		0																									
-vocs_over_over_	_n27	vocs_over_over_ricefields_post_n27				WARRIOR		has faith in Yuki	Nếu cháu muốn, ta sẽ không cấm cháu. Hãy chuẩn bị mọi thứ rồi chờ hướng dẫn của lãnh chúa Noboru.	20		0																									
+vocs_over_over_	_n27	vocs_over_over_ricefields_post_n27				WARRIOR		has faith in Yuki	Nếu cháu muốn, ta sẽ không cấm cháu. Hãy chuẩn bị mọi thứ rồi chờ chỉ thị của lãnh chúa Noboru.	20		0																									
 								Everybode moves out, only Yuki is stopped by Aiko		0		0																									
 vocs_over_over_	_n28	vocs_over_over_ricefields_post_n28				GEISHA	neutral	comes out of the tent	Yuki-chan!	1		0																									
 vocs_over_over_	_n29	vocs_over_over_ricefields_post_n29				TRAPPER	anxious		Aiko-san. Em…Em xin lỗi…	3		0																									
@@ -42,7 +42,7 @@ vocs_over_over_	_n31	vocs_over_over_ricefields_post_n31				TRAPPER	shy		Em đang
 vocs_over_over_	_n32	vocs_over_over_ricefields_post_n32				GEISHA	sincere		Em đã có một lựa chọn khó khăn. Chị biết chị cũng sẽ làm như thế.	13		0																									
 vocs_over_over_	_n33	vocs_over_over_ricefields_post_n33				GEISHA	sincere		Em không còn là đứa trẻ, Yuki-chan. Chị đã từng nghi ngờ em, chị phải xin lỗi.	14		0																									
 vocs_over_over_	_n34	vocs_over_over_ricefields_post_n34				TRAPPER	astonished	Aiko bows before Yuki	Aiko-san…	1		0																									
-vocs_over_over_	_n35	vocs_over_over_ricefields_post_n35				GEISHA	elegant	heads back to the tent	Làm ơn, quay về bình an. Tất cả mọi người.	6		0																									
+vocs_over_over_	_n35	vocs_over_over_ricefields_post_n35				GEISHA	elegant	heads back to the tent	Làm ơn quay về bình an cùng tất cả mọi người nhé.	6		0																									
 vocs_over_over_	_n36	vocs_over_over_ricefields_post_n36				TRAPPER	grateful	waits briefly, then runs off	Hai, Aiko-san!	2		0																									
 																																					
 											MISSION-WORDCOUNT DE:				NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE

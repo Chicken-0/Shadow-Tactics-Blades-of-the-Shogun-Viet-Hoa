@@ -202,7 +202,7 @@
 224	gui_missionMenu_lvl_finalCastle_desc	Các đồng đội của Mugen diện kiến Mạc Chúa. Sự thật đã được vạch trần, và Mạc Chúa quyết định người em trai của mình phải chết.
 225	gui_missionMenu_lvl_monasteryGetAlchemist_desc	Mugen phát hiện ra Takuma còn sống. Anh liền lập đội và lên đường tìm kiếm giải cứu lão Takuma.
 226	gui_missionMenu_lvl_monasteryImprisoned_desc	Lãnh chúa Noboru đã phản bội lại tất cả mọi người, Mugen phải đối mặt với thời khắc đen tối nhất của mình. Trong khi đó, các đồng đội của anh đang tìm cách để vượt ngục.
-227	gui_missionMenu_lvl_ricefields_desc	Kuma dẫn Yuki tới làng Suganuma, nơi mà Mugen và Takuma đã bị choáng ngợp bởi lực lượng phiến quân.
+227	gui_missionMenu_lvl_ricefields_desc	Kuma dẫn Yuki tới làng Suganuma, nơi mà Mugen và Takuma đang bị choáng ngợp bởi hành động tàn ác của lũ phiến quân.
 228	gui_missionMenu_lvl_shogunCamp_desc	Các đồng đội của Mugen muốn giao nộp Masaru đến Mạc Chúa. Tuy nhiên, Mạc Chúa đã rời Edo và đang trên đường đến Kyōto.
 229	gui_missionMenu_lvl_lakeVillage_desc	Mugen và các đồng đội phải giúp đỡ em trai Mạc Chúa là Noboru chống lại quân nổi dậy. Hayato, Aiko và Yuki được cử làm gián điệp để trà trộn vào lòng địch.
 230	gui_missionMenu_lvl_dlc_story_desc	-
