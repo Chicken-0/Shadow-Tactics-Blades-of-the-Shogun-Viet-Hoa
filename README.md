@@ -10,6 +10,8 @@
 3. Giải nén file việt hóa vừa tải về, COPY ĐÈ thư mục `'Shadow Tactics_Data'` vào thư mục chính của Game.
 
 ## Lưu ý:
+- Vẫn còn một ít đoạn hội thoại chưa dịch. Hãy kiểm tra bài viết này thường xuyên để luôn có bản cập nhật mới nhất.
+
 - Phải sử dụng phiên bản việt hóa giống với phiên bản Game. Khác nhau thì Game sẽ bị lỗi.
 
 - Tốt nhất là tải Game từ link phía trên ấy. 
