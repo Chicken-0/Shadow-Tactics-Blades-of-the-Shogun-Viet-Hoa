@@ -1,0 +1,350 @@
+2,3,9													
+PREFIX	TYPE	SUFFIX	NAME	REC.	IMPL.	SPEAKER	MOOD	COMMENT	EN	EN	CEN	JP	CDE
+vo_eny_eny_	samurai_00_	alarm_area_00	vo_eny_eny_samurai_00_alarm_area_00	omuk	hambo	Samurai	high tension	sounds the alarm	Báo động! Có báo động!	Alarm! Sound the alarm!	4		0
+vo_eny_eny_	samurai_00_	alarm_area_01	vo_eny_eny_samurai_00_alarm_area_01	omuk	hambo	Samurai	high tension	sounds the alarm	Chúng ta bị tấn công!	We're under attack!	3		0
+vo_eny_eny_	samurai_00_	alarm_area_02	vo_eny_eny_samurai_00_alarm_area_02	omuk	hambo	Samurai	high tension	sounds the alarm	Gọi thêm người!	To arms!	2		0
+vo_eny_eny_	samurai_00_	alarm_area_03	vo_eny_eny_samurai_00_alarm_area_03	omuk	hambo	Samurai	high tension	sounds the alarm	Gọi tiếp viện ngay!	Call reinforcements!	2		0
+vo_eny_eny_	samurai_00_	alarm_area_04	vo_eny_eny_samurai_00_alarm_area_04	omuk	hambo	Samurai	high tension	sounds the alarm	Báo cho người khác biết!	Alert the others!	3		0
+vo_eny_eny_	samurai_00_	alarm_local_00	vo_eny_eny_samurai_00_alarm_local_00	omuk	hambo	Samurai	urgent, tense	calls for backup	Ở đây!	Over here!	2		0
+vo_eny_eny_	samurai_00_	alarm_local_01	vo_eny_eny_samurai_00_alarm_local_01	omuk	hambo	Samurai	urgent, tense	calls for backup	Tới chỗ tôi!	To me!	2		0
+vo_eny_eny_	samurai_00_	alarm_local_02	vo_eny_eny_samurai_00_alarm_local_02	omuk	hambo	Samurai	urgent, tense	calls for backup	Tôi cần hỗ trợ!	I need backup!	3		0
+vo_eny_eny_	samurai_00_	alarm_local_03	vo_eny_eny_samurai_00_alarm_local_03	omuk	hambo	Samurai	urgent, tense	calls for backup	Giúp với!	Help!	1		0
+vo_eny_eny_	samurai_00_	alarm_local_04	vo_eny_eny_samurai_00_alarm_local_04	omuk	hambo	Samurai	urgent, tense	calls for backup	Tập hợp!	Assemble!	1		0
+vo_eny_eny_	samurai_00_	alarm_local_05	vo_eny_eny_samurai_00_alarm_local_05	omuk	hambo	Samurai	urgent, tense	calls for backup	Lính đâu!	Men!	1		0
+vo_eny_eny_	samurai_00_	alarm_local_06	vo_eny_eny_samurai_00_alarm_local_06	omuk	hambo	Samurai	urgent, tense	calls for backup	Chết tiệt!	Damn!	1		0
+vo_eny_eny_	samurai_00_	alarm_stop_00	vo_eny_eny_samurai_00_alarm_stop_00	omuk	hambo	Samurai	commanding	end of alarm	Chúng đã trốn thoát! Tắt báo động đi.	They've escaped! Stop the search…	5		0
+vo_eny_eny_	samurai_00_	alarm_stop_01	vo_eny_eny_samurai_00_alarm_stop_01	omuk	hambo	Samurai	commanding	end of alarm	Hết rồi! Về vị trí đi.	It's over! Back to routine.	5		0
+vo_eny_eny_	samurai_00_	alarm_stop_02	vo_eny_eny_samurai_00_alarm_stop_02	omuk	hambo	Samurai	commanding	end of alarm	Chúng đã chạy trốn! Ngưng báo động đi!	They must have fled! Cease the alarm!	7		0
+vo_eny_eny_	samurai_00_	alarm_stop_03	vo_eny_eny_samurai_00_alarm_stop_03	omuk	hambo	Samurai	commanding	end of alarm	Không còn nguy hiểm! Yên tâm đi mọi người.	No danger! At ease, everyone.	5		0
+vo_eny_eny_	samurai_00_	alarm_stop_04	vo_eny_eny_samurai_00_alarm_stop_04	omuk	hambo	Samurai	commanding	end of alarm	Chúng ta đã đuổi hắn đi!	We've driven them off.	4		0
+vo_eny_eny_	samurai_00_	alarm_stop_05	vo_eny_eny_samurai_00_alarm_stop_05	omuk	hambo	Samurai	commanding	end of alarm	Tất cả trống!	All clear!	2		0
+vo_eny_eny_	samurai_00_	carry_object_00	vo_eny_eny_samurai_00_carry_object_00	omuk		Samurai		(sound) carries heavy object			0		0
+vo_eny_eny_	samurai_00_	clear_throat_00	vo_eny_eny_samurai_00_clear_throat_00	omuk		Samurai		(sound) clears throat			0		0
+vo_eny_eny_	samurai_00_	cough_00	vo_eny_eny_samurai_00_cough_00	omuk		Samurai		(sound) coughs			0		0
+vo_eny_eny_	samurai_00_	danger_toohigh_00	vo_eny_eny_samurai_00_danger_toohigh_00	omuk	hambo	Samurai	angry	has seen a player far above him	Ngắm trên cao! Chúng ở phía trên!	Aim high! They're above us!	5		0
+vo_eny_eny_	samurai_00_	danger_toohigh_01	vo_eny_eny_samurai_00_danger_toohigh_01	omuk	hambo	Samurai	angry	has seen a player far above him	Hắn ở phía trên chúng ta!	They're above us!	3		0
+vo_eny_eny_	samurai_00_	danger_toohigh_02	vo_eny_eny_samurai_00_danger_toohigh_02	omuk	hambo	Samurai	angry	has seen a player far above him	Hắn tấn công từ phía trên!	They're attacking from above!	4		0
+vo_eny_eny_	samurai_00_	danger_unreachable_00	vo_eny_eny_samurai_00_danger_unreachable_00	omuk	hambo	Samurai	angry	has seen a player, but can't get to that spot	Hèn nhát! Xuống chiến đấu như người đàn ông xem!	Cowards! Fight like men!	4		0
+vo_eny_eny_	samurai_00_	danger_unreachable_01	vo_eny_eny_samurai_00_danger_unreachable_01	omuk	hambo	Samurai	angry	has seen a player, but can't get to that spot	Hắn lên đó bằng cách nào?	How did they get there?	5		0
+vo_eny_eny_	samurai_00_	danger_unreachable_02	vo_eny_eny_samurai_00_danger_unreachable_02	omuk	hambo	Samurai	angry	has seen a player, but can't get to that spot	Tao không thể lên với mày…	I can't reach them!	4		0
+vo_eny_eny_	samurai_00_	death_scream_00	vo_eny_eny_samurai_00_death_scream_00	omuk	hambo	Samurai	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	samurai_00_	death_scream_01	vo_eny_eny_samurai_00_death_scream_01	omuk	hambo	Samurai	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	samurai_00_	death_scream_02	vo_eny_eny_samurai_00_death_scream_02	omuk	hambo	Samurai	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	samurai_00_	death_scream_03	vo_eny_eny_samurai_00_death_scream_03	omuk	hambo	Samurai	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	samurai_00_	death_scream_muffled_00	vo_eny_eny_samurai_00_death_scream_muffled_00	omuk	hambo	Samurai	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	samurai_00_	death_scream_muffled_01	vo_eny_eny_samurai_00_death_scream_muffled_01	omuk	hambo	Samurai	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	samurai_00_	death_scream_muffled_02	vo_eny_eny_samurai_00_death_scream_muffled_02	omuk	hambo	Samurai	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	samurai_00_	death_scream_muffled_03	vo_eny_eny_samurai_00_death_scream_muffled_03	omuk	hambo	Samurai	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	samurai_00_	death_scream_muffled_04	vo_eny_eny_samurai_00_death_scream_muffled_04	omuk	hambo	Samurai	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	samurai_00_	detect_corpse_female_00	vo_eny_eny_samurai_00_detect_corpse_female_00	omuk		Samurai	furious	sees a corpse	Cô ấy đã chết!	She's dead!	2		0
+vo_eny_eny_	samurai_00_	detect_corpse_female_01	vo_eny_eny_samurai_00_detect_corpse_female_01	omuk		Samurai	furious	sees a corpse	Chúng đã giết cô ấy…	They killed her!	3		0
+vo_eny_eny_	samurai_00_	detect_corpse_male_00	vo_eny_eny_samurai_00_detect_corpse_male_00	omuk		Samurai	furious	sees a corpse	Anh ta đã chết…	He is dead!	3		0
+vo_eny_eny_	samurai_00_	detect_corpse_male_01	vo_eny_eny_samurai_00_detect_corpse_male_01	omuk		Samurai	furious	sees a corpse	Chúng đã giết anh ta!	They killed him!	3		0
+vo_eny_eny_	samurai_00_	detect_corpse_neutral_00	vo_eny_eny_samurai_00_detect_corpse_neutral_00	omuk	hambo	Samurai	furious	sees a corpse	Có người chết!	Murder!	1		0
+vo_eny_eny_	samurai_00_	detect_corpse_neutral_01	vo_eny_eny_samurai_00_detect_corpse_neutral_01	omuk	hambo	Samurai	furious	sees a corpse	Có sát thủ!	Assassins!	1		0
+vo_eny_eny_	samurai_00_	detect_footsteps_00	vo_eny_eny_samurai_00_detect_footsteps_00	omuk	hambo	Samurai	suspicious	sees player footprints	Huh? …footprints!	Huh? …footprints!	2		0
+vo_eny_eny_	samurai_00_	detect_footsteps_01	vo_eny_eny_samurai_00_detect_footsteps_01	omuk	hambo	Samurai	suspicious	sees player footprints	Ai để lại dấu chân này?	Who made those footprints?	4		0
+vo_eny_eny_	samurai_00_	detect_footsteps_02	vo_eny_eny_samurai_00_detect_footsteps_02	omuk	hambo	Samurai	suspicious	sees player footprints	Dấu vết này là của ai?	Who left those tracks?	4		0
+vo_eny_eny_	samurai_00_	detect_footsteps_03	vo_eny_eny_samurai_00_detect_footsteps_03	omuk	hambo	Samurai	suspicious	sees player footprints	Dấu vết của kẻ lạ mặt!	Those tracks shouldn't be there…	5		0
+vo_eny_eny_	samurai_00_	detect_footsteps_04	vo_eny_eny_samurai_00_detect_footsteps_04	omuk	hambo	Samurai	suspicious	sees player footprints	Có kẻ lén lút ở quanh đây?	Someone must be sneaking about.	5		0
+vo_eny_eny_	samurai_00_	detect_lightsource_00	vo_eny_eny_samurai_00_detect_lightsource_00	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	Hm? Lửa đã tắt…	Hm? The light went out…	5		0
+vo_eny_eny_	samurai_00_	detect_lightsource_01	vo_eny_eny_samurai_00_detect_lightsource_01	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	Gió giết chết ngọn lửa.?	Did wind kill the flame?	5		0
+vo_eny_eny_	samurai_00_	detect_lightsource_02	vo_eny_eny_samurai_00_detect_lightsource_02	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	Lửa sẽ được thắp lại!	That light should be burning.	5		0
+vo_eny_eny_	samurai_00_	detect_lightsource_03	vo_eny_eny_samurai_00_detect_lightsource_03	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	Ah, cần một thằng ngu nào đó trông coi ngọn lửa này.	Ah, some idiot must have been careless with that lamp.	10		0
+vo_eny_eny_	samurai_00_	detect_lightsource_04	vo_eny_eny_samurai_00_detect_lightsource_04	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	Lửa đã tàn…	The fire died…	3		0
+vo_eny_eny_	samurai_00_	detect_player_00	vo_eny_eny_samurai_00_detect_player_00	omuk	hambo	Samurai	agressive	sees a player character	Cấm di chuyển!	Stop moving!	2		0
+vo_eny_eny_	samurai_00_	detect_player_01	vo_eny_eny_samurai_00_detect_player_01	omuk	hambo	Samurai	agressive	sees a player character	Đứng yên!	Stop right there!	3		0
+vo_eny_eny_	samurai_00_	detect_player_02	vo_eny_eny_samurai_00_detect_player_02	omuk	hambo	Samurai	agressive	sees a player character	Dừng lại!	Halt!	1		0
+vo_eny_eny_	samurai_00_	detect_player_03	vo_eny_eny_samurai_00_detect_player_03	omuk	hambo	Samurai	agressive	sees a player character	Tao thấy mày rồi!	I see you!	3		0
+vo_eny_eny_	samurai_00_	detect_player_04	vo_eny_eny_samurai_00_detect_player_04	omuk	hambo	Samurai	agressive	sees a player character	Hắn ở đây!	You there!	2		0
+vo_eny_eny_	samurai_00_	detect_player_05	vo_eny_eny_samurai_00_detect_player_05	omuk	hambo	Samurai	agressive	sees a player character	Dừng lại ngay!	Stop right there!	3		0
+vo_eny_eny_	samurai_00_	detect_player_06	vo_eny_eny_samurai_00_detect_player_06	omuk	hambo	Samurai	agressive	sees a player character	Kẻ đột nhập!	Intruder!	1		0
+vo_eny_eny_	samurai_00_	detect_player_07	vo_eny_eny_samurai_00_detect_player_07	omuk	hambo	Samurai	agressive	sees a player character	Chết đi đồ cặn bã!	Die, you scum!	3		0
+vo_eny_eny_	samurai_00_	detect_player_08	vo_eny_eny_samurai_00_detect_player_08	omuk	hambo	Samurai	agressive	sees a player character	Tao đã tóm được mày!	I have you now!	4		0
+vo_eny_eny_	samurai_00_	detect_player_09	vo_eny_eny_samurai_00_detect_player_09	omuk	hambo	Samurai	agressive	sees a player character	Ê đứa kia!	You!	1		0
+vo_eny_eny_	samurai_00_	detect_player_10	vo_eny_eny_samurai_00_detect_player_10	omuk	hambo	Samurai	agressive	sees a player character	Oh, mày sẽ chết ở đây!	Oh, you'll die for being here!	6		0
+vo_eny_eny_	samurai_00_	detect_player_11	vo_eny_eny_samurai_00_detect_player_11	omuk	hambo	Samurai	agressive	sees a player character	Tao sẽ giết mày, kẻ tấn công!	I'm gonna kill you, assailant!	5		0
+vo_eny_eny_	samurai_00_	detect_player_12	vo_eny_eny_samurai_00_detect_player_12	omuk	hambo	Samurai	agressive	sees a player character	Người Mạc Phủ!	There are Shogunate men here!	5		0
+vo_eny_eny_	samurai_00_	detect_player_13	vo_eny_eny_samurai_00_detect_player_13	omuk	hambo	Samurai	agressive	sees a player character	Ah, Là chúng!	Ah, it's them!	3		0
+vo_eny_eny_	samurai_00_	detect_player_14	vo_eny_eny_samurai_00_detect_player_14	omuk	hambo	Samurai	agressive	sees a player character	Oh, Mày không nên ở đây!	Oh, you shouldn't be here!	5		0
+vo_eny_eny_	samurai_00_	detect_player_15	vo_eny_eny_samurai_00_detect_player_15	omuk	hambo	Samurai	agressive	sees a player character	Oh, Tao sẽ chăm sóc mày!	Oh, I'll take care of you!	6		0
+vo_eny_eny_	samurai_00_	detect_player_16	vo_eny_eny_samurai_00_detect_player_16	omuk	hambo	Samurai	agressive	sees a player character	Đừng cố mà chạy!	Don't try to run!	4		0
+vo_eny_eny_	samurai_00_	detect_player_17	vo_eny_eny_samurai_00_detect_player_17	omuk	hambo	Samurai	agressive	sees a player character	Chạy đi—thử trốn thoát xem!	Go on—try escaping!	3		0
+vo_eny_eny_	samurai_00_	detect_player_geisha_00	vo_eny_eny_samurai_00_detect_player_geisha_00	omuk		Samurai	aha!	senses a nearby player character	Sát thủ ngụy trang!	Assassin in disguise!	3		0
+vo_eny_eny_	samurai_00_	detect_player_geisha_01	vo_eny_eny_samurai_00_detect_player_geisha_01	omuk		Samurai	aha!	senses a nearby player character	Ả ta là sát thủ!	She's an assassin!	3		0
+vo_eny_eny_	samurai_00_	detect_player_geisha_02	vo_eny_eny_samurai_00_detect_player_geisha_02	omuk		Samurai	aha!	senses a nearby player character	Mày nghĩ lừa được tao hả, đồ đàn bà?!	You think you can fool me, woman?!	7		0
+vo_eny_eny_	samurai_00_	detect_player_geisha_03	vo_eny_eny_samurai_00_detect_player_geisha_03	omuk		Samurai	aha!	senses a nearby player character	Tao thấy mày ngụy trang rồi!	I see through your disguise!	5		0
+vo_eny_eny_	samurai_00_	detect_player_kill_00	vo_eny_eny_samurai_00_detect_player_kill_00	omuk		Samurai	aha!	senses a player behind him and decapitates him	Hmph! Đồ ngu.	Hmph! You fool.	3		0
+vo_eny_eny_	samurai_00_	detect_player_kill_01	vo_eny_eny_samurai_00_detect_player_kill_01	omuk		Samurai	aha!	senses a player behind him and decapitates him	Ha! Nhát chết.	Ha! Coward.	2		0
+vo_eny_eny_	samurai_00_	detect_player_kill_02	vo_eny_eny_samurai_00_detect_player_kill_02	omuk		Samurai	aha!	senses a player behind him and decapitates him	Ha! Kẻ yếu đuối.	Ha! Weakling.	2		0
+vo_eny_eny_	samurai_00_	detect_player_kill_03	vo_eny_eny_samurai_00_detect_player_kill_03	omuk		Samurai	aha!	senses a player behind him and decapitates him	Heh. Mày không phải samurai.	Heh. You are no samurai.	5		0
+vo_eny_eny_	samurai_00_	detect_player_kill_04	vo_eny_eny_samurai_00_detect_player_kill_04	omuk		Samurai	aha!	senses a player behind him and decapitates him	Ha! Mày không phù hợp với tao.	Ha! You are no match for me.	7		0
+vo_eny_eny_	samurai_00_	detect_player_proximity_00	vo_eny_eny_samurai_00_detect_player_proximity_00	omuk	hambo	Samurai	suspicious	senses a nearby player character	Có gì đó sai sai…	Something's wrong…	2		0
+vo_eny_eny_	samurai_00_	detect_player_proximity_01	vo_eny_eny_samurai_00_detect_player_proximity_01	omuk	hambo	Samurai	suspicious	senses a nearby player character	Kỳ lạ thật…nó cảm giác như…	Strange, it…feels like…	3		0
+vo_eny_eny_	samurai_00_	detect_player_proximity_02	vo_eny_eny_samurai_00_detect_player_proximity_02	omuk	hambo	Samurai	suspicious	senses a nearby player character	Chờ đã…có ai đó…	Wait…is someone…	2		0
+vo_eny_eny_	samurai_00_	detect_player_proximity_03	vo_eny_eny_samurai_00_detect_player_proximity_03	omuk	hambo	Samurai	suspicious	senses a nearby player character	Tao chắc chắn có ai đó ở đây…	There is something there…	4		0
+vo_eny_eny_	samurai_00_	detect_sake_00	vo_eny_eny_samurai_00_detect_sake_00	omuk	hambo	Samurai	dismissive	spots the sake bottle	Sa kê, hm? …Mình có rồi.	Sake, hm? …I have my own.	6		0
+vo_eny_eny_	samurai_00_	detect_sake_01	vo_eny_eny_samurai_00_detect_sake_01	omuk	hambo	Samurai	dismissive	spots the sake bottle	Sa kê? …hrm, loại cùi bắp ấy mà.	Sake? …hrm, low-grade swill.	4		0
+vo_eny_eny_	samurai_00_	detect_sake_02	vo_eny_eny_samurai_00_detect_sake_02	omuk	hambo	Samurai	dismissive	spots the sake bottle	Heh, chủ xứng đáng với lũ bần nông.	Heh, only a peasant would bow down for sake.	9		0
+vo_eny_eny_	samurai_00_	detect_tanuki_00	vo_eny_eny_samurai_00_detect_tanuki_00	omuk	hambo	Samurai	dismissive	sees the tanuki	Con vật thối.	Filthy creature.	2		0
+vo_eny_eny_	samurai_00_	detect_tanuki_01	vo_eny_eny_samurai_00_detect_tanuki_01	omuk	hambo	Samurai	dismissive	sees the tanuki	Phiền vđ.	Annoying critter.	2		0
+vo_eny_eny_	samurai_00_	detect_tanuki_02	vo_eny_eny_samurai_00_detect_tanuki_02	omuk	hambo	Samurai	dismissive	sees the tanuki	Đi đi, trước khi tao…làm thịt mày.	Leave, before I…squish you.	4		0
+vo_eny_eny_	samurai_00_	detect_tanuki_03	vo_eny_eny_samurai_00_detect_tanuki_03	omuk	hambo	Samurai	dismissive	sees the tanuki	Huh? Oh…chỉ là một con vật.	Huh? Oh…just some animal.	4		0
+vo_eny_eny_	samurai_00_	detect_trap_00	vo_eny_eny_samurai_00_detect_trap_00	omuk	hambo	Samurai	with contempt	spots the trap on the floor and breaks it	Huh? Thứ rác rưởi gì đây?	Huh? What's this rubbish?	4		0
+vo_eny_eny_	samurai_00_	detect_trap_01	vo_eny_eny_samurai_00_detect_trap_01	omuk	hambo	Samurai	with contempt	spots the trap on the floor and breaks it	Heh! Đồ chơi con nít.	Heh! A child's toy.	4		0
+vo_eny_eny_	samurai_00_	detect_trap_02	vo_eny_eny_samurai_00_detect_trap_02	omuk	hambo	Samurai	with contempt	spots the trap on the floor and breaks it	Ai để nó ở đây? …hrm, rác rưởi.	Who left that here? …hrm, trash.	6		0
+vo_eny_eny_	samurai_00_	detect_unconscious_female_01	vo_eny_eny_samurai_00_detect_unconscious_female_01	omuk		Samurai	displeased	sees unconcious person	Oh, cô ấy bất tỉnh.	Oh, she's unconscious.	3		0
+vo_eny_eny_	samurai_00_	detect_unconscious_female_02	vo_eny_eny_samurai_00_detect_unconscious_female_02	omuk		Samurai	displeased	sees unconcious person	Cô ấy bị đánh…	She's been hit…	3		0
+vo_eny_eny_	samurai_00_	detect_unconscious_female_03	vo_eny_eny_samurai_00_detect_unconscious_female_03	omuk		Samurai	displeased	sees unconcious person	Cô ấy bị tấn công.	She's been attacked!	3		0
+vo_eny_eny_	samurai_00_	detect_unconscious_male_00	vo_eny_eny_samurai_00_detect_unconscious_male_00	omuk		Samurai	displeased	sees unconcious person	Anh ta bất tỉnh.	He's unconscious.	2		0
+vo_eny_eny_	samurai_00_	detect_unconscious_male_01	vo_eny_eny_samurai_00_detect_unconscious_male_01	omuk		Samurai	displeased	sees unconcious person	Anh ta bị đánh!	He's been hit!	3		0
+vo_eny_eny_	samurai_00_	detect_unconscious_male_02	vo_eny_eny_samurai_00_detect_unconscious_male_02	omuk		Samurai	displeased	sees unconcious person	Anh ta bị tấn công.	He's been attacked!	3		0
+vo_eny_eny_	samurai_00_	detect_unconscious_neutral_01	vo_eny_eny_samurai_00_detect_unconscious_neutral_01	omuk	hambo	Samurai	displeased	sees unconcious person	Chuyện gì đã xảy ra?	What happened?	2		0
+vo_eny_eny_	samurai_00_	detect_unconscious_neutral_02	vo_eny_eny_samurai_00_detect_unconscious_neutral_02	omuk	hambo	Samurai	displeased	sees unconcious person	Người! Ai đã đánh ngươi?	You! Who attacked you?	4		0
+vo_eny_eny_	samurai_00_	detect_unconscious_neutral_03	vo_eny_eny_samurai_00_detect_unconscious_neutral_03	omuk	hambo	Samurai	displeased	sees unconcious person	Đang ngủ hả?	Are you asleep?	3		0
+vo_eny_eny_	samurai_00_	drink_sake_00	vo_eny_eny_samurai_00_drink_sake_00	omuk		Samurai		(sound) drink sake			0		0
+vo_eny_eny_	samurai_00_	drop_object_00	vo_eny_eny_samurai_00_drop_object_00	omuk		Samurai		(sound) lay down heavy object			0		0
+vo_eny_eny_	samurai_00_	friend_missing_female_00	vo_eny_eny_samurai_00_friend_missing_female_00	omuk		Samurai	displeased	his partner is missing	Cô ấy rời vị trí.	She left her post!	4		0
+vo_eny_eny_	samurai_00_	friend_missing_female_01	vo_eny_eny_samurai_00_friend_missing_female_01	omuk		Samurai	displeased	his partner is missing	Cô ấy đâu rồi?	Where is she?	3		0
+vo_eny_eny_	samurai_00_	friend_missing_female_02	vo_eny_eny_samurai_00_friend_missing_female_02	omuk		Samurai	displeased	his partner is missing	Cái gì cầm chân cô ấy lại?	What's keeping her?	3		0
+vo_eny_eny_	samurai_00_	friend_missing_female_03	vo_eny_eny_samurai_00_friend_missing_female_03	omuk		Samurai	displeased	his partner is missing	Cô ấy đi cũng khá lâu rồi.	She's been gone too long.	5		0
+vo_eny_eny_	samurai_00_	friend_missing_female_04	vo_eny_eny_samurai_00_friend_missing_female_04	omuk		Samurai	displeased	his partner is missing	Cố ấy bị mất tích!	She's missing!	2		0
+vo_eny_eny_	samurai_00_	friend_missing_female_05	vo_eny_eny_samurai_00_friend_missing_female_05	omuk		Samurai	displeased	his partner is missing	Sao cô ấy bắt mình phải chờ nhỉ!	How dare she keep me waiting!	6		0
+vo_eny_eny_	samurai_00_	friend_missing_male_00	vo_eny_eny_samurai_00_friend_missing_male_00	omuk	placeholder	Samurai	displeased	his partner is missing	Anh ta rời vị trí.	He left his post!	4		0
+vo_eny_eny_	samurai_00_	friend_missing_male_01	vo_eny_eny_samurai_00_friend_missing_male_01	omuk	placeholder	Samurai	displeased	his partner is missing	Anh ta đâu rồi?	Where is he?	3		0
+vo_eny_eny_	samurai_00_	friend_missing_male_02	vo_eny_eny_samurai_00_friend_missing_male_02	omuk	placeholder	Samurai	displeased	his partner is missing	Cái gì cầm chân anh ta lại?	What's keeping him?	3		0
+vo_eny_eny_	samurai_00_	friend_missing_male_03	vo_eny_eny_samurai_00_friend_missing_male_03	omuk	placeholder	Samurai	displeased	his partner is missing	Eh, Anh ta đi cũng khá lâu rồi.	Eh, he's been gone too long…	6		0
+vo_eny_eny_	samurai_00_	friend_missing_male_04	vo_eny_eny_samurai_00_friend_missing_male_04	omuk	placeholder	Samurai	displeased	his partner is missing	Anh ta bị mất tích!	He's missing!	2		0
+vo_eny_eny_	samurai_00_	friend_missing_male_05	vo_eny_eny_samurai_00_friend_missing_male_05	omuk	placeholder	Samurai	displeased	his partner is missing	Sao anh ta bắt mình phải chờ nhỉ!	How dare he keep me waiting!	6		0
+vo_eny_eny_	samurai_00_	friend_wakeup_00	vo_eny_eny_samurai_00_friend_wakeup_00	omuk	hambo	Samurai	urgent	wakes unconcious person	Hey! Dậy nào!	Hey! Wake up!	3		0
+vo_eny_eny_	samurai_00_	friend_wakeup_01	vo_eny_eny_samurai_00_friend_wakeup_01	omuk	hambo	Samurai	urgent	wakes unconcious person	Dậy đi!	Get up!	2		0
+vo_eny_eny_	samurai_00_	friend_wakeup_02	vo_eny_eny_samurai_00_friend_wakeup_02	omuk	hambo	Samurai	urgent	wakes unconcious person	Có sao không?	You all right?	3		0
+vo_eny_eny_	samurai_00_	friend_wakeup_03	vo_eny_eny_samurai_00_friend_wakeup_03	omuk	hambo	Samurai	urgent	wakes unconcious person	Có chuyện khỉ gì vậy?	What happened to you?	4		0
+vo_eny_eny_	samurai_00_	friend_wakeup_04	vo_eny_eny_samurai_00_friend_wakeup_04	omuk	hambo	Samurai	urgent	wakes unconcious person	Đứng dậy!	On your feet!	3		0
+vo_eny_eny_	samurai_00_	hard_work_00	vo_eny_eny_samurai_00_hard_work_00	omuk		Samurai		(sound) pushing a cart			0		0
+vo_eny_eny_	samurai_00_	hear_noise_00	vo_eny_eny_samurai_00_hear_noise_00	omuk		Samurai	suspicious	hears strange noise	Hả?!	Huh?!	1		0
+vo_eny_eny_	samurai_00_	hear_noise_01	vo_eny_eny_samurai_00_hear_noise_01	omuk		Samurai	suspicious	hears strange noise	Cái gì thế?	What was that?	3		0
+vo_eny_eny_	samurai_00_	hear_noise_02	vo_eny_eny_samurai_00_hear_noise_02	omuk		Samurai	suspicious	hears strange noise	Mình nghe thấy gì đó…	I heard something…	3		0
+vo_eny_eny_	samurai_00_	hear_noise_03	vo_eny_eny_samurai_00_hear_noise_03	omuk		Samurai	suspicious	hears strange noise	Tiếng động lớn…	Strange sound…	2		0
+vo_eny_eny_	samurai_00_	hear_noise_04	vo_eny_eny_samurai_00_hear_noise_04	omuk		Samurai	suspicious	hears strange noise	Đó là…tiếng ồn…	That noise…	2		0
+vo_eny_eny_	samurai_00_	hear_noise_directhit_00	vo_eny_eny_samurai_00_hear_noise_directhit_00	omuk		Samurai	anger	is hit by stone	Huh? Sao mày dám, đồ hèn!	Huh? How dare you, coward?!	5		0
+vo_eny_eny_	samurai_00_	hear_noise_directhit_01	vo_eny_eny_samurai_00_hear_noise_directhit_01	omuk		Samurai	contempt	is hit by stone	Mày phải trả giá cho những gì mày đang làm!	You'll suffer for this, wherever you are!	7		0
+vo_eny_eny_	samurai_00_	hear_noise_directhit_02	vo_eny_eny_samurai_00_hear_noise_directhit_02	omuk		Samurai	anger	is hit by stone	Hrm! Lộ diện ngay coi nào!	Hrm! Show yourself, coward!	4		0
+vo_eny_eny_	samurai_00_	hear_noise_directhit_03	vo_eny_eny_samurai_00_hear_noise_directhit_03	omuk		Samurai	contempt	is hit by stone	Mày không làm được gì cả! …Đồ ngu!	You achieved nothing! …fool!	4		0
+vo_eny_eny_	samurai_00_	hear_noise_gunshot_00	vo_eny_eny_samurai_00_hear_noise_gunshot_00	omuk		Samurai	alarmed	hears player gunshot	Sao có tiếng súng?	Why is there shooting?!	4		0
+vo_eny_eny_	samurai_00_	hear_noise_gunshot_01	vo_eny_eny_samurai_00_hear_noise_gunshot_01	omuk		Samurai	alarmed	hears player gunshot	Tiếng súng! Báo động!	Shots fired! Alarm!	3		0
+vo_eny_eny_	samurai_00_	hear_noise_gunshot_02	vo_eny_eny_samurai_00_hear_noise_gunshot_02	omuk		Samurai	alarmed	hears player gunshot	Địch có hỏa lực!	The enemy has firearms!	4		0
+vo_eny_eny_	samurai_00_	hear_noise_human_00	vo_eny_eny_samurai_00_hear_noise_human_00	omuk		Samurai	fierce	hears human noise	Có ai đó ở đây?	Someone there?	2		0
+vo_eny_eny_	samurai_00_	hear_noise_human_01	vo_eny_eny_samurai_00_hear_noise_human_01	omuk		Samurai	fierce	hears human noise	Có ai đó đến đây?	Who goes there?	3		0
+vo_eny_eny_	samurai_00_	hear_noise_human_02	vo_eny_eny_samurai_00_hear_noise_human_02	omuk		Samurai	fierce	hears human noise	Tao nghe thấy rồi!	I heard that!	3		0
+vo_eny_eny_	samurai_00_	hear_noise_human_03	vo_eny_eny_samurai_00_hear_noise_human_03	omuk		Samurai	fierce	hears human noise	Đứa nào làm ồn?	Who is making noise?	4		0
+vo_eny_eny_	samurai_00_	hear_noise_human_04	vo_eny_eny_samurai_00_hear_noise_human_04	omuk		Samurai	fierce	hears human noise	Thằng nào nấp trong bóng tối?	Who hides in the shadows?	5		0
+vo_eny_eny_	samurai_00_	hear_noise_human_05	vo_eny_eny_samurai_00_hear_noise_human_05	omuk		Samurai	fierce	hears human noise	Ai đó?	Who is this?	3		0
+vo_eny_eny_	samurai_00_	hear_noise_too_much_00	vo_eny_eny_samurai_00_hear_noise_too_much_00	omuk	hambo	Samurai	irritated	irritated by a continuous string of strange noises	Mày đang kiểm tra sự kiên nhẫn của tao hả.	You are testing my patience.	5		0
+vo_eny_eny_	samurai_00_	hear_noise_too_much_01	vo_eny_eny_samurai_00_hear_noise_too_much_01	omuk	hambo	Samurai	irritated	irritated by a continuous string of strange noises	Oh, mày sẽ phải trả giá!	Oh, you'll pay for this!	5		0
+vo_eny_eny_	samurai_00_	hear_noise_too_much_02	vo_eny_eny_samurai_00_hear_noise_too_much_02	omuk	hambo	Samurai	irritated	irritated by a continuous string of strange noises	Lộ mặt đi, đồ hèn!	Show yourself, coward!	3		0
+vo_eny_eny_	samurai_00_	hear_noise_too_much_03	vo_eny_eny_samurai_00_hear_noise_too_much_03	omuk	hambo	Samurai	irritated	irritated by a continuous string of strange noises	Mày lừa tao chỉ khi mày có thể.	Play your games while you can, fool.	7		0
+vo_eny_eny_	samurai_00_	hum_00	vo_eny_eny_samurai_00_hum_00	omuk		Samurai		(sound) humming tune			0		0
+vo_eny_eny_	samurai_00_	ignore_distraction_00	vo_eny_eny_samurai_00_ignore_distraction_00	omuk	hambo	Samurai	dutiful	ignores player distraction (whistle, stone noise)	Ah, chả có gì.	Ah, it was nothing.	4		0
+vo_eny_eny_	samurai_00_	ignore_distraction_01	vo_eny_eny_samurai_00_ignore_distraction_01	omuk	hambo	Samurai	dutiful	ignores player distraction (whistle, stone noise)	Uh…Chỉ là gió mà thôi!	Uh…just the wind!	3		0
+vo_eny_eny_	samurai_00_	ignore_distraction_02	vo_eny_eny_samurai_00_ignore_distraction_02	omuk	hambo	Samurai	dutiful	ignores player distraction (whistle, stone noise)	Gió đang đùa mình ấy mà.	The wind trying to trick me.	6		0
+vo_eny_eny_	samurai_00_	ignore_distraction_03	vo_eny_eny_samurai_00_ignore_distraction_03	omuk	hambo	Samurai	dutiful	ignores player distraction (whistle, stone noise)	Mình sẽ không bị phân tâm nữa.	I will not be distracted.	5		0
+vo_eny_eny_	samurai_00_	ignore_disturbance_00	vo_eny_eny_samurai_00_ignore_disturbance_00	omuk		Samurai	dutiful	ignores disturbance (footprints, snuffed torch)	Eh, không đáng quan tâm.	Eh, not worth my attention.	5		0
+vo_eny_eny_	samurai_00_	ignore_disturbance_01	vo_eny_eny_samurai_00_ignore_disturbance_01	omuk		Samurai	dutiful	ignores disturbance (footprints, snuffed torch)	Không đáng quan tâm.	This is beneath me.	4		0
+vo_eny_eny_	samurai_00_	ignore_disturbance_02	vo_eny_eny_samurai_00_ignore_disturbance_02	omuk		Samurai	dutiful	ignores disturbance (footprints, snuffed torch)	Không lừa được tao đâu.	I will not make a fool of myself.	8		0
+vo_eny_eny_	samurai_00_	ignore_peasant_00	vo_eny_eny_samurai_00_ignore_peasant_00	omuk		Samurai	dismissive	shoos off a civilian who tries to warn him	Tránh khuất mắt ta, thằng bần nông!	Get out of my sight, peasant!	6		0
+vo_eny_eny_	samurai_00_	ignore_peasant_01	vo_eny_eny_samurai_00_ignore_peasant_01	omuk		Samurai	dismissive	shoos off a civilian who tries to warn him	Mày dám nói chuyện với tao hả? Cút!	How dare you speak to me? Leave!	7		0
+vo_eny_eny_	samurai_00_	ignore_peasant_02	vo_eny_eny_samurai_00_ignore_peasant_02	omuk		Samurai	dismissive	shoos off a civilian who tries to warn him	Vấn đề của mày không liên quan tới tao!	Your troubles do not concern me!	6		0
+vo_eny_eny_	samurai_00_	investigate_accident_start_00	vo_eny_eny_samurai_00_investigate_accident_start_00	omuk	hambo	Samurai	displeased	sees accident (like guard crushed by falling debris)	Chuyện quái gì vậy?	What happened?	2		0
+vo_eny_eny_	samurai_00_	investigate_accident_start_01	vo_eny_eny_samurai_00_investigate_accident_start_01	omuk	hambo	Samurai	displeased	sees accident (like guard crushed by falling debris)	Sao…sao nó lại xảy ra được?	How…how did this happen?	4		0
+vo_eny_eny_	samurai_00_	investigate_accident_start_02	vo_eny_eny_samurai_00_investigate_accident_start_02	omuk	hambo	Samurai	displeased	sees accident (like guard crushed by falling debris)	Đã gây ra chuyện gì?	Whose fault is this?	4		0
+vo_eny_eny_	samurai_00_	investigate_accident_start_03	vo_eny_eny_samurai_00_investigate_accident_start_03	omuk	hambo	Samurai	displeased	sees accident (like guard crushed by falling debris)	Ai…ai chịu trách nhiệm cho chuyện này?!	Who…who's responsible for this?!	4		0
+vo_eny_eny_	samurai_00_	investigate_accident_start_04	vo_eny_eny_samurai_00_investigate_accident_start_04	omuk	hambo	Samurai	displeased	sees accident (like guard crushed by falling debris)	Đáng đời!	This is outrageous!	3		0
+vo_eny_eny_	samurai_00_	investigate_accident_stop_00	vo_eny_eny_samurai_00_investigate_accident_stop_00	omuk	hambo	Samurai	dismissive	stops investigating accident	Chúng ta sẽ điều tra sau.	We will investigate this later.	5		0
+vo_eny_eny_	samurai_00_	investigate_accident_stop_01	vo_eny_eny_samurai_00_investigate_accident_stop_01	omuk	hambo	Samurai	dismissive	stops investigating accident	Hmph. Nghiệp chướng.	Hmph. Karma.	2		0
+vo_eny_eny_	samurai_00_	investigate_accident_stop_02	vo_eny_eny_samurai_00_investigate_accident_stop_02	omuk	hambo	Samurai	dismissive	stops investigating accident	Tao sẽ tìm ra kẻ gây ra vụ này.	I will find those responsible.	5		0
+vo_eny_eny_	samurai_00_	investigate_accident_stop_03	vo_eny_eny_samurai_00_investigate_accident_stop_03	omuk	hambo	Samurai	dismissive	stops investigating accident	Hôm nay mày đến hạn rồi.	Fate was…unkind today.	3		0
+vo_eny_eny_	samurai_00_	investigate_accident_stop_04	vo_eny_eny_samurai_00_investigate_accident_stop_04	omuk	hambo	Samurai	dismissive	stops investigating accident	Eh, không thể thay đổi gì.	Eh, it cannot be changed.	5		0
+vo_eny_eny_	samurai_00_	investigate_bush_00	vo_eny_eny_samurai_00_investigate_bush_00	omuk	hambo	Samurai	agressive	searches bushes for player characters	Ha! Nấp trong bụi cây hả?!	Ha! Hiding in the bushes?!	5		0
+vo_eny_eny_	samurai_00_	investigate_bush_01	vo_eny_eny_samurai_00_investigate_bush_01	omuk	hambo	Samurai	agressive	searches bushes for player characters	Mày không thể trốn tao đâu!	You cannot hide from me!	5		0
+vo_eny_eny_	samurai_00_	investigate_bush_02	vo_eny_eny_samurai_00_investigate_bush_02	omuk	hambo	Samurai	agressive	searches bushes for player characters	Oh, Mày không thể lừa được tao…	Oh, you cannot fool me…	5		0
+vo_eny_eny_	samurai_00_	investigate_bush_03	vo_eny_eny_samurai_00_investigate_bush_03	omuk	hambo	Samurai	agressive	searches bushes for player characters	Huh? Thu thập thông tin từ bụi cây hả?	Huh? Crawling through the thicket?!	5		0
+vo_eny_eny_	samurai_00_	investigate_bush_04	vo_eny_eny_samurai_00_investigate_bush_04	omuk	hambo	Samurai	agressive	searches bushes for player characters	Ohoho, Bụi cây không thể bảo vệ mày!	Ohoho, the brush will not protect you!	7		0
+vo_eny_eny_	samurai_00_	investigate_door_00	vo_eny_eny_samurai_00_investigate_door_00	omuk	hambo	Samurai	agressive	follows player character inside buildings	Tao sẽ lôi mày ra khỏi đó.	I will drag you out of there.	7		0
+vo_eny_eny_	samurai_00_	investigate_door_01	vo_eny_eny_samurai_00_investigate_door_01	omuk	hambo	Samurai	agressive	follows player character inside buildings	Tao biết mày ở đây!	I know you're in there!	5		0
+vo_eny_eny_	samurai_00_	investigate_door_02	vo_eny_eny_samurai_00_investigate_door_02	omuk	hambo	Samurai	agressive	follows player character inside buildings	Mày nghĩ mày an toàn khi ở đây hả?	You'll find no safety in there.	6		0
+vo_eny_eny_	samurai_00_	investigate_door_03	vo_eny_eny_samurai_00_investigate_door_03	omuk	hambo	Samurai	agressive	follows player character inside buildings	Được thôi! Chỗ này sẽ là mộ của mày.	Fine! This will be your grave.	6		0
+vo_eny_eny_	samurai_00_	investigate_end_00	vo_eny_eny_samurai_00_investigate_end_00	omuk	hambo	Samurai	a bit disappointed	stops investigating area (same as squad solo)	Không có ai ở đây.	Nobody here.	2		0
+vo_eny_eny_	samurai_00_	investigate_end_01	vo_eny_eny_samurai_00_investigate_end_01	omuk	hambo	Samurai	a bit disappointed	stops investigating area (same as squad solo)	Ugh, đi rồi.	Ugh, gone.	2		0
+vo_eny_eny_	samurai_00_	investigate_end_02	vo_eny_eny_samurai_00_investigate_end_02	omuk	hambo	Samurai	a bit disappointed	stops investigating area (same as squad solo)	Không có gì.	Nothing.	1		0
+vo_eny_eny_	samurai_00_	investigate_end_03	vo_eny_eny_samurai_00_investigate_end_03	omuk	hambo	Samurai	a bit disappointed	stops investigating area (same as squad solo)	Augh, chúng đã bỏ chạy.	Augh, they must have run away.	6		0
+vo_eny_eny_	samurai_00_	investigate_end_04	vo_eny_eny_samurai_00_investigate_end_04	omuk	hambo	Samurai	a bit disappointed	stops investigating area (same as squad solo)	Huh…đoán là mình đã đuổi hắn đi. Hah!	Huh…guess I drove them off. Hah!	6		0
+vo_eny_eny_	samurai_00_	investigate_end_05	vo_eny_eny_samurai_00_investigate_end_05	omuk	hambo	Samurai	a bit disappointed	stops investigating area (same as squad solo)	Aw…không thể tìm thấy ai.	Aw…no one to be found.	5		0
+vo_eny_eny_	samurai_00_	investigate_missing_00	vo_eny_eny_samurai_00_investigate_missing_00	omuk		Samurai	annoyed	searches the area for missing friend	Hello?	Hello?	1		0
+vo_eny_eny_	samurai_00_	investigate_missing_01	vo_eny_eny_samurai_00_investigate_missing_01	omuk		Samurai	annoyed	searches the area for missing friend	Mày đang nấp quanh đây phải không?	Are you hiding somewhere?	4		0
+vo_eny_eny_	samurai_00_	investigate_missing_02	vo_eny_eny_samurai_00_investigate_missing_02	omuk		Samurai	annoyed	searches the area for missing friend	Mày đang ở đó?	Are you there?	3		0
+vo_eny_eny_	samurai_00_	investigate_missing_03	vo_eny_eny_samurai_00_investigate_missing_03	omuk		Samurai	annoyed	searches the area for missing friend	Tao đếch có tâm trạng cho chuyện này đâu nhé!	I'm not in the mood for this!	7		0
+vo_eny_eny_	samurai_00_	investigate_missing_04	vo_eny_eny_samurai_00_investigate_missing_04	omuk		Samurai	annoyed	searches the area for missing friend	Mày ở đâu? Trả lời coi!	Where are you? Speak up!	5		0
+vo_eny_eny_	samurai_00_	investigate_missing_05	vo_eny_eny_samurai_00_investigate_missing_05	omuk		Samurai	annoyed	searches the area for missing friend	Mày nghe thấy tao không?	You hear me?	3		0
+vo_eny_eny_	samurai_00_	investigate_start_00	vo_eny_eny_samurai_00_investigate_start_00	omuk	hambo	Samurai	tense	starts investigating area (same as squad solo)	Mày ở đâu hả?	Where are you?	3		0
+vo_eny_eny_	samurai_00_	investigate_start_01	vo_eny_eny_samurai_00_investigate_start_01	omuk	hambo	Samurai	tense	starts investigating area (same as squad solo)	Tao biết mày ở đây!	I know you're here!	4		0
+vo_eny_eny_	samurai_00_	investigate_start_02	vo_eny_eny_samurai_00_investigate_start_02	omuk	hambo	Samurai	tense	starts investigating area (same as squad solo)	Tao sẽ tìm thấy mày!	I will find you!	4		0
+vo_eny_eny_	samurai_00_	investigate_start_03	vo_eny_eny_samurai_00_investigate_start_03	omuk	hambo	Samurai	tense	starts investigating area (same as squad solo)	Tiến lên trước!	Come forward!	2		0
+vo_eny_eny_	samurai_00_	investigate_start_04	vo_eny_eny_samurai_00_investigate_start_04	omuk	hambo	Samurai	tense	starts investigating area (same as squad solo)	Thôi nào, tao không rảnh cả ngày với mày đâu!	Come on, I haven't got all day!	7		0
+vo_eny_eny_	samurai_00_	investigate_too_long_00	vo_eny_eny_samurai_00_investigate_too_long_00	omuk	hambo	Samurai	dismissive	hears noise, but getting there is too complicated	Ugh, không đáng để đi bộ.	Ugh, that's not worth the walk.	6		0
+vo_eny_eny_	samurai_00_	investigate_too_long_01	vo_eny_eny_samurai_00_investigate_too_long_01	omuk	hambo	Samurai	dismissive	hears noise, but getting there is too complicated	Ah, ở đó quá xa.	Ah, it's too far off.	5		0
+vo_eny_eny_	samurai_00_	investigate_too_long_02	vo_eny_eny_samurai_00_investigate_too_long_02	omuk	hambo	Samurai	dismissive	hears noise, but getting there is too complicated	Không lãng phí thời gian.	I will not waste my time.	6		0
+vo_eny_eny_	samurai_00_	investigate_unreachable_00	vo_eny_eny_samurai_00_investigate_unreachable_00	omuk	hambo	Samurai	suspicious	wants to investigate spot, but can't get there	Ungh…mình không thể tới đó.	Ungh…I can't reach that!	4		0
+vo_eny_eny_	samurai_00_	investigate_unreachable_01	vo_eny_eny_samurai_00_investigate_unreachable_01	omuk	hambo	Samurai	suspicious	wants to investigate spot, but can't get there	Đường đã bị chặn!	The path is blocked!	4		0
+vo_eny_eny_	samurai_00_	investigate_unreachable_02	vo_eny_eny_samurai_00_investigate_unreachable_02	omuk	hambo	Samurai	suspicious	wants to investigate spot, but can't get there	Ah, Quá nhiều rắc rối.	Ah, that'd be too much trouble.	6		0
+vo_eny_eny_	samurai_00_	knockout_scream_00	vo_eny_eny_samurai_00_knockout_scream_00	omuk	hambo	Samurai	stunned	(sound) gets knocked out			0		0
+vo_eny_eny_	samurai_00_	knockout_scream_01	vo_eny_eny_samurai_00_knockout_scream_01	omuk	hambo	Samurai	stunned	(sound) gets knocked out			0		0
+vo_eny_eny_	samurai_00_	knockout_scream_02	vo_eny_eny_samurai_00_knockout_scream_02	omuk	hambo	Samurai	stunned	(sound) gets knocked out			0		0
+vo_eny_eny_	samurai_00_	knockout_scream_03	vo_eny_eny_samurai_00_knockout_scream_03	omuk	hambo	Samurai	stunned	(sound) gets knocked out			0		0
+vo_eny_eny_	samurai_00_	knockout_scream_04	vo_eny_eny_samurai_00_knockout_scream_04	omuk	hambo	Samurai	stunned	(sound) gets knocked out			0		0
+vo_eny_eny_	samurai_00_	laugh_evil_00	vo_eny_eny_samurai_00_laugh_evil_00	omuk		Samurai		(sound) dark laugh			0		0
+vo_eny_eny_	samurai_00_	laugh_good_00	vo_eny_eny_samurai_00_laugh_good_00	omuk		Samurai		(sound) humorous laugh			0		0
+vo_eny_eny_	samurai_00_	make_toast_00	vo_eny_eny_samurai_00_make_toast_00	omuk		Samurai		(sound) makes a toast			0		0
+vo_eny_eny_	samurai_00_	officer_alert_00	vo_eny_eny_samurai_00_officer_alert_00	omuk		Samurai	commanding	instructs other guards to stay alert	Cảnh giác. Chúng ta có sát thủ ở đây.	Stay vigilant. We have assassins in our midst.	8		0
+vo_eny_eny_	samurai_00_	officer_alert_01	vo_eny_eny_samurai_00_officer_alert_01	omuk		Samurai	commanding	instructs other guards to stay alert	Địch ở gần chúng ta. Hãy khôn ngoan lên.	The enemy is among us. Stay sharp.	7		0
+vo_eny_eny_	samurai_00_	officer_alert_02	vo_eny_eny_samurai_00_officer_alert_02	omuk		Samurai	commanding	instructs other guards to stay alert	Đừng để bị lừa. Chúng vẫn còn ở đây.	Do not be fooled. They are still here.	8		0
+vo_eny_eny_	samurai_00_	officer_alert_03	vo_eny_eny_samurai_00_officer_alert_03	omuk		Samurai	commanding	instructs other guards to stay alert	Nhìn mấy chỗ tối ấy. Đó là nơi chúng nấp.	Watch the shadows! It's where they hide.	7		0
+vo_eny_eny_	samurai_00_	officer_alert_04	vo_eny_eny_samurai_00_officer_alert_04	omuk		Samurai	commanding	instructs other guards to stay alert	Đi cùng nhau. Đừng để chúng tóm được mày.	Keep together. Don't let them separate you.	7		0
+vo_eny_eny_	samurai_00_	officer_alert_05	vo_eny_eny_samurai_00_officer_alert_05	omuk		Samurai	commanding	instructs other guards to stay alert	Chúng đang tìm điểm yếu. Cho chúng nhận lấy cái chết nào.	They're looking for weakness. Give them death!	7		0
+vo_eny_eny_	samurai_00_	officer_alert_06	vo_eny_eny_samurai_00_officer_alert_06	omuk		Samurai	commanding	instructs other guards to stay alert	Tấn công khi phát hiện. Không phải thương sót.	Attack on sight. Show no mercy.	6		0
+vo_eny_eny_	samurai_00_	officer_alert_07	vo_eny_eny_samurai_00_officer_alert_07	omuk		Samurai	commanding	instructs other guards to stay alert	Đừng sợ lũ tội phạm cùi bắp này.	Do not cower before common criminals.	6		0
+vo_eny_eny_	samurai_00_	officer_alert_08	vo_eny_eny_samurai_00_officer_alert_08	omuk		Samurai	commanding	instructs other guards to stay alert	Dạy chúng sợ hãi. Không cho chúng chỗ để nấp luôn.	Teach them fear! Give them no place to hide!	9		0
+vo_eny_eny_	samurai_00_	pickup_object_00	vo_eny_eny_samurai_00_pickup_object_00	omuk		Samurai		(sound) pickup heavy object			0		0
+vo_eny_eny_	samurai_00_	regain_consciousness_00	vo_eny_eny_samurai_00_regain_consciousness_00	omuk	hambo	Samurai	angry	knocked out, wakes up	Ungh…bọn chó chết tiệt.	Ungh…damn them.	2		0
+vo_eny_eny_	samurai_00_	regain_consciousness_01	vo_eny_eny_samurai_00_regain_consciousness_01	omuk	hambo	Samurai	headache	knocked out, wakes up	Ugh! …ah, không có gì!	Ugh! …ah, it's nothing!	4		0
+vo_eny_eny_	samurai_00_	regain_consciousness_02	vo_eny_eny_samurai_00_regain_consciousness_02	omuk	hambo	Samurai	angry	knocked out, wakes up	…Tôi thật xấu hổ.	…I was shamed.	3		0
+vo_eny_eny_	samurai_00_	regain_consciousness_03	vo_eny_eny_samurai_00_regain_consciousness_03	omuk	hambo	Samurai	headache	knocked out, wakes up	Hrm! …hèn nhát…	Hrm! …cowards…	2		0
+vo_eny_eny_	samurai_00_	regain_consciousness_04	vo_eny_eny_samurai_00_regain_consciousness_04	omuk	hambo	Samurai	angry	knocked out, wakes up	…Chúng tấn công tôi!	…they attacked me!	3		0
+vo_eny_eny_	samurai_00_	regain_consciousness_05	vo_eny_eny_samurai_00_regain_consciousness_05	omuk	hambo	Samurai	angry	knocked out, wakes up	…chúng đánh gục tôi!	…they beat me down.	4		0
+vo_eny_eny_	samurai_00_	regain_consciousness_06	vo_eny_eny_samurai_00_regain_consciousness_06	omuk	hambo	Samurai	angry	knocked out, wakes up	…Sẽ cho chúng thấy đau đớn!	…I will see them suffer!	5		0
+vo_eny_eny_	samurai_00_	see_flying_body_00	vo_eny_eny_samurai_00_see_flying_body_00	omuk	hambo	Samurai	startled	sees corpse that's thrown into his view by player	Làm thế nào?!	How?!	1		0
+vo_eny_eny_	samurai_00_	see_flying_body_01	vo_eny_eny_samurai_00_see_flying_body_01	omuk	hambo	Samurai	startled	sees corpse that's thrown into his view by player	Ác quỷ!	Demons!	1		0
+vo_eny_eny_	samurai_00_	see_flying_body_02	vo_eny_eny_samurai_00_see_flying_body_02	omuk	hambo	Samurai	startled	sees corpse that's thrown into his view by player	Kẻ giết người man rợ!	Honorless killers!	2		0
+vo_eny_eny_	samurai_00_	see_flying_object_00	vo_eny_eny_samurai_00_see_flying_object_00	omuk	hambo	Samurai	annoyed	sees object that's thrown into his view by player	Cái…gì thế này?!	What…what's this?!	2		0
+vo_eny_eny_	samurai_00_	see_flying_object_01	vo_eny_eny_samurai_00_see_flying_object_01	omuk	hambo	Samurai	annoyed	sees object that's thrown into his view by player	Ai đã làm?!	Who did that?!	3		0
+vo_eny_eny_	samurai_00_	see_flying_object_02	vo_eny_eny_samurai_00_see_flying_object_02	omuk	hambo	Samurai	annoyed	sees object that's thrown into his view by player	Oh thôi nào! Thật vớ vẩn!	Oh come on! This is ridiculous!	6		0
+vo_eny_eny_	samurai_00_	see_something_00	vo_eny_eny_samurai_00_see_something_00	omuk	hambo	Samurai	suspicious	sees something strange	Cái gì?	What?	1		0
+vo_eny_eny_	samurai_00_	see_something_01	vo_eny_eny_samurai_00_see_something_01	omuk	hambo	Samurai	suspicious	sees something strange	Hả?	Huh?	1		0
+vo_eny_eny_	samurai_00_	see_something_02	vo_eny_eny_samurai_00_see_something_02	omuk	hambo	Samurai	suspicious	sees something strange	Quái gì thế?	What's that?	2		0
+vo_eny_eny_	samurai_00_	see_something_03	vo_eny_eny_samurai_00_see_something_03	omuk	hambo	Samurai	suspicious	sees something strange	Có gì đó…	Something…	1		0
+vo_eny_eny_	samurai_00_	see_something_04	vo_eny_eny_samurai_00_see_something_04	omuk	hambo	Samurai	suspicious	sees something strange	Hmm?	Hmm…	1		0
+vo_eny_eny_	samurai_00_	snore_00	vo_eny_eny_samurai_00_snore_00	omuk		Samurai		(sound) snore			0		0
+vo_eny_eny_	samurai_00_	squad_investigate_end_00	vo_eny_eny_samurai_00_squad_investigate_end_00	omuk	hambo	Samurai	commanding	squad leader stops investigation	Không có gì! Quay về nhiệm vụ của mày đi.	Nothing here. Resume your duties.	5		0
+vo_eny_eny_	samurai_00_	squad_investigate_end_01	vo_eny_eny_samurai_00_squad_investigate_end_01	omuk	hambo	Samurai	commanding	squad leader stops investigation	Ah, chúng đi lâu rồi. Quay về nhiệm vụ của mày đi.	Ah, they're long gone. Resume your duties.	7		0
+vo_eny_eny_	samurai_00_	squad_investigate_end_02	vo_eny_eny_samurai_00_squad_investigate_end_02	omuk	hambo	Samurai	commanding	squad leader stops investigation	Ah, Không có gì ở đây! Quay về nhiệm vụ của mày đi.	Ah, there's no one here! Resume your duties.	8		0
+vo_eny_eny_	samurai_00_	squad_investigate_end_03	vo_eny_eny_samurai_00_squad_investigate_end_03	omuk	hambo	Samurai	commanding	squad leader stops investigation	Dừng tìm kiếm lại. Quay về nhiệm vụ của mày đi.	Stop the search. Return to your posts.	7		0
+vo_eny_eny_	samurai_00_	squad_investigate_end_04	vo_eny_eny_samurai_00_squad_investigate_end_04	omuk	hambo	Samurai	commanding	squad leader stops investigation	Không còn nguy hiểm. Quay về nhiệm vụ của mày đi.	Danger has passed. Return to your posts.	7		0
+vo_eny_eny_	samurai_00_	squad_investigate_start_00	vo_eny_eny_samurai_00_squad_investigate_start_00	omuk	hambo	Samurai	commanding	squad leader starts investigation	Tìm kiếm khu vực này!	Search the area!	3		0
+vo_eny_eny_	samurai_00_	squad_investigate_start_01	vo_eny_eny_samurai_00_squad_investigate_start_01	omuk	hambo	Samurai	commanding	squad leader starts investigation	Tấn công khi phát hiện!	Attack on sight!	3		0
+vo_eny_eny_	samurai_00_	squad_investigate_start_02	vo_eny_eny_samurai_00_squad_investigate_start_02	omuk	hambo	Samurai	commanding	squad leader starts investigation	Chúng có thể vẫn còn ở đây!	They could still be here!	5		0
+vo_eny_eny_	samurai_00_	squad_investigate_start_03	vo_eny_eny_samurai_00_squad_investigate_start_03	omuk	hambo	Samurai	commanding	squad leader starts investigation	Tìm khắp nơi đi!	Search everywhere!	2		0
+vo_eny_eny_	samurai_00_	squad_investigate_start_04	vo_eny_eny_samurai_00_squad_investigate_start_04	omuk	hambo	Samurai	commanding	squad leader starts investigation	Không cần thương hại!	Show no mercy!	3		0
+vo_eny_eny_	samurai_00_	squad_investigate_talk_00	vo_eny_eny_samurai_00_squad_investigate_talk_00	omuk	hambo	Samurai	tense	squad serches the area, commenting on things	Không có gì ở đây!	There is nothing here!	4		0
+vo_eny_eny_	samurai_00_	squad_investigate_talk_01	vo_eny_eny_samurai_00_squad_investigate_talk_01	omuk	hambo	Samurai	tense	squad serches the area, commenting on things	Chúng đã đi đâu?	Where did they go?!	4		0
+vo_eny_eny_	samurai_00_	squad_investigate_talk_02	vo_eny_eny_samurai_00_squad_investigate_talk_02	omuk	hambo	Samurai	commanding	squad serches the area, commenting on things	Căng cái mắt của mày ra.	Keep your eyes open.	4		0
+vo_eny_eny_	samurai_00_	squad_investigate_talk_03	vo_eny_eny_samurai_00_squad_investigate_talk_03	omuk	hambo	Samurai	focussed	squad serches the area, commenting on things	Huh… Mình thấy dấu vết?	Huh… Do I see tracks?	5		0
+vo_eny_eny_	samurai_00_	squad_investigate_talk_04	vo_eny_eny_samurai_00_squad_investigate_talk_04	omuk	hambo	Samurai	annoyed	squad serches the area, commenting on things	Dấu vết này của ai? …không, không phải họ.	Are these tracks? …no, they're not.	6		0
+vo_eny_eny_	samurai_00_	squad_investigate_talk_05	vo_eny_eny_samurai_00_squad_investigate_talk_05	omuk	hambo	Samurai	tense	squad serches the area, commenting on things	Có ai thấy chúng không?	Do you see them?	4		0
+vo_eny_eny_	samurai_00_	squad_investigate_talk_06	vo_eny_eny_samurai_00_squad_investigate_talk_06	omuk	hambo	Samurai	annoyed	squad serches the area, commenting on things	Chúng không thể biến mất!	They can't have vanished!	4		0
+vo_eny_eny_	samurai_00_	squad_investigate_talk_07	vo_eny_eny_samurai_00_squad_investigate_talk_07	omuk	hambo	Samurai	annoyed	squad serches the area, commenting on things	Chúng ta đang đi săn ma hả!	We're not hunting ghosts!	4		0
+vo_eny_eny_	samurai_00_	squad_investigate_talk_08	vo_eny_eny_samurai_00_squad_investigate_talk_08	omuk	hambo	Samurai	focussed	squad serches the area, commenting on things	Chúng ta đang tìm cái khỉ gì vậy?	What are we looking for?	5		0
+vo_eny_eny_	samurai_00_	squad_investigate_talk_09	vo_eny_eny_samurai_00_squad_investigate_talk_09	omuk	hambo	Samurai	focussed	squad serches the area, commenting on things	Có chắc là họ bảo thấy cái gì đó không?	Are you certain you saw something?	6		0
+vo_eny_eny_	samurai_00_	stun_end_00	vo_eny_eny_samurai_00_stun_end_00	omuk		Samurai	enraged	stands up after stun	…chúng sử dụng hỏa lực! Lũ hèn nhát!	…they use firearms! The cowards!	5		0
+vo_eny_eny_	samurai_00_	stun_end_01	vo_eny_eny_samurai_00_stun_end_01	omuk		Samurai	enraged	stands up after stun	Phục kích!	Ambush!	1		0
+vo_eny_eny_	samurai_00_	stun_end_02	vo_eny_eny_samurai_00_stun_end_02	omuk		Samurai	enraged	stands up after stun	Mày bắn tao hả! …giờ tao sẽ chém mày ra làm đôi!	You shot me! …now I cut you in half!	9		0
+vo_eny_eny_	samurai_00_	stun_end_03	vo_eny_eny_samurai_00_stun_end_03	omuk		Samurai	enraged	stands up after stun	…mày nghĩ nó đủ để giết tao ư?!	…you think that would kill me?!	7		0
+vo_eny_eny_	samurai_00_	stun_end_04	vo_eny_eny_samurai_00_stun_end_04	omuk		Samurai	enraged	stands up after stun	…sát thủ!	…assassins!	1		0
+vo_eny_eny_	samurai_00_	stun_scream_00	vo_eny_eny_samurai_00_stun_scream_00	omuk		Samurai	surprised	(sound) receives a stunning blow, grunts and drops to his knees			0		0
+vo_eny_eny_	samurai_00_	stun_scream_01	vo_eny_eny_samurai_00_stun_scream_01	omuk		Samurai	surprised	(sound) receives a stunning blow, grunts and drops to his knees			0		0
+vo_eny_eny_	samurai_00_	stun_scream_02	vo_eny_eny_samurai_00_stun_scream_02	omuk		Samurai	surprised	(sound) receives a stunning blow, grunts and drops to his knees			0		0
+vo_eny_eny_	samurai_00_	stun_scream_03	vo_eny_eny_samurai_00_stun_scream_03	omuk		Samurai	surprised	receives a stunning blow, grunts and drops to his knees	Agh! …mày…	Agh! …you…	2		0
+vo_eny_eny_	samurai_00_	stun_scream_04	vo_eny_eny_samurai_00_stun_scream_04	omuk		Samurai	surprised	receives a stunning blow, grunts and drops to his knees	Ugh! Hèn nhát!	Ugh! Cowards!	2		0
+vo_gothic_gothic_	samurai_00_	talk_idle_00	vo_gothic_gothic_samurai_00_talk_idle_00	omuk		Samurai	relaxed	(sound) humming tune			0		0
+vo_gothic_gothic_	samurai_00_	talk_idle_01	vo_gothic_gothic_samurai_00_talk_idle_01	omuk		Samurai		(sound) sneeze			0		0
+vo_gothic_gothic_	samurai_00_	talk_idle_02	vo_gothic_gothic_samurai_00_talk_idle_02	omuk		Samurai	surprised	makes noise on duty	Hmm…	Hmm…	1		0
+vo_gothic_gothic_	samurai_00_	talk_idle_03	vo_gothic_gothic_samurai_00_talk_idle_03	omuk		Samurai	surprised	makes noise on duty	A-hah!	A-hah!	1		0
+vo_gothic_gothic_	samurai_00_	talk_idle_04	vo_gothic_gothic_samurai_00_talk_idle_04	omuk		Samurai	in thought	makes noise on duty	Hrm.	Hrm.	1		0
+vo_gothic_gothic_	samurai_00_	talk_idle_05	vo_gothic_gothic_samurai_00_talk_idle_05	omuk		Samurai	in thought	makes noise on duty	Ah, đúng rồi.	Ah, yes.	2		0
+vo_gothic_gothic_	samurai_00_	talk_idle_06	vo_gothic_gothic_samurai_00_talk_idle_06	omuk		Samurai	focussed	makes noise on duty	Hrm, tập trung.	Hrm, focus.	2		0
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_calm_00	vo_gothic_gothic_samurai_00_talk_idle_battle_calm_00	omuk		Samurai	tense	makes noise on duty (mumbling)	Chắc chắn chiến thắng.	Victory is certain.	3		0
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_calm_01	vo_gothic_gothic_samurai_00_talk_idle_battle_calm_01	omuk		Samurai	tense	makes noise on duty (mumbling)	Hrm…Nguyền rủa lũ Mạc chúa.	Hrm…curse the Shogun.	3		0
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_calm_02	vo_gothic_gothic_samurai_00_talk_idle_battle_calm_02	omuk		Samurai	tense	makes noise on duty (mumbling)	Một cuộc phảm công…	A single strike…	3		0
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_calm_03	vo_gothic_gothic_samurai_00_talk_idle_battle_calm_03	omuk		Samurai	tense	makes noise on duty (mumbling)	…đây là vị trí của chúng ta.	…this is our place.	4		0
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_calm_04	vo_gothic_gothic_samurai_00_talk_idle_battle_calm_04	omuk		Samurai	tense	makes noise on duty (mumbling)	Chết trong vinh quang…	Honor in death…	3		0
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_05	vo_gothic_gothic_samurai_00_talk_idle_battle_05	omuk		Samurai	rush of battle	makes noise in battle	Thay đạn!	Reloading!	1		0
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_06	vo_gothic_gothic_samurai_00_talk_idle_battle_06	omuk		Samurai	rush of battle	makes noise in battle	Tao thay đạn!	I'm reloading!	2		0
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_07	vo_gothic_gothic_samurai_00_talk_idle_battle_07	omuk		Samurai	rush of battle	makes noise in battle	Yểm trợ tao!	Cover me!	2		0
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_08	vo_gothic_gothic_samurai_00_talk_idle_battle_08	omuk		Samurai	rush of battle	makes noise in battle	Chết đi, Mạc Phủ cặn bã!	Die, Shogunate scum!	3		0
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_09	vo_gothic_gothic_samurai_00_talk_idle_battle_09	omuk		Samurai	rush of battle	makes noise in battle	Giữ vững thành!	Hold the castle!	3		0
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_10	vo_gothic_gothic_samurai_00_talk_idle_battle_10	omuk		Samurai	rush of battle	makes noise in battle	Đẩy chúng lùi lại!	Push them back!	3		0
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_11	vo_gothic_gothic_samurai_00_talk_idle_battle_11	omuk		Samurai	rush of battle	makes noise in battle	Rút quân!	Retreat!	1		0
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_12	vo_gothic_gothic_samurai_00_talk_idle_battle_12	omuk		Samurai	rush of battle	makes noise in battle	Lui quân!	Fall back!	2		0
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_13	vo_gothic_gothic_samurai_00_talk_idle_battle_13	omuk		Samurai	rush of battle	makes noise in battle	Chỉ huy đã chết!	Officer dead!	2		0
+vo_gothic_gothic_	samurai_00_	talk_idle_daimyo_00	vo_gothic_gothic_samurai_00_talk_idle_daimyo_00	omuk		Samurai	dutiful	makes noise on duty (mumbling)	Vì lãnh chúa Yabu.	For Lord Yabu.	3		0
+vo_gothic_gothic_	samurai_00_	talk_idle_general_00	vo_gothic_gothic_samurai_00_talk_idle_general_00	omuk		Samurai	dutiful	makes noise on duty (mumbling)	Vì lãnh cháu Okkoto.	For Lord Okkoto.	3		0
+vo_gothic_gothic_	samurai_00_	talk_idle_kagesama_00	vo_gothic_gothic_samurai_00_talk_idle_kagesama_00	omuk		Samurai	dutiful	makes noise on duty (mumbling)	Vì Kage-sama.	For Kage-sama.	2		0
+vo_gothic_gothic_	samurai_00_	talk_idle_kagesama_01	vo_gothic_gothic_samurai_00_talk_idle_kagesama_01	omuk		Samurai	dutiful	makes noise on duty (mumbling)	Vì lãnh chúa Noboru.	For Lord Noboru.	3		0
+vo_gothic_gothic_	samurai_00_	talk_idle_night_00	vo_gothic_gothic_samurai_00_talk_idle_night_00	omuk		Samurai	tired	makes noise on duty (mumbling)	Hmm. Sa kê.	Hmm. Sake.	2		0
+vo_gothic_gothic_	samurai_00_	talk_idle_night_01	vo_gothic_gothic_samurai_00_talk_idle_night_01	omuk		Samurai	tired	makes noise on duty (mumbling)	Một ngày dài lê thê.	It was a long day.	5		0
+vo_gothic_gothic_	samurai_00_	talk_idle_night_02	vo_gothic_gothic_samurai_00_talk_idle_night_02	omuk		Samurai	tired	makes noise on duty (mumbling)	Hmm, Đêm ảm đạm.	Hmm, dark tonight.	3		0
+vo_gothic_gothic_	samurai_00_	talk_idle_night_03	vo_gothic_gothic_samurai_00_talk_idle_night_03	omuk		Samurai	tired	makes noise on duty (mumbling)	Hrm.	Hrm.	1		0
+vo_gothic_gothic_	samurai_00_	talk_idle_night_04	vo_gothic_gothic_samurai_00_talk_idle_night_04	omuk		Samurai	tired	makes noise on duty (mumbling)	Hrm…tập trung.	Hrm…focus.	1		0
+vo_gothic_gothic_	samurai_00_	talk_idle_snow_00	vo_gothic_gothic_samurai_00_talk_idle_snow_00	omuk		Samurai	cold	makes noise on duty (mumbling)	Tuyết đáng bị nguyền rủa.	Cursed snow.	2		0
+vo_gothic_gothic_	samurai_00_	talk_idle_snow_01	vo_gothic_gothic_samurai_00_talk_idle_snow_01	omuk		Samurai	cold	makes noise on duty (mumbling)	Ugh, gió thổi đóng băng cmnr!	Ugh, the wind is freezing!	5		0
+vo_gothic_gothic_	samurai_00_	talk_idle_snow_02	vo_gothic_gothic_samurai_00_talk_idle_snow_02	omuk		Samurai	cold	makes noise on duty (mumbling)	Lạnh quá.	It's too cold.	3		0
+vo_gothic_gothic_	samurai_00_	talk_idle_snow_03	vo_gothic_gothic_samurai_00_talk_idle_snow_03	omuk		Samurai	cold	(sound) slight shiver			0		0
+vo_gothic_gothic_	samurai_00_	talk_idle_snow_04	vo_gothic_gothic_samurai_00_talk_idle_snow_04	omuk		Samurai	cold	(sound) strong shiver			0		0
+vo_gothic_gothic_	samurai_00_	talk_npc_00	vo_gothic_gothic_samurai_00_talk_npc_00	omuk		Samurai	dismissive	dialog without topic	Ah, Tao không quan tâm.	Ah, that's not my concern.	5		0
+vo_gothic_gothic_	samurai_00_	talk_npc_01	vo_gothic_gothic_samurai_00_talk_npc_01	omuk		Samurai	aggree	dialog without topic	Nó phải rõ ràng.	That much is clear.	4		0
+vo_gothic_gothic_	samurai_00_	talk_npc_02	vo_gothic_gothic_samurai_00_talk_npc_02	omuk		Samurai	dismissive	dialog without topic	Mày…mày không nên tin vào lời đồn vô căn cứ.	You…you should not believe baseless rumors.	6		0
+vo_gothic_gothic_	samurai_00_	talk_npc_03	vo_gothic_gothic_samurai_00_talk_npc_03	omuk		Samurai	disagree	dialog without topic	Tao nghe ra thứ khác.	I've heard differently.	3		0
+vo_gothic_gothic_	samurai_00_	talk_npc_04	vo_gothic_gothic_samurai_00_talk_npc_04	omuk		Samurai	aggree	dialog without topic	Nó luôn như thế mà thôi.	That's how it's always been.	5		0
+vo_gothic_gothic_	samurai_00_	talk_npc_05	vo_gothic_gothic_samurai_00_talk_npc_05	omuk		Samurai	dismissive	dialog without topic	Hắn là thằng ngu. Đừng nghe hắn.	He's a coward! Don't listen to him.	7		0
+vo_gothic_gothic_	samurai_00_	talk_npc_06	vo_gothic_gothic_samurai_00_talk_npc_06	omuk		Samurai	aggree	dialog without topic	Tôi có thể đồng ý.	I can agree to that.	5		0
+vo_gothic_gothic_	samurai_00_	talk_npc_07	vo_gothic_gothic_samurai_00_talk_npc_07	omuk		Samurai	warning	dialog without topic	Nhìn đi, tao cảnh bảo mày. Cẩn thận với những gì mày nói.	Look, I warn you. Be careful what you say.	9		0
+vo_gothic_gothic_	samurai_00_	talk_npc_08	vo_gothic_gothic_samurai_00_talk_npc_08	omuk		Samurai	displeased	dialog without topic	Anh ta sẽ chỉ gây rắc rối.	He'll only cause trouble.	4		0
+vo_gothic_gothic_	samurai_00_	talk_npc_09	vo_gothic_gothic_samurai_00_talk_npc_09	omuk		Samurai	unconcerned	dialog without topic	Eh, nó sẽ không thay đổi gì thế.	Eh, it'll change nothing.	4		0
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_00	vo_gothic_gothic_samurai_00_talk_npc_confirm_00	omuk		Samurai	dutiful	confirms orders during battle	Đã rõ.	Understood.	1		0
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_01	vo_gothic_gothic_samurai_00_talk_npc_confirm_01	omuk		Samurai	dutiful	confirms orders during battle	Tuân lệnh thưa ngài.	My lord.	2		0
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_02	vo_gothic_gothic_samurai_00_talk_npc_confirm_02	omuk		Samurai	dutiful	confirms orders during battle	Ngay bây giờ.	At once.	2		0
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_battle_00	vo_gothic_gothic_samurai_00_talk_npc_confirm_battle_00	omuk		Samurai	rush of battle	confirms orders during battle	Đã rõ!	Understood!	1		0
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_battle_01	vo_gothic_gothic_samurai_00_talk_npc_confirm_battle_01	omuk		Samurai	rush of battle	confirms orders during battle	Tôi sẽ không thất bại!	I shall not fail!	4		0
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_battle_02	vo_gothic_gothic_samurai_00_talk_npc_confirm_battle_02	omuk		Samurai	rush of battle	confirms orders during battle	Vì danh dự!	For honor!	2		0
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_00	vo_gothic_gothic_samurai_00_talk_npc_orders_00	omuk		Samurai	focussed	gives orders to guardpost	Cảnh giác hơn.	Carry on.	2		0
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_01	vo_gothic_gothic_samurai_00_talk_npc_orders_01	omuk		Samurai	focussed	gives orders to guardpost	Tiếp tục đi.	Continue.	1		0
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_02	vo_gothic_gothic_samurai_00_talk_npc_orders_02	omuk		Samurai	focussed	gives orders to guardpost	Ah, Giữ cảnh giác.	Ah, stay vigilant.	3		0
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_03	vo_gothic_gothic_samurai_00_talk_npc_orders_03	omuk		Samurai	focussed	gives orders to guardpost	Uh-huh. Thông minh lên.	Uh-huh. Stay sharp.	3		0
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_04	vo_gothic_gothic_samurai_00_talk_npc_orders_04	omuk		Samurai	focussed	gives orders to guardpost during battle	Tốt lắm, Giữ vững!	Good, keep it up.	4		0
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_05	vo_gothic_gothic_samurai_00_talk_npc_orders_05	omuk		Samurai	focussed	gives orders to guardpost during battle	Không lười biếng!	Do not get lazy.	4		0
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_00	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_00	omuk		Samurai	rush of battle	asks guardpost for status during battle	Cảnh giác hơn!	Carry on!	2		0
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_01	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_01	omuk		Samurai	rush of battle	asks guardpost for status during battle	Ta có lệnh mới!	I have new orders!	4		0
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_02	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_02	omuk		Samurai	rush of battle	gives orders to guardpost during battle	Mạnh mẽ lên!	Stay strong!	2		0
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_03	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_03	omuk		Samurai	rush of battle	gives orders to guardpost during battle	Giữ vị trí của mày!	Hold your position!	3		0
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_04	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_04	omuk		Samurai	rush of battle	gives orders to guardpost during battle	Lệnh mới!	New orders!	2		0
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_05	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_05	omuk		Samurai	rush of battle	gives orders to guardpost during battle	Tiếp tục!	Continue!	1		0
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_06	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_06	omuk		Samurai	rush of battle	gives orders to guardpost during battle	Thay đạn!	Reload!	1		0
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_07	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_07	omuk		Samurai	rush of battle	gives orders to guardpost during battle	Bắn!	Fire!	1		0
+vo_gothic_gothic_	samurai_00_	talk_npc_report_00	vo_gothic_gothic_samurai_00_talk_npc_report_00	omuk		Samurai	focussed	asks guardpost for status	Báo cáo đi.	Report.	1		0
+vo_gothic_gothic_	samurai_00_	talk_npc_report_01	vo_gothic_gothic_samurai_00_talk_npc_report_01	omuk		Samurai	focussed	asks guardpost for status	Mày báo cáo hả?	Your report?	2		0
+vo_gothic_gothic_	samurai_00_	talk_npc_report_02	vo_gothic_gothic_samurai_00_talk_npc_report_02	omuk		Samurai	focussed	asks guardpost for status	Có gì mới?	What news?	2		0
+vo_gothic_gothic_	samurai_00_	talk_npc_report_03	vo_gothic_gothic_samurai_00_talk_npc_report_03	omuk		Samurai	focussed	asks guardpost for status	Có gì mới?	Is there anything new?	4		0
+vo_gothic_gothic_	samurai_00_	talk_npc_report_04	vo_gothic_gothic_samurai_00_talk_npc_report_04	omuk		Samurai	focussed	asks guardpost for status	Mọi thứ vẫn yên lặng hả?	Is everything quiet?	3		0
+vo_gothic_gothic_	samurai_00_	talk_npc_report_battle_00	vo_gothic_gothic_samurai_00_talk_npc_report_battle_00	omuk		Samurai	rush of battle	asks guardpost for status during battle	Báo cáo đi!	Report!	1		0
+vo_gothic_gothic_	samurai_00_	talk_npc_report_battle_01	vo_gothic_gothic_samurai_00_talk_npc_report_battle_01	omuk		Samurai	rush of battle	asks guardpost for status during battle	Nói cho ta!	Tell me!	2		0
+vo_gothic_gothic_	samurai_00_	talk_npc_report_battle_02	vo_gothic_gothic_samurai_00_talk_npc_report_battle_02	omuk		Samurai	rush of battle	asks guardpost for status during battle	Cho ta biết báo cáo của mày!	Give your report!	3		0
+vo_gothic_gothic_	samurai_00_	talk_npc_tense_00	vo_gothic_gothic_samurai_00_talk_npc_tense_00	omuk		Samurai	dutiful	dialog without topic (during open battle)	Lệnh của chúng ta!	We have our orders!	4		0
+vo_gothic_gothic_	samurai_00_	talk_npc_tense_01	vo_gothic_gothic_samurai_00_talk_npc_tense_01	omuk		Samurai	confident	dialog without topic (during open battle)	Tiếp tục chiến đấu!	Keep fighting!	2		0
+vo_gothic_gothic_	samurai_00_	talk_npc_tense_02	vo_gothic_gothic_samurai_00_talk_npc_tense_02	omuk		Samurai	for honor!	dialog without topic (during open battle)	Hôm nay chúng ta sẽ dành được vinh quang.	We will gain honor today.	5		0
+vo_gothic_gothic_	samurai_00_	talk_npc_tense_03	vo_gothic_gothic_samurai_00_talk_npc_tense_03	omuk		Samurai	for honor!	dialog without topic (during open battle)	Chúng ta phải mạnh mẽ lên!	We must stay strong.	4		0
+vo_gothic_gothic_	samurai_00_	talk_npc_tense_04	vo_gothic_gothic_samurai_00_talk_npc_tense_04	omuk		Samurai	fierce	dialog without topic (during open battle)	Để địch tiến về phía chúng ta.	Let the enemy come to us.	6		0
+vo_eny_eny_	samurai_00_	urinate_00	vo_eny_eny_samurai_00_urinate_00	omuk		Samurai		(sound) relieves himself			0		0
+vo_eny_eny_	samurai_00_	whistle_00	vo_eny_eny_samurai_00_whistle_00	omuk		Samurai		(sound) whistles a tune			0		0
+vo_eny_eny_	samurai_00_	wounded_00	vo_eny_eny_samurai_00_wounded_00	omuk		Samurai		(sound) badly wounded, lying on stretcher, moaning			0		0
+vo_eny_eny_	samurai_00_	yawn_00	vo_eny_eny_samurai_00_yawn_00	omuk		Samurai		(sound) yawn			0		0
+													
+									WORDCOUNT EN:	WORDCOUNT EN:	1143	WORDCOUNT DE:	0

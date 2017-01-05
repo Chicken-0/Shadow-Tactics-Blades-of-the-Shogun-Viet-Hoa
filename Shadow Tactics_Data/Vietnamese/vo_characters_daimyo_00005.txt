@@ -1,0 +1,102 @@
+2,3,9													
+PREFIX	TYPE	SUFFIX	NAME	REC.	IMPL.	SPEAKER	MOOD	COMMENT	EN	EN	CEN	JP	CDE
+vo_eny_eny_	daimyo_	death_scream_00	vo_eny_eny_daimyo_death_scream_00	omuk	hambo	Daimyo	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	daimyo_	death_scream_01	vo_eny_eny_daimyo_death_scream_01	omuk	hambo	Daimyo	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	daimyo_	death_scream_02	vo_eny_eny_daimyo_death_scream_02	omuk	hambo	Daimyo	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	daimyo_	death_scream_muffled_00	vo_eny_eny_daimyo_death_scream_muffled_00	omuk	hambo	Daimyo	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	daimyo_	death_scream_muffled_01	vo_eny_eny_daimyo_death_scream_muffled_01	omuk	hambo	Daimyo	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	daimyo_	death_scream_muffled_02	vo_eny_eny_daimyo_death_scream_muffled_02	omuk	hambo	Daimyo	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	daimyo_	detect_corpse_female_00	vo_eny_eny_daimyo_detect_corpse_female_00	omuk		Daimyo	furious	sees a corpse	Ả ta đã chết!	She's dead!	2		0
+vo_eny_eny_	daimyo_	detect_corpse_female_01	vo_eny_eny_daimyo_detect_corpse_female_01	omuk		Daimyo	furious	sees a corpse	Chúng đã giết ả ta!	Someone killed her!	3		0
+vo_eny_eny_	daimyo_	detect_corpse_male_00	vo_eny_eny_daimyo_detect_corpse_male_00	omuk		Daimyo	furious	sees a corpse	Thằng này đã chết!	He's dead!	2		0
+vo_eny_eny_	daimyo_	detect_corpse_male_01	vo_eny_eny_daimyo_detect_corpse_male_01	omuk		Daimyo	furious	sees a corpse	Chúng đã giết thằng này!	Someone killed him!	3		0
+vo_eny_eny_	daimyo_	detect_corpse_neutral_00	vo_eny_eny_daimyo_detect_corpse_neutral_00	omuk	hambo	Daimyo	furious	sees a corpse	Có người chết!	Murder!	1		0
+vo_eny_eny_	daimyo_	detect_corpse_neutral_01	vo_eny_eny_daimyo_detect_corpse_neutral_01	omuk	hambo	Daimyo	furious	sees a corpse	Sát thủ!	Assassins!	1		0
+vo_eny_eny_	daimyo_	detect_player_00	vo_eny_eny_daimyo_detect_player_00	omuk	hambo	Daimyo	agressive	sees a player character	Tao thấy mày rồi!	I see you!	3		0
+vo_eny_eny_	daimyo_	detect_player_01	vo_eny_eny_daimyo_detect_player_01	omuk	hambo	Daimyo	agressive	sees a player character	Hắn ở đây!	You there!	2		0
+vo_eny_eny_	daimyo_	detect_player_02	vo_eny_eny_daimyo_detect_player_02	omuk	hambo	Daimyo	agressive	sees a player character	Người Mạc Phủ!	Shogunate men!	2		0
+vo_eny_eny_	daimyo_	detect_player_03	vo_eny_eny_daimyo_detect_player_03	omuk	hambo	Daimyo	agressive	sees a player character	Là chúng!	It's them!	2		0
+vo_eny_eny_	daimyo_	detect_player_proximity_00	vo_eny_eny_daimyo_detect_player_proximity_00	omuk	hambo	Daimyo	suspicious	senses a nearby player character	Có gì đó sai sai…	Something's wrong…	2		0
+vo_eny_eny_	daimyo_	detect_player_proximity_01	vo_eny_eny_daimyo_detect_player_proximity_01	omuk	hambo	Daimyo	suspicious	senses a nearby player character	Kỳ lạ thật…nó cảm giác như…	Strange… It feels like…	4		0
+vo_eny_eny_	daimyo_	detect_player_proximity_02	vo_eny_eny_daimyo_detect_player_proximity_02	omuk	hambo	Daimyo	suspicious	senses a nearby player character	Chờ đã…có ai đó…	Wait…is someone…	2		0
+vo_eny_eny_	daimyo_	detect_player_proximity_03	vo_eny_eny_daimyo_detect_player_proximity_03	omuk	hambo	Daimyo	suspicious	senses a nearby player character	Tao chắc chắn có ai đó ở đây…	There's…something there…	2		0
+vo_eny_eny_	daimyo_	detect_tanuki_00	vo_eny_eny_daimyo_detect_tanuki_00	omuk	hambo	Daimyo	dismissive	sees the tanuki	Ugh. Con vật thối.	Ugh. Filthy creature.	3		0
+vo_eny_eny_	daimyo_	detect_tanuki_01	vo_eny_eny_daimyo_detect_tanuki_01	omuk	hambo	Daimyo	dismissive	sees the tanuki	Phiền vđ.	Annoying critter.	2		0
+vo_eny_eny_	daimyo_	detect_tanuki_02	vo_eny_eny_daimyo_detect_tanuki_02	omuk	hambo	Daimyo	dismissive	sees the tanuki	Đi đi, trước khi tao…làm thịt mày.	Leave, before I crush you.	5		0
+vo_eny_eny_	daimyo_	detect_tanuki_03	vo_eny_eny_daimyo_detect_tanuki_03	omuk	hambo	Daimyo	dismissive	sees the tanuki	Chỉ là một con vật.	Just an animal.	3		0
+vo_eny_eny_	daimyo_	detect_trap_00	vo_eny_eny_daimyo_detect_trap_00	omuk	hambo	Daimyo	with contempt	spots the trap on the floor and breaks it	Eh? Thứ rác rưởi gì đây?	Eh? What's this rubbish…	4		0
+vo_eny_eny_	daimyo_	detect_trap_01	vo_eny_eny_daimyo_detect_trap_01	omuk	hambo	Daimyo	with contempt	spots the trap on the floor and breaks it	Tch…Đồ chơi con nít.	Tch…a child's toy.	3		0
+vo_eny_eny_	daimyo_	detect_trap_02	vo_eny_eny_daimyo_detect_trap_02	omuk	hambo	Daimyo	with contempt	spots the trap on the floor and breaks it	Ai để nó ở đây? …hrm, rác rưởi.	Who left that here? …hrm, trash.	6		0
+vo_eny_eny_	daimyo_	detect_unconscious_female_01	vo_eny_eny_daimyo_detect_unconscious_female_01	omuk		Daimyo	displeased	sees unconcious person	Cô ấy bất tỉnh.	She's unconscious.	2		0
+vo_eny_eny_	daimyo_	detect_unconscious_female_02	vo_eny_eny_daimyo_detect_unconscious_female_02	omuk		Daimyo	displeased	sees unconcious person	Cô ấy bị đánh…	She's been hit!	3		0
+vo_eny_eny_	daimyo_	detect_unconscious_female_03	vo_eny_eny_daimyo_detect_unconscious_female_03	omuk		Daimyo	displeased	sees unconcious person	Cô ấy bị tấn công.	She's been attacked.	3		0
+vo_eny_eny_	daimyo_	detect_unconscious_male_00	vo_eny_eny_daimyo_detect_unconscious_male_00	omuk		Daimyo	displeased	sees unconcious person	Anh ta bất tỉnh.	He's unconscious.	2		0
+vo_eny_eny_	daimyo_	detect_unconscious_male_01	vo_eny_eny_daimyo_detect_unconscious_male_01	omuk		Daimyo	displeased	sees unconcious person	Anh ta bị đánh!	He's been hit!	3		0
+vo_eny_eny_	daimyo_	detect_unconscious_male_02	vo_eny_eny_daimyo_detect_unconscious_male_02	omuk		Daimyo	displeased	sees unconcious person	Anh ta bị tấn công.	He's been attacked.	3		0
+vo_eny_eny_	daimyo_	detect_unconscious_neutral_01	vo_eny_eny_daimyo_detect_unconscious_neutral_01	omuk	hambo	Daimyo	displeased	sees unconcious person	Chuyện gì đã xảy ra?	What happened?	2		0
+vo_eny_eny_	daimyo_	detect_unconscious_neutral_02	vo_eny_eny_daimyo_detect_unconscious_neutral_02	omuk	hambo	Daimyo	displeased	sees unconcious person	Người! Ai đã đánh ngươi?	You! Who attacked you?	4		0
+vo_eny_eny_	daimyo_	detect_unconscious_neutral_03	vo_eny_eny_daimyo_detect_unconscious_neutral_03	omuk	hambo	Daimyo	displeased	sees unconcious person	Đang ngủ hả?	Are you asleep?	3		0
+vo_eny_eny_	daimyo_	flee_00	vo_eny_eny_daimyo_flee_00	omuk		Daimyo	angry panic	player character has been spotted nearby	Bảo vệ tạo! Thằng ngu!	Protect me, you fools!	4		0
+vo_eny_eny_	daimyo_	flee_01	vo_eny_eny_daimyo_flee_01	omuk		Daimyo	angry panic	player character has been spotted nearby	Chúng đến đây vì tao! Giết chúng!	They have come for me! Kill them!	7		0
+vo_eny_eny_	daimyo_	flee_02	vo_eny_eny_daimyo_flee_02	omuk		Daimyo	angry panic	player character has been spotted nearby	Sát thủ Mạc Chúa ở đây! Bảo vệ tao!	The Shogun's assassins are here! Protect me!	7		0
+vo_eny_eny_	daimyo_	friend_missing_female_00	vo_eny_eny_daimyo_friend_missing_female_00	omuk		Daimyo	displeased	his partner is missing	Cô ấy rời vị trí.	She left her post.	4		0
+vo_eny_eny_	daimyo_	friend_missing_female_01	vo_eny_eny_daimyo_friend_missing_female_01	omuk		Daimyo	displeased	his partner is missing	Cô ấy đâu rồi?	Where is she?	3		0
+vo_eny_eny_	daimyo_	friend_missing_female_02	vo_eny_eny_daimyo_friend_missing_female_02	omuk		Daimyo	displeased	his partner is missing	Cái gì cầm chân cô ấy lại?	What is keeping her?	4		0
+vo_eny_eny_	daimyo_	friend_missing_female_03	vo_eny_eny_daimyo_friend_missing_female_03	omuk		Daimyo	displeased	his partner is missing	Cô ấy đi cũng khá lâu rồi.	She's gone too long.	4		0
+vo_eny_eny_	daimyo_	friend_missing_female_04	vo_eny_eny_daimyo_friend_missing_female_04	omuk		Daimyo	displeased	his partner is missing	Cố ấy bị mất tích!	She's missing!	2		0
+vo_eny_eny_	daimyo_	friend_missing_female_05	vo_eny_eny_daimyo_friend_missing_female_05	omuk		Daimyo	displeased	his partner is missing	Sao cô ấy bắt mình phải chờ nhỉ!	How dare she keep me waiting!	6		0
+vo_eny_eny_	daimyo_	friend_missing_male_00	vo_eny_eny_daimyo_friend_missing_male_00	omuk	placeholder	Daimyo	displeased	his partner is missing	Anh ta rời vị trí.	He left his post.	4		0
+vo_eny_eny_	daimyo_	friend_missing_male_01	vo_eny_eny_daimyo_friend_missing_male_01	omuk	placeholder	Daimyo	displeased	his partner is missing	Anh ta đâu rồi?	Where is he?	3		0
+vo_eny_eny_	daimyo_	friend_missing_male_02	vo_eny_eny_daimyo_friend_missing_male_02	omuk	placeholder	Daimyo	displeased	his partner is missing	Cái gì cầm chân anh ta lại?	What's keeping him?	3		0
+vo_eny_eny_	daimyo_	friend_missing_male_03	vo_eny_eny_daimyo_friend_missing_male_03	omuk	placeholder	Daimyo	displeased	his partner is missing	Eh, Anh ta đi cũng khá lâu rồi.	He's gone too long.	4		0
+vo_eny_eny_	daimyo_	friend_missing_male_04	vo_eny_eny_daimyo_friend_missing_male_04	omuk	placeholder	Daimyo	displeased	his partner is missing	Anh ta bị mất tích!	He's missing!	2		0
+vo_eny_eny_	daimyo_	friend_missing_male_05	vo_eny_eny_daimyo_friend_missing_male_05	omuk	placeholder	Daimyo	displeased	his partner is missing	Sao anh ta bắt mình phải chờ nhỉ!	How dare he keep me waiting!	6		0
+vo_eny_eny_	daimyo_	friend_wakeup_00	vo_eny_eny_daimyo_friend_wakeup_00	omuk	hambo	Daimyo	urgent	wakes unconcious person	Hey! Dậy nào!	Hey! Wake up!	3		0
+vo_eny_eny_	daimyo_	friend_wakeup_01	vo_eny_eny_daimyo_friend_wakeup_01	omuk	hambo	Daimyo	urgent	wakes unconcious person	Dậy đi!	Get up!	2		0
+vo_eny_eny_	daimyo_	friend_wakeup_02	vo_eny_eny_daimyo_friend_wakeup_02	omuk	hambo	Daimyo	urgent	wakes unconcious person	Đứng lên!	Stand up!	2		0
+vo_eny_eny_	daimyo_	friend_wakeup_03	vo_eny_eny_daimyo_friend_wakeup_03	omuk	hambo	Daimyo	urgent	wakes unconcious person	Có chuyện khỉ gì vậy?	What happened to you?	4		0
+vo_eny_eny_	daimyo_	friend_wakeup_04	vo_eny_eny_daimyo_friend_wakeup_04	omuk	hambo	Daimyo	urgent	wakes unconcious person	Đứng dậy!	On your feet!	3		0
+vo_eny_eny_	daimyo_	hear_noise_00	vo_eny_eny_daimyo_hear_noise_00	omuk		Daimyo	suspicious	hears strange noise	Hả?!	What?!	1		0
+vo_eny_eny_	daimyo_	hear_noise_01	vo_eny_eny_daimyo_hear_noise_01	omuk		Daimyo	suspicious	hears strange noise	Cái gì thế?	What was that?	3		0
+vo_eny_eny_	daimyo_	hear_noise_02	vo_eny_eny_daimyo_hear_noise_02	omuk		Daimyo	suspicious	hears strange noise	Mình nghe thấy gì đó…	I heard something…	3		0
+vo_eny_eny_	daimyo_	hear_noise_03	vo_eny_eny_daimyo_hear_noise_03	omuk		Daimyo	suspicious	hears strange noise	Tiếng động lớn…	Strange sound…	2		0
+vo_eny_eny_	daimyo_	hear_noise_04	vo_eny_eny_daimyo_hear_noise_04	omuk		Daimyo	suspicious	hears strange noise	Đó là…tiếng ồn…	That noise…	2		0
+vo_eny_eny_	daimyo_	hear_noise_directhit_00	vo_eny_eny_daimyo_hear_noise_directhit_00	omuk		Daimyo	anger	is hit by stone	Hrm! Sao mày dám, đồ hèn!	Hrm! How dare you, coward?!	5		0
+vo_eny_eny_	daimyo_	hear_noise_directhit_01	vo_eny_eny_daimyo_hear_noise_directhit_01	omuk		Daimyo	contempt	is hit by stone	Mày phải trả giá cho những gì mày đang làm!	You will suffer for this!	5		0
+vo_eny_eny_	daimyo_	hear_noise_directhit_02	vo_eny_eny_daimyo_hear_noise_directhit_02	omuk		Daimyo	anger	is hit by stone	Hrm! Lộ diện ngay coi nào!	Agh! Show yourself, coward!	4		0
+vo_eny_eny_	daimyo_	hear_noise_directhit_03	vo_eny_eny_daimyo_hear_noise_directhit_03	omuk		Daimyo	contempt	is hit by stone	Ow! Mày không làm được gì cả! …Đồ ngu!	Ow! You have achieved nothing, fool.	6		0
+vo_eny_eny_	daimyo_	hear_noise_gunshot_00	vo_eny_eny_daimyo_hear_noise_gunshot_00	omuk		Daimyo	alarmed	hears player gunshot	Sao có tiếng súng?	Why is there shooting?	4		0
+vo_eny_eny_	daimyo_	hear_noise_gunshot_01	vo_eny_eny_daimyo_hear_noise_gunshot_01	omuk		Daimyo	alarmed	hears player gunshot	Tiếng súng! Báo động!	Shots fired! Alarm!	3		0
+vo_eny_eny_	daimyo_	hear_noise_gunshot_02	vo_eny_eny_daimyo_hear_noise_gunshot_02	omuk		Daimyo	alarmed	hears player gunshot	Địch có hỏa lực!	The enemy's got firearms!	4		0
+vo_eny_eny_	daimyo_	hear_noise_human_00	vo_eny_eny_daimyo_hear_noise_human_00	omuk		Daimyo	tense	hears human noise	Có ai đó ở đây?	Someone there?	2		0
+vo_eny_eny_	daimyo_	hear_noise_human_01	vo_eny_eny_daimyo_hear_noise_human_01	omuk		Daimyo	tense	hears human noise	Có ai đó đến đây?	Who goes there?	3		0
+vo_eny_eny_	daimyo_	hear_noise_human_02	vo_eny_eny_daimyo_hear_noise_human_02	omuk		Daimyo	tense	hears human noise	Tao nghe thấy rồi!	I heard that!	3		0
+vo_eny_eny_	daimyo_	hear_noise_human_03	vo_eny_eny_daimyo_hear_noise_human_03	omuk		Daimyo	tense	hears human noise	Đứa nào làm ồn?	Who…who's making noise?	3		0
+vo_eny_eny_	daimyo_	hear_noise_human_04	vo_eny_eny_daimyo_hear_noise_human_04	omuk		Daimyo	tense	hears human noise	Đứa nào đang nấp trong bụi hả?	Who's hiding in the bushes?	5		0
+vo_eny_eny_	daimyo_	hear_noise_human_05	vo_eny_eny_daimyo_hear_noise_human_05	omuk		Daimyo	tense	hears human noise	Ra mặt đi!	Show yourself!	2		0
+vo_eny_eny_	daimyo_	hear_noise_too_much_00	vo_eny_eny_daimyo_hear_noise_too_much_00	omuk	hambo	Daimyo	irritated	irritated by a continuous string of strange noises	Mày đang kiểm tra sự kiên nhẫn của tao hả.	You are testing my patience.	5		0
+vo_eny_eny_	daimyo_	hear_noise_too_much_01	vo_eny_eny_daimyo_hear_noise_too_much_01	omuk	hambo	Daimyo	irritated	irritated by a continuous string of strange noises	Mày sẽ phải trả giá!	You will pay for this.	5		0
+vo_eny_eny_	daimyo_	hear_noise_too_much_02	vo_eny_eny_daimyo_hear_noise_too_much_02	omuk	hambo	Daimyo	irritated	irritated by a continuous string of strange noises	Tiến ra phía trước đi, đồ hèn!	Step forward, coward!	3		0
+vo_eny_eny_	daimyo_	hear_noise_too_much_03	vo_eny_eny_daimyo_hear_noise_too_much_03	omuk	hambo	Daimyo	irritated	irritated by a continuous string of strange noises	T-Tao chịu đựng đủ lắm rồi nhé.	I-I've had enough of this.	5		0
+vo_eny_eny_	daimyo_	ignore_distraction_00	vo_eny_eny_daimyo_ignore_distraction_00	omuk	hambo	Daimyo	dismissive	ignores player distraction	Không đáng quan tâm.	Not worth my attention.	4	JAPANESE	1
+vo_eny_eny_	daimyo_	ignore_distraction_01	vo_eny_eny_daimyo_ignore_distraction_01	omuk	hambo	Daimyo	dismissive	ignores player distraction	Tao sẽ không bị phân tâm.	I will not be distracted.	5		0
+vo_eny_eny_	daimyo_	ignore_distraction_02	vo_eny_eny_daimyo_ignore_distraction_02	omuk	hambo	Daimyo	dismissive	ignores player distraction	Không đáng quan tâm.	This is beneath me.	4		0
+vo_eny_eny_	daimyo_	ignore_distraction_03	vo_eny_eny_daimyo_ignore_distraction_03	omuk	hambo	Daimyo	dismissive	ignores player distraction	Không lừa được tao đâu.	I will not be fooled.	5		0
+vo_eny_eny_	daimyo_	investigate_missing_00	vo_eny_eny_daimyo_investigate_missing_00	omuk		Daimyo	displeased	searches for partner	Hello?	Hello?	1		0
+vo_eny_eny_	daimyo_	investigate_missing_01	vo_eny_eny_daimyo_investigate_missing_01	omuk		Daimyo	displeased	searches for partner	Mày không nấp ở đó đúng không?	You're not hiding, are you?	5		0
+vo_eny_eny_	daimyo_	investigate_missing_02	vo_eny_eny_daimyo_investigate_missing_02	omuk		Daimyo	displeased	searches for partner	Ra đây!	Come out!	2		0
+vo_eny_eny_	daimyo_	investigate_missing_03	vo_eny_eny_daimyo_investigate_missing_03	omuk		Daimyo	displeased	searches for partner	Không vui đấu nhé!	This is not funny!	4		0
+vo_eny_eny_	daimyo_	investigate_missing_04	vo_eny_eny_daimyo_investigate_missing_04	omuk		Daimyo	displeased	searches for partner	Ra mặt đi!	Show yourself!	2		0
+vo_eny_eny_	daimyo_	knockout_scream_00	vo_eny_eny_daimyo_knockout_scream_00	omuk	hambo	Daimyo	stunned	(sound) gets knocked out			0		0
+vo_eny_eny_	daimyo_	knockout_scream_01	vo_eny_eny_daimyo_knockout_scream_01	omuk	hambo	Daimyo	stunned	(sound) gets knocked out			0		0
+vo_eny_eny_	daimyo_	knockout_scream_02	vo_eny_eny_daimyo_knockout_scream_02	omuk	hambo	Daimyo	stunned	(sound) gets knocked out			0		0
+vo_eny_eny_	daimyo_	regain_consciousness_00	vo_eny_eny_daimyo_regain_consciousness_00	omuk	hambo	Daimyo	very angry	knocked out, wakes up	Gah! …chúng sẽ phải trả giá…	Gah! …they will pay…	4		0
+vo_eny_eny_	daimyo_	regain_consciousness_01	vo_eny_eny_daimyo_regain_consciousness_01	omuk	hambo	Daimyo	very angry	knocked out, wakes up	…Tao bị tấn công!	…I was attacked!	3		0
+vo_eny_eny_	daimyo_	regain_consciousness_02	vo_eny_eny_daimyo_regain_consciousness_02	omuk	hambo	Daimyo	very angry	knocked out, wakes up	Lính canh của tao đâu…?	Where are my guards…?	4		0
+vo_eny_eny_	daimyo_	see_something_00	vo_eny_eny_daimyo_see_something_00	omuk	hambo	Daimyo	suspicious	sees something strange	Cái gì?!	What?!	1		0
+vo_eny_eny_	daimyo_	see_something_01	vo_eny_eny_daimyo_see_something_01	omuk	hambo	Daimyo	suspicious	sees something strange	Hm?	Hm?	1		0
+vo_eny_eny_	daimyo_	see_something_02	vo_eny_eny_daimyo_see_something_02	omuk	hambo	Daimyo	suspicious	sees something strange	Cái gì thế?	What is that?	3		0
+vo_eny_eny_	daimyo_	see_something_03	vo_eny_eny_daimyo_see_something_03	omuk	hambo	Daimyo	suspicious	sees something strange	Có gì đó…	Something…	1		0
+vo_eny_eny_	daimyo_	see_something_04	vo_eny_eny_daimyo_see_something_04	omuk	hambo	Daimyo	suspicious	sees something strange	Hmm…	Hmm…	1		0
+													
+									WORDCOUNT EN:	WORDCOUNT EN:	287	WORDCOUNT DE:	1
