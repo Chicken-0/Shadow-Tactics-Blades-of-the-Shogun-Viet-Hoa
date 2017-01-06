@@ -2,7 +2,7 @@
 
 
 ## Việt hóa cho phiên bản Game: 1.2.1.f
-Các phiên bản cũ xem tại đây [đây](https://github.com/xkvnn/Shadow-Tactics-Blades-of-the-Shogun-Viet-Hoa/branches/all)
+Các phiên bản cũ xem tại [đây](https://github.com/xkvnn/Shadow-Tactics-Blades-of-the-Shogun-Viet-Hoa/branches/all)
 
 
 ## Hướng dẫn cài đặt:
