@@ -28,16 +28,16 @@ vo_eny_eny_	daimyo_	detect_trap_00	vo_eny_eny_daimyo_detect_trap_00	omuk	hambo	D
 vo_eny_eny_	daimyo_	detect_trap_01	vo_eny_eny_daimyo_detect_trap_01	omuk	hambo	Daimyo	with contempt	spots the trap on the floor and breaks it	Tch…Đồ chơi con nít.	Tch…a child's toy.	3		0
 vo_eny_eny_	daimyo_	detect_trap_02	vo_eny_eny_daimyo_detect_trap_02	omuk	hambo	Daimyo	with contempt	spots the trap on the floor and breaks it	Ai để nó ở đây? …hrm, rác rưởi.	Who left that here? …hrm, trash.	6		0
 vo_eny_eny_	daimyo_	detect_unconscious_female_01	vo_eny_eny_daimyo_detect_unconscious_female_01	omuk		Daimyo	displeased	sees unconcious person	Cô ấy bất tỉnh.	She's unconscious.	2		0
-vo_eny_eny_	daimyo_	detect_unconscious_female_02	vo_eny_eny_daimyo_detect_unconscious_female_02	omuk		Daimyo	displeased	sees unconcious person	Cô ấy bị đánh…	She's been hit!	3		0
+vo_eny_eny_	daimyo_	detect_unconscious_female_02	vo_eny_eny_daimyo_detect_unconscious_female_02	omuk		Daimyo	displeased	sees unconcious person	Cô ấy bị đánh.	She's been hit!	3		0
 vo_eny_eny_	daimyo_	detect_unconscious_female_03	vo_eny_eny_daimyo_detect_unconscious_female_03	omuk		Daimyo	displeased	sees unconcious person	Cô ấy bị tấn công.	She's been attacked.	3		0
 vo_eny_eny_	daimyo_	detect_unconscious_male_00	vo_eny_eny_daimyo_detect_unconscious_male_00	omuk		Daimyo	displeased	sees unconcious person	Anh ta bất tỉnh.	He's unconscious.	2		0
 vo_eny_eny_	daimyo_	detect_unconscious_male_01	vo_eny_eny_daimyo_detect_unconscious_male_01	omuk		Daimyo	displeased	sees unconcious person	Anh ta bị đánh!	He's been hit!	3		0
 vo_eny_eny_	daimyo_	detect_unconscious_male_02	vo_eny_eny_daimyo_detect_unconscious_male_02	omuk		Daimyo	displeased	sees unconcious person	Anh ta bị tấn công.	He's been attacked.	3		0
 vo_eny_eny_	daimyo_	detect_unconscious_neutral_01	vo_eny_eny_daimyo_detect_unconscious_neutral_01	omuk	hambo	Daimyo	displeased	sees unconcious person	Chuyện gì đã xảy ra?	What happened?	2		0
-vo_eny_eny_	daimyo_	detect_unconscious_neutral_02	vo_eny_eny_daimyo_detect_unconscious_neutral_02	omuk	hambo	Daimyo	displeased	sees unconcious person	Người! Ai đã đánh ngươi?	You! Who attacked you?	4		0
+vo_eny_eny_	daimyo_	detect_unconscious_neutral_02	vo_eny_eny_daimyo_detect_unconscious_neutral_02	omuk	hambo	Daimyo	displeased	sees unconcious person	Ngươi! Ai đã đánh ngươi?	You! Who attacked you?	4		0
 vo_eny_eny_	daimyo_	detect_unconscious_neutral_03	vo_eny_eny_daimyo_detect_unconscious_neutral_03	omuk	hambo	Daimyo	displeased	sees unconcious person	Đang ngủ hả?	Are you asleep?	3		0
-vo_eny_eny_	daimyo_	flee_00	vo_eny_eny_daimyo_flee_00	omuk		Daimyo	angry panic	player character has been spotted nearby	Bảo vệ tạo! Thằng ngu!	Protect me, you fools!	4		0
-vo_eny_eny_	daimyo_	flee_01	vo_eny_eny_daimyo_flee_01	omuk		Daimyo	angry panic	player character has been spotted nearby	Chúng đến đây vì tao! Giết chúng!	They have come for me! Kill them!	7		0
+vo_eny_eny_	daimyo_	flee_00	vo_eny_eny_daimyo_flee_00	omuk		Daimyo	angry panic	player character has been spotted nearby	Bảo vệ tao! Thằng ngu!	Protect me, you fools!	4		0
+vo_eny_eny_	daimyo_	flee_01	vo_eny_eny_daimyo_flee_01	omuk		Daimyo	angry panic	player character has been spotted nearby	Chúng đến đây vì tao! Giết chúng đi!	They have come for me! Kill them!	7		0
 vo_eny_eny_	daimyo_	flee_02	vo_eny_eny_daimyo_flee_02	omuk		Daimyo	angry panic	player character has been spotted nearby	Sát thủ Mạc Chúa ở đây! Bảo vệ tao!	The Shogun's assassins are here! Protect me!	7		0
 vo_eny_eny_	daimyo_	friend_missing_female_00	vo_eny_eny_daimyo_friend_missing_female_00	omuk		Daimyo	displeased	his partner is missing	Cô ấy rời vị trí.	She left her post.	4		0
 vo_eny_eny_	daimyo_	friend_missing_female_01	vo_eny_eny_daimyo_friend_missing_female_01	omuk		Daimyo	displeased	his partner is missing	Cô ấy đâu rồi?	Where is she?	3		0
@@ -79,13 +79,13 @@ vo_eny_eny_	daimyo_	hear_noise_too_much_01	vo_eny_eny_daimyo_hear_noise_too_much
 vo_eny_eny_	daimyo_	hear_noise_too_much_02	vo_eny_eny_daimyo_hear_noise_too_much_02	omuk	hambo	Daimyo	irritated	irritated by a continuous string of strange noises	Tiến ra phía trước đi, đồ hèn!	Step forward, coward!	3		0
 vo_eny_eny_	daimyo_	hear_noise_too_much_03	vo_eny_eny_daimyo_hear_noise_too_much_03	omuk	hambo	Daimyo	irritated	irritated by a continuous string of strange noises	T-Tao chịu đựng đủ lắm rồi nhé.	I-I've had enough of this.	5		0
 vo_eny_eny_	daimyo_	ignore_distraction_00	vo_eny_eny_daimyo_ignore_distraction_00	omuk	hambo	Daimyo	dismissive	ignores player distraction	Không đáng quan tâm.	Not worth my attention.	4	JAPANESE	1
-vo_eny_eny_	daimyo_	ignore_distraction_01	vo_eny_eny_daimyo_ignore_distraction_01	omuk	hambo	Daimyo	dismissive	ignores player distraction	Tao sẽ không bị phân tâm.	I will not be distracted.	5		0
+vo_eny_eny_	daimyo_	ignore_distraction_01	vo_eny_eny_daimyo_ignore_distraction_01	omuk	hambo	Daimyo	dismissive	ignores player distraction	Tao sẽ không bị phân tâm đâu.	I will not be distracted.	5		0
 vo_eny_eny_	daimyo_	ignore_distraction_02	vo_eny_eny_daimyo_ignore_distraction_02	omuk	hambo	Daimyo	dismissive	ignores player distraction	Không đáng quan tâm.	This is beneath me.	4		0
 vo_eny_eny_	daimyo_	ignore_distraction_03	vo_eny_eny_daimyo_ignore_distraction_03	omuk	hambo	Daimyo	dismissive	ignores player distraction	Không lừa được tao đâu.	I will not be fooled.	5		0
 vo_eny_eny_	daimyo_	investigate_missing_00	vo_eny_eny_daimyo_investigate_missing_00	omuk		Daimyo	displeased	searches for partner	Hello?	Hello?	1		0
 vo_eny_eny_	daimyo_	investigate_missing_01	vo_eny_eny_daimyo_investigate_missing_01	omuk		Daimyo	displeased	searches for partner	Mày không nấp ở đó đúng không?	You're not hiding, are you?	5		0
 vo_eny_eny_	daimyo_	investigate_missing_02	vo_eny_eny_daimyo_investigate_missing_02	omuk		Daimyo	displeased	searches for partner	Ra đây!	Come out!	2		0
-vo_eny_eny_	daimyo_	investigate_missing_03	vo_eny_eny_daimyo_investigate_missing_03	omuk		Daimyo	displeased	searches for partner	Không vui đấu nhé!	This is not funny!	4		0
+vo_eny_eny_	daimyo_	investigate_missing_03	vo_eny_eny_daimyo_investigate_missing_03	omuk		Daimyo	displeased	searches for partner	Không vui đâu nhé!	This is not funny!	4		0
 vo_eny_eny_	daimyo_	investigate_missing_04	vo_eny_eny_daimyo_investigate_missing_04	omuk		Daimyo	displeased	searches for partner	Ra mặt đi!	Show yourself!	2		0
 vo_eny_eny_	daimyo_	knockout_scream_00	vo_eny_eny_daimyo_knockout_scream_00	omuk	hambo	Daimyo	stunned	(sound) gets knocked out			0		0
 vo_eny_eny_	daimyo_	knockout_scream_01	vo_eny_eny_daimyo_knockout_scream_01	omuk	hambo	Daimyo	stunned	(sound) gets knocked out			0		0

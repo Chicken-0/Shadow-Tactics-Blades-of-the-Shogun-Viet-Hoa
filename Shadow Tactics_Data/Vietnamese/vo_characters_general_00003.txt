@@ -37,9 +37,9 @@ vo_eny_eny_	general_	detect_player_proximity_02	vo_eny_eny_general_detect_player
 vo_eny_eny_	general_	detect_player_proximity_03	vo_eny_eny_general_detect_player_proximity_03	omuk	hambo	General	suspicious	senses a nearby player character	Tao chắc chắn có ai đó ở đây…	Someone is skulking about…	4		0
 vo_eny_eny_	general_	detect_sake_00	vo_eny_eny_general_detect_sake_00	omuk		General	dismissive	spots the sake bottle	Sa kê, hm? …Mình có rồi.	Sake, hm? …I have my own.	6		0
 vo_eny_eny_	general_	detect_sake_01	vo_eny_eny_general_detect_sake_01	omuk		General	dismissive	spots the sake bottle	Sa kê? …hrm, loại cùi bắp ấy mà.	Sake? Hrm…low quality swill.	4		0
-vo_eny_eny_	general_	detect_sake_02	vo_eny_eny_general_detect_sake_02	omuk		General	dismissive	spots the sake bottle	Heh, chủ xứng đáng với lũ bần nông.	Only a peasant would bow down for sake.	8		0
+vo_eny_eny_	general_	detect_sake_02	vo_eny_eny_general_detect_sake_02	omuk		General	dismissive	spots the sake bottle	Heh, chỉ xứng đáng với lũ bần nông.	Only a peasant would bow down for sake.	8		0
 vo_eny_eny_	general_	detect_tanuki_00	vo_eny_eny_general_detect_tanuki_00	omuk		General	dismissive	sees the tanuki	Con vật thối. Mày không thể lừa được tao.	Filthy creature. You can't fool me.	6		0
-vo_eny_eny_	general_	detect_tanuki_01	vo_eny_eny_general_detect_tanuki_01	omuk		General	dismissive	sees the tanuki	Hah! Mày đang dạo tao hả?	Hah! Is this supposed to scare me?	7		0
+vo_eny_eny_	general_	detect_tanuki_01	vo_eny_eny_general_detect_tanuki_01	omuk		General	dismissive	sees the tanuki	Hah! Mày đang dọa tao hả?	Hah! Is this supposed to scare me?	7		0
 vo_eny_eny_	general_	detect_trap_00	vo_eny_eny_general_detect_trap_00	omuk	hambo	General	with contempt	spots the trap on the floor and breaks it	Eh? Thứ này không hiệu quả với mình…	Eh? That will not work…	5		0
 vo_eny_eny_	general_	detect_trap_01	vo_eny_eny_general_detect_trap_01	omuk	hambo	General	with contempt	spots the trap on the floor and breaks it	Hah! Mày đang khiến tao trở thành thằng ngốc ư!	Hah! You must take me for a fool!	8		0
 vo_eny_eny_	general_	detect_trap_02	vo_eny_eny_general_detect_trap_02	omuk	hambo	General	with contempt	spots the trap on the floor and breaks it	Tao sẽ nghiền nát thứ này.	I will crush this little plaything.	6		0
@@ -47,7 +47,7 @@ vo_eny_eny_	general_	detect_unconscious_male_00	vo_eny_eny_general_detect_uncons
 vo_eny_eny_	general_	detect_unconscious_male_01	vo_eny_eny_general_detect_unconscious_male_01	omuk		General	displeased	sees unconcious person	Anh ta bị đánh!	He's been hit!	3		0
 vo_eny_eny_	general_	detect_unconscious_male_02	vo_eny_eny_general_detect_unconscious_male_02	omuk		General	displeased	sees unconcious person	Anh ta bị tấn công.	He's been attacked.	3		0
 vo_eny_eny_	general_	detect_unconscious_neutral_00	vo_eny_eny_general_detect_unconscious_neutral_00	omuk		General	displeased	sees unconcious person	Chuyện gì đã xảy ra?	What happened?	2		0
-vo_eny_eny_	general_	detect_unconscious_neutral_01	vo_eny_eny_general_detect_unconscious_neutral_01	omuk		General	displeased	sees unconcious person	Người! Ai đã đánh ngươi?	You! Who attacked you?	4		0
+vo_eny_eny_	general_	detect_unconscious_neutral_01	vo_eny_eny_general_detect_unconscious_neutral_01	omuk		General	displeased	sees unconcious person	Ngươi! Ai đã đánh ngươi?	You! Who attacked you?	4		0
 vo_eny_eny_	general_	detect_unconscious_neutral_02	vo_eny_eny_general_detect_unconscious_neutral_02	omuk		General	displeased	sees unconcious person	Đứng lên!	Stand up!	2		0
 vo_eny_eny_	general_	friend_missing_male_00	vo_eny_eny_general_friend_missing_male_00	omuk	hambo	General	displeased	his partner is missing	Sao cô ấy bắt mình phải chờ nhỉ!	How dare he leave his post!	6		0
 vo_eny_eny_	general_	friend_missing_male_01	vo_eny_eny_general_friend_missing_male_01	omuk	hambo	General	displeased	his partner is missing	Anh ta đâu rồi?	Where is he?!	3		0

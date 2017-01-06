@@ -69,7 +69,7 @@ vo_eny_eny_	enemy_00_	detect_player_12	vo_eny_eny_enemy_00_detect_player_12	omuk
 vo_eny_eny_	enemy_00_	detect_player_13	vo_eny_eny_enemy_00_detect_player_13	omuk	hambo	Enemy	agressive	sees a player character	Là chúng!	It's them!	2		0		
 vo_eny_eny_	enemy_00_	detect_player_14	vo_eny_eny_enemy_00_detect_player_14	omuk	hambo	Enemy	agressive	sees a player character	Mày không nên ở đây!	You shouldn't be here!	4		0		
 vo_eny_eny_	enemy_00_	detect_player_15	vo_eny_eny_enemy_00_detect_player_15	omuk	hambo	Enemy	agressive	sees a player character	Tao sẽ chăm sóc mày!	I will take care of you!	6		0		
-vo_eny_eny_	enemy_00_	detect_player_16	vo_eny_eny_enemy_00_detect_player_16	omuk	hambo	Enemy	agressive	sees a player character	Đừng cố mà chạy!	Don't try to run!	4		0		
+vo_eny_eny_	enemy_00_	detect_player_16	vo_eny_eny_enemy_00_detect_player_16	omuk	hambo	Enemy	agressive	sees a player character	Đừng cố chạy!	Don't try to run!	4		0		
 vo_eny_eny_	enemy_00_	detect_player_17	vo_eny_eny_enemy_00_detect_player_17	omuk	hambo	Enemy	agressive	sees a player character	Mày không thể thoát!	You won't escape!	3		0		
 vo_eny_eny_	enemy_00_	detect_player_proximity_00	vo_eny_eny_enemy_00_detect_player_proximity_00	omuk	hambo	Enemy	suspicious	senses a nearby player character	Có gì đó sai sai…	Something's wrong…	2	JAPANESE	1		
 vo_eny_eny_	enemy_00_	detect_player_proximity_01	vo_eny_eny_enemy_00_detect_player_proximity_01	omuk	hambo	Enemy	suspicious	senses a nearby player character	Kỳ lạ thật…nó cảm giác như…	Strange…it feels like…	3		0		
@@ -276,7 +276,7 @@ vo_gothic_gothic_	enemy_00_	talk_idle_battle_11	vo_gothic_gothic_enemy_00_talk_i
 vo_gothic_gothic_	enemy_00_	talk_idle_battle_12	vo_gothic_gothic_enemy_00_talk_idle_battle_12	omuk		Enemy	rush of battle	makes noise in battle	Lui quân!	Fall back!	2		0		
 vo_gothic_gothic_	enemy_00_	talk_idle_battle_13	vo_gothic_gothic_enemy_00_talk_idle_battle_13	omuk		Enemy	rush of battle	makes noise in battle	Chỉ huy đã chết!	Officer dead!	2		0		
 vo_gothic_gothic_	enemy_00_	talk_idle_daimyo_00	vo_gothic_gothic_enemy_00_talk_idle_daimyo_00	omuk		Enemy	dutiful	makes noise on duty (mumbling)	Vì lãnh chúa Yabu.	For Lord Yabu.	3		0		
-vo_gothic_gothic_	enemy_00_	talk_idle_general_00	vo_gothic_gothic_enemy_00_talk_idle_general_00	omuk		Enemy	dutiful	makes noise on duty (mumbling)	Vì lãnh cháu Okkoto.	For Lord Okkoto.	3		0		
+vo_gothic_gothic_	enemy_00_	talk_idle_general_00	vo_gothic_gothic_enemy_00_talk_idle_general_00	omuk		Enemy	dutiful	makes noise on duty (mumbling)	Vì lãnh chúa Okkoto.	For Lord Okkoto.	3		0		
 vo_gothic_gothic_	enemy_00_	talk_idle_kagesama_00	vo_gothic_gothic_enemy_00_talk_idle_kagesama_00	omuk		Enemy	dutiful	makes noise on duty (mumbling)	Vì Kage-sama.	For Kage-sama.	2		0		
 vo_gothic_gothic_	enemy_00_	talk_idle_kagesama_01	vo_gothic_gothic_enemy_00_talk_idle_kagesama_01	omuk		Enemy	dutiful	makes noise on duty (mumbling)	Vì lãnh chúa Noboru.	For Lord Noboru.	3		0		
 vo_gothic_gothic_	enemy_00_	talk_idle_night_00	vo_gothic_gothic_enemy_00_talk_idle_night_00	omuk		Enemy	tired	makes noise on duty (mumbling)	Mmm…sa kê.	Mmm…sake.	1		0		
@@ -284,7 +284,7 @@ vo_gothic_gothic_	enemy_00_	talk_idle_night_01	vo_gothic_gothic_enemy_00_talk_id
 vo_gothic_gothic_	enemy_00_	talk_idle_night_02	vo_gothic_gothic_enemy_00_talk_idle_night_02	omuk		Enemy	tired	makes noise on duty (mumbling)	Đêm ảm đạm.	Night's dark.	2		0		
 vo_gothic_gothic_	enemy_00_	talk_idle_night_03	vo_gothic_gothic_enemy_00_talk_idle_night_03	omuk		Enemy	tired	(sound) short yawn			0		0		
 vo_gothic_gothic_	enemy_00_	talk_idle_night_04	vo_gothic_gothic_enemy_00_talk_idle_night_04	omuk		Enemy	tired	(sound) longer yawn			0		0		
-vo_gothic_gothic_	enemy_00_	talk_idle_snow_00	vo_gothic_gothic_enemy_00_talk_idle_snow_00	omuk		Enemy	cold	makes noise on duty (mumbling)	Mẹ kiếp tuyết.	Damn snow.	2		0		
+vo_gothic_gothic_	enemy_00_	talk_idle_snow_00	vo_gothic_gothic_enemy_00_talk_idle_snow_00	omuk		Enemy	cold	makes noise on duty (mumbling)	Mẹ kiếp, tuyết!	Damn snow.	2		0		
 vo_gothic_gothic_	enemy_00_	talk_idle_snow_01	vo_gothic_gothic_enemy_00_talk_idle_snow_01	omuk		Enemy	cold	makes noise on duty (mumbling)	Ah, đóng băng cmr!	Ah, it's freezing!	3		0		
 vo_gothic_gothic_	enemy_00_	talk_idle_snow_02	vo_gothic_gothic_enemy_00_talk_idle_snow_02	omuk		Enemy	cold	makes noise on duty (mumbling)	Lạnh quá.	So cold.	2		0		
 vo_gothic_gothic_	enemy_00_	talk_idle_snow_03	vo_gothic_gothic_enemy_00_talk_idle_snow_03	omuk		Enemy	cold	(sound) slight shiver			0		0		
@@ -325,8 +325,8 @@ vo_gothic_gothic_	enemy_00_	talk_npc_report_02	vo_gothic_gothic_enemy_00_talk_np
 vo_gothic_gothic_	enemy_00_	talk_npc_report_03	vo_gothic_gothic_enemy_00_talk_npc_report_03	omuk		Enemy	focussed	asks guardpost for status	Có gì mới?	Anything new?	2		0		
 vo_gothic_gothic_	enemy_00_	talk_npc_report_04	vo_gothic_gothic_enemy_00_talk_npc_report_04	omuk		Enemy	focussed	asks guardpost for status	Mọi thứ vẫn yên lặng hả?	Everything quiet?	2		0		
 vo_gothic_gothic_	enemy_00_	talk_npc_report_battle_00	vo_gothic_gothic_enemy_00_talk_npc_report_battle_00	omuk		Enemy	rush of battle	asks guardpost for status during battle	Báo cáo đi!	Report!	1		0		
-vo_gothic_gothic_	enemy_00_	talk_npc_report_battle_01	vo_gothic_gothic_enemy_00_talk_npc_report_battle_01	omuk		Enemy	rush of battle	asks guardpost for status during battle	Nói cho ta!	Tell me!	2		0		
-vo_gothic_gothic_	enemy_00_	talk_npc_report_battle_02	vo_gothic_gothic_enemy_00_talk_npc_report_battle_02	omuk		Enemy	rush of battle	asks guardpost for status during battle	Cho ta biết báo cáo của mày!	Give me your report!	4		0		
+vo_gothic_gothic_	enemy_00_	talk_npc_report_battle_01	vo_gothic_gothic_enemy_00_talk_npc_report_battle_01	omuk		Enemy	rush of battle	asks guardpost for status during battle	Nói cho tao!	Tell me!	2		0		
+vo_gothic_gothic_	enemy_00_	talk_npc_report_battle_02	vo_gothic_gothic_enemy_00_talk_npc_report_battle_02	omuk		Enemy	rush of battle	asks guardpost for status during battle	Cho tao biết báo cáo của mày!	Give me your report!	4		0		
 vo_gothic_gothic_	enemy_00_	talk_npc_tense_00	vo_gothic_gothic_enemy_00_talk_npc_tense_00	omuk		Enemy	dutiful	dialog without topic (during open battle)	Lệnh của chúng ta!	We have our orders!	4		0		
 vo_gothic_gothic_	enemy_00_	talk_npc_tense_01	vo_gothic_gothic_enemy_00_talk_npc_tense_01	omuk		Enemy	anxious	dialog without topic (during open battle)	Hơi bất an.	The battle wages on.	4		0		
 vo_gothic_gothic_	enemy_00_	talk_npc_tense_02	vo_gothic_gothic_enemy_00_talk_npc_tense_02	omuk		Enemy	for honor!	dialog without topic (during open battle)	Hôm nay chúng ta sẽ dành được vinh quang.	We will gain honor today.	5		0		

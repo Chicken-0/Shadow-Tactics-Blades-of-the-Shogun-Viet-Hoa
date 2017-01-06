@@ -53,7 +53,7 @@ vo_eny_eny_	static_00_	detect_lightsource_01	vo_eny_eny_static_00_detect_lightso
 vo_eny_eny_	static_00_	detect_lightsource_02	vo_eny_eny_static_00_detect_lightsource_02	omuk		Static	dismissive	sees extiguished lamp, but doesn't leave his post	Lửa sẽ được thắp lại!	That light should be burning!	5		0
 vo_eny_eny_	static_00_	detect_lightsource_03	vo_eny_eny_static_00_detect_lightsource_03	omuk		Static	dismissive	sees extiguished lamp, but doesn't leave his post	Ugh… Cần có người để ý ngọn lửa này.	Ugh… Someone has been careless with the lamp.	8		0
 vo_eny_eny_	static_00_	detect_lightsource_04	vo_eny_eny_static_00_detect_lightsource_04	omuk		Static	dismissive	sees extiguished lamp, but doesn't leave his post	Lửa đã tàn…	The fire's died…	3		0
-vo_eny_eny_	static_00_	detect_player_00	vo_eny_eny_static_00_detect_player_00	omuk	hambo	Static	agressive	sees a player character	Cấm di chuyển!	Don't you move!	3		0
+vo_eny_eny_	static_00_	detect_player_00	vo_eny_eny_static_00_detect_player_00	omuk	hambo	Static	agressive	sees a player character	Đừng di chuyển!	Don't you move!	3		0
 vo_eny_eny_	static_00_	detect_player_01	vo_eny_eny_static_00_detect_player_01	omuk	hambo	Static	agressive	sees a player character	Đứng yên!	Stop right there!	3		0
 vo_eny_eny_	static_00_	detect_player_02	vo_eny_eny_static_00_detect_player_02	omuk	hambo	Static	agressive	sees a player character	Dừng lại!	Halt!	1		0
 vo_eny_eny_	static_00_	detect_player_03	vo_eny_eny_static_00_detect_player_03	omuk	hambo	Static	agressive	sees a player character	Tao thấy mày rồi!	I can see you!	4		0
@@ -278,7 +278,7 @@ vo_gothic_gothic_	static_00_	talk_idle_battle_11	vo_gothic_gothic_static_00_talk
 vo_gothic_gothic_	static_00_	talk_idle_battle_12	vo_gothic_gothic_static_00_talk_idle_battle_12	omuk		Static	rush of battle	makes noise in battle	Lui quân!	Fall back!	2		0
 vo_gothic_gothic_	static_00_	talk_idle_battle_13	vo_gothic_gothic_static_00_talk_idle_battle_13	omuk		Static	rush of battle	makes noise in battle	Chỉ huy đã chết!	Officer dead!	2		0
 vo_gothic_gothic_	static_00_	talk_idle_daimyo_00	vo_gothic_gothic_static_00_talk_idle_daimyo_00	omuk		Static	dutiful	makes noise on duty (mumbling)	Vì lãnh chúa Yabu.	For Lord Yabu.	3		0
-vo_gothic_gothic_	static_00_	talk_idle_general_00	vo_gothic_gothic_static_00_talk_idle_general_00	omuk		Static	dutiful	makes noise on duty (mumbling)	Vì lãnh cháu Okkoto.	For Lord Okkoto.	3		0
+vo_gothic_gothic_	static_00_	talk_idle_general_00	vo_gothic_gothic_static_00_talk_idle_general_00	omuk		Static	dutiful	makes noise on duty (mumbling)	Vì lãnh chúa Okkoto.	For Lord Okkoto.	3		0
 vo_gothic_gothic_	static_00_	talk_idle_kagesama_00	vo_gothic_gothic_static_00_talk_idle_kagesama_00	omuk		Static	dutiful	makes noise on duty (mumbling)	Vì Kage-sama.	For Kage-sama.	2		0
 vo_gothic_gothic_	static_00_	talk_idle_kagesama_01	vo_gothic_gothic_static_00_talk_idle_kagesama_01	omuk		Static	dutiful	makes noise on duty (mumbling)	Vì lãnh chúa Noboru.	For Lord Noboru.	3		0
 vo_gothic_gothic_	static_00_	talk_idle_night_00	vo_gothic_gothic_static_00_talk_idle_night_00	omuk		Static	tired	makes noise on duty (mumbling)	Mmm…sa kê.	Mmm…sake.	1		0
@@ -286,7 +286,7 @@ vo_gothic_gothic_	static_00_	talk_idle_night_01	vo_gothic_gothic_static_00_talk_
 vo_gothic_gothic_	static_00_	talk_idle_night_02	vo_gothic_gothic_static_00_talk_idle_night_02	omuk		Static	tired	makes noise on duty (mumbling)	Đêm ảm đạm.	Night is gloomy.	3		0
 vo_gothic_gothic_	static_00_	talk_idle_night_03	vo_gothic_gothic_static_00_talk_idle_night_03	omuk		Static	tired	(sound) short yawn			0		0
 vo_gothic_gothic_	static_00_	talk_idle_night_04	vo_gothic_gothic_static_00_talk_idle_night_04	omuk		Static	tired	(sound) longer yawn			0		0
-vo_gothic_gothic_	static_00_	talk_idle_snow_00	vo_gothic_gothic_static_00_talk_idle_snow_00	omuk		Static	cold	makes noise on duty (mumbling)	Mẹ kiếp tuyết.	Ugh, damn snow.	3		0
+vo_gothic_gothic_	static_00_	talk_idle_snow_00	vo_gothic_gothic_static_00_talk_idle_snow_00	omuk		Static	cold	makes noise on duty (mumbling)	Mẹ kiếp, tuyết.	Ugh, damn snow.	3		0
 vo_gothic_gothic_	static_00_	talk_idle_snow_01	vo_gothic_gothic_static_00_talk_idle_snow_01	omuk		Static	cold	makes noise on duty (mumbling)	Ah, đóng băng cmr!	Oh, it is freezing!	4		0
 vo_gothic_gothic_	static_00_	talk_idle_snow_02	vo_gothic_gothic_static_00_talk_idle_snow_02	omuk		Static	cold	makes noise on duty (mumbling)	Lạnh quá.	Ah! So cold!	3		0
 vo_gothic_gothic_	static_00_	talk_idle_snow_03	vo_gothic_gothic_static_00_talk_idle_snow_03	omuk		Static	cold	(sound) slight shiver			0		0
@@ -328,7 +328,7 @@ vo_gothic_gothic_	static_00_	talk_npc_report_03	vo_gothic_gothic_static_00_talk_
 vo_gothic_gothic_	static_00_	talk_npc_report_04	vo_gothic_gothic_static_00_talk_npc_report_04	omuk		Static	focussed	asks guardpost for status	Mọi thứ vẫn yên lặng hả?	Everything quiet?	2		0
 vo_gothic_gothic_	static_00_	talk_npc_report_battle_00	vo_gothic_gothic_static_00_talk_npc_report_battle_00	omuk		Static	rush of battle	asks guardpost for status during battle	Báo cáo đi!	Report!	1		0
 vo_gothic_gothic_	static_00_	talk_npc_report_battle_01	vo_gothic_gothic_static_00_talk_npc_report_battle_01	omuk		Static	rush of battle	asks guardpost for status during battle	Nói cho ta!	Tell me!	2		0
-vo_gothic_gothic_	static_00_	talk_npc_report_battle_02	vo_gothic_gothic_static_00_talk_npc_report_battle_02	omuk		Static	rush of battle	asks guardpost for status during battle	Cho ta biết báo cáo của mày!	Give your report!	3		0
+vo_gothic_gothic_	static_00_	talk_npc_report_battle_02	vo_gothic_gothic_static_00_talk_npc_report_battle_02	omuk		Static	rush of battle	asks guardpost for status during battle	Cho tao biết báo cáo của mày!	Give your report!	3		0
 vo_gothic_gothic_	static_00_	talk_npc_tense_00	vo_gothic_gothic_static_00_talk_npc_tense_00	omuk		Static	dutiful	dialog without topic (during open battle)	Lệnh của chúng ta!	We have our orders!	4		0
 vo_gothic_gothic_	static_00_	talk_npc_tense_01	vo_gothic_gothic_static_00_talk_npc_tense_01	omuk		Static	anxious	dialog without topic (during open battle)	Hơi bất an.	The battle wages on.	4		0
 vo_gothic_gothic_	static_00_	talk_npc_tense_02	vo_gothic_gothic_static_00_talk_npc_tense_02	omuk		Static	for honor!	dialog without topic (during open battle)	Hôm nay chúng ta sẽ dành được vinh quang.	We will gain honor today.	5		0

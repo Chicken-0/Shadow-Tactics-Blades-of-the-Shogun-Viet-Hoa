@@ -48,7 +48,7 @@ vo_eny_eny_	samurai_00_	detect_footsteps_02	vo_eny_eny_samurai_00_detect_footste
 vo_eny_eny_	samurai_00_	detect_footsteps_03	vo_eny_eny_samurai_00_detect_footsteps_03	omuk	hambo	Samurai	suspicious	sees player footprints	Dấu vết của kẻ lạ mặt!	Those tracks shouldn't be there…	5		0
 vo_eny_eny_	samurai_00_	detect_footsteps_04	vo_eny_eny_samurai_00_detect_footsteps_04	omuk	hambo	Samurai	suspicious	sees player footprints	Có kẻ lén lút ở quanh đây?	Someone must be sneaking about.	5		0
 vo_eny_eny_	samurai_00_	detect_lightsource_00	vo_eny_eny_samurai_00_detect_lightsource_00	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	Hm? Lửa đã tắt…	Hm? The light went out…	5		0
-vo_eny_eny_	samurai_00_	detect_lightsource_01	vo_eny_eny_samurai_00_detect_lightsource_01	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	Gió giết chết ngọn lửa.?	Did wind kill the flame?	5		0
+vo_eny_eny_	samurai_00_	detect_lightsource_01	vo_eny_eny_samurai_00_detect_lightsource_01	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	Gió giết chết ngọn lửa?	Did wind kill the flame?	5		0
 vo_eny_eny_	samurai_00_	detect_lightsource_02	vo_eny_eny_samurai_00_detect_lightsource_02	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	Lửa sẽ được thắp lại!	That light should be burning.	5		0
 vo_eny_eny_	samurai_00_	detect_lightsource_03	vo_eny_eny_samurai_00_detect_lightsource_03	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	Ah, cần một thằng ngu nào đó trông coi ngọn lửa này.	Ah, some idiot must have been careless with that lamp.	10		0
 vo_eny_eny_	samurai_00_	detect_lightsource_04	vo_eny_eny_samurai_00_detect_lightsource_04	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	Lửa đã tàn…	The fire died…	3		0
@@ -85,7 +85,7 @@ vo_eny_eny_	samurai_00_	detect_player_proximity_02	vo_eny_eny_samurai_00_detect_
 vo_eny_eny_	samurai_00_	detect_player_proximity_03	vo_eny_eny_samurai_00_detect_player_proximity_03	omuk	hambo	Samurai	suspicious	senses a nearby player character	Tao chắc chắn có ai đó ở đây…	There is something there…	4		0
 vo_eny_eny_	samurai_00_	detect_sake_00	vo_eny_eny_samurai_00_detect_sake_00	omuk	hambo	Samurai	dismissive	spots the sake bottle	Sa kê, hm? …Mình có rồi.	Sake, hm? …I have my own.	6		0
 vo_eny_eny_	samurai_00_	detect_sake_01	vo_eny_eny_samurai_00_detect_sake_01	omuk	hambo	Samurai	dismissive	spots the sake bottle	Sa kê? …hrm, loại cùi bắp ấy mà.	Sake? …hrm, low-grade swill.	4		0
-vo_eny_eny_	samurai_00_	detect_sake_02	vo_eny_eny_samurai_00_detect_sake_02	omuk	hambo	Samurai	dismissive	spots the sake bottle	Heh, chủ xứng đáng với lũ bần nông.	Heh, only a peasant would bow down for sake.	9		0
+vo_eny_eny_	samurai_00_	detect_sake_02	vo_eny_eny_samurai_00_detect_sake_02	omuk	hambo	Samurai	dismissive	spots the sake bottle	Heh, chỉ xứng đáng với lũ bần nông.	Heh, only a peasant would bow down for sake.	9		0
 vo_eny_eny_	samurai_00_	detect_tanuki_00	vo_eny_eny_samurai_00_detect_tanuki_00	omuk	hambo	Samurai	dismissive	sees the tanuki	Con vật thối.	Filthy creature.	2		0
 vo_eny_eny_	samurai_00_	detect_tanuki_01	vo_eny_eny_samurai_00_detect_tanuki_01	omuk	hambo	Samurai	dismissive	sees the tanuki	Phiền vđ.	Annoying critter.	2		0
 vo_eny_eny_	samurai_00_	detect_tanuki_02	vo_eny_eny_samurai_00_detect_tanuki_02	omuk	hambo	Samurai	dismissive	sees the tanuki	Đi đi, trước khi tao…làm thịt mày.	Leave, before I…squish you.	4		0
@@ -100,7 +100,7 @@ vo_eny_eny_	samurai_00_	detect_unconscious_male_00	vo_eny_eny_samurai_00_detect_
 vo_eny_eny_	samurai_00_	detect_unconscious_male_01	vo_eny_eny_samurai_00_detect_unconscious_male_01	omuk		Samurai	displeased	sees unconcious person	Anh ta bị đánh!	He's been hit!	3		0
 vo_eny_eny_	samurai_00_	detect_unconscious_male_02	vo_eny_eny_samurai_00_detect_unconscious_male_02	omuk		Samurai	displeased	sees unconcious person	Anh ta bị tấn công.	He's been attacked!	3		0
 vo_eny_eny_	samurai_00_	detect_unconscious_neutral_01	vo_eny_eny_samurai_00_detect_unconscious_neutral_01	omuk	hambo	Samurai	displeased	sees unconcious person	Chuyện gì đã xảy ra?	What happened?	2		0
-vo_eny_eny_	samurai_00_	detect_unconscious_neutral_02	vo_eny_eny_samurai_00_detect_unconscious_neutral_02	omuk	hambo	Samurai	displeased	sees unconcious person	Người! Ai đã đánh ngươi?	You! Who attacked you?	4		0
+vo_eny_eny_	samurai_00_	detect_unconscious_neutral_02	vo_eny_eny_samurai_00_detect_unconscious_neutral_02	omuk	hambo	Samurai	displeased	sees unconcious person	Ngươi! Ai đã đánh ngươi?	You! Who attacked you?	4		0
 vo_eny_eny_	samurai_00_	detect_unconscious_neutral_03	vo_eny_eny_samurai_00_detect_unconscious_neutral_03	omuk	hambo	Samurai	displeased	sees unconcious person	Đang ngủ hả?	Are you asleep?	3		0
 vo_eny_eny_	samurai_00_	drink_sake_00	vo_eny_eny_samurai_00_drink_sake_00	omuk		Samurai		(sound) drink sake			0		0
 vo_eny_eny_	samurai_00_	drop_object_00	vo_eny_eny_samurai_00_drop_object_00	omuk		Samurai		(sound) lay down heavy object			0		0
@@ -193,7 +193,7 @@ vo_eny_eny_	samurai_00_	investigate_start_03	vo_eny_eny_samurai_00_investigate_s
 vo_eny_eny_	samurai_00_	investigate_start_04	vo_eny_eny_samurai_00_investigate_start_04	omuk	hambo	Samurai	tense	starts investigating area (same as squad solo)	Thôi nào, tao không rảnh cả ngày với mày đâu!	Come on, I haven't got all day!	7		0
 vo_eny_eny_	samurai_00_	investigate_too_long_00	vo_eny_eny_samurai_00_investigate_too_long_00	omuk	hambo	Samurai	dismissive	hears noise, but getting there is too complicated	Ugh, không đáng để đi bộ.	Ugh, that's not worth the walk.	6		0
 vo_eny_eny_	samurai_00_	investigate_too_long_01	vo_eny_eny_samurai_00_investigate_too_long_01	omuk	hambo	Samurai	dismissive	hears noise, but getting there is too complicated	Ah, ở đó quá xa.	Ah, it's too far off.	5		0
-vo_eny_eny_	samurai_00_	investigate_too_long_02	vo_eny_eny_samurai_00_investigate_too_long_02	omuk	hambo	Samurai	dismissive	hears noise, but getting there is too complicated	Không lãng phí thời gian.	I will not waste my time.	6		0
+vo_eny_eny_	samurai_00_	investigate_too_long_02	vo_eny_eny_samurai_00_investigate_too_long_02	omuk	hambo	Samurai	dismissive	hears noise, but getting there is too complicated	Mình sẽ không lãng phí thời gian.	I will not waste my time.	6		0
 vo_eny_eny_	samurai_00_	investigate_unreachable_00	vo_eny_eny_samurai_00_investigate_unreachable_00	omuk	hambo	Samurai	suspicious	wants to investigate spot, but can't get there	Ungh…mình không thể tới đó.	Ungh…I can't reach that!	4		0
 vo_eny_eny_	samurai_00_	investigate_unreachable_01	vo_eny_eny_samurai_00_investigate_unreachable_01	omuk	hambo	Samurai	suspicious	wants to investigate spot, but can't get there	Đường đã bị chặn!	The path is blocked!	4		0
 vo_eny_eny_	samurai_00_	investigate_unreachable_02	vo_eny_eny_samurai_00_investigate_unreachable_02	omuk	hambo	Samurai	suspicious	wants to investigate spot, but can't get there	Ah, Quá nhiều rắc rối.	Ah, that'd be too much trouble.	6		0
@@ -273,7 +273,7 @@ vo_gothic_gothic_	samurai_00_	talk_idle_05	vo_gothic_gothic_samurai_00_talk_idle
 vo_gothic_gothic_	samurai_00_	talk_idle_06	vo_gothic_gothic_samurai_00_talk_idle_06	omuk		Samurai	focussed	makes noise on duty	Hrm, tập trung.	Hrm, focus.	2		0
 vo_gothic_gothic_	samurai_00_	talk_idle_battle_calm_00	vo_gothic_gothic_samurai_00_talk_idle_battle_calm_00	omuk		Samurai	tense	makes noise on duty (mumbling)	Chắc chắn chiến thắng.	Victory is certain.	3		0
 vo_gothic_gothic_	samurai_00_	talk_idle_battle_calm_01	vo_gothic_gothic_samurai_00_talk_idle_battle_calm_01	omuk		Samurai	tense	makes noise on duty (mumbling)	Hrm…Nguyền rủa lũ Mạc chúa.	Hrm…curse the Shogun.	3		0
-vo_gothic_gothic_	samurai_00_	talk_idle_battle_calm_02	vo_gothic_gothic_samurai_00_talk_idle_battle_calm_02	omuk		Samurai	tense	makes noise on duty (mumbling)	Một cuộc phảm công…	A single strike…	3		0
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_calm_02	vo_gothic_gothic_samurai_00_talk_idle_battle_calm_02	omuk		Samurai	tense	makes noise on duty (mumbling)	Một cuộc phản công…	A single strike…	3		0
 vo_gothic_gothic_	samurai_00_	talk_idle_battle_calm_03	vo_gothic_gothic_samurai_00_talk_idle_battle_calm_03	omuk		Samurai	tense	makes noise on duty (mumbling)	…đây là vị trí của chúng ta.	…this is our place.	4		0
 vo_gothic_gothic_	samurai_00_	talk_idle_battle_calm_04	vo_gothic_gothic_samurai_00_talk_idle_battle_calm_04	omuk		Samurai	tense	makes noise on duty (mumbling)	Chết trong vinh quang…	Honor in death…	3		0
 vo_gothic_gothic_	samurai_00_	talk_idle_battle_05	vo_gothic_gothic_samurai_00_talk_idle_battle_05	omuk		Samurai	rush of battle	makes noise in battle	Thay đạn!	Reloading!	1		0
@@ -335,8 +335,8 @@ vo_gothic_gothic_	samurai_00_	talk_npc_report_02	vo_gothic_gothic_samurai_00_tal
 vo_gothic_gothic_	samurai_00_	talk_npc_report_03	vo_gothic_gothic_samurai_00_talk_npc_report_03	omuk		Samurai	focussed	asks guardpost for status	Có gì mới?	Is there anything new?	4		0
 vo_gothic_gothic_	samurai_00_	talk_npc_report_04	vo_gothic_gothic_samurai_00_talk_npc_report_04	omuk		Samurai	focussed	asks guardpost for status	Mọi thứ vẫn yên lặng hả?	Is everything quiet?	3		0
 vo_gothic_gothic_	samurai_00_	talk_npc_report_battle_00	vo_gothic_gothic_samurai_00_talk_npc_report_battle_00	omuk		Samurai	rush of battle	asks guardpost for status during battle	Báo cáo đi!	Report!	1		0
-vo_gothic_gothic_	samurai_00_	talk_npc_report_battle_01	vo_gothic_gothic_samurai_00_talk_npc_report_battle_01	omuk		Samurai	rush of battle	asks guardpost for status during battle	Nói cho ta!	Tell me!	2		0
-vo_gothic_gothic_	samurai_00_	talk_npc_report_battle_02	vo_gothic_gothic_samurai_00_talk_npc_report_battle_02	omuk		Samurai	rush of battle	asks guardpost for status during battle	Cho ta biết báo cáo của mày!	Give your report!	3		0
+vo_gothic_gothic_	samurai_00_	talk_npc_report_battle_01	vo_gothic_gothic_samurai_00_talk_npc_report_battle_01	omuk		Samurai	rush of battle	asks guardpost for status during battle	Nói cho tao!	Tell me!	2		0
+vo_gothic_gothic_	samurai_00_	talk_npc_report_battle_02	vo_gothic_gothic_samurai_00_talk_npc_report_battle_02	omuk		Samurai	rush of battle	asks guardpost for status during battle	Cho tao biết báo cáo của mày!	Give your report!	3		0
 vo_gothic_gothic_	samurai_00_	talk_npc_tense_00	vo_gothic_gothic_samurai_00_talk_npc_tense_00	omuk		Samurai	dutiful	dialog without topic (during open battle)	Lệnh của chúng ta!	We have our orders!	4		0
 vo_gothic_gothic_	samurai_00_	talk_npc_tense_01	vo_gothic_gothic_samurai_00_talk_npc_tense_01	omuk		Samurai	confident	dialog without topic (during open battle)	Tiếp tục chiến đấu!	Keep fighting!	2		0
 vo_gothic_gothic_	samurai_00_	talk_npc_tense_02	vo_gothic_gothic_samurai_00_talk_npc_tense_02	omuk		Samurai	for honor!	dialog without topic (during open battle)	Hôm nay chúng ta sẽ dành được vinh quang.	We will gain honor today.	5		0
