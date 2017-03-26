@@ -1,7 +1,7 @@
 # Shadow Tactics: Blades of the Shogun Việt Hóa
 
 
-## Việt hóa cho phiên bản Game: 1.2.1.f
+## Việt hóa cho phiên bản Game: 1.3.4.f
 Các phiên bản cũ xem tại [đây](https://github.com/xkvnn/Shadow-Tactics-Blades-of-the-Shogun-Viet-Hoa/branches/all)
 
 
