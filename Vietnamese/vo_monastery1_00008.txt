@@ -1,0 +1,203 @@
+5,2,9		CUTSCENE CONTEXT DIALOG				NINJA TRAPPER WARRIOR ALCHEMIST GEISHA TANUKI SHOGUN SHOGUNSON DAIMYO GENERAL BROGUN BROGUNSON	Hayato  Yuki  Ōshiro Mugen Takuma  Aiko  Kuma Shogun Ryūnosuke Yabu Okkoto Noboru Masaru	STORY:	1) During this mission, Aiko is introduced as the final team member. 2) Together with Mugen, she will infiltrate a monastery and rescue Takuma from captivity. 3) We learn that Mugen and Aiko are very fond of each other. This starts the buildup for when he betrays the Shogun to save Aiko. 4) We reunite with Takuma, and learn a bit about what happened to him after the war.																												
+																																					
+BRIEFING									Mugen arrives at the monastery. A mysterious woman appears out of nowhere. It is Aiko, the fourth team member.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+						TITLECARD			Mount Tsuru			0																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_briefing_n00	omuk	hambo		WARRIOR	searching	worried because he doesn't see Aiko	Hmm…có phải mình là người tới đầu tiên? Em ấy không nhận được tin của mình ư?	14		0																									
+vocs_over_over_	_n01	vocs_over_over_monastery1_briefing_n01	omuk	hambo		GEISHA	elegant	comes out of nowhere	Konnichiwa, Mugen-san.	3		0																									
+vocs_over_over_	_n02	vocs_over_over_monastery1_briefing_n02	omuk	hambo		WARRIOR	pleased		Ah, Aiko-san. Sắc đẹp của em được chào đón nhất trên vùng núi hoang vu này.	11		0																									
+vocs_over_over_	_n03	vocs_over_over_monastery1_briefing_n03	omuk	hambo		GEISHA	amused slight teasing	happy to see Mugen again	Mugen-san! Chúng ta tới đây chỉ để anh nói những lời tâng bốc như vậy ư?	9		0																									
+vocs_over_over_	_n04	vocs_over_over_monastery1_briefing_n04	omuk	hambo		WARRIOR	changing subjects		Anh muốn thế lắm. Dường như em tới đây trước anh. Em đã thu thập được gì ở chỗ này?	19		0																									
+vocs_over_over_	_n05	vocs_over_over_monastery1_briefing_n05	omuk	hambo		GEISHA	sly		Bọn lính canh lắm mồm. Em nghe chúng luyên thuyên về một tù nhân gần thác nước.	15		0																									
+vocs_over_over_	_n06	vocs_over_over_monastery1_briefing_n06	omuk	hambo		WARRIOR	I'm listening		Hẳn là Takuma-san! Chúng ta sẽ tiến hành thế nào?	8		0																									
+vocs_over_over_	_n07	vocs_over_over_monastery1_briefing_n07	omuk	hambo		GEISHA	this is what I do		Có một số nữ hầu trong đền thờ. Nếu tìm thấy, em có thể mặc quần áo cải trang thành cô ấy.	22		0																									
+vocs_over_over_	_n08	vocs_over_over_monastery1_briefing_n08	omuk	hambo		GEISHA	I got this		Nó sẽ cho phép em tự do đi lại và rung chuông để gọi các nhà sư tới niệm kinh…	17		0																									
+vocs_over_over_	_n09	vocs_over_over_monastery1_briefing_n09	omuk	hambo		WARRIOR	satisfied		…làm đám đông dãn ra! Kế hoạch thanh lịch đấy. Một trong những thứ anh đã quên là nó thuộc về em.	17		0																									
+vocs_over_over_	_n10	vocs_over_over_monastery1_briefing_n10	omuk	hambo		WARRIOR	satisfied		Tốt lắm. Một khi tới được chỗ Takuma-san, chúng ta nên…	8		0																									
+vocs_over_over_	_n11	vocs_over_over_monastery1_briefing_n11	omuk	hambo		GEISHA	on edge	quickly moving into cover	Lại đây! Có ai đó đang tới!	4		0																									
+vocs_over_over_	_n12	vocs_over_over_monastery1_briefing_n12	omuk	hambo		DAIMYO			Ta mong ngươi phải bù đắp sự mất mát của lô hàng gần đây.	13		0																									
+vocs_over_over_	_n13	vocs_over_over_monastery1_briefing_n13	omuk	hambo		SAMURAI			Vâng thưa ngài. Các nhà sư sẽ tăng khối lượng công việc của họ, và cả Takuma nữa.	12		0																									
+vocs_over_over_	_n14	vocs_over_over_monastery1_briefing_n14	omuk	hambo		DAIMYO			Chuyện này sẽ sớm có kết quả, và lão già kia sẽ không còn có ích. Coi như lão không thể rời khỏi ngọn núi này nữa đi.	24		0																									
+vocs_over_over_	_n15	vocs_over_over_monastery1_briefing_n15	omuk	hambo		SAMURAI			Như ngài muốn, Yabu-sama.	4		0																									
+vocs_over_over_	_n16	vocs_over_over_monastery1_briefing_n16	omuk	hambo		DAIMYO		turns and leaves after speaking	Hãy chắc chắn cuộc vận chuyển tiếp theo đang được chuẩn bị. Ta không chấp nhận thêm chậm trễ nào nữa đâu.	17		0																									
+vocs_over_over_	_n17	vocs_over_over_monastery1_briefing_n17	omuk	hambo		WARRIOR	slightly relieved	Samurai bows, heads back to temple	Gần xong rồi. Tốt nhất là chúng ta triển khai luôn, trước khi nhiều chuyện xấu xảy ra.	11		0																									
+vocs_over_over_	_n17a	vocs_over_over_monastery1_briefing_n17a	omuk	hambo		WARRIOR	intrigued	ALTERNATIVE	Lãnh chúa Yabu. Anh hi vọng sẽ gặp được hắn trong thời gian sắp tới. Còn giờ phải cứu Takuma-san trước đã.	19		0																									
+vocs_over_over_	_n17b	vocs_over_over_monastery1_briefing_n17b	omuk	hambo		WARRIOR	intrigued	ALTERNATIVE	Thì ra lãnh chúa Yabu ép Takuma-san và nhà sư chế tạo vũ khí. Chúng ta sẽ đối phó với hắn sau khi cứu được Takuma-san.	22		0																									
+vocs_over_over_	_n18	vocs_over_over_monastery1_briefing_n18	omuk	hambo		GEISHA	elegant		Em đồng ý. Triển thôi.	5		0																									
+																																					
+TRANSPORT									An officer is annoyed by how slow the bridge is being repaired.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_monastery1_transport_n00	omuk	hambo		OFFICER	angry		Nó phải tới được Kyōto, hiểu không?	6		0																									
+vo_hint_hint_	_n01	vo_hint_hint_monastery1_transport_n01	omuk	hambo		OFFICER	angry		Chọn một con đường khác!	5		0																									
+vo_hint_hint_	_n02	vo_hint_hint_monastery1_transport_n02	omuk	hambo		OFFICER	angry		Phải bảo vệ mấy cái thùng này bằng mạng sống của các ngươi.	8		0																									
+vo_hint_hint_	_n03	vo_hint_hint_monastery1_transport_n03	omuk	hambo		OFFICER	angry		Nếu thất bại, lãnh chúa Yabu sẽ lấy đầu ngươi.	9		0																									
+vo_hint_hint_	_n04	vo_hint_hint_monastery1_transport_n04	omuk	hambo		OFFICER	angry		Không bào chữa! Không lề mề!	4		0																									
+																																					
+OPTIONS									The team reaches the monastery walls.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_options_n00	omuk	hambo		WARRIOR	impressed		Những xe hàng…Anh đã thấy loại này trước đây. Nơi này chắc chắn là nguồn hàng của chuyến vận chuyển vũ khí kia.	17		0																									
+vocs_over_over_	_n01	vocs_over_over_monastery1_options_n01	omuk	hambo		GEISHA	tactful		Cái cổng này được chúng canh gác nghiêm ngặt, những vẫn còn cách khác. Hãy tìm hiểu xem thế nào.	18		0																									
+																																					
+CLIMBING									Aiko climbs a vine to get inside the monastery																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_climbing_n00	omuk	hambo		GEISHA	teasing		Em đi trước. Anh sẽ phải kiên nhẫn khá lâu đấy?	12		0																									
+vocs_over_over_	_n01	vocs_over_over_monastery1_climbing_n01	omuk	hambo		WARRIOR	teasing back		Nhìn thấy em điệu đà nữ tính cũng giúp tâm trí anh đóng băng lại rồi.	11		0																									
+																																					
+SECRETS1									The team interacts with a crane statue. A secret passage opens. (This  dialog only triggers before Takuma has been freed)																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_secrets1_n00	omuk	hambo		GEISHA	curious	Aiko first	Kì diệu. Nó mở ra một lối đi bí mật. Hãy nhớ trong đầu để lát nữa chúng ta còn bỏ trốn.	18		0																									
+vocs_over_over_	_n01	vocs_over_over_monastery1_secrets1_n01	omuk	hambo		WARRIOR	intrigued	Mugen first	Cái gì đây? Dường như là một lối đi bí mật. Phải nhớ lấy nó để lát nữa còn bỏ trốn.	18		0																									
+																																					
+ENTRANCE									Aiko infiltrates the entrance area																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_entrance_n00	omuk	hambo		GEISHA	observant		Mmm…xe và thùng hàng, được đóng gói vũ khí. Kế hoạch tàn độc này diễn ra thật bất ngờ.	15		0																									
+																																					
+PILGRIMS									Aiko infiltrates the pilgrims area																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_pilgrims_n00	omuk	hambo		GEISHA	observant		Nhiều lính canh hơn nhà sư và cả người hành hương nữa. Rõ ràng mấy vị thần không phải là chủ của đền thờ này rồi…	18		0																									
+																																					
+SHY									A guard asks for guidance at a shrine. He then approaches a temple servant. She denies him, and he returns to the shrine. Repeat …																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_monastery1_shy_n00	omuk	hambo		ENEMY	unsure	at shrine	Mình nên làm gì…	4		0																									
+vo_hint_hint_	_n01	vo_hint_hint_monastery1_shy_n01	omuk	hambo		ENEMY	unsure	tries to ask her out	Uhm…Anh… chào lần nữa!	3		0																									
+vo_hint_hint_	_n02	vo_hint_hint_monastery1_shy_n02	omuk	hambo		CIVILIAN F	polite rebuke		Xin anh. Để tôi yên.	6		0																									
+vo_hint_hint_	_n03	vo_hint_hint_monastery1_shy_n03	omuk	hambo		ENEMY	sad	*sigh*		0		0																									
+vo_hint_hint_	_n04	vo_hint_hint_monastery1_shy_n04	omuk	hambo		ENEMY	unsure	at shrine	Hãy cho tôi sức mạnh…	3		0																									
+vo_hint_hint_	_n05	vo_hint_hint_monastery1_shy_n05	omuk	hambo		ENEMY	unsure		Uhm… Em sẽ…xem xét…	3		0																									
+vo_hint_hint_	_n06	vo_hint_hint_monastery1_shy_n06	omuk	hambo		CIVILIAN F	polite rebuke		Làm ơn! Nó bị cấm.	4		0																									
+vo_hint_hint_	_n07	vo_hint_hint_monastery1_shy_n07	omuk	hambo		ENEMY	sad	*sigh*		0		0																									
+																																					
+SERVANT									Aiko sees a temple servant she can steal clothes from. All guards in the area frequently glance at the girl.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_servant_n00	omuk	hambo		GEISHA	amused		Vài gã đang đổ đốn vì cô ta. Bộ đồ của cổ vừa với mình một cách hoàn hảo	13		0																									
+																																					
+LAUNDRY									Temple servants launder clothes																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_monastery1_laundry_n00	omuk	hambo		CIVILIAN F	working	humming a washing tune		0		0																									
+vo_hint_hint_	_n01	vo_hint_hint_monastery1_laundry_n01	omuk	hambo		CIVILIAN F	working	mumbling		0		0																									
+vo_hint_hint_	_n02	vo_hint_hint_monastery1_laundry_n02	omuk	hambo		CIVILIAN F	working		Hmm…	1		0																									
+vo_hint_hint_	_n03	vo_hint_hint_monastery1_laundry_n03	omuk	hambo		CIVILIAN F	working		…sắp xong.	2		0																									
+vo_hint_hint_	_n04	vo_hint_hint_monastery1_laundry_n04	omuk	hambo		CIVILIAN F	working		Chỗ đó!	1		0																									
+vo_hint_hint_	_n05	vo_hint_hint_monastery1_laundry_n05	omuk	hambo		CIVILIAN F	working		Hmm… Chỗ này cần vá.	4		0																									
+																																					
+LAUNDRY									Aiko has reached the laundry, where a few temple servants are busy washing and peging out clothes.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_laundry_n00	omuk	hambo		GEISHA	elegant		Chỗ giặt đồ. Một nơi tốt để tìm bộ đồ sạch?	10		0																									
+																																					
+DISGUISE1									Aiko has just received her temple servant disguise.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_disguise1_n00	omuk	hambo		GEISHA	elegant		Một khi thay được bộ đồ này, lính canh sẽ không nghi ngờ mình nữa.	11		0																									
+																																					
+DISGUISE2									Aiko has put on her temple servant disguise.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_disguise2_n00	omuk	hambo		GEISHA	elegant		Đã khá lâu rồi kể từ khi mình mặc Hakama.	10		0																									
+vocs_over_over_	_n01	vocs_over_over_monastery1_disguise2_n01	omuk	hambo		GEISHA	elegant		Giờ mình phải rung chuông. Các nhà sư sẽ đến để niệm kinh, và Mugen-san sẽ dễ dàng lọt vào trong.	23		0																									
+																																					
+TEMPLE									Aiko passes by an impressive staircase that leads to the inner temple.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_temple_n00	omuk	hambo		GEISHA	elegant		Nhiều lớp tường, cổng kiên cố… Trước đây hẳn là ngôi đền có vũ trang. Không còn thắc mắc tại sao họ lại có thể chế tạo vũ khí.	20		0																									
+																																					
+GRAVEYARD									Aiko passes by a graveyard tended by temple servants.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_graveyard_n00	omuk	hambo		GEISHA	elegant		Một nghĩa trang. Cho mấy người hầu trước đây của ngôi đền. Mình luôn tìm thấy mấy cái chỗ chết dẫm này.	15		0																									
+																																					
+TUNNELS									Aiko find tunnels that lead to different parts of the temple.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_tunnels_n00	omuk	hambo		GEISHA	elegant		Đường hầm. Hẳn là chúng dẫn đễn các nơi khác nhau trong ngôi đền? Thật tò mò về nơi này.	17		0																									
+																																					
+BELL									Aiko approaches the bell that calls the monks in for prayer.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_bell_n00	omuk	hambo		GEISHA	playful		Cái chuông. Hi vọng mấy gã nhà sư không để ý thấy sự bất thường trong chuyện này.	13		0																									
+																																					
+CLEAR									Aiko has rung the bell and cleared the way for Mugen. (block if Mugen has already entered)																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_clear_n00	omuk	hambo		GEISHA	playful		Đường đã trống. Mình cần quay lại lối vào và giúp Mugen-san.	14		0																									
+																																					
+INSIDE									Mugen enters the monastery.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_inside_n00	omuk	hambo		WARRIOR	careful		Anh đã vào đền. Những gì em làm vẫn ấn tượng như trước đây, Aiko-san?	11		0																									
+vocs_over_over_	_n01	vocs_over_over_monastery1_inside_n01	omuk	hambo		GEISHA	inrigued		Nơi này ẩn chứa nhiều thứ. Nó chắc hẳn phải có một bề dày lịch sử.	11		0																									
+vocs_over_over_	_n02	vocs_over_over_monastery1_inside_n02	omuk	hambo		WARRIOR	direct		Chúng ta có thể tìm kiếm thông tin, để thỏa mãn tính tò mò của em…	9		0																									
+vocs_over_over_	_n03	vocs_over_over_monastery1_inside_n03	omuk	hambo		GEISHA	amused	always finds Mugen's honest support charming	Ý hay đấy, Mugen, nhưng em nghĩ chúng ta phải cấp bách hơn cho vụ này đã.	15		0																									
+																																					
+ROCKS									Mugen discovers large rocks that he can lift and throw on people.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_rocks_n00	omuk	hambo		WARRIOR	confident		Mấy tảng đá này hẳn có ích. Anh có thể ném nó vào bọn chúng mà không bị nghi ngờ.	12		0																									
+vocs_over_over_	_n01	vocs_over_over_monastery1_rocks_n01	omuk	hambo		GEISHA	teasing		Em muốn được nghe những câu chuyện xung quanh cái chiến thuật đặc biệt này.	12		0																									
+																																					
+NINJA									On the way to Takuma, Mugen observes Aiko as she kills a man.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_ninja_n00	omuk	hambo		WARRIOR	impressed		Cách ám sát của em giống với Hayato-san.	6		0																									
+vocs_over_over_	_n01	vocs_over_over_monastery1_ninja_n01	omuk	hambo		GEISHA	neutral		Có phải gã Shinobi bạn của anh? Em rất muốn được làm quen với anh ấy.	13		0																									
+vocs_over_over_	_n02	vocs_over_over_monastery1_ninja_n02	omuk	hambo		WARRIOR	confident		Có lẽ em và cậu ta có thể trao đổi kinh nghiệm và kĩ năng với nhau.	12		0																									
+vocs_over_over_	_n03	vocs_over_over_monastery1_ninja_n03	omuk	hambo		GEISHA	cautious		Shinobi (Ninja nói chung) vùng Iga và Kunoichi (Ninja nữ) vùng Shinano. Em chắc là có nhiều thứ để bàn với nhau lắm đây.	17		0																									
+vocs_over_over_	_n03a	vocs_over_over_monastery1_ninja_n03a	omuk	hambo		GEISHA	cautious	ALTERNATIVE	Em tự hỏi nếu anh ấy có phối hợp với một Kunoichi khác từ trước. Theo những gì anh kể, có vẻ anh ấy là người cô đơn.	19		0																									
+																																					
+HISTORY									When Mugen reaches the waterfall.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_history_n00	omuk	hambo		WARRIOR	open		Đó là thác nước. Takuma-san phải ở gần đây.	7		0																									
+vocs_over_over_	_n01	vocs_over_over_monastery1_history_n01	omuk	hambo		GEISHA	respectful		Những gì anh kể với em, lão đã giúp anh dành chiến thắng ở thành Osaka.	13		0																									
+vocs_over_over_	_n02	vocs_over_over_monastery1_history_n02	omuk	hambo		WARRIOR	matter of fact		Bọn anh không thể làm được nếu không có lão. Anh chưa bao giờ nghĩ rằng mình lại có cơ hội để cảm tạ.	19		0																									
+vocs_over_over_	_n03	vocs_over_over_monastery1_history_n03	omuk	hambo		GEISHA	elegant		Cả hai ta sẽ cảm ơn, sau khi giải phóng tự do cho lão .	10		0																									
+																																					
+SAMURAI									When Mugen reaches the waterfall.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_samurai_n00	omuk	hambo		WARRIOR	cautious	Mugen first	Samurai bảo vệ khu vực này.	4		0																									
+vocs_over_over_	_n01	vocs_over_over_monastery1_samurai_n01	omuk	hambo		GEISHA	cautious		Samurai… Chúng có thể phát hiện em cải trang. Em cần phải giữ khoảng cách.	12		0																									
+																																					
+ARGUMENT									An officer is annoyed by how slow the bridge is being repaired.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vo_hint_hint_	_n00	vo_hint_hint_monastery1_argument_n00	omuk	hambo		SAMURAI	angry		Không bào chữa, lão già.	5		0																									
+vo_hint_hint_	_n01	vo_hint_hint_monastery1_argument_n01	omuk	hambo		ALCHEMIST	dismissive		Hmm! Bọn tao đang làm những gì có thể…	6		0																									
+vo_hint_hint_	_n02	vo_hint_hint_monastery1_argument_n02	omuk	hambo		SAMURAI	grumpy		Lãnh chúa Yabu muốn kết quả.	4		0																									
+vo_hint_hint_	_n03	vo_hint_hint_monastery1_argument_n03	omuk	hambo		ALCHEMIST	dismissive		Hmm. Dĩ nhiên hắn sẽ có.	5		0																									
+vo_hint_hint_	_n04	vo_hint_hint_monastery1_argument_n04	omuk	hambo		SAMURAI	grumpy		Lô hàng tiếp theo khi nào sẵn sàng?	7		0																									
+vo_hint_hint_	_n05	vo_hint_hint_monastery1_argument_n05	omuk	hambo		ALCHEMIST	cheeky		Khi nó xong, tao đoán vậy.	6		0																									
+vo_hint_hint_	_n06	vo_hint_hint_monastery1_argument_n06	omuk	hambo		SAMURAI	grumpy		Nó mất nhiều thời gian hơn dự kiến không?	6		0																									
+vo_hint_hint_	_n07	vo_hint_hint_monastery1_argument_n07	omuk	hambo		ALCHEMIST	cheeky		Ah. Một câu hỏi bá đạo.	4		0																									
+vo_hint_hint_	_n08	vo_hint_hint_monastery1_argument_n08	omuk	hambo		SAMURAI	grumpy		Mày đang coi thường tao hả?	4		0																									
+vo_hint_hint_	_n09	vo_hint_hint_monastery1_argument_n09	omuk	hambo		ALCHEMIST	cheerful		Hehe! Nó làm ngươi nghĩ đến thứ gì?	6		0																									
+vo_hint_hint_	_n10	vo_hint_hint_monastery1_argument_n10	omuk	hambo		SAMURAI	grumpy		Cấm thử tính kiên nhẫn của ta!	5		0																									
+vo_hint_hint_	_n11	vo_hint_hint_monastery1_argument_n11	omuk	hambo		ALCHEMIST	cheeky		Hmm, ta sẽ làm theo lời khuyên của ngươi.	6		0																									
+																																					
+RESCUE									Takuma is arguing with the samurai who guards him. Mugen sneaks up on them and cuts the samurai down.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_rescue_n00	omuk	hambo		ALCHEMIST	surprised	waits briefly after Mugen has killed the samurai	Hehe! Điềm tốt đã đến. Chuyện của hắn sẽ đi về đâu.	9		0																									
+vocs_over_over_	_n01	vocs_over_over_monastery1_rescue_n01	omuk	hambo		WARRIOR	urgent		Takuma-san. Tên tôi là Ōshiro Mugen. Lão còn nhớ tôi chứ?	10		0																									
+vocs_over_over_	_n02	vocs_over_over_monastery1_rescue_n02	omuk	hambo		ALCHEMIST	amused		…hehe! Sao mà quên được? Anh đã ở cùng với chàng Shinobi trẻ tuổi, trong cuộc vây thành Ōsaka.	16		0																									
+vocs_over_over_	_n03	vocs_over_over_monastery1_rescue_n03	omuk	hambo		WARRIOR	very cautious	notices that Takuma has a wooden leg	Chúng tôi có thể giải thoát cho lão. Tôi biết lãnh chúa Yabu ép lão phải chế tạo vũ khí ở đây?	16		0																									
+vocs_over_over_	_n04	vocs_over_over_monastery1_rescue_n04	omuk	hambo		ALCHEMIST	explaining		Hắn quan tâm về kiến thức của ta. Ta chỉ cho bọn nhà sư, đám người mà hắn bắt làm nô lệ để sản xuất vũ khí số lượng lớn.	22		0																									
+vocs_over_over_	_n05	vocs_over_over_monastery1_rescue_n05	omuk	hambo		WARRIOR	angered		Hrm… lãnh chúa Yabu sẽ phải trả giá cho vụ này.	7		0																									
+vocs_over_over_	_n06	vocs_over_over_monastery1_rescue_n06	omuk	hambo		GEISHA	urgent		Chúng ta có thể tiếp tục nói chuyện sau được không? Mấy gã sư có thể kết thúc niệm kinh sớm, và quay về chỗ lối vào.	23		0																									
+vocs_over_over_	_n07	vocs_over_over_monastery1_rescue_n07	omuk	hambo		ALCHEMIST	cheerful		Hehe, chuẩn—chúng ta nên lắng nghe cộng sự của anh, Mugen.	8		0																									
+																																					
+SECRETS2									Directly after Rescue Dialog																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_secrets2_n00	omuk	hambo		ALCHEMIST	mysterious		Hmm, trên đường tới đây, cậu có đi qua bất kỳ bức tượng nào không?	13		0																									
+vocs_over_over_	_n01	vocs_over_over_monastery1_secrets2_n01	omuk	hambo		WARRIOR	curious	if secrets1 didn't happen	Tại sao hỏi thế?	4		0																									
+vocs_over_over_	_n02	vocs_over_over_monastery1_secrets2_n02	omuk	hambo		ALCHEMIST	mysterious	if secrets1 didn't happen	Đây là nơi cổ xưa ẩn chứa nhiều bí mật. Để ta đánh dấu các bức tượng trên bản đồ. Nếu tìm hiểu chúng, ai mà biết được chúng ta sẽ có gì…	26		0																									
+vocs_over_over_	_n03	vocs_over_over_monastery1_secrets2_n03	omuk	hambo		GEISHA	confirmation	if secrets1 did happen	Chúng tôi đã nhìn thấy chúng, và nó mở ra một lối đi bí mật.	10		0																									
+vocs_over_over_	_n04	vocs_over_over_monastery1_secrets2_n04	omuk	hambo		ALCHEMIST	ah, very good	if secrets1 did happen	Ta biết nhiều lắm. Chắc chắn rằng một trong số chúng dẫn ra ngoài ngọn núi này. Đây, để ta đánh dấu chúng lại trên bản đồ của anh.	22		0																									
+																																					
+SLOW									When Takuma passes the waterfall on the way out.																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_slow_n00	omuk	hambo		ALCHEMIST	a bit annoyed		Hrm…quá chậm!	2		0																									
+vocs_over_over_	_n01	vocs_over_over_monastery1_slow_n01	omuk	hambo		WARRIOR	sincere	catching up	Tôi xin lỗi về cái chân của lão, Takuma-san.	7		0																									
+vocs_over_over_	_n02	vocs_over_over_monastery1_slow_n02	omuk	hambo		ALCHEMIST	cheerful		Oh, đừng có thế. Buổi hôm đó lão đã thoát chết. Một người đàn ông khôn ngoan quá bất ngờ sau khi may mắn mỉm cười với anh ấy.	21		0																									
+vocs_over_over_	_n03	vocs_over_over_monastery1_slow_n03	omuk	hambo		GEISHA	curious		Chân gỗ của lão được chế tác rất tinh xảo. Nó phù hợp với lão chứ?	13		0																									
+vocs_over_over_	_n04	vocs_over_over_monastery1_slow_n04	omuk	hambo		ALCHEMIST	cheerful		Quả thực nó rất tốt. Mặc dù lão có cải tiến đôi chút…	13		0																									
+																																					
+DEBRIEFING									Near the exit																												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN - Proofread	CEN	DE	CDE																									
+vocs_over_over_	_n00	vocs_over_over_monastery1_debriefing_n00	omuk	hambo		ALCHEMIST	satisfied		Oh, Ta sẽ không quên nơi này.	7		0																									
+vocs_over_over_	_n01	vocs_over_over_monastery1_debriefing_n01	omuk	hambo		GEISHA	curious		Cháu tò mò. Kế hoạch của lão sau khi tự do là gì?	14		0																									
+vocs_over_over_	_n02	vocs_over_over_monastery1_debriefing_n02	omuk	hambo		ALCHEMIST	determined		Ta không còn mong muốn phụng sự tham vọng cho lãnh chúa Yabu—nhưng ta sẵn sàng giúp cháu kết liễu bọn chúng.	16		0																									
+vocs_over_over_	_n03	vocs_over_over_monastery1_debriefing_n03	omuk	hambo		WARRIOR	satisfied		Tôi sẽ không yêu cầu nhưng thứ không thể từ lão.	8		0																									
+vocs_over_over_	_n04	vocs_over_over_monastery1_debriefing_n04	omuk	hambo		ALCHEMIST	determined		Hehe, không phải xoắn, Mugen-san. Với các công cụ hỗ trợ, thậm chỉ cả kẻ ngốc già khúm răng vẫn có thể sử dụng trên chiến trường.	22		0																									
+vocs_over_over_	_n05	vocs_over_over_monastery1_debriefing_n05	omuk	hambo		GEISHA	impressed		Lão là người có nhiều tài năng, Takuma-san.	8		0																									
+vocs_over_over_	_n06	vocs_over_over_monastery1_debriefing_n06	omuk	hambo		ALCHEMIST	mysterious		Oh, quá nhiều ấy chứ, lão cũng sợ nó lắm. Heh! Hầu hết chúng mang cho lão rắc rối mà thôi.	12		0																									
+vocs_over_over_	_n07	vocs_over_over_monastery1_debriefing_n07	omuk	hambo		WARRIOR	satisfied		Vậy thì, chúng ta quay về nhà an toàn và bàn vế số phận của lãnh chúa Yabu.	16		0																									
+																																					
+											MISSION-WORDCOUNT DE:	0		TOTAL	NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+													Words	1221	0	0	323	492	242	0	0	0	0	54	0	0	32	13	0	47	0	0	18	0	0	0	0
+													Lines	113	0	0	27	36	20	0	0	0	0	3	0	0	5	6	0	8	0	0	8	0	0	0	0

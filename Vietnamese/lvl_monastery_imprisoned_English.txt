@@ -1,0 +1,52 @@
+1,0,3			
+1217268342	MiMissionTaskHandler	Element 0 Str Task Name	Thoát khỏi tù
+-1099584753	MiMissionTaskHandler	Element 0 Str Description	Giải thoát Hayato, Yuki và Takuma ra khỏi lồng.
+-94980146	MiMissionTaskHandler	Element 1 Str Task Name	Hayato
+1077495865	MiMissionTaskHandler	Element 1 Str Description	Giải thoát Hayato.
+1090236381	MiMissionTaskHandler	Element 2 Str Task Name	Yuki
+-905181412	MiMissionTaskHandler	Element 2 Str Description	Giải thoát Yuki.
+661780450	MiMissionTaskHandler	Element 3 Str Task Name	Takuma
+-1281623879	MiMissionTaskHandler	Element 3 Str Description	Giải thoát Takuma.\n
+-997603679	MiMissionTaskHandler	Element 4 Str Task Name	Tùy chọn: Tìm trang bị
+37929978	MiMissionTaskHandler	Element 4 Str Description	Theo dấu các trang bị để lầy chúng về.
+1088067547	MiMissionTaskHandler	Element 5 Str Task Name	Tiếng Chim
+2057168990	MiMissionTaskHandler	Element 5 Str Description	-
+1502271634	MiMissionTaskHandler	Element 6 Str Task Name	Kuma
+1317725445	MiMissionTaskHandler	Element 6 Str Description	-
+1026798070	MiMissionTaskHandler	Element 7 Str Task Name	Bẩy Bé Bỏng
+-1061359788	MiMissionTaskHandler	Element 7 Str Description	-
+-1716502167	MiMissionTaskHandler	Element 8 Str Task Name	Súng Ngắn Hỏa Mai
+2113732409	MiMissionTaskHandler	Element 8 Str Description	-
+-960663936	MiMissionTaskHandler	Element 9 Str Task Name	Kiếm Ninjato
+-959644866	MiMissionTaskHandler	Element 9 Str Description	-
+-850331955	MiMissionTaskHandler	Element 10 Str Task Name	Phi tiêu Shuriken
+-766954177	MiMissionTaskHandler	Element 10 Str Description	-
+-2096340589	MiMissionTaskHandler	Element 11 Str Task Name	Giải thoát Aiko
+1674806723	MiMissionTaskHandler	Element 11 Str Description	Aiko đang bị thẩm vấn. Hãy giải thoát cho cô ấy.
+1070695862	MiMissionTaskHandler	Element 12 Str Task Name	Tới gần Mugen
+277321055	MiMissionTaskHandler	Element 12 Str Description	Mugen không còn là chính mình. Mọi người lại gần để giúp anh ấy.
+1035267972	MiMissionTaskHandler	Element 13 Str Task Name	Thoát
+786677113	MiMissionTaskHandler	Element 13 Str Description	Tới gần đường chính và thoát khỏi núi Tsuru.
+127356369	MiMissionTaskHandler	Element 14 Str Task Name	Kẻ giám ngục
+-717872926	MiMissionTaskHandler	Element 14 Str Description	Giám ngục sẽ kiểm tra tù nhân định kỳ. Nếu có người trốn thoát, hắn sẽ biết được.
+-1270754819	MiMissionTaskHandler	Element 15 Str Task Name	Móc túi
+-2059279271	MiMissionTaskHandler	Element 15 Str Description	Kẻ địch nào đang cầm trang bị của nhân vật thì có thể móc túi được.
+147192016	MiMissionTaskHandler	Element 16 Str Task Name	Kuma
+784507646	MiMissionTaskHandler	Element 16 Str Description	Kuma đã bỏ chạy khi bị bắt. Thử gọi nó xem.
+-1925410101	MiMissionTaskHandler	Element 17 Str Task Name	Tượng Crane
+346038096	MiMissionTaskHandler	Element 17 Str Description	Tượng Crane mở ra lối đi bí mật.
+-1536759668	MiMissionTaskHandler	Element 18 Str Task Name	Răng Chuột
+185976453	MiMissionTaskHandler	Element 18 Str Description	Lấy Răng Chuột về với Yuki.
+-862064588	MiMissionTaskHandler	Element 19 Str Task Name	Tiếng Chim
+-1582463462	MiMissionTaskHandler	Element 19 Str Description	Lấy Tiếng Chim về với Yuki.
+1565087569	MiMissionTaskHandler	Element 20 Str Task Name	Bẩy Bé Bỏng
+-794201257	MiMissionTaskHandler	Element 20 Str Description	Lấy Bẫy Bé Bỏng về với Yuki.
+2051393512	MiMissionTaskHandler	Element 21 Str Task Name	Súng ngắn hỏa mai
+-559070413	MiMissionTaskHandler	Element 21 Str Description	Lấy tất cả súng ngắn hỏa mai.
+1156288113	MiMissionTaskHandler	Element 22 Str Task Name	Kiếm Ninjato
+-1278533114	MiMissionTaskHandler	Element 22 Str Description	Lấy Kiếm Ninjato về với Hayato.
+-633202507	MiMissionTaskHandler	Element 23 Str Task Name	Phi tiêu Shuriken
+654548221	MiMissionTaskHandler	Element 23 Str Description	Lấy Shuriken về với Hayato.
+388996765	usable_dropable_icicle_00	Str Custom Action Name	Sử dụng
+1233277807	usable_dropable_icicle_00	Str Custom Object Name	Cục nước đá
+-1198316586	UITooltipDataClickable_Saveable	Str Display Top	Denisu Hasusake

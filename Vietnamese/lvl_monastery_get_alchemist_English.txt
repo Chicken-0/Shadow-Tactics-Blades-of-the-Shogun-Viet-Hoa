@@ -1,0 +1,42 @@
+1,0,3			
+349234248	MiMissionTaskHandler	Element 0 Str Task Name	Giải cứu Takuma
+-1386181932	MiMissionTaskHandler	Element 0 Str Description	Làm theo cách bạn muốn để tới thác nước và giải cứu Takuma.
+-2024086920	MiMissionTaskHandler	Element 1 Str Task Name	Samurai
+-1924644715	MiMissionTaskHandler	Element 1 Str Description	Đối phó với Samurai đang canh giữ Takuma.
+166422007	MiMissionTaskHandler	Element 2 Str Task Name	Tụ họp
+974095167	MiMissionTaskHandler	Element 2 Str Description	Mugen phải nói chuyện với Takuma ngay khi xử lý xong Samurai.
+-1324768845	MiMissionTaskHandler	Element 3 Str Task Name	Cùng trốn thoát
+-121211609	MiMissionTaskHandler	Element 3 Str Description	Tất cả mọi người trốn khỏi núi Tsuru bằng lối thoát.
+-2059079447	MiMissionTaskHandler	Element 4 Str Task Name	Đường chính
+-591225842	MiMissionTaskHandler	Element 4 Str Description	Rời đi bằng đường chính
+-1004074029	MiMissionTaskHandler	Element 5 Str Task Name	Lối bí mật A
+-2036648663	MiMissionTaskHandler	Element 5 Str Description	Có thể sử dụng bức tượng gần giếng để mở ra lối tắt bí mật.
+269201283	MiMissionTaskHandler	Element 6 Str Task Name	Lối bí mật B
+874702748	MiMissionTaskHandler	Element 6 Str Description	Có thể sử dụng bức tượng gần nghĩa trang để mở ra lối tắt bí mật.
+-553744899	MiMissionTaskHandler	Element 7 Str Task Name	Rung chuông
+1879477878	MiMissionTaskHandler	Element 7 Str Description	Có thể rung cuông để gọi tất cả nhà sư tới niệm kinh và mở đường cho Mugen.
+898822713	MiMissionTaskHandler	Element 8 Str Task Name	Ngụy trang A
+673603820	MiMissionTaskHandler	Element 8 Str Description	Aiko có thể hạ gục đầy tớ ngôi đền và lấy cắp quần áo của cô ấy.
+1269675663	MiMissionTaskHandler	Element 9 Str Task Name	Ngụy trang B
+-245087566	MiMissionTaskHandler	Element 9 Str Description	Aiko có thể lấy trang phục đầy tớ từ giỏ đựng quần áo này.
+797637290	UITooltipDataClickable_Saveable	Str Display Top	Đại Danh
+-133837944	tutorialbox_disguise	Str Header Text	Ngụy trang
+-2039536599	tutorialbox_disguise	Element 0 Str Body Text PC	Aiko có thể mặc lớp ngụy trang để che dấu thân phận và nói chuyện với địch để đánh lạc hướng.
+578325823	tutorialbox_disguise	Element 0 Str Body Text Console	Aiko có thể mặc lớp ngụy trang để che dấu thân phận và nói chuyện với địch để đánh lạc hướng.
+-2050944072	tutorialbox_disguise	Element 1 Str Body Text PC	Nhấn <hotkey>{0}</hotkey> để mặc đồ ngụy trang. Khi đã ngụy trang, nhấn <hotkey>{0}</hotkey>, chọn một mục tiêu và sử dụng <hotkey>{1}</hotkey> để đánh lạc hướng chúng.
+1803205160	tutorialbox_disguise	Element 1 Str Body Text Console	Giữ {0} và sử dụng Ngụy Trang, rồi giữ {1} để mặc nó. Khi đã ngụy trang, tiếp cận mục tiêu và nhấn {2} để đánh lạc hướng chúng.
+-272433019	tutorialbox_disguise	Element 2 Str Body Text PC	Aiko sẽ lộ ngụy trang khi nhảy, leo hoặc bơi.
+-1139953922	tutorialbox_disguise	Element 2 Str Body Text Console	Aiko sẽ lộ ngụy trang khi nhảy, leo hoặc bơi.
+-550143987	tutorialbox_disguise	Element 3 Str Body Text PC	Samurai có thể phát hiện Aiko kể cả khi đã ngụy trang.
+-448902358	tutorialbox_disguise	Element 3 Str Body Text Console	Samurai có thể phát hiện Aiko kể cả khi đã ngụy trang.
+-1761560068	tutorialbox_blind	Str Header Text	Bột Hắt Xì
+1219381423	tutorialbox_blind	Element 0 Str Body Text PC	Bột hắt xì của Aiko có thể làm mù kẻ địch trong vài giây.
+-769477824	tutorialbox_blind	Element 0 Str Body Text Console	Bột hắt xì của Aiko có thể làm mù kẻ địch trong vài giây.
+-548279190	tutorialbox_blind	Element 1 Str Body Text PC	Nhấn <hotkey>{0}</hotkey>, chọn một mục tiêu và sử dụng <hotkey>{1}</hotkey> để ném bột.
+1976287725	tutorialbox_blind	Element 1 Str Body Text Console	Giữ {0} và chọn Bột Hắt Xì. Giữ {1} để ngắm và nhấn {2} để ném.
+-1065883455	tutorialbox_blind	Element 2 Str Body Text PC	Hắt xì sẽ làm giảm tầm nhìn của địch. Tầm nhìn sẽ phục hồi lại sau vài giây.
+1164797633	tutorialbox_blind	Element 2 Str Body Text Console	Hắt xì sẽ làm giảm tầm nhìn của địch. Tầm nhìn sẽ phục hồi lại sau vài giây.
+1373864409	tutorialbox_blind	Element 3 Str Body Text PC	Mẹo: Aiko có lượng bột hắt xì không giới hạn. Hãy dùng nó tẹt ga.
+-315776072	tutorialbox_blind	Element 3 Str Body Text Console	Mẹo: Aiko có lượng bột hắt xì không giới hạn. Hãy dùng nó tẹt ga.
+777500068	UITooltipDataClickable_Saveable	Str Display Top	Domzo Abe
+2101218932	UITooltipDataClickable_Saveable	Str Display Top	Ryota Jojotoro

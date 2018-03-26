@@ -1,0 +1,16 @@
+1,0,3			
+1951240981	MiMissionTaskHandler	Element 0 Str Task Name	Thổi bay kho
+1263516502	MiMissionTaskHandler	Element 0 Str Description	Đặt thùng thuốc súng gần kho tiếp tế và bắn vào nó để thổi bay ngôi nhà.
+-1477602831	MiMissionTaskHandler	Element 1 Str Task Name	Tập hợp nhóm
+1285602772	MiMissionTaskHandler	Element 1 Str Description	Tập trung tại vị trí an toàn gần lều tướng quân Okkoto.
+-1195985696	MiMissionTaskHandler	Element 2 Str Task Name	Giết tướng quân Okkoto
+198365393	MiMissionTaskHandler	Element 2 Str Description	Giết tướng quân Okkoto để kết thúc cuộc nổi loạn.
+1379945351	MiMissionTaskHandler	Element 3 Str Task Name	Chỉ huy phiến quân
+20692585	MiMissionTaskHandler	Element 3 Str Description	Giết chỉ huy để làm rối loạn phiến quân, chúng sẽ tạo sơ hở cho quân đội Mạc Phủ tấn công.
+1123870409	MiMissionTaskHandler	Element 4 Str Task Name	Thùng
+-1779139528	MiMissionTaskHandler	Element 4 Str Description	Nhớ rằng: Chỉ có Mugen có thể mang thùng nặng tới kho tiếp tế.
+1945751014	MiMissionTaskHandler	Element 5 Str Task Name	Thuốc nổ
+-1323036364	MiMissionTaskHandler	Element 5 Str Description	Tất cả hỏa lực sẽ thổi bay thùng thuốc nổ, nhưng súng trường Takuma là lựa chọn an toàn nhất.
+1634864919	missionfail_barrel_blown_up_wrong	Str Description	Không thể hoàn thành mục tiêu của nhiệm vụ.
+-2082953194	UITooltipDataClickable_Saveable	Str Display Top	Firippo Pekotsu
+567873829	UITooltipDataClickable_Saveable	Str Display Top	Okkoto

@@ -1,0 +1,73 @@
+2,3,9													
+PREFIX	TYPE	SUFFIX	NAME	REC.	IMPL.	SPEAKER	MOOD	COMMENT	Vietnamese	EN	CEN	JP	CDE
+vo_eny_eny_	brogunson_	death_scream_00	vo_eny_eny_brogunson_death_scream_00	omuk	hambo	Brogunson	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	brogunson_	death_scream_01	vo_eny_eny_brogunson_death_scream_01	omuk	hambo	Brogunson	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	brogunson_	death_scream_02	vo_eny_eny_brogunson_death_scream_02	omuk	hambo	Brogunson	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	brogunson_	death_scream_03	vo_eny_eny_brogunson_death_scream_03	omuk	hambo	Brogunson	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	brogunson_	death_scream_04	vo_eny_eny_brogunson_death_scream_04	omuk	hambo	Brogunson	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	brogunson_	death_scream_muffled_00	vo_eny_eny_brogunson_death_scream_muffled_00	omuk	hambo	Brogunson	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	brogunson_	death_scream_muffled_01	vo_eny_eny_brogunson_death_scream_muffled_01	omuk	hambo	Brogunson	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	brogunson_	death_scream_muffled_02	vo_eny_eny_brogunson_death_scream_muffled_02	omuk	hambo	Brogunson	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	brogunson_	death_scream_muffled_03	vo_eny_eny_brogunson_death_scream_muffled_03	omuk	hambo	Brogunson	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	brogunson_	death_scream_muffled_04	vo_eny_eny_brogunson_death_scream_muffled_04	omuk	hambo	Brogunson	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	brogunson_	detect_corpse_female_02	vo_eny_eny_brogunson_detect_corpse_female_02	omuk		Brogunson	shocked	sees a corpse	Ah…ả ta đã chết!	Ah…she's dead!	2		0
+vo_eny_eny_	brogunson_	detect_corpse_female_03	vo_eny_eny_brogunson_detect_corpse_female_03	omuk		Brogunson	shocked	sees a corpse	Chúng đã giết ả ta!	They killed her!	3		0
+vo_eny_eny_	brogunson_	detect_corpse_male_00	vo_eny_eny_brogunson_detect_corpse_male_00	omuk		Brogunson	shocked	sees a corpse	Thằng này đã chết!	He's dead!	2		0
+vo_eny_eny_	brogunson_	detect_corpse_male_01	vo_eny_eny_brogunson_detect_corpse_male_01	omuk		Brogunson	shocked	sees a corpse	Chúng…chúng đã giết thằng này!	They…they killed him!	3		0
+vo_eny_eny_	brogunson_	detect_corpse_neutral_00	vo_eny_eny_brogunson_detect_corpse_neutral_00	omuk	hambo	Brogunson	shocked	sees a corpse	Giúp với! Có người chết!	Help! Murder!	2		0
+vo_eny_eny_	brogunson_	detect_corpse_neutral_01	vo_eny_eny_brogunson_detect_corpse_neutral_01	omuk	hambo	Brogunson	shocked	sees a corpse	Có…có kẻ giết người!	There's…there's a killer!	3		0
+vo_eny_eny_	brogunson_	detect_lightsource_00	vo_eny_eny_brogunson_detect_lightsource_00	omuk	hambo	Brogunson	solemn	sees extiguished lamp	Thằng nào thắp lại lửa đi!	Someone fix that light!	4		0
+vo_eny_eny_	brogunson_	detect_lightsource_01	vo_eny_eny_brogunson_detect_lightsource_01	omuk	hambo	Brogunson	solemn	sees extiguished lamp	Đứa nào để lửa tắt?	Who let that go out?	5		0
+vo_eny_eny_	brogunson_	detect_lightsource_02	vo_eny_eny_brogunson_detect_lightsource_02	omuk	hambo	Brogunson	annoyed	sees extiguished lamp	Er, lửa tàn rồi!	Er, the flame died!	4		0
+vo_eny_eny_	brogunson_	detect_player_00	vo_eny_eny_brogunson_detect_player_00	omuk	hambo	Brogunson	frightened	sees a player character	Là chúng!	It's them!	2	JAPANESE	1
+vo_eny_eny_	brogunson_	detect_player_01	vo_eny_eny_brogunson_detect_player_01	omuk	hambo	Brogunson	frightened	sees a player character	Mày!	You!	1	JAPANESE	1
+vo_eny_eny_	brogunson_	detect_player_02	vo_eny_eny_brogunson_detect_player_02	omuk	hambo	Brogunson	frightened	sees a player character	Tao biết mày!	I know you!	3		0
+vo_eny_eny_	brogunson_	detect_player_proximity_00	vo_eny_eny_brogunson_detect_player_proximity_00	omuk	hambo	Brogunson	tense	senses a nearby player character	Có cảm giác…	That feeling…	2		0
+vo_eny_eny_	brogunson_	detect_player_proximity_01	vo_eny_eny_brogunson_detect_player_proximity_01	omuk	hambo	Brogunson	tense	senses a nearby player character	Khóe mắt của tao.	Corner of my eye.	4		0
+vo_eny_eny_	brogunson_	detect_player_proximity_02	vo_eny_eny_brogunson_detect_player_proximity_02	omuk	hambo	Brogunson	tense	senses a nearby player character	Có kẻ đang ở gần đây…	Someone is close…	3		0
+vo_eny_eny_	brogunson_	detect_unconscious_female_01	vo_eny_eny_brogunson_detect_unconscious_female_01	omuk		Brogunson	shocked	sees unconcious person	Ả...ả ta bị đánh khá đau đấy.	She…she was hit hard.	4		0
+vo_eny_eny_	brogunson_	detect_unconscious_female_02	vo_eny_eny_brogunson_detect_unconscious_female_02	omuk		Brogunson	shocked	sees unconcious person	Ả ta ngất xỉu rồi.	She's unconscious.	2		0
+vo_eny_eny_	brogunson_	detect_unconscious_female_03	vo_eny_eny_brogunson_detect_unconscious_female_03	omuk		Brogunson	shocked	sees unconcious person	Ả ta bị tấn công.	She was attacked.	3		0
+vo_eny_eny_	brogunson_	detect_unconscious_male_00	vo_eny_eny_brogunson_detect_unconscious_male_00	omuk		Brogunson	shocked	sees unconcious person	Thằng này bị đánh khá đau đấy.	He was hit hard.	4		0
+vo_eny_eny_	brogunson_	detect_unconscious_male_01	vo_eny_eny_brogunson_detect_unconscious_male_01	omuk		Brogunson	shocked	sees unconcious person	Thằng... thằng này ngất xỉu rồi.	He's…he's unconscious.	2		0
+vo_eny_eny_	brogunson_	detect_unconscious_male_02	vo_eny_eny_brogunson_detect_unconscious_male_02	omuk		Brogunson	shocked	sees unconcious person	Thằng này bị tấn công.	He was attacked!	3		0
+vo_eny_eny_	brogunson_	detect_unconscious_neutral_01	vo_eny_eny_brogunson_detect_unconscious_neutral_01	omuk	hambo	Brogunson	nervous	sees unconcious person	Mày đang làm quái gì ở đây?	What are you doing there?	5		0
+vo_eny_eny_	brogunson_	detect_unconscious_neutral_02	vo_eny_eny_brogunson_detect_unconscious_neutral_02	omuk	hambo	Brogunson	worried	sees unconcious person	Chuyện quái gì thế? Nói! Nói mau!	What happened? Speak! Speak up!	5		0
+vo_eny_eny_	brogunson_	detect_unconscious_neutral_03	vo_eny_eny_brogunson_detect_unconscious_neutral_03	omuk	hambo	Brogunson	nervous	sees unconcious person	Mày ở đây! Mày nằm ở đây! Tại sao mày lại nằm trên đất?	You there! You, over there! Why are you on the ground?	11		0
+vo_eny_eny_	brogunson_	flee_00	vo_eny_eny_brogunson_flee_00	omuk	hambo	Brogunson	panic	player character has been spotted nearby	Tránh ra! Cấm làm tao bị thương!	Stay away! Don't hurt me!	5		0
+vo_eny_eny_	brogunson_	flee_01	vo_eny_eny_brogunson_flee_01	omuk	hambo	Brogunson	panic	player character has been spotted nearby	Đừng…đừng để chúng bắt tao đi!	Don't…don't let them take me away!	6		0
+vo_eny_eny_	brogunson_	flee_02	vo_eny_eny_brogunson_flee_02	omuk	hambo	Brogunson	panic	player character has been spotted nearby	Cứu! Chúng muốn giết tao! Cứu với!	Help! They want to kill me! Help me!	8		0
+vo_eny_eny_	brogunson_	friend_missing_female_00	vo_eny_eny_brogunson_friend_missing_female_00	omuk		Brogunson	annoyed	his partner is missing	Ả ta đâu rồi?	Where is she?	3		0
+vo_eny_eny_	brogunson_	friend_missing_female_01	vo_eny_eny_brogunson_friend_missing_female_01	omuk		Brogunson	annoyed	his partner is missing	Ả ta nên ở đây.	She should be here.	4		0
+vo_eny_eny_	brogunson_	friend_missing_male_00	vo_eny_eny_brogunson_friend_missing_male_00	omuk		Brogunson	annoyed	his partner is missing	Thằng kia đầu rồi?	Where is he?	3		0
+vo_eny_eny_	brogunson_	friend_missing_male_01	vo_eny_eny_brogunson_friend_missing_male_01	omuk		Brogunson	annoyed	his partner is missing	Thằng kia nên ở đây.	He should be here.	4		0
+vo_eny_eny_	brogunson_	friend_missing_neutral_01	vo_eny_eny_brogunson_friend_missing_neutral_01	omuk	hambo	Brogunson	annoyed	his partner is missing	Làm quái gì lâu thế?	What is taking so long?	5		0
+vo_eny_eny_	brogunson_	friend_missing_neutral_02	vo_eny_eny_brogunson_friend_missing_neutral_02	omuk	hambo	Brogunson	annoyed	his partner is missing	Khá lâu rồi đấy…	It's past time…	3		0
+vo_eny_eny_	brogunson_	friend_wakeup_00	vo_eny_eny_brogunson_friend_wakeup_00	omuk	hambo	Brogunson	annoyed	wakes unconcious person	Thôi nào dậy ngay!	Wake up, come on!	4		0
+vo_eny_eny_	brogunson_	friend_wakeup_01	vo_eny_eny_brogunson_friend_wakeup_01	omuk	hambo	Brogunson	annoyed	wakes unconcious person	Thôi lười biếng ngay!	Stop loafing around!	3		0
+vo_eny_eny_	brogunson_	friend_wakeup_02	vo_eny_eny_brogunson_friend_wakeup_02	omuk	hambo	Brogunson	annoyed	wakes unconcious person	Đứng lên, làm việc đi!	Stand up, get to work!	5		0
+vo_eny_eny_	brogunson_	hear_noise_00	vo_eny_eny_brogunson_hear_noise_00	omuk	hambo	Brogunson	startled	hears strange noise	Huh?	Huh?	1		0
+vo_eny_eny_	brogunson_	hear_noise_01	vo_eny_eny_brogunson_hear_noise_01	omuk	hambo	Brogunson	startled	hears strange noise	Huh? Cái gì Cái đéo gì?	Huh? What? What was that?	5		0
+vo_eny_eny_	brogunson_	hear_noise_02	vo_eny_eny_brogunson_hear_noise_02	omuk	hambo	Brogunson	puzzled	hears strange noise	Mmm…tiếng động lạ…	Mmm…strange sound…	2		0
+vo_eny_eny_	brogunson_	hear_noise_directhit_00	vo_eny_eny_brogunson_hear_noise_directhit_00	omuk		Brogunson	puzzled	is hit by stone	Hm? Cái đéo gì trúng tao?!	Hm? What hit me?!	4		0
+vo_eny_eny_	brogunson_	hear_noise_directhit_01	vo_eny_eny_brogunson_hear_noise_directhit_01	omuk		Brogunson	angry	is hit by stone	Agh! Dừng lại ngay!	Agh! Stop it!	3		0
+vo_eny_eny_	brogunson_	hear_noise_directhit_02	vo_eny_eny_brogunson_hear_noise_directhit_02	omuk		Brogunson	angry	is hit by stone	Aaargh!	Aaargh!	1		0
+vo_eny_eny_	brogunson_	hear_noise_gunshot_00	vo_eny_eny_brogunson_hear_noise_gunshot_00	omuk		Brogunson	shocked	hears player gunshot	Có cuộc chiến ở đây! Cứu với!	There's a fight! Help!	4		0
+vo_eny_eny_	brogunson_	hear_noise_gunshot_01	vo_eny_eny_brogunson_hear_noise_gunshot_01	omuk		Brogunson	shocked	hears player gunshot	Bảo vệ tao khỏi hỏa lực của chúng!	Shield me from their fire!	5		0
+vo_eny_eny_	brogunson_	hear_noise_human_00	vo_eny_eny_brogunson_hear_noise_human_00	omuk	hambo	Brogunson	tense	hears human noise	Có ai đó ở đây?	Is someone there?	3		0
+vo_eny_eny_	brogunson_	hear_noise_human_01	vo_eny_eny_brogunson_hear_noise_human_01	omuk	hambo	Brogunson	afraid	hears human noise	Ra mặt đi!	Come out!	2		0
+vo_eny_eny_	brogunson_	hear_noise_human_02	vo_eny_eny_brogunson_hear_noise_human_02	omuk	hambo	Brogunson	afraid	hears human noise	Đừng nấp nữa!	Stop hiding!	2		0
+vo_eny_eny_	brogunson_	hear_noise_too_much_00	vo_eny_eny_brogunson_hear_noise_too_much_00	omuk	hambo	Brogunson	annoyed	irritated by a continuous string of strange noises	Dừng lại ngay.	Stop this at once!	4		0
+vo_eny_eny_	brogunson_	hear_noise_too_much_01	vo_eny_eny_brogunson_hear_noise_too_much_01	omuk	hambo	Brogunson	anxious	irritated by a continuous string of strange noises	Mày biết cha tao là ai không hả?	Do you know who my father is?	7		0
+vo_eny_eny_	brogunson_	hear_noise_too_much_02	vo_eny_eny_brogunson_hear_noise_too_much_02	omuk	hambo	Brogunson	annoyed	irritated by a continuous string of strange noises	Lính của tao sẽ hạ mày!	My guards will break you!	5		0
+vo_eny_eny_	brogunson_	knockout_scream_00	vo_eny_eny_brogunson_knockout_scream_00	omuk	hambo	Brogunson	pain	(sound) gets knocked out			0		0
+vo_eny_eny_	brogunson_	knockout_scream_01	vo_eny_eny_brogunson_knockout_scream_01	omuk	hambo	Brogunson	pain	(sound) gets knocked out			0		0
+vo_eny_eny_	brogunson_	knockout_scream_02	vo_eny_eny_brogunson_knockout_scream_02	omuk	hambo	Brogunson	pain	(sound) gets knocked out			0		0
+vo_eny_eny_	brogunson_	regain_consciousness_00	vo_eny_eny_brogunson_regain_consciousness_00	omuk	hambo	Brogunson	headache	knocked out, wakes up	Ugh, đầu của tao.	Ugh, my head.	3		0
+vo_eny_eny_	brogunson_	regain_consciousness_01	vo_eny_eny_brogunson_regain_consciousness_01	omuk	hambo	Brogunson	headache	knocked out, wakes up	Ooh, oh đau quá.	Ooh, oh that hurt.	4		0
+vo_eny_eny_	brogunson_	regain_consciousness_02	vo_eny_eny_brogunson_regain_consciousness_02	omuk	hambo	Brogunson	afraid	knocked out, wakes up	Ah! C-cái đéo gì tấn công tao?	Ah! W-what attacked me?	4		0
+vo_eny_eny_	brogunson_	see_something_00	vo_eny_eny_brogunson_see_something_00	omuk	hambo	Brogunson	curious	sees something strange	Cái gì?	What?	1		0
+vo_eny_eny_	brogunson_	see_something_01	vo_eny_eny_brogunson_see_something_01	omuk	hambo	Brogunson	curious	sees something strange	Huh?	Huh?	1		0
+vo_eny_eny_	brogunson_	see_something_02	vo_eny_eny_brogunson_see_something_02	omuk	hambo	Brogunson	curious	sees something strange	Có gì đó…	Something…	1		0
+													
+									WORDCOUNT EN:	WORDCOUNT EN:	197	WORDCOUNT DE:	2

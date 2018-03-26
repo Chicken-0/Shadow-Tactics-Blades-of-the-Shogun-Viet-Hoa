@@ -1,0 +1,165 @@
+2,3,9													
+PREFIX	TYPE	SUFFIX	NAME	REC.	IMPL.	SPEAKER	MOOD	COMMENT	EN	EN	CEN	JP	CDE
+vo_eny_eny_	civilian_01_	carry_object_00	vo_eny_eny_civilian_01_carry_object_00	omuk		Civilian F		(sound) carries heavy object			0		0
+vo_eny_eny_	civilian_01_	clear_throat_00	vo_eny_eny_civilian_01_clear_throat_00	omuk		Civilian F		(sound) clears throat			0		0
+vo_eny_eny_	civilian_01_	cough_00	vo_eny_eny_civilian_01_cough_00	omuk		Civilian F		(sound) coughs			0		0
+vo_eny_eny_	civilian_01_	death_scream_00	vo_eny_eny_civilian_01_death_scream_00	omuk	hambo	Civilian F	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	civilian_01_	death_scream_01	vo_eny_eny_civilian_01_death_scream_01	omuk	hambo	Civilian F	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	civilian_01_	death_scream_02	vo_eny_eny_civilian_01_death_scream_02	omuk	hambo	Civilian F	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	civilian_01_	death_scream_03	vo_eny_eny_civilian_01_death_scream_03	omuk	hambo	Civilian F	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	civilian_01_	death_scream_04	vo_eny_eny_civilian_01_death_scream_04	omuk	hambo	Civilian F	shocked	(sound) short deathsound			0		0
+vo_eny_eny_	civilian_01_	death_scream_muffled_00	vo_eny_eny_civilian_01_death_scream_muffled_00	omuk	hambo	Civilian F	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	civilian_01_	death_scream_muffled_01	vo_eny_eny_civilian_01_death_scream_muffled_01	omuk	hambo	Civilian F	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	civilian_01_	death_scream_muffled_02	vo_eny_eny_civilian_01_death_scream_muffled_02	omuk	hambo	Civilian F	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	civilian_01_	death_scream_muffled_03	vo_eny_eny_civilian_01_death_scream_muffled_03	omuk	hambo	Civilian F	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	civilian_01_	death_scream_muffled_04	vo_eny_eny_civilian_01_death_scream_muffled_04	omuk	hambo	Civilian F	struggling	(sound) muffled deathsound			0		0
+vo_eny_eny_	civilian_01_	detect_corpse_female_02	vo_eny_eny_civilian_01_detect_corpse_female_02	omuk		Civilian F	in denial	sees a corpse	Cô ấy đã chết! Không...	She's dead! No…	3		0
+vo_eny_eny_	civilian_01_	detect_corpse_female_03	vo_eny_eny_civilian_01_detect_corpse_female_03	omuk		Civilian F	horrified	sees a corpse	Chúng đã giết cô ấy!	They killed her!	3		0
+vo_eny_eny_	civilian_01_	detect_corpse_male_00	vo_eny_eny_civilian_01_detect_corpse_male_00	omuk		Civilian F	horrified	sees a corpse	Anh ta đã chết! Không...	He's dead! No…	3		0
+vo_eny_eny_	civilian_01_	detect_corpse_male_01	vo_eny_eny_civilian_01_detect_corpse_male_01	omuk		Civilian F	horrified	sees a corpse	Chúng đã giết anh ta!	They killed him!	3		0
+vo_eny_eny_	civilian_01_	detect_corpse_neutral_00	vo_eny_eny_civilian_01_detect_corpse_neutral_00	omuk	hambo	Civilian F	horrified	sees a corpse	Làm ơn, đứng lên đi mà.	Please, stand up.	3		0
+vo_eny_eny_	civilian_01_	detect_corpse_neutral_01	vo_eny_eny_civilian_01_detect_corpse_neutral_01	omuk	hambo	Civilian F	horrified	sees a corpse	Tàn nhẫn quá!	How horrible!	2		0
+vo_eny_eny_	civilian_01_	detect_footsteps_00	vo_eny_eny_civilian_01_detect_footsteps_00	omuk	hambo	Civilian F	puzzled	sees player footprints	Hm! Tò mò ghê.	Hm! Curious.	2		0
+vo_eny_eny_	civilian_01_	detect_footsteps_01	vo_eny_eny_civilian_01_detect_footsteps_01	omuk	hambo	Civilian F	puzzled	sees player footprints	Ai đi bằng lối này vậy nhỉ?	Who came this way?	4		0
+vo_eny_eny_	civilian_01_	detect_footsteps_02	vo_eny_eny_civilian_01_detect_footsteps_02	omuk	hambo	Civilian F	puzzled	sees player footprints	Có người vừa mới đi qua đây ư?	Were these here before?	4		0
+vo_eny_eny_	civilian_01_	detect_lightsource_00	vo_eny_eny_civilian_01_detect_lightsource_00	omuk	hambo	Civilian F	worried	sees extiguished lamp, but…	Chả có ai trông coi ngọn lửa này.	No one took care of the flame.	7		0
+vo_eny_eny_	civilian_01_	detect_lightsource_01	vo_eny_eny_civilian_01_detect_lightsource_01	omuk	hambo	Civilian F	worried	sees extiguished lamp, but…	Ai để lửa tắt vậy?	Who let the flame go out?	6		0
+vo_eny_eny_	civilian_01_	detect_lightsource_02	vo_eny_eny_civilian_01_detect_lightsource_02	omuk	hambo	Civilian F	worried	sees extiguished lamp, but…	Mình phải thắp lại ngọn lửa.	I must relight the flame.	5		0
+vo_eny_eny_	civilian_01_	detect_player_00	vo_eny_eny_civilian_01_detect_player_00	omuk	hambo	Civilian F	frightened	sees a player character	Không! Để tôi yên!	No! Leave me be!	4		0
+vo_eny_eny_	civilian_01_	detect_player_01	vo_eny_eny_civilian_01_detect_player_01	omuk	hambo	Civilian F	frightened	sees a player character	Đừng làm tôi bị thương!	Don't hurt me!	3		0
+vo_eny_eny_	civilian_01_	detect_player_02	vo_eny_eny_civilian_01_detect_player_02	omuk	hambo	Civilian F	frightened	sees a player character	Aah! Ai đó cứu với!	Aah! Someone help!	3		0
+vo_eny_eny_	civilian_01_	detect_player_proximity_00	vo_eny_eny_civilian_01_detect_player_proximity_00	omuk	hambo	Civilian F	anxious	senses a nearby player character	Có ai đó ở phía sau tôi?	Is someone behind me?	4		0
+vo_eny_eny_	civilian_01_	detect_player_proximity_01	vo_eny_eny_civilian_01_detect_player_proximity_01	omuk	hambo	Civilian F	anxious	senses a nearby player character	Tôi đang bị theo dõi?	Am I being watched?	4		0
+vo_eny_eny_	civilian_01_	detect_player_proximity_02	vo_eny_eny_civilian_01_detect_player_proximity_02	omuk	hambo	Civilian F	anxious	senses a nearby player character	Cảm giác như đôi mắt ác quỷ đang nhìn tôi.	I feel evil eyes on me.	6		0
+vo_eny_eny_	civilian_01_	detect_sake_00	vo_eny_eny_civilian_01_detect_sake_00	omuk	hambo	Civilian F	happy	wants to pick up the sake bottle	Ah! Món quà tuyệt vời cho chồng yêu…	Ah! A perfect gift for my husband…	7		0
+vo_eny_eny_	civilian_01_	detect_sake_01	vo_eny_eny_civilian_01_detect_sake_01	omuk	hambo	Civilian F	happy	wants to pick up the sake bottle	Tối nay sẽ lãng mạn lắm đây.	This will sweeten our evening.	5		0
+vo_eny_eny_	civilian_01_	detect_sake_02	vo_eny_eny_civilian_01_detect_sake_02	omuk	hambo	Civilian F	happy	wants to pick up the sake bottle	Huh! Mấy anh lính thích thứ này.	Huh! The men will like this.	6		0
+vo_eny_eny_	civilian_01_	detect_tanuki_00	vo_eny_eny_civilian_01_detect_tanuki_00	omuk	hambo	Civilian F	giggling	sees the tanuki	Oh, đáng yêu ghê!	Oh, how sweet!	3		0
+vo_eny_eny_	civilian_01_	detect_tanuki_01	vo_eny_eny_civilian_01_detect_tanuki_01	omuk	hambo	Civilian F	happy	sees the tanuki	Oh, mày thật buồn cười.	Oh, you are funny.	4		0
+vo_eny_eny_	civilian_01_	detect_tanuki_02	vo_eny_eny_civilian_01_detect_tanuki_02	omuk	hambo	Civilian F	kind	sees the tanuki	Đang nghĩ gì vậy chú nhóc?	What's on your mind, little one?	6		0
+vo_eny_eny_	civilian_01_	detect_unconscious_female_01	vo_eny_eny_civilian_01_detect_unconscious_female_01	omuk		Civilian F	shocked	sees unconcious person	Cô ấy bị đánh rất tệ.	She was hit badly.	4		0
+vo_eny_eny_	civilian_01_	detect_unconscious_female_02	vo_eny_eny_civilian_01_detect_unconscious_female_02	omuk		Civilian F	shocked	sees unconcious person	Oh…cô ấy ngất xỉu.	Oh…she is unconscious.	3		0
+vo_eny_eny_	civilian_01_	detect_unconscious_female_03	vo_eny_eny_civilian_01_detect_unconscious_female_03	omuk		Civilian F	shocked	sees unconcious person	Cô ấy bị tấn công.	She was attacked.	3		0
+vo_eny_eny_	civilian_01_	detect_unconscious_male_00	vo_eny_eny_civilian_01_detect_unconscious_male_00	omuk		Civilian F	shocked	sees unconcious person	Anh ấy bị đánh rất tệ.	He was hit badly.	4		0
+vo_eny_eny_	civilian_01_	detect_unconscious_male_01	vo_eny_eny_civilian_01_detect_unconscious_male_01	omuk		Civilian F	shocked	sees unconcious person	Mm, anh ấy bị ngất xỉu.	Mm, he is unconscious.	4		0
+vo_eny_eny_	civilian_01_	detect_unconscious_male_02	vo_eny_eny_civilian_01_detect_unconscious_male_02	omuk		Civilian F	shocked	sees unconcious person	Anh ấy bị tấn công.	He was attacked.	3		0
+vo_eny_eny_	civilian_01_	detect_unconscious_neutral_01	vo_eny_eny_civilian_01_detect_unconscious_neutral_01	omuk	hambo	Civilian F	afraid	sees unconcious person	Làm ơn dậy đi!	Wake up, please!	3		0
+vo_eny_eny_	civilian_01_	detect_unconscious_neutral_02	vo_eny_eny_civilian_01_detect_unconscious_neutral_02	omuk	hambo	Civilian F	anxious	sees unconcious person	Ai đã gây ra chuyện này thế?	Who did this to you?	5		0
+vo_eny_eny_	civilian_01_	detect_unconscious_neutral_03	vo_eny_eny_civilian_01_detect_unconscious_neutral_03	omuk	hambo	Civilian F	perplexed	sees unconcious person	Có phải đang ngủ không?	Did you fall asleep?	4		0
+vo_eny_eny_	civilian_01_	drink_weeping_00	vo_eny_eny_civilian_01_drink_weeping_00	omuk		Civilian F		(sound) weeping			0		0
+vo_eny_eny_	civilian_01_	drop_object_00	vo_eny_eny_civilian_01_drop_object_00	omuk		Civilian F		(sound) lays down heavy object			0		0
+vo_eny_eny_	civilian_01_	fetch_guard_00	vo_eny_eny_civilian_01_fetch_guard_00	omuk	hambo	Civilian F	begging	points guard to where she saw a player character	Làm ơn! Anh phải giúp tôi!	Please! You must help!	4		0
+vo_eny_eny_	civilian_01_	fetch_guard_01	vo_eny_eny_civilian_01_fetch_guard_01	omuk	hambo	Civilian F	urgent	points guard to where she saw a player character	Đằng kia có nguy hiểm! Làm ơn giúp với!	There's danger! Please help!	4		0
+vo_eny_eny_	civilian_01_	fetch_guard_02	vo_eny_eny_civilian_01_fetch_guard_02	omuk	hambo	Civilian F	excited	points guard to where she saw a player character	Tôi thấy kẻ tấn công!	I saw the attacker!	4		0
+vo_eny_eny_	civilian_01_	friend_missing_female_00	vo_eny_eny_civilian_01_friend_missing_female_00	omuk		Civilian F	worried	her partner is missing	Cô ấy đâu rồi?	Where is she?	3		0
+vo_eny_eny_	civilian_01_	friend_missing_female_01	vo_eny_eny_civilian_01_friend_missing_female_01	omuk		Civilian F	worried	her partner is missing	Cô ấy phải ở đây.	She should be here.	4		0
+vo_eny_eny_	civilian_01_	friend_missing_male_00	vo_eny_eny_civilian_01_friend_missing_male_00	omuk		Civilian F	worried	her partner is missing	Hm…anh ta đâu rồi?	Hm…where is he?	3		0
+vo_eny_eny_	civilian_01_	friend_missing_male_01	vo_eny_eny_civilian_01_friend_missing_male_01	omuk		Civilian F	worried	her partner is missing	Anh ta phải ở đây.	He should be here.	4		0
+vo_eny_eny_	civilian_01_	friend_missing_neutral_01	vo_eny_eny_civilian_01_friend_missing_neutral_01	omuk	hambo	Civilian F	tired	her partner is missing	Ugh, mình phải chờ thêm chút nữa!	Ugh, I am kept waiting again!	6		0
+vo_eny_eny_	civilian_01_	friend_missing_neutral_02	vo_eny_eny_civilian_01_friend_missing_neutral_02	omuk	hambo	Civilian F	rationalizing	her partner is missing	Có phải đang cao su không.	There must have been a delay.	6		0
+vo_eny_eny_	civilian_01_	friend_wakeup_00	vo_eny_eny_civilian_01_friend_wakeup_00	omuk	hambo	Civilian F	afraid	wakes unconcious person	Làm ơn dậy đi!	Please, wake up!	3		0
+vo_eny_eny_	civilian_01_	friend_wakeup_01	vo_eny_eny_civilian_01_friend_wakeup_01	omuk	hambo	Civilian F	nervous	wakes unconcious person	Tại sao đang ngủ vậy?	Why are you sleeping?	4		0
+vo_eny_eny_	civilian_01_	friend_wakeup_02	vo_eny_eny_civilian_01_friend_wakeup_02	omuk	hambo	Civilian F	afraid	wakes unconcious person	Bị thương hả?	Are you hurt?	3		0
+vo_eny_eny_	civilian_01_	hard_work_00	vo_eny_eny_civilian_01_hard_work_00	omuk		Civilian F		(sound) pushing cart, plowing field			0		0
+vo_eny_eny_	civilian_01_	hear_noise_00	vo_eny_eny_civilian_01_hear_noise_00	omuk	hambo	Civilian F	puzzled	hears strange noise	Đó là tiếng động lạ.	What a strange sound.	4		0
+vo_eny_eny_	civilian_01_	hear_noise_01	vo_eny_eny_civilian_01_hear_noise_01	omuk	hambo	Civilian F	puzzled	hears strange noise	Hm…tiếng ồn kỳ lạ!	Hm…curious noise!	2		0
+vo_eny_eny_	civilian_01_	hear_noise_02	vo_eny_eny_civilian_01_hear_noise_02	omuk	hambo	Civilian F	puzzled	hears strange noise	Mình nghe được cái gì thế nhỉ?	What did I hear?	4		0
+vo_eny_eny_	civilian_01_	hear_noise_directhit_00	vo_eny_eny_civilian_01_hear_noise_directhit_00	omuk		Civilian F	afraid	is hit by stone	Ah! Tôi xin anh dừng lại đi!	Ah! I beg you, stop!	5		0
+vo_eny_eny_	civilian_01_	hear_noise_directhit_01	vo_eny_eny_civilian_01_hear_noise_directhit_01	omuk		Civilian F	afraid	is hit by stone	Ugh! Tại sao anh hành hạ tôi?	Ugh! Why are you tormenting me?	6		0
+vo_eny_eny_	civilian_01_	hear_noise_directhit_02	vo_eny_eny_civilian_01_hear_noise_directhit_02	omuk		Civilian F	afraid	is hit by stone	Agh! …Tôi không hiểu.	Agh! …I don't understand.	4		0
+vo_eny_eny_	civilian_01_	hear_noise_gunshot_00	vo_eny_eny_civilian_01_hear_noise_gunshot_00	omuk		Civilian F	in panic	hears player gunshot	Oh không!	Oh no!	2		0
+vo_eny_eny_	civilian_01_	hear_noise_gunshot_01	vo_eny_eny_civilian_01_hear_noise_gunshot_01	omuk		Civilian F	in panic	hears player gunshot	Hỏa lực!	Firearms!	1		0
+vo_eny_eny_	civilian_01_	hear_noise_gunshot_02	vo_eny_eny_civilian_01_hear_noise_gunshot_02	omuk		Civilian F	in panic	hears player gunshot	Choảng nhau! Té gấp thôi!	A fight! Run!	3		0
+vo_eny_eny_	civilian_01_	hear_noise_human_00	vo_eny_eny_civilian_01_hear_noise_human_00	omuk	hambo	Civilian F	nervous	hears human noise	Ai kia?	Who is there?	3		0
+vo_eny_eny_	civilian_01_	hear_noise_human_01	vo_eny_eny_civilian_01_hear_noise_human_01	omuk	hambo	Civilian F	nervous	hears human noise	Làm ơn lộ mặt coi!	Please, show yourself!	3		0
+vo_eny_eny_	civilian_01_	hear_noise_human_02	vo_eny_eny_civilian_01_hear_noise_human_02	omuk	hambo	Civilian F	nervous	hears human noise	Ta cảnh báo ngươi, ta sẽ gọi người giúp đấy!	I warn you, I will call for help!	8		0
+vo_eny_eny_	civilian_01_	hear_noise_too_much_00	vo_eny_eny_civilian_01_hear_noise_too_much_00	omuk	hambo	Civilian F	fearful	unnerved by a continuous string of strange noises	Tôi xin anh dừng lại đi!	I beg you, stop!	4		0
+vo_eny_eny_	civilian_01_	hear_noise_too_much_01	vo_eny_eny_civilian_01_hear_noise_too_much_01	omuk	hambo	Civilian F	fearful	unnerved by a continuous string of strange noises	Tại sao các anh lại hành hạ tôi?	Why are you tormenting me?	5		0
+vo_eny_eny_	civilian_01_	hear_noise_too_much_02	vo_eny_eny_civilian_01_hear_noise_too_much_02	omuk	hambo	Civilian F	fearful	unnerved by a continuous string of strange noises	Linh hồn quỷ dữ…Mình cảm giác được nó.	Evil spirits…I feel them.	4		0
+vo_eny_eny_	civilian_01_	hum_00	vo_eny_eny_civilian_01_hum_00	omuk		Civilian F		(sound) humming tune			0		0
+vo_eny_eny_	civilian_01_	investigate_end_00	vo_eny_eny_civilian_01_investigate_end_00	omuk	hambo	Civilian F	reassuring	(not like in squad)	Huh…Mình phải tưởng tượng ra nó.	Huh…I must have imagined it.	5		0
+vo_eny_eny_	civilian_01_	investigate_end_01	vo_eny_eny_civilian_01_investigate_end_01	omuk	hambo	Civilian F	reassuring	(not like in squad)	Tâm trí đang chơi đểu mình.	My mind is playing tricks on me.	7		0
+vo_eny_eny_	civilian_01_	investigate_end_02	vo_eny_eny_civilian_01_investigate_end_02	omuk	hambo	Civilian F	reassuring	(not like in squad)	Mình không nên nán lại.	I shouldn't linger.	3		0
+vo_eny_eny_	civilian_01_	knockout_scream_00	vo_eny_eny_civilian_01_knockout_scream_00	omuk	hambo	Civilian F	stunned	(sound) gets knocked out			0		0
+vo_eny_eny_	civilian_01_	knockout_scream_01	vo_eny_eny_civilian_01_knockout_scream_01	omuk	hambo	Civilian F	stunned	(sound) gets knocked out			0		0
+vo_eny_eny_	civilian_01_	knockout_scream_02	vo_eny_eny_civilian_01_knockout_scream_02	omuk	hambo	Civilian F	stunned	(sound) gets knocked out			0		0
+vo_eny_eny_	civilian_01_	oxwagondrive_00	vo_eny_eny_civilian_01_oxwagondrive_00	omuk		Civilian F		unused, don't record			0		0
+vo_eny_eny_	civilian_01_	oxwagonhalt_00	vo_eny_eny_civilian_01_oxwagonhalt_00	omuk		Civilian F		unused, don't record			0		0
+vo_eny_eny_	civilian_01_	pickup_object_00	vo_eny_eny_civilian_01_pickup_object_00	omuk		Civilian F		(sound) picks up heavy object			0		0
+vo_eny_eny_	civilian_01_	regain_consciousness_00	vo_eny_eny_civilian_01_regain_consciousness_00	omuk	hambo	Civilian F	in pain	knocked out, wakes up	Oh, đau quá…	Oh, it hurts…	3		0
+vo_eny_eny_	civilian_01_	regain_consciousness_01	vo_eny_eny_civilian_01_regain_consciousness_01	omuk	hambo	Civilian F	in pain	knocked out, wakes up	Đ-ầu mình…	M-my head…	2		0
+vo_eny_eny_	civilian_01_	regain_consciousness_02	vo_eny_eny_civilian_01_regain_consciousness_02	omuk	hambo	Civilian F	in pain	knocked out, wakes up	Có phải con vật nào không?	Was it an animal?	4		0
+vo_eny_eny_	civilian_01_	see_something_00	vo_eny_eny_civilian_01_see_something_00	omuk	hambo	Civilian F	skeptical	sees something strange	Oh, kỳ lạ thật…	Oh, that's strange…	3		0
+vo_eny_eny_	civilian_01_	see_something_01	vo_eny_eny_civilian_01_see_something_01	omuk	hambo	Civilian F	puzzled	sees something strange	Tò mò ghê.	How curious.	2		0
+vo_eny_eny_	civilian_01_	see_something_02	vo_eny_eny_civilian_01_see_something_02	omuk	hambo	Civilian F	disturbed	sees something strange	Cái gì thế?	What is that?	3		0
+vo_eny_eny_	civilian_01_	skill_tanuki_done_00	vo_eny_eny_civilian_01_skill_tanuki_done_00	omuk	hambo	Civilian F	back to work	stops watching tanuki (racoon)	Aw…Tao phải đi rồi, nhóc con.	Aw…I must go, little one.	5		0
+vo_eny_eny_	civilian_01_	skill_tanuki_done_01	vo_eny_eny_civilian_01_skill_tanuki_done_01	omuk	hambo	Civilian F	goodbye	stops watching tanuki (racoon)	Vĩnh biệt. Hãy bảo trọng.	Farewell. Be safe.	3		0
+vo_eny_eny_	civilian_01_	skill_tanuki_done_02	vo_eny_eny_civilian_01_skill_tanuki_done_02	omuk	hambo	Civilian F	apologetic	stops watching tanuki (racoon)	Tha lỗi cho tao, tao không có thức ăn cho mày.	Forgive me, I have no food for you.	8		0
+vo_eny_eny_	civilian_01_	skill_tanuki_runaway_00	vo_eny_eny_civilian_01_skill_tanuki_runaway_00	omuk	hambo	Civilian F	goodbye	tanuki runs away	Được, đi theo mày!	All right, off you go!	5		0
+vo_eny_eny_	civilian_01_	skill_tanuki_runaway_01	vo_eny_eny_civilian_01_skill_tanuki_runaway_01	omuk	hambo	Civilian F	annoyed	tanuki runs away	Được thôi, đi với mày.	That's right, away with you.	5		0
+vo_eny_eny_	civilian_01_	skill_tanuki_runaway_02	vo_eny_eny_civilian_01_skill_tanuki_runaway_02	omuk	hambo	Civilian F	back to work	tanuki runs away	Nó đã đi. …quay lại làm việc thôi.	There he goes. …back to work.	6		0
+vo_eny_eny_	civilian_01_	talk_geisha_00	vo_eny_eny_civilian_01_talk_geisha_00	omuk		Civilian F	polite	is approached by Geisha (Excuse me …)	Hmm?	Hmm?	1		0
+vo_eny_eny_	civilian_01_	talk_geisha_01	vo_eny_eny_civilian_01_talk_geisha_01	omuk		Civilian F	polite	is approached by Geisha (Excuse me …)	Có hả?	Yes?	1		0
+vo_eny_eny_	civilian_01_	talk_geisha_02	vo_eny_eny_civilian_01_talk_geisha_02	omuk		Civilian F	polite	is approached by Geisha (Excuse me …)	Vui đấy.	A pleasure.	2		0
+vo_eny_eny_	civilian_01_	talk_geisha_03	vo_eny_eny_civilian_01_talk_geisha_03	omuk		Civilian F	polite	is approached by Geisha (Excuse me …)	Tôi có thể giúp gì không?	How can I help?	4		0
+vo_eny_eny_	civilian_01_	talk_geisha_04	vo_eny_eny_civilian_01_talk_geisha_04	omuk		Civilian F	polite	is approached by Geisha (Excuse me …)	Ngày tốt lành.	Good day.	2		0
+vo_eny_eny_	civilian_01_	talk_geisha_leave_00	vo_eny_eny_civilian_01_talk_geisha_leave_00	omuk		Civilian F	polite	is left by Geisha (I thank you. Farewell ...)	Tạm biệt!	Goodbye!	1		0
+vo_eny_eny_	civilian_01_	talk_geisha_leave_01	vo_eny_eny_civilian_01_talk_geisha_leave_01	omuk		Civilian F	polite	is left by Geisha (I thank you. Farewell ...)	Tôi hi vọng tôi có thể giúp.	I hope I could help.	5		0
+vo_eny_eny_	civilian_01_	talk_geisha_leave_02	vo_eny_eny_civilian_01_talk_geisha_leave_02	omuk		Civilian F	polite	is left by Geisha (I thank you. Farewell ...)	Không có gì đâu.	It was nothing.	3		0
+vo_eny_eny_	civilian_01_	talk_geisha_leave_03	vo_eny_eny_civilian_01_talk_geisha_leave_03	omuk		Civilian F	polite	is left by Geisha (I thank you. Farewell ...)	Vĩnh biệt!	Farewell!	1		0
+vo_eny_eny_	civilian_01_	talk_geisha_leave_04	vo_eny_eny_civilian_01_talk_geisha_leave_04	omuk		Civilian F	polite	is left by Geisha (I thank you. Farewell ...)	Từ biệt.	Farewell.	1		0
+vo_gothic_gothic_	civilian_01_	talk_idle_00	vo_gothic_gothic_civilian_01_talk_idle_00	omuk		Civilian F	relaxed	(sound) humming tune			0		0
+vo_gothic_gothic_	civilian_01_	talk_idle_01	vo_gothic_gothic_civilian_01_talk_idle_01	omuk		Civilian F		(sound) sneeze			0		0
+vo_gothic_gothic_	civilian_01_	talk_idle_02	vo_gothic_gothic_civilian_01_talk_idle_02	omuk		Civilian F	surprised	to herself, slight mumbling	Hmmm…	Hmmm…	1		0
+vo_gothic_gothic_	civilian_01_	talk_idle_03	vo_gothic_gothic_civilian_01_talk_idle_03	omuk		Civilian F	surprised	to herself, slight mumbling	Ah!	Ah!	1		0
+vo_gothic_gothic_	civilian_01_	talk_idle_04	vo_gothic_gothic_civilian_01_talk_idle_04	omuk		Civilian F	in thought	to herself, slight mumbling	Hmm.	Hmm.	1		0
+vo_gothic_gothic_	civilian_01_	talk_idle_05	vo_gothic_gothic_civilian_01_talk_idle_05	omuk		Civilian F	in thought	to herself, slight mumbling	Hmm. Đúng rồi!	Hmm. Yes!	2		0
+vo_gothic_gothic_	civilian_01_	talk_idle_06	vo_gothic_gothic_civilian_01_talk_idle_06	omuk		Civilian F	relaxed	long exhale	Ahhh…	Ahhh…	1		0
+vo_gothic_gothic_	civilian_01_	talk_idle_afraid_00	vo_gothic_gothic_civilian_01_talk_idle_afraid_00	omuk		Civilian F	afraid	weak, helpless	…Không!	…No!	1		0
+vo_gothic_gothic_	civilian_01_	talk_idle_afraid_01	vo_gothic_gothic_civilian_01_talk_idle_afraid_01	omuk		Civilian F	afraid	weak, helpless	…tại sao…?	…why…?	1		0
+vo_gothic_gothic_	civilian_01_	talk_idle_afraid_02	vo_gothic_gothic_civilian_01_talk_idle_afraid_02	omuk		Civilian F	afraid	weak, helpless	…làm ơn…	…please…	1		0
+vo_gothic_gothic_	civilian_01_	talk_idle_afraid_03	vo_gothic_gothic_civilian_01_talk_idle_afraid_03	omuk		Civilian F	afraid	weak, helpless	Cứu! Cứu với…	Help! Help…	2		0
+vo_gothic_gothic_	civilian_01_	talk_idle_afraid_04	vo_gothic_gothic_civilian_01_talk_idle_afraid_04	omuk		Civilian F	afraid	weak, helpless	…ai đó…	…anyone…	1		0
+vo_gothic_gothic_	civilian_01_	talk_idle_night_00	vo_gothic_gothic_civilian_01_talk_idle_night_00	omuk		Civilian F	tired	mumbling	Mmm, sa kê.	Mmm, sake.	2		0
+vo_gothic_gothic_	civilian_01_	talk_idle_night_01	vo_gothic_gothic_civilian_01_talk_idle_night_01	omuk		Civilian F	tired	mumbling	Ah…mình có cả ngày như thế rồi.	Ah…I've been up all day.	5		0
+vo_gothic_gothic_	civilian_01_	talk_idle_night_02	vo_gothic_gothic_civilian_01_talk_idle_night_02	omuk		Civilian F	tired	mumbling	Sao đêm này đẹp thật.	The stars look beautiful tonight.	5		0
+vo_gothic_gothic_	civilian_01_	talk_idle_night_03	vo_gothic_gothic_civilian_01_talk_idle_night_03	omuk		Civilian F	tired	(sound) short yawn			0		0
+vo_gothic_gothic_	civilian_01_	talk_idle_night_04	vo_gothic_gothic_civilian_01_talk_idle_night_04	omuk		Civilian F	tired	(sound) longer yawn			0		0
+vo_gothic_gothic_	civilian_01_	talk_idle_snow_00	vo_gothic_gothic_civilian_01_talk_idle_snow_00	omuk		Civilian F	cold	mumbling	Ah! Bông tuyết!	Ah! Snowflakes!	2		0
+vo_gothic_gothic_	civilian_01_	talk_idle_snow_01	vo_gothic_gothic_civilian_01_talk_idle_snow_01	omuk		Civilian F	cold	mumbling	Đóng băng luôn rồi.	It's freezing.	2		0
+vo_gothic_gothic_	civilian_01_	talk_idle_snow_02	vo_gothic_gothic_civilian_01_talk_idle_snow_02	omuk		Civilian F	cold	mumbling	Oh! Lạnh quá!	Oh! So cold!	3		0
+vo_gothic_gothic_	civilian_01_	talk_npc_00	vo_gothic_gothic_civilian_01_talk_npc_00	omuk		Civilian F	dismissive	dialog without topic	Tôi không quan tâm nó.	That doesn't concern me.	4		0
+vo_gothic_gothic_	civilian_01_	talk_npc_01	vo_gothic_gothic_civilian_01_talk_npc_01	omuk		Civilian F	aggree	dialog without topic	Mm. Biết thế đủ rồi.	Mm. That much is known.	5		0
+vo_gothic_gothic_	civilian_01_	talk_npc_02	vo_gothic_gothic_civilian_01_talk_npc_02	omuk		Civilian F	dismissive	dialog without topic	Ah, đừng tin vào những gì mà cậu nghe thấy được.	Ah, you shouldn't believe everything you hear.	7		0
+vo_gothic_gothic_	civilian_01_	talk_npc_03	vo_gothic_gothic_civilian_01_talk_npc_03	omuk		Civilian F	disagree	dialog without topic	Tôi nghe ra thứ khác.	I have heard otherwise.	4		0
+vo_gothic_gothic_	civilian_01_	talk_npc_04	vo_gothic_gothic_civilian_01_talk_npc_04	omuk		Civilian F	aggree	dialog without topic	Nó luôn như thế mà.	That's how it's always been.	5		0
+vo_gothic_gothic_	civilian_01_	talk_npc_05	vo_gothic_gothic_civilian_01_talk_npc_05	omuk		Civilian F	dismissive	dialog without topic	Cô ta điên đó. Đừng nghe cô ta.	She's mad. Don't listen to her.	6		0
+vo_gothic_gothic_	civilian_01_	talk_npc_06	vo_gothic_gothic_civilian_01_talk_npc_06	omuk		Civilian F	aggree	dialog without topic	Eh, chúng ta có thể đồng ý về điều đó.	Eh, we can agree on that.	6		0
+vo_gothic_gothic_	civilian_01_	talk_npc_07	vo_gothic_gothic_civilian_01_talk_npc_07	omuk		Civilian F	anxious	dialog without topic	Cẩn thận với những gì cậu nói.	Be careful what you say.	5		0
+vo_gothic_gothic_	civilian_01_	talk_npc_08	vo_gothic_gothic_civilian_01_talk_npc_08	omuk		Civilian F	concerned	dialog without topic	Đó là cái mộ mới…	This is grave news…	4		0
+vo_gothic_gothic_	civilian_01_	talk_npc_09	vo_gothic_gothic_civilian_01_talk_npc_09	omuk		Civilian F	unconcerned	dialog without topic	Oh, sẽ qua thôi.	Oh, it will pass.	4		0
+vo_gothic_gothic_	civilian_01_	talk_npc_10	vo_gothic_gothic_civilian_01_talk_npc_10	omuk		Civilian F	afraid	dialog without topic	Đó là những gì tôi nghe được.	That's what I heard at least.	6		0
+vo_gothic_gothic_	civilian_01_	talk_npc_11	vo_gothic_gothic_civilian_01_talk_npc_11	omuk		Civilian F	afraid	dialog without topic	Hush…đừng nói to quá!	Hush…don't speak too loud!	4		0
+vo_gothic_gothic_	civilian_01_	talk_npc_12	vo_gothic_gothic_civilian_01_talk_npc_12	omuk		Civilian F	afraid	dialog without topic	Đừng nó gì cả, nghe đi!	Don't say anything, you hear!	5		0
+vo_gothic_gothic_	civilian_01_	talk_npc_13	vo_gothic_gothic_civilian_01_talk_npc_13	omuk		Civilian F	afraid	dialog without topic	Aww, sao chúng lại làm thế?	Aww, why did they do that?	6		0
+vo_gothic_gothic_	civilian_01_	talk_npc_14	vo_gothic_gothic_civilian_01_talk_npc_14	omuk		Civilian F	afraid	dialog without topic	Rồi chuyện gì đã xảy ra?	What happened then?	3		0
+vo_gothic_gothic_	civilian_01_	talk_npc_confirm_00	vo_gothic_gothic_civilian_01_talk_npc_confirm_00	omuk		Civilian F	submissive	receives orders	Vâng thưa ngài.	Yes, my lord.	3		0
+vo_gothic_gothic_	civilian_01_	talk_npc_confirm_01	vo_gothic_gothic_civilian_01_talk_npc_confirm_01	omuk		Civilian F	submissive	receives orders	Tôi đã hiểu.	I understand.	2		0
+vo_gothic_gothic_	civilian_01_	talk_npc_confirm_02	vo_gothic_gothic_civilian_01_talk_npc_confirm_02	omuk		Civilian F	submissive	receives orders	Vâng dĩ nhiên.	Y-yes, of course.	3		0
+vo_gothic_gothic_	civilian_01_	talk_npc_confirm_03	vo_gothic_gothic_civilian_01_talk_npc_confirm_03	omuk		Civilian F	submissive	receives orders	Đã rõ.	Understood.	1		0
+vo_gothic_gothic_	civilian_01_	talk_npc_confirm_04	vo_gothic_gothic_civilian_01_talk_npc_confirm_04	omuk		Civilian F	submissive	receives orders	Như ngài muốn.	As you wish.	3		0
+vo_gothic_gothic_	civilian_01_	talk_npc_confirm_05	vo_gothic_gothic_civilian_01_talk_npc_confirm_05	omuk		Civilian F	submissive	receives orders	Như lệnh của ngài.	As you command.	3		0
+vo_gothic_gothic_	civilian_01_	talk_npc_bathhouse_gossip_00	vo_gothic_gothic_civilian_01_talk_npc_bathhouse_gossip_00	omuk		Civilian F	submissive	receives orders	Thời khắc đen tối.	Dark times.	3		0
+vo_gothic_gothic_	civilian_01_	talk_npc_bathhouse_gossip_01	vo_gothic_gothic_civilian_01_talk_npc_bathhouse_gossip_01	omuk		Civilian F	submissive	receives orders	Con trai Mạc Chúa đã bị sát hại.	The Shogun's son has been murdered.	2		0
+vo_gothic_gothic_	civilian_01_	talk_npc_bathhouse_gossip_02	vo_gothic_gothic_civilian_01_talk_npc_bathhouse_gossip_02	omuk		Civilian F	submissive	receives orders	Không an toàn để ra khỏi nhà.	It is not safe to go outside.	3		0
+vo_gothic_gothic_	civilian_01_	talk_npc_bathhouse_gossip_03	vo_gothic_gothic_civilian_01_talk_npc_bathhouse_gossip_03	omuk		Civilian F	submissive	receives orders	Tôi nghe Mạc Chúa đang tới Kyōto.	I hear the Shogun is on his way to Kyōto.	1		0
+vo_gothic_gothic_	civilian_01_	talk_npc_bathhouse_gossip_04	vo_gothic_gothic_civilian_01_talk_npc_bathhouse_gossip_04	omuk		Civilian F	submissive	receives orders	Họ đang truy lùng kẻ giết người.	They are looking for the killers.	3		0
+vo_gothic_gothic_	civilian_01_	talk_npc_bathhouse_gossip_05	vo_gothic_gothic_civilian_01_talk_npc_bathhouse_gossip_05	omuk		Civilian F	submissive	receives orders	Con lãnh chúa Noboru ở đây.	Lord Noboru's son is here.	3		0
+vo_gothic_gothic_	civilian_01_	talk_npc_bathhouse_gossip_06	vo_gothic_gothic_civilian_01_talk_npc_bathhouse_gossip_06	omuk		Civilian F	submissive	receives orders	Nếu tôi là cậu, tôi sẽ tránh xa mấy cái hẻm tối.	If I were you, I'd keep away from dark alleys.	3		0
+vo_eny_eny_	civilian_01_	urinate_00	vo_eny_eny_civilian_01_urinate_00	omuk		Civilian F		unused, don't record			0		0
+vo_eny_eny_	civilian_01_	whimper_00	vo_eny_eny_civilian_01_whimper_00	omuk		Civilian F		(sound) fearful whimper			0		0
+vo_eny_eny_	civilian_01_	whistle_00	vo_eny_eny_civilian_01_whistle_00	omuk		Civilian F		(sound) whistles a tune			0		0
+vo_eny_eny_	civilian_01_	wipesweat_00	vo_eny_eny_civilian_01_wipesweat_00	omuk		Civilian F		(sound) wipe swat from brow during hard work			0		0
+vo_eny_eny_	civilian_01_	yawn_00	vo_eny_eny_civilian_01_yawn_00	omuk		Civilian F		(sound) yawn			0		0
+													
+									WORDCOUNT EN:	WORDCOUNT EN:	444	WORDCOUNT DE:	0

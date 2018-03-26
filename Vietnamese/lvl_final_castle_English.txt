@@ -1,0 +1,20 @@
+1,0,3			
+2119499410	MiMissionTaskHandler	Element 0 Str Task Name	Lấy chìa khóa
+-1112777680	MiMissionTaskHandler	Element 0 Str Description	Lấy chìa khóa giếng nước từ samurai đi tuần.
+-589350379	MiMissionTaskHandler	Element 1 Str Task Name	Xuống giếng nước
+-767752419	MiMissionTaskHandler	Element 1 Str Description	Tụ tập mọi người tại một giếng nước.
+1370518702	MiMissionTaskHandler	Element 2 Str Task Name	Giếng A
+757801994	MiMissionTaskHandler	Element 2 Str Description	Có thể xuống giếng ở gần tường phía Tây, gần bức tượng.
+-200607195	MiMissionTaskHandler	Element 3 Str Task Name	Giếng B
+-1884161912	MiMissionTaskHandler	Element 3 Str Description	Có thể xuống giếng ở gần tường phía Bắc, băng qua các lính canh chểnh mảng.
+-841962253	MiMissionTaskHandler	Element 4 Str Task Name	Giết lãnh chúa Noboru
+-687160244	MiMissionTaskHandler	Element 4 Str Description	Lãnh chúa Noboru ở trên ban công. Đối đầu và kết thúc mạng sống của hắn.
+-1273267266	MiMissionTaskHandler	Element 5 Str Task Name	Bò và Tượng
+441917828	MiMissionTaskHandler	Element 5 Str Description	Con bò nguy hiểm đứng gần bức tượng.
+86043650	MiMissionTaskHandler	Element 6 Str Task Name	Nơi diễn tập bắn súng
+-402794090	MiMissionTaskHandler	Element 6 Str Description	Tại nơi diễn tập bắn súng, sử dụng hỏa lực sẽ không bị nghi ngờ.
+-351509168	MiMissionTaskHandler	Element 7 Str Task Name	Trang trí
+-1641403957	MiMissionTaskHandler	Element 7 Str Description	Takuma có thể bắn rơi miếng trần nhà trang trí.
+-95788031	UITooltipDataClickable_Saveable	Str Display Top	Sesshu Floyo
+-1773748544	mission_fail_on_castle	Str Description	Lãnh chúa Noboru đã được cảnh báo về sự hiện diện của bạn.
+1143315654	UITooltipDataClickable_Saveable	Str Display Top	Ittō Mogami Wāgunā
