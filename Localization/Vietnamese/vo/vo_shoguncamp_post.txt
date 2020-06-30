@@ -1,0 +1,144 @@
+// SPEAKER: SHOGUN
+// Hmm... So, you have come...
+vocs_over_over_shoguncamp_post_n00=Hmm... Rồi ngươi cũng đã tới...
+
+// SPEAKER: SHOGUN
+// ...to think, not even 300,000 men could stop you.
+vocs_over_over_shoguncamp_post_n01=...để coi, 300,000 vẫn không đủ cản được ngươi.
+
+// SPEAKER: GEISHA
+// My Shogun...
+vocs_over_over_shoguncamp_post_n02=Hỡi Mạc Chúa...
+
+// SPEAKER: SHOGUN
+// Do what you must, then. I will not waste another word for the butchers of my son.
+vocs_over_over_shoguncamp_post_n03=Làm những gì ngươi phải làm đi. Ta không lãng phí lời lẽ với kẻ đã sát hại con trai ta.
+
+// SPEAKER: GEISHA
+// We never laid hands on your son. Neither were we responsible for the death of Ōshiro Mugen. It was your brother who twisted the truth to his desire.
+vocs_over_over_shoguncamp_post_n04=Chúng thần không hề đụng tới con trai ngài. Và cả trách nhiệm về cái chết của Ōshiro Mugen. Em trai của ngài là kẻ đã bẻ cong sự thật để có đạt được khát vọng của hắn.
+
+// SPEAKER: SHOGUN
+// Why should I believe this outrageous accusation? What proof do you have?
+vocs_over_over_shoguncamp_post_n05=Sao ta có thể tin vào lời buộc tội thủ đoạn này? Ngươi có bằng chứng gì?
+
+// SPEAKER: GEISHA
+// We have a witness.
+vocs_over_over_shoguncamp_post_n06=Chúng thần có một nhân chứng.
+
+// SPEAKER: BROGUNSON
+// Agh!
+vocs_over_over_shoguncamp_post_n07=Agh!
+
+// SPEAKER: SHOGUN
+// My nephew? Is this supposed to work in your favor?
+vocs_over_over_shoguncamp_post_n08=Cháu trai ta? Đây là cách mà ngươi dựng thành bằng chứng ư?
+
+// SPEAKER: NINJA
+// This creature killed your son with his own hands.
+vocs_over_over_shoguncamp_post_n09=Sinh vật này đã giết con trai ngài bằng bằng bàn tay bẩn thỉu của hắn.
+
+// SPEAKER: BROGUNSON
+// Lies, uncle! Lies! I saw that filthy shinobi put a blade in his back. He...he killed Ryūnosuke! 
+vocs_over_over_shoguncamp_post_n10=Nói dối, bác ơi! Hắn nói dối! Cháu đã thấy shinobi bẩn thỉu này cầm lưỡi kiếm sau lưng anh ấy. Hắn...hắn đã giết anh Ryūnosuke!
+
+// SPEAKER: TRAPPER
+// No! No, he's lying!
+vocs_over_over_shoguncamp_post_n11=Không! Không, hắn đang nói dối!
+
+// SPEAKER: SHOGUN
+// Hmm... Go on, nephew.
+vocs_over_over_shoguncamp_post_n12=Hmm... Tiếp tục đi cháu.
+
+// SPEAKER: BROGUNSON
+// He killed Mugen-sensei, too. They...they all seek to deceive you, uncle. They hurt me... They told me to lie to you, but I won't!
+vocs_over_over_shoguncamp_post_n13=Hắn cũng giết Mugen-sensei. Chúng...Bọn chúng tìm mọi cách để đánh lừa bác. Chúng làm cháu bị thương... Chúng đã bắt cháu nói dối bác, nhưng cháu sẽ không như thế!
+
+// SPEAKER: SHOGUN
+// And you know all this because you saw the murder happen, yes?
+vocs_over_over_shoguncamp_post_n14=Và cháu biết tất cả mọi thứ vì đã thấy vụ giết người xảy ra, đúng không?
+
+// SPEAKER: BROGUNSON
+// Yes! ...I-I, no. I mean, I...I'm...
+vocs_over_over_shoguncamp_post_n15=Đúng! ...C-cháu, không. Ý cháu là, Cháu...là...
+
+// SPEAKER: SHOGUN
+// Why were you there? How did you know where Ryūnosuke was hidden?
+vocs_over_over_shoguncamp_post_n16=Sao cháu lại ở đó? Sao cháu lại biết được nơi ẩn náu của Ryūnosuke?
+
+// SPEAKER: BROGUNSON
+// U-uncle! You don't understand! I didn't...
+vocs_over_over_shoguncamp_post_n17=B-bác! Bác không hiểu rồi! Cháu đã không...
+
+// SPEAKER: SHOGUN
+// You cannot lie to me, nephew. Answer me now, truthfully. 
+vocs_over_over_shoguncamp_post_n18=Cháu không thể lừa được bác, cháu trai. Giờ trả lời trung thực đi.
+
+// SPEAKER: SHOGUN
+// Who, in this room, has murdered my son?
+vocs_over_over_shoguncamp_post_n19=Ai, trong phòng này, đã giết con trai ta?
+
+// SPEAKER: BROGUNSON
+// Please, uncle. I only did what my father told me. I didn't want to—he made me—he gave me the knife! It wasn't my fault. I...
+vocs_over_over_shoguncamp_post_n20=Làm ơn bác ơi. Cháu chỉ làm theo những gì cha bảo. Cháu đã không muốn—Cha đã bắt cháu—Cha đưa cháu con dao! Đó không phải lỗi của cháu. Cháu...
+
+// SPEAKER: SHOGUN
+// Enough! Not another word.
+vocs_over_over_shoguncamp_post_n21=Đủ rồi! Không cần giải thích thêm.
+
+// SPEAKER: SHOGUN
+// Noboru...my own brother...all this time...
+vocs_over_over_shoguncamp_post_n22=Noboru...em trai ta...tất cả thời gian qua...
+
+// SPEAKER: GEISHA
+// He blinded us all.
+vocs_over_over_shoguncamp_post_n23=Hắn đã lừa tất cả chúng ta.
+
+// SPEAKER: SHOGUN
+// I should have seen it. His eagerness for battle. His disapproval whenever we spoke of peaceful solutions.
+vocs_over_over_shoguncamp_post_n24=Ta đã nên nhìn thấy chuyện này. Sự háo hức của em ta trong cuộc chiến. Không đồng ý với ta mỗi khi bàn về giải pháp hòa bình.
+
+// SPEAKER: SHOGUN
+// My brother never wanted peace. He was made for conquest. Were he born a century ago, he would have been the greatest warlord.
+vocs_over_over_shoguncamp_post_n25=Em ta không bao giờ muốn hòa bình. Em ta chỉ muốn chinh phục. Nếu em ta được sinh ra trước một thế kỷ, thì ắt sẽ là một vị thủ lĩnh vĩ đại nhất.
+
+// SPEAKER: ALCHEMIST
+// A shadow of the past, darkening the present day.
+vocs_over_over_shoguncamp_post_n26=Bóng tối của quá khứ, đang phủ kín hiện tại.
+
+// SPEAKER: GEISHA
+// We all desire revenge for what was lost.
+vocs_over_over_shoguncamp_post_n27=Tất cả chúng thần đều mong muốn trả thù cho những gì đã mất.
+
+// SPEAKER: GEISHA
+// But we will follow your command, as did Mugen before us.
+vocs_over_over_shoguncamp_post_n28=Nhưng chúng thần sẽ theo lệnh của ngài, như Mugen đã làm trước kia.
+
+// SPEAKER: SHOGUN
+// Mugen... Even in death, he proves his loyalty.
+vocs_over_over_shoguncamp_post_n29=Mugen... Ngay cả trong khi chết, thần vẫn chứng minh được lòng trung thành của mình.
+
+// SPEAKER: SHOGUN
+// I will not grant my brother an honorable death. He will die forgotten, a brief mention in the annals of history.
+vocs_over_over_shoguncamp_post_n30=Sẽ không để em ta có một cái chết danh dự. Một cái chết bị lãng quên, sẽ là một đoạn trích ngắn gọn trong biên niên sử.
+
+// SPEAKER: SHOGUN
+// Seek him out in his domain, at Sunpu Castle! Face him and do what must be done! 
+vocs_over_over_shoguncamp_post_n31=Tìm trong lãnh thổ của hắn, ở thành Sunpu! Đối mặt với hắn và làm những gì cần phải làm!
+
+// SPEAKER: SHOGUN
+// We will discuss your future when you return.
+vocs_over_over_shoguncamp_post_n32=Chúng ta sẽ thảo luận về tương lai khi thần quay trở về.
+
+// SPEAKER: GEISHA
+// As you command, my Shogun.
+vocs_over_over_shoguncamp_post_n33=Tuân lệnh ngài, hỡi Mạc Chúa.
+
+// SPEAKER: SHOGUN
+// Now go. We have wasted enough time already.
+vocs_over_over_shoguncamp_post_n34=Đi ngay. Chúng ta đã lãng phí quá nhiều thời gian rồi.
+
+// SPEAKER: SHOGUN
+// And now, to you, nephew.
+vocs_over_over_shoguncamp_post_n35=Còn bây giờ, tới lượt cháu.
+

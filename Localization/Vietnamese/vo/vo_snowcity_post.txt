@@ -1,0 +1,124 @@
+// SPEAKER: WARRIOR
+//  ...I did not expect this. Most fortunate, indeed.
+vocs_over_over_snowcity_post_n00=...Ta đã không mong chờ chuyện này. Quá may mắn, thật đấy.
+
+// SPEAKER: TRAPPER
+// Huh?
+vocs_over_over_snowcity_post_n01=Huh?
+
+// SPEAKER: WARRIOR
+// These documents are proof that Lord Yabu is responsible for the weapon transports. And there is something else...a name I thought I'd never hear again.
+vocs_over_over_snowcity_post_n02=Những tài liệu này là bằng chứng buộc lãnh chúa Yabu phải chịu trách nhiệm cho vụ vận chuyển vũ khí. Và còn gì đó khác khác...một cái tên ta chưa nghe thấy bao giờ.
+
+// SPEAKER: WARRIOR
+// These documents are proof that Lord Yabu is responsible for the weapon transports. And there is something else...a name I have not heard for many years.
+vocs_over_over_snowcity_post_n02a=Những tài liệu này là bằng chứng buộc lãnh chúa Yabu phải chịu trách nhiệm cho vụ vận chuyển vũ khí. Và còn gì đó khác khác...một cái tên ta chưa nghe trong nhiều năm.
+
+// SPEAKER: NINJA
+// Still at it, huh.
+vocs_over_over_snowcity_post_n03=Vẫn còn ở đó, huh.
+
+// SPEAKER: TRAPPER
+// Sensei!
+vocs_over_over_snowcity_post_n04=Sensei!
+
+// SPEAKER: WARRIOR
+// Ah, Hayato-san. Have you decided to join us?
+vocs_over_over_snowcity_post_n05=Ah, Hayato-san. Cậu đã quyết định tham gia với chúng tôi?
+
+// SPEAKER: NINJA
+// What can I say? The Shogun pays well.
+vocs_over_over_snowcity_post_n06=Tôi có thể nói gì nhỉ? Mạc Chúa trả rất hậu hĩnh.
+
+// SPEAKER: WARRIOR
+// Heh. Take a look at this.
+vocs_over_over_snowcity_post_n07=Heh. Hãy nhìn này.
+
+// SPEAKER: WARRIOR
+// We have found evidence that Takuma-san is alive.
+vocs_over_over_snowcity_post_n08=Chúng ta tìm thấy bằng chứng nói rằng Takuma-san còn sống.
+
+// SPEAKER: NINJA
+// Takuma-san... Wait, the old marksman who helped us at Osaka Castle? I thought he got killed by a cannon!
+vocs_over_over_snowcity_post_n09=Takuma-san... Chờ chút, lão thiện xạ già đã giúp chúng ta ở thành Osaka? Tôi nghĩ ông ta đã chết bởi một khẩu pháo!
+
+// SPEAKER: WARRIOR
+// Apparently he survived. The documents mention him as a prisoner of Lord Yabu, held captive at an old temple on Mount Tsuru.
+vocs_over_over_snowcity_post_n10=Còn sống nhăn răng. Tài liệu nhắc đến lão là tù nhân của lãnh chúa Yabu, bị giam giữ tại đền thờ cổ trên núi Tsuru.
+
+// SPEAKER: NINJA
+// Huh... That's not far from Imai town.
+vocs_over_over_snowcity_post_n11=Huh... Không cách thị trấn Imai là mấy.
+
+// SPEAKER: NINJA
+// Huh...tough old man. Wonder what they want with him there.
+vocs_over_over_snowcity_post_n11a=Huh...lão già tội nghiệp. Tự hỏi chúng muốn gì ở lão ta.
+
+// SPEAKER: WARRIOR
+// Indeed. And I also suspect this temple to be the origin of the illegal weapon transports.
+vocs_over_over_snowcity_post_n12=Thật sự ta nghi ngờ ngôi đền này là nguồn gốc của cuộc vận chuyển vũ khí trái phép.
+
+// SPEAKER: WARRIOR
+// We will find out soon. This temple must be the origin of the illegal weapon transports.
+vocs_over_over_snowcity_post_n12a=Sẽ tìm ra sớm thôi. Ngôi đền này phải là nguồn gốc của cuộc vận chuyển vũ khí trái phép.
+
+// SPEAKER: TRAPPER
+// Uhm... Who's Takuma-san?
+vocs_over_over_snowcity_post_n13=Uhm... Takuma-san là ai?
+
+// SPEAKER: WARRIOR
+// A man we owe a great debt. I will head for Mount Tsuru at once.
+vocs_over_over_snowcity_post_n14=Một người đàn ông mà chúng ta mang nặng ơn huệ. Ta sẽ tới núi Tsuru.
+
+// SPEAKER: NINJA
+// What about us?
+vocs_over_over_snowcity_post_n15=Còn bọn tôi?
+
+// SPEAKER: WARRIOR
+// A confrontation with Lord Yabu seems more and more likely. We must gather information, in case we need to act fast.
+vocs_over_over_snowcity_post_n16=Một cuộc đụng độ với Yabu dường như không ít thì nhiều. Chúng ta phải thu thập thông tin, trong trường hợp này cần phải xử lý nhanh gọn.
+
+// SPEAKER: NINJA
+// Don't you need help at the temple?
+vocs_over_over_snowcity_post_n17=Anh không cần trợ giúp ở đền thờ hả?
+
+// SPEAKER: WARRIOR
+// Do not worry, Hayato-san. I will meet with an old associate of mine.
+vocs_over_over_snowcity_post_n18=Đừng lo, Hayato-san. Ta sẽ gặp một cộng sự cũ.
+
+// SPEAKER: WARRIOR
+// Besides, I promised Yuki-chan that she could learn from you.
+vocs_over_over_snowcity_post_n19=Bên cạnh đó, ta hứa Yuki-chan sẽ có thể học tập từ cậu.
+
+// SPEAKER: NINJA
+// Wait...you did what?
+vocs_over_over_snowcity_post_n20=Đợi phát...anh đã làm khỉ gì?
+
+// SPEAKER: WARRIOR
+// The two of you will scout Lord Yabu's residence. I left some directions on the table.
+vocs_over_over_snowcity_post_n21=Hai ta tới do thám nơi trú ngụ của lãnh chúa Yabu. Và giờ có được mấy thứ trên cái bàn đó.
+
+// SPEAKER: WARRIOR
+// Find out everything you can, then wait for my return.
+vocs_over_over_snowcity_post_n22=Tìm hiểu mọi thứ cậu có thể làm, rồi chờ tôi quay lại.
+
+// SPEAKER: TRAPPER
+// Who is he meeting?
+vocs_over_over_snowcity_post_n23=Chú ấy đi gặp ai vậy?
+
+// SPEAKER: NINJA
+// Hmm...I think we'll find out soon.
+vocs_over_over_snowcity_post_n24=Hmm...anh nghĩ chúng ta sẽ sớm biết thôi.
+
+// SPEAKER: NINJA
+// Anyway, let's see where this Lord Yabu has his estate.
+vocs_over_over_snowcity_post_n25=Dù sao, chúng ta hãy tìm xem biệt thư của lãnh chúa Yabu ở đâu.
+
+// SPEAKER: TRAPPER
+// Hai, sensei!
+vocs_over_over_snowcity_post_n26=Hai, sensei!
+
+// SPEAKER: NINJA
+// Oy...
+vocs_over_over_snowcity_post_n27=Oy...
+

@@ -1,0 +1,117 @@
+// Rescue Mugen
+280759577=Giải cứu Mugen
+
+// Mugen is being interrogated by a rebel samurai. Kill the samurai and rescue Mugen. 
+629928307=Mugen đang bị tra khảo bởi một samurai phiến quân. Giết samurai và giải cứu Mugen.
+
+// Recover Mugen's Gear
+454379243=Lấy lại đồ cho Mugen
+
+// The rebels have taken Mugen's equipment. Reclaim it with Mugen.
+-875361560=Phiến quân đã lấy đồ của Mugen. Lấy lại nó cho Mugen.
+
+// Free the Farmers
+569193077=Giải cứu nông dân
+
+// Some farmers are still alive. You must rescue them all.
+-926836000=Một số nông dân vẫn còn sống. Phải giải cứu tất cả họ.
+
+// Backyard
+-1276784885=Sân sau
+
+// A farmer is being interrogated in the backyard.
+-1506802054=Một nông dân đang bị tra hỏi ở sân sau.
+
+// Stables
+1678707664=Chuồng bò
+
+// A group of farmers have been penned together at the stables.
+-402215371=Một nhóm nông dân đang ở cùng nhau tại chuồng bò.
+
+// Protect the Farmers
+-758626040=Bảo vệ nông dân
+
+// All farmers must survive.
+-1290677634=Tất cả nông dân phải sống sót
+
+// Husband
+1259656948=Người chồng
+
+// 
+-902605004=
+
+// Farmers
+437218779=Nông dân
+
+// 
+357058871=
+
+// Farmers
+2113215760=Nông dân
+
+// 
+850594344=
+
+// Farmers
+1235959234=Nông dân
+
+// 
+-1924315239=
+
+// Farmers
+1734019836=Nông dân
+
+// 
+-3570875=
+
+// Escape Together
+-630977109=Cùng trốn thoát
+
+// Gather near the blocked road and leave Suganuma village.
+-95330651=Tới gần đường bị chặn và thoát khỏi làng Suganuma.
+
+// Ricefields
+1062099708=Ruộng lúa
+
+// Ricefields offer large hiding spots, but walking through them makes noise.
+-438022458=Ruộng lúa là khu vực ẩn nấp rộng, nhưng băng qua đó sẽ tạo nhiều tiếng động.
+
+// Puddles
+1624913245=Vũng nước
+
+// Be careful around puddles. Walking through them will make noise.
+624356955=Cẩn thận vũng nước. Lội qua đó sẽ tạo nhiều tiếng động.
+
+// Killing Samurai
+359114620=Giết Samurai
+
+// Remember: You can stun a samurai with firearms, then finish them off with a melee attack.
+-433199176=Hãy nhớ: Có thể làm choáng Samurai với hỏa lực, rồi kết thúc hắn bằng tấn công cận chiến.
+
+// Control Civilians
+2040009445=Điều khiển thường dân
+
+// Civilians have been temporarily added to your character lineup.
+1273486566=Thường dân tạm thời được bổ sung vào nhân vật của bạn.
+
+// Civilians have been temporarily added to your character lineup.
+959696034=Thường dân tạm thời được bổ sung vào nhân vật của bạn.
+
+// You control them like any other character. Some of them move in groups.
+1785383885=Điều khiển họ như các nhân vật khác. Một số trong họ di chuyển theo nhóm.
+
+// You control them like any other character. Some of them move in groups.
+117145355=Điều khiển họ như các nhân vật khác. Một số trong họ di chuyển theo nhóm.
+
+// Civilians have limited movement and no defense. They rely on your team to protect them.
+1254046047=Thường dân có khả năng di chuyển giới hạn và không thể phòng thủ. Bảo vệ họ bằng sức của đội.
+
+// Civilians have limited movement and no defense. They rely on your team to protect them.
+-485386493=Thường dân có khả năng di chuyển giới hạn và không thể phòng thủ. Bảo vệ họ bằng sức của đội.
+
+// Lu-Kumawakamaru
+1095824976=Lu-Kumawakamaru
+
+// You cannot complete your mission objective.
+-2074095463=Không thể hoàn thành mục tiêu nhiệm vụ.
+

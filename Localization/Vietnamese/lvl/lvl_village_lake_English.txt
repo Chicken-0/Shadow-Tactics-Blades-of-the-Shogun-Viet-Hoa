@@ -1,0 +1,153 @@
+// Eavesdrop on Rebels
+785665437=Nghe lén bọn phiến quân
+
+// Find out what the rebels are planning. Stay close to one of the talking patrols to listen in.
+594174400=Nghe lén xem bọn phiến quân có kế hoạch gì. Ở gần một đám lính tuần tra để nghe lén.
+
+// Stables
+-1927782917=Chuồng bò
+
+// You can eavesdrop on the patrol at the stables.
+-2116028935=Có thể nghe lén lính tuần tra ở chuồng bò.
+
+// Tavern
+-400473958=Quán rượu
+
+// You can eavesdrop on the patrol at the tavern.
+687396758=Có thể nghe lén lính tuần tra ở quán rượu.
+
+// Regroup
+1053797606=Tập hợp nhóm
+
+// Regroup at a safe spot to discuss your next steps.
+-296944036=Tái hợp nhóm ở vị trí an toàn để bàn về các bước tiếp theo.
+
+// Safe Spot A
+491235642=Vị trí an toàn A
+
+// You can regroup on the roof of the stables.
+-266077156=Có thể tập hợp nhóm trên nóc chuồng bò.
+
+// Safe Spot B
+-1748494053=Vị trí an toàn B
+
+// You can regroup at the lake shore.
+-1750320536=Có thể tập hợp nhóm cạnh bờ hồ.
+
+// Safe Spot C
+340625378=Vị trí an toàn C
+
+// You can regroup behind the shed.
+1508583525=Có thể tập hợp nhóm ở đằng sau kho.
+
+// Safe Spot D
+713300851=Vị trí an toàn D
+
+// You can regroup behind the tavern.
+-751924318=Có thể tập hợp nhóm ở đằng sau quán rượu.
+
+// Safe Spot E
+1587942303=Vị trí an toàn E
+
+// You can regroup behind the chicken coop.
+-743005551=Có thể tập hợp nhóm ở đằng sau chuồng gà.
+
+// Safe Spot F
+-1242356905=Vị trí an toàn F
+
+// You can regroup near the log chute.
+1960750485=Có thể tập hợp nhóm cạnh xưởng gỗ.
+
+// Eavesdrop on Okkoto
+759430947=Nghe lén Okkoto
+
+// Get close to General Okkoto and listen in to find out what his plans are.
+1463347487=Tiếp cận tướng quân Okkoto và nghe xem kế hoạch của hắn là gì.
+
+// Leave
+-1557926665=Bỏ trốn
+
+// Gather near the rafts and leave Hida village.
+1531075798=Lấy cái bè và rời làng Hida.
+
+// Eavesdropping
+1271914272=Nghe lén
+
+// To eavesdrop on someone, get close to them and stay close until the meter is full.
+-1209418210=Để nghe lén ai đó, lại đủ gần và giữ khoảng cách đến khi bộ đếm đầy.
+
+// Disguise
+-1487027345=Ngụy trang
+
+// Aiko can find a disguise near General Okkoto's tent.
+205444680=Aiko có thể ngụy trang tới gần lều tướng quân Okkoto.
+
+// Friendly Civilians
+1791420713=Thường dân thân thiện
+
+// The farmers are your allies here. They won't betray your presence to the rebels.
+-502003415=Nông dân sẽ là đồng minh ở đây. Họ sẽ không phát giác sự hiện diện của bạn cho phiến quân.
+
+// Light Sources
+269523315=Nguồn sáng
+
+// Light sources are dangerous because they make you visible even when crouching.
+-1560467504=Nguồn sáng là thứ nguy hiểm bởi vì chúng làm lộ diện bạn kể cả khi cúi người.
+
+// Light sources are dangerous because they make you visible even when crouching.
+2108809183=Nguồn sáng là thứ nguy hiểm bởi vì chúng làm lộ diện bạn kể cả khi cúi người.
+
+// Hold <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to put out small light sources like torches.
+-127499078=Giữ <hotkey>{0}</hotkey> và sử dụng <hotkey>{1}</hotkey> để dập tắt nguồn sáng như đuốc.
+
+// Press {0} to put out small light sources like torches.
+967491755=Nhấn {0} để dập tắt nguồn sáng như đuốc.
+
+// Enemies that spot an extinguished light source will go and relight it.
+1534582900=Địch mà phát hiện ra lửa tắt thì sẽ tới thắp lại nó.
+
+// Enemies that spot an extinguished light source will go and relight it.
+289151734=Địch mà phát hiện ra lửa tắt thì sẽ tới thắp lại nó.
+
+// Night Missions
+-1535662883=Nhiệm vụ đêm
+
+// At night, enemy Field of View works differently.
+-2006619692=Vào ban đêm, địch có tầm nhìn hơi khác.
+
+// At night, enemy Field of View works differently.
+1742472304=Vào ban đêm, địch có tầm nhìn hơi khác.
+
+// The bright area of the viewcone is smaller, and the cone is a bit shorter overall.
+274677125=Vùng sáng của tầm nhìn nhỏ hơn, và hình nón ngắn hơn đáng kể.
+
+// The bright area of the viewcone is smaller, and the cone is a bit shorter overall.
+2131913481=Vùng sáng của tầm nhìn nhỏ hơn, và hình nón ngắn hơn đáng kể.
+
+// The drawback is that all light sources create bright areas in the viewcone.
+1304548668=Nhược điểm là các nguồn ánh sáng sẽ tạo thêm vùng sáng cho tầm nhìn.
+
+// The drawback is that all light sources create bright areas in the viewcone.
+-371317730=Nhược điểm là các nguồn ánh sáng sẽ tạo thêm vùng sáng cho tầm nhìn.
+
+// Avoid spending too much time in the light, because you will be spotted whether you stand or crouch.
+-582968262=Tránh đứng quá nhiều dưới ánh sáng, bởi vì sẽ bị phát hiện kể cả khi đứng hoặc cúi người.
+
+// Avoid spending too much time in the light, because you will be spotted whether you stand or crouch.
+-274437844=Tránh đứng quá nhiều dưới ánh sáng, bởi vì sẽ bị phát hiện kể cả khi đứng hoặc cúi người.
+
+// You caused a time paradox!
+-1388080887=Bạn đã gây ra một nghịch lý thời gian!
+
+// Okkoto
+-2034799818=Okkoto
+
+// Fridolusu Ferikkusu
+28752135=Fridolusu Ferikkusu
+
+// You cannot complete your mission objective.
+1689136653=Bạn chưa hoàn thành mục tiêu của nhiệm vụ.
+
+// You cannot complete your mission objective.
+1629402981=Bạn chưa hoàn thành mục tiêu của nhiệm vụ.
+

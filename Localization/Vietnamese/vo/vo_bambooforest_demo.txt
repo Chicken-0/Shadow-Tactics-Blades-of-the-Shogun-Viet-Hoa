@@ -1,0 +1,76 @@
+// SPEAKER: TRAPPER
+// My final test. I will make Hayato-sensei proud. I bet he's there by now.
+vocs_over_over_bambooforest_demo_briefing_n00=Bài kiếm tra cuối cùng. Mình phải làm cho Hayato-sensei tự hào. Cá là anh ấy đang ở đó.
+
+// SPEAKER: NINJA
+// Hmm...I see Yuki-chan's in place. Clever girl. She just has to keep her focus, and everything will be fine.
+vocs_over_over_bambooforest_demo_briefing_n01=Hmm...Mình thấy Yuki-chan ở đó rồi. Nhóc con thông minh. Em chỉ cần giữ được tập trung thì mọi chuyện sẽ ổn thôi.
+
+// SPEAKER: NINJA
+// The spy's our target. We can get close and personal, or we poison his tea.
+vocs_over_over_bambooforest_demo_briefing_n02=Gián điệp là mục tiêu của chúng ta. Tiếp cận rồi xử đẹp hắn, hoặc bỏ độc vào trà của hắn cũng được.
+
+// SPEAKER: NINJA
+// When we're done, we'll escape on that road.
+vocs_over_over_bambooforest_demo_briefing_n03=Khi chúng ta xong thì sẽ trốn thoát bằng con đường đó.
+
+// SPEAKER: NINJA
+// All right, Yuki...show me what you can do.
+vocs_over_over_bambooforest_demo_briefing_n04=Được rồi, Yuki...cho anh thấy những gì em có thể làm nào.
+
+// SPEAKER: TRAPPER
+// Hah! ...Don't worry, stupid, you can do it.
+vocs_over_over_bambooforest_demo_briefing_n05=Hah! ...Đừng run, đồ ngốc, mày có thể làm được.
+
+// SPEAKER: NINJA
+// ...and he's dead.
+vocs_over_over_bambooforest_demo_spydead_n00=...và hắn đã chết.
+
+// SPEAKER: TRAPPER
+// Got him, Hayato-sensei! What now?
+vocs_over_over_bambooforest_demo_spydead_n01=Em xử xong rồi, Hayato-sensei! Giờ làm gì tiếp theo?
+
+// SPEAKER: TRAPPER
+// Need to get out of here. Head west and meet up near the exit.
+vocs_over_over_bambooforest_demo_spydead_n02=Cần phải thoát khỏi đây. Hướng về phía tây và mặt nhau ở gần lối thoát.
+
+// SPEAKER: NINJA
+// Oy. He didn't need to die.
+vocs_over_over_bambooforest_demo_killnpc_n00=Oy. Hắn không cần phải chết.
+
+// SPEAKER: TRAPPER
+// ...sorry, sorry. You didn't need to kill him, stupid!
+vocs_over_over_bambooforest_demo_killnpc_n01=...xin lỗi, xin lỗi. Mày không cần phải giết hắn, đồ ngốc!
+
+// SPEAKER: NINJA
+// There's the exit. What's taking Yuki-chan so long? We have to leave together.
+vocs_over_over_bambooforest_demo_exitboth_n00=Đó là lối thoát. Sao Yuki-chan lâu vậy? Chúng ta phải trốn thoát cùng nhau.
+
+// SPEAKER: TRAPPER
+// There! The exit... Where's Hayato-sensei? He said we should leave together.
+vocs_over_over_bambooforest_demo_exitboth_n01=Đây rồi! Lối thoát... Hayato-sensei đâu rồi? Anh ấy nói chúng ta phải thoát cùng nhau mà.
+
+// SPEAKER: NINJA
+// There, all done.
+vocs_over_over_bambooforest_demo_debriefing_n00=Rồi, tất cả đã xong.
+
+// SPEAKER: TRAPPER
+// We did it!
+vocs_over_over_bambooforest_demo_debriefing_n01=Chúng ta đã làm được!
+
+// SPEAKER: NINJA
+// Hm. You did well, Yuki-chan.
+vocs_over_over_bambooforest_demo_debriefing_n02=Hm. Em làm tốt lắm, Yuki-chan.
+
+// SPEAKER: NINJA
+// I know Takuma-sama would have been proud.
+vocs_over_over_bambooforest_demo_debriefing_n03=Anh biết Takuma-sama sẽ tự hào về em lắm.
+
+// SPEAKER: TRAPPER
+// I... Thank you, Hayato-sensei!
+vocs_over_over_bambooforest_demo_debriefing_n04=Em... Cảm ơn anh, Hayato-sensei!
+
+// SPEAKER: NINJA
+// Right. Let's get out of here.
+vocs_over_over_bambooforest_demo_debriefing_n05=Được rồi. Rời khỏi đây thôi.
+

@@ -1,0 +1,2928 @@
+// 
+none=
+
+// Select Character
+hud_con_selectChar=Chọn Nhân Vật
+
+// Deselect Character
+hud_con_deselectChar=Bỏ Chọn Nhân Vật
+
+// Select All Characters
+hud_con_selectAll=Chọn Tất Cả Nhân Vật
+
+// Deselect All Characters
+hud_con_deselectAll=Bỏ Chọn Tất Cả Nhân Vật
+
+// Climb
+hud_con_context_action_climb=Leo
+
+// Pick Up
+hud_con_context_action_pickUp=Nhặt Lên
+
+// Hide Body
+hud_con_context_action_hideBody=Ẩn Thân
+
+// Jump Down
+hud_con_context_action_jumpDown=Nhảy Xuống
+
+// Jump
+hud_con_context_action_jumpAcross=Nhảy
+
+// Missing Gear
+hud_con_context_action_noGear=Thiếu Trang Bị
+
+// Drop
+hud_con_skill_cancel_carry=Hạ Xuống
+
+// Aim
+hud_con_skill_activate=Ngắm
+
+// Use Skill
+hud_con_skill_do=Sử Dụng Kĩ Năng
+
+// Swap Skill
+hud_con_skill_swap=Chuyển Kĩ Năng
+
+// Swap Context
+hud_con_skill_swapContext=Chuyển Ngữ Cảnh
+
+// Place Marker
+hud_con_vcmarker_place=Đánh Dấu Vị Trí
+
+// Remove Marker
+hud_con_vcmarker_remove=Xóa Đánh Dấu
+
+// Toggle Field of View
+hud_con_vc_deactivate=Ẩn Tầm Nhìn
+
+// Toggle Action
+hud_con_context_toggle=Bật Tắt Hành Động
+
+// Toggle Crouch
+hud_con_crawl_toggle=Bật Tắt Cúi Người
+
+// Highlight
+hud_con_highlight_toggle=Nổi Bật
+
+// Execute Plan
+hud_con_planning_execute=Triển Khai Kế Hoạch
+
+// Questlog
+hud_con_toggleQuestLog=Nhật Ký Nhiệm Vụ
+
+// Pause
+hud_con_togglePauseMenu=Tạm dừng
+
+// Continue
+hud_con_closePauseMenu=Tiếp tục
+
+// Quick Save
+hud_con_quickSave=Lưu nhanh
+
+// Create Waypoint
+hud_con_planning_addWaypoint=Tạo Lộ Trình
+
+// Reset Plan
+hud_con_planning_reset=Đặt Lại Kế Hoạch
+
+// Cancel
+hud_con_cancel=Hủy bỏ
+
+// Execute saved action for selected character
+hud_con_planning_execute_single=Triển khai hành động đã lưu với nhân vật đã chọn
+
+// Delete saved action for selected character
+hud_con_planning_reset_single=Xóa hành động đã lưu với nhân vật đã chọn
+
+// One of your characters died.
+hud_missionEnd_playerDead=Một trong những nhân vật của bạn đã chết.
+
+// Reset Camera
+hud_con_cam_reset=Đặt lại Camera
+
+// Camera
+hud_con_camMode=Camera
+
+// Missing
+hud_con_skill_missing=Thiếu
+
+// None
+hud_con_skill_None=Không
+
+// Kill
+hud_con_skill_MeleeAttack=Giết
+
+// Shoot
+hud_con_skill_GunAttack=Bắn
+
+// Throw Stone
+hud_con_skill_ThrowStone=Ném Đá
+
+// Throw Shuriken
+hud_con_skill_ThrowShuriken=Ném Phi Tiêu Shuriken
+
+// Carry
+hud_con_skill_Carry=Vác
+
+// Place Trap
+hud_con_skill_PlaceStepTrap=Đặt Bẫy
+
+// Whistle
+hud_con_skill_Whistle=Huýt Sáo
+
+// Throw Grenade
+hud_con_skill_ThrowGrenade=Ném Lựu Đạn
+
+// Shoot
+hud_con_skill_Snipe=Bắn
+
+// Disguise
+hud_con_skill_Disguise=Cải Trang
+
+// Place Sake
+hud_con_skill_PlaceSake=Đặt Chai Sa-kê
+
+// Sword Wind
+hud_con_skill_Multikill=Phong Kiếm
+
+// Faint
+hud_con_skill_Faint=Ngất Xỉu
+
+// Distract
+hud_con_skill_Distract=Đánh Lạc Hướng
+
+// Kill
+hud_con_skill_Strangle=Giết
+
+// Hairpin
+hud_con_skill_Hairpin=Trâm Cài
+
+// Place Kuma
+hud_con_skill_Tanuki=Thả Kuma
+
+// Scout
+hud_con_skill_Scout=Do Thám
+
+// Cancel
+hud_con_skill_Cancel=Hủy bỏ
+
+// Kill
+hud_con_skill_MeleeWarrior=Giết
+
+// Dodge
+hud_con_skill_Dodge=Né
+
+// Use
+hud_con_skill_UseMode=Sử dụng
+
+// Sneezing Powder
+hud_con_skill_Blind=Bột Hắt Xì
+
+// Throw
+hud_con_skill_ThrowObject=Ném
+
+// Throw
+hud_con_skill_CarryThrow=Ném
+
+// Howl
+hud_con_skill_TanukiHowl=Tiếng Tru
+
+// Call Back
+hud_con_skill_TanukiCallBack=Gọi Lại
+
+// Shoot
+hud_con_skill_Shotgun=Bắn
+
+// LStX
+hud_conButt_LeftStickX_general=LStX
+
+// LStY
+hud_conButt_LeftStickY_general=LStY
+
+// RStX
+hud_conButt_RightStickX_general=RStX
+
+// RStY
+hud_conButt_RightStickY_general=RStY
+
+// A
+hud_conButt_ActionBottomRow1_xbox=A
+
+// B
+hud_conButt_ActionBottomRow2_xbox=B
+
+// ActionBottomRow3
+hud_conButt_ActionBottomRow3_xbox=ActionBottomRow3
+
+// X
+hud_conButt_ActionTopRow1_xbox=X
+
+// Y
+hud_conButt_ActionTopRow2_xbox=Y
+
+// ActionTopRow3
+hud_conButt_ActionTopRow3_xbox=ActionTopRow3
+
+// LB
+hud_conButt_LeftShoulder1_xbox=LB
+
+// LT
+hud_conButt_LeftShoulder2_xbox=LT
+
+// RB
+hud_conButt_RightShoulder1_xbox=RB
+
+// RT
+hud_conButt_RightShoulder2_xbox=RT
+
+// Back
+hud_conButt_Center1_xbox360=Back
+
+// Start
+hud_conButt_Center2_xbox360=Start
+
+// Home
+hud_conButt_Center3_xbox=Home
+
+// L3
+hud_conButt_LeftStickButton_general=L3
+
+// R3
+hud_conButt_RightStickButton_general=R3
+
+// DUp
+hud_conButt_DPadUp_general=DUp
+
+// DRight
+hud_conButt_DPadRight_general=DRight
+
+// DDown
+hud_conButt_DPadDown_general=DDown
+
+// DLeft
+hud_conButt_DPadLeft_general=DLeft
+
+// Guard
+hud_char_Enemy=Lính gác
+
+// Hayato
+hud_char_Ninja=Hayato
+
+// Yuki
+hud_char_Trapper=Yuki
+
+// Takuma
+hud_char_Alchemist=Takuma
+
+// Aiko
+hud_char_Geisha=Aiko
+
+// Mugen
+hud_char_Warrior=Mugen
+
+// Kuma
+hud_char_Tanuki=Kuma
+
+// Civilian
+hud_char_NPC=Thường dân
+
+// Samurai
+hud_char_Samurai=Samurai
+
+// Lord Yabu
+hud_char_Daimyo=Lãnh Chúa Yabu
+
+// Okkoto
+hud_char_General=Okkoto
+
+// Overwrite this Savegame?
+hud_pause_confirmDialog_overrideSaveGame_body=Ghi đè Savegame này?
+
+// Restart the mission? All unsaved progress will be lost.
+hud_pause_confirmDialog_restartMission_body=Bắt đầu lại nhiệm vụ? Tất cả quá trình chơi chưa lưu sẽ bị mất.
+
+// Exit the mission? All unsaved progress will be lost.
+hud_pause_confirmDialog_exitMission_body=Thoát nhiệm vụ? Tất cả quá trình chơi chưa lưu sẽ bị mất.
+
+// Load Game:
+hud_pause_listHeader_loadGame=Tải Game:
+
+// Load selected savegame
+hud_pause_listButton_loadSelected=Tải savegame đã chọn
+
+// Save Game:
+hud_pause_listHeader_saveGame=Lưu Game:
+
+// Create new savegame
+hud_pause_listButton_createSaveGame=Tạo savegame mới
+
+// Confirm to load...
+hud_pause_listHeader_selectAgainLoad=Xác nhận để tải...
+
+// Confirm again to save...
+hud_pause_listHeader_selectAgainSave=Xác nhận lần nữa để lưu...
+
+// Player
+gui_inputBindingMenu_tabPage_player=Người chơi
+
+// Cam
+gui_inputBindingMenu_tabPage_cam=Cam
+
+// Menu
+gui_inputBindingMenu_tabPage_menu=Menu
+
+// UIWheel
+gui_inputBindingMenu_tabPage_uiWheel=Vòng giao diện
+
+// Cutscene
+gui_inputBindingMenu_tabPage_cutscene=Cắt cảnh
+
+// General
+gui_inputBindingMenu_tabPage_general=Chung
+
+// Viewcone
+gui_inputBindingMenu_tabPage_viewCone=Tầm nhìn
+
+// GeneralNoCutscene
+gui_inputBindingMenu_tabPage_generalNoCutscene=GeneralNoCutscene
+
+// BACK
+gui_basic_back=QUAY LẠI
+
+// YES
+gui_confirmDialog_buttonYes_standard=CÓ
+
+// NO
+gui_confirmDialog_buttonNo_standard=KHÔNG
+
+// WARNING!
+gui_confirmDialog_header_standard=CẢNH BÁO!
+
+// 
+gui_confirmDialog_body_standard=
+
+// CONFLICT!
+gui_inputBindingMenu_confirmDialog_header_conflictInputAction=XUNG ĐỘT!
+
+// Another action is already using this button. Assign anyway?
+gui_inputBindingMenu_confirmDialog_body_conflictInputAction=Một hành động khác đang sử dụng phím này. Gán không?
+
+// REASSIGN
+gui_inputBindingMenu_confirmDialog_header_reassignInputAction=GÁN LẠI
+
+// Press any button to rebind this action.
+gui_inputBindingMenu_confirmDialog_body_reassignInputAction=Nhấn phím bất kỳ để gán lại cho hành động này.
+
+// ---
+gui_inputBindingMenu_inputEntry_unassigned=---
+
+// RESET ALL
+gui_inputBindingMenu_resetLayoutToDefault=ĐẶT LẠI TẤT CẢ
+
+// DELETE ALL?
+gui_savegameMenu_confirmDialog_header_confirmDeleteAll=XÓA TẤT CẢ?
+
+// Delete all savegames? You cannot undo this action!
+gui_savegameMenu_confirmDialog_body_confirmDeleteAll=Xóa tất cả savegame? Không thể hoàn tác lại hành động này!
+
+// Noboru
+hud_char_Brogun=Noboru
+
+// Shogun
+hud_char_Shogun=Mạc Chúa
+
+// Move
+hud_con_skill_TanukiMove=Di chuyển
+
+// Knock Out
+hud_con_skill_MeleeAlternativeState=Nốc Ao
+
+// Create a new layout to change Input Actions
+gui_inpudBindingMenu_createNewLayout=Tạo bộ cài đặt phím mới
+
+// Heal
+hud_con_skill_Heal=Hồi phục
+
+// 
+gui_gameStart_pressAnyKey=Nhấn phím bất kỳ để bắt đầu
+
+// CONTINUE
+gui_mainMenuNew_continue=TIẾP TỤC
+
+// LOAD
+gui_mainMenuNew_load=TẢI SAVE
+
+// OPTIONS
+gui_mainMenuNew_options=TÙY CHỌN
+
+// MISSIONS
+gui_mainMenuNew_levels=NHIỆM VỤ
+
+// DLC
+gui_mainMenuNew_dlcs=DLC
+
+// SHADOW TACTICS: BLADES OF THE SHOGUN
+gui_mainMenuNew_header=SHADOW TACTICS: BLADES OF THE SHOGUN
+
+// VIDEO
+gui_optionsMenu_video=ĐỒ HỌA
+
+// GAMEPLAY
+gui_optionsMenu_gameplay=LỐI CHƠI
+
+// AUDIO
+gui_optionsMenu_audio=ÂM THANH
+
+// CONTROLS
+gui_optionsMenu_keySettings=CÀI ĐẶT PHÍM
+
+// RESET ALL PROGRESS
+gui_optionsMenu_resetAllProgress=ĐẶT LẠI TẤT CẢ TIẾN TRÌNH
+
+// CREDITS
+gui_optionsMenu_credits=TÁC GIẢ
+
+// DEV
+gui_optionsMenu_dev=DEV
+
+// On
+gui_menuContentPanel_general_op0=Bật
+
+// Off
+gui_menuContentPanel_general_op1=Tắt
+
+// Shadows
+gui_menuContentPanel_video_shadows_name=Đổ bóng
+
+// Anti-aliasing
+gui_menuContentPanel_video_antiAliasing_name=Chống răng cưa
+
+// Occlusion culling
+gui_menuContentPanel_video_occlusionCulling_name=Bỏ dựng hình góc khuất
+
+// Texture resolution
+gui_menuContentPanel_video_textureResolution_name=Độ phân giải vật thể
+
+// Pixel light count
+gui_menuContentPanel_video_pixelLightCount_name=Độ sáng điểm ảnh
+
+// Enable or disable shadows
+gui_menuContentPanel_video_shadows_desc=Bật hoặc tắt đổ bóng
+
+// Increase or decrease the anti-aliasing level
+gui_menuContentPanel_video_antiAliasing_desc=Tăng hoặc giảm cấp chống răng cưa
+
+// Enable or disable occlusion culling
+gui_menuContentPanel_video_occlusionCulling_desc=Bật hoặc tắt bỏ dựng hình góc khuất
+
+// Increase or decrease the texture resolution
+gui_menuContentPanel_video_textureResolution_desc=Tăng hoặc giảm độ phân giải vật thể
+
+// Increase or decrease the pixel light count
+gui_menuContentPanel_video_pixelLightCount_desc=Tăng hoặc giảm độ sáng điểm ảnh
+
+// 2x
+gui_setting_2Times=2x
+
+// 4x
+gui_setting_4Times=4x
+
+// 8x
+gui_setting_8Times=8x
+
+// Master Volume
+gui_menuContentPanel_audio_volumeMaster_name=Chủ
+
+// Music Volume
+gui_menuContentPanel_audio_volumeMusic_name=Nhạc
+
+// Sound Volume
+gui_menuContentPanel_audio_volumeSound_name=Âm thanh
+
+// Voice Volume
+gui_menuContentPanel_audio_volumeVoice_name=Giọng nói
+
+// Increase or decrease the game's overall volume
+gui_menuContentPanel_audio_volumeMaster_desc=Tăng hoặc giảm âm lượng tổng thể của Game
+
+// Increase or decrease the game music volume
+gui_menuContentPanel_audio_volumeMusic_desc=Tăng hoặc giảm âm lượng của nhạc
+
+// Increase or decrease the volume of sound effects
+gui_menuContentPanel_audio_volumeSound_desc=Tăng hoặc giảm âm lượng của hiệu ứng âm thanh
+
+// Increase or decrease the volume of character voices
+gui_menuContentPanel_audio_volumeVoice_desc=Tăng hoặc giảm âm lượng của giọng nói nhân vật
+
+// Show tutorials
+gui_menuContentPanel_dev_showTutorialBoxes_name=Hiển thị hướng dẫn
+
+// Toggle whether the tutorials will be shown or not
+gui_menuContentPanel_dev_showTutorialBoxes_desc=Chuyển chế độ để hướng dẫn được hiển thị hoặc không
+
+// Hide UI
+gui_menuContentPanel_dev_hideUI_name=Ẩn giao diện người dùng
+
+// Toggle the hide state of the UI
+gui_menuContentPanel_dev_hideUI_desc=Chuyển chế độ ẩn giao diện người dùng
+
+// Continue after mission fail
+gui_menuContentPanel_dev_continueAfterMissionFail_name=Tiếp tục sau khi nhiệm vụ thất bại
+
+// Toggle if the game still accepts input after a failed mission
+gui_menuContentPanel_dev_continueAfterMissionFail_desc=Chuyển chế độ nếu Game vẫn cho phép tiếp tục sau nhiệm vụ thất bại
+
+// Trouble on the Nakasendō
+gui_missionMenu_lvl_convoy_name=Rắc rối trên đường Nakasendō
+
+// Taking Masaru
+gui_missionMenu_lvl_bathhouse_name=Bắt cóc Masaru
+
+// Killing Lord Yabu
+gui_missionMenu_lvl_mansion_name=Ám sát lãnh chúa Yabu
+
+// The Death of Kage-sama
+gui_missionMenu_lvl_bambooForest_name=Cái chết của Kage-sama
+
+// Attack on Kanazawa
+gui_missionMenu_lvl_uprising_name=Tấn công Kanazawa
+
+// The Thieves of Imai
+gui_missionMenu_lvl_snowCity_name=Kẻ trộm ở Imai
+
+// The Siege of Ōsaka
+gui_missionMenu_lvl_firstCastle_name=Cuộc vây hãm Ōsaka
+
+// The Death of Noboru
+gui_missionMenu_lvl_finalCastle_name=Cái chết của Noboru
+
+// Escape from Mount Tsuru
+gui_missionMenu_lvl_monasteryGetAlchemist_name=Thoát khỏi núi Tsuru
+
+// Betrayal at Mount Tsuru
+gui_missionMenu_lvl_monasteryImprisoned_name=Sự phản bội ở núi Tsuru
+
+// Suganuma Rescue
+gui_missionMenu_lvl_ricefields_name=Giải cứu Suganuma
+
+// A Fateful Meeting
+gui_missionMenu_lvl_shogunCamp_name=Cuộc gặp gỡ định mệnh
+
+// Spies in Hida Village
+gui_missionMenu_lvl_lakeVillage_name=Do thám làng Hida
+
+// DLC 1
+gui_missionMenu_lvl_dlc_story_name=DLC 1
+
+// DLC 2
+gui_missionMenu_lvl_dlc_moon_name=DLC 2
+
+// Hayato must intercept an illegal weapons transport on the Nakasendō road. However, someone else is lurking in the forest.
+gui_missionMenu_lvl_convoy_desc=Hayato phải ngăn chặn một cuộc vận chuyển vũ khí bất hợp pháp ở trên đường Nakasendō. Tuy nhiên, vẫn còn một ai đó đang ẩn nấp ở trong rừng.
+
+// Mugen's companions have been blamed for Ryūnosuke's murder. In order to clear their names, Aiko and Hayato travel to Kyōto to kidnap Masaru.
+gui_missionMenu_lvl_bathhouse_desc=Đồng đội của Mugen bị vu khống sát hại Ryūnosuke. Để xóa bỏ tội danh này, Aiko và Hayato phải đến Kyōto để bắt cóc Masaru.
+
+// Lord Yabu has retreated to his luxurious estate. He thinks he is safe, but Takuma is eager to get his revenge.
+gui_missionMenu_lvl_mansion_desc=Lãnh chúa Yabu đang ẩn dật tại một biệt thư lộng lẫy. Hắn nghĩ rằng mình đã an toàn, còn lão Takuma thì lại rất muốn được trả thù.
+
+// Mugen and his companions have discovered the location of Kage-sama. Under orders of the Shogun, they travel to his hidden camp so they can bring him to justice. 
+gui_missionMenu_lvl_bambooForest_desc=Mugen và các đồng đội của mình đã phát hiện ra vị trí của Kage-sama. Dưới chỉ thị của Mạc Chúa, họ phải đến nơi ẩn nấp của hắn để mang hắn ra trước công lý.
+
+// General Okkoto's rebels have taken Kanazawa Castle. Lord Noboru orders Mugen and his companions to infiltrate the castle while the Shogunate army attacks.
+gui_missionMenu_lvl_uprising_desc=Tướng phiến quân Okkoto đã chiếm được thành Kanazawa. Lãnh chúa Noboru ra lệnh Mugen và đồng đội đột nhập vào thành trong khi quân Mạc Phủ đang tấn công bên ngoài.
+
+// Mugen takes Yuki to Imai town, where she must steal important documents that will shed light on the origins of the illegal weapons transport.
+gui_missionMenu_lvl_snowCity_desc=Mugen gửi Yuki đến thị trấn Imai, nơi mà cô ấy phải đánh cắp tài liệu quan trọng giúp làm sáng tỏ nguồn gốc của chuyến vận chuyển vũ khí trái phép.
+
+// In the final days of the Siege of Ōsaka, the Shogun sends a lone shinobi into the heart of the enemy stronghold.
+gui_missionMenu_lvl_firstCastle_desc=Trong những ngày cuối cùng của cuộc vây hãm Ōsaka, Mạc Phủ gửi duy nhất một Shinobi vào trung tâm thành của đối phương.
+
+// Mugen's companions confront the Shogun. The truth is revealed, and the Shogun decides that his brother must die.
+gui_missionMenu_lvl_finalCastle_desc=Các đồng đội của Mugen diện kiến Mạc Chúa. Sự thật đã được vạch trần, và Mạc Chúa quyết định người em trai của mình phải chết.
+
+// Mugen discovers that Takuma is alive. He teams up with an old associate to find and rescue him.
+gui_missionMenu_lvl_monasteryGetAlchemist_desc=Mugen phát hiện ra Takuma còn sống. Anh liền lập đội và lên đường tìm kiếm giải cứu lão Takuma.
+
+// Lord Noboru has betrayed everyone. Mugen must face the darkest moment of his life. Meanwhile, his companions struggle to escape their prison.
+gui_missionMenu_lvl_monasteryImprisoned_desc=Lãnh chúa Noboru đã phản bội lại tất cả mọi người, Mugen phải đối mặt với thời khắc đen tối nhất của mình. Trong khi đó, các đồng đội của anh đang tìm cách để vượt ngục.
+
+// Kuma leads Yuki to Suganuma village, where Mugen and Takuma have been overwhelmed by the rebels.
+gui_missionMenu_lvl_ricefields_desc=Kuma dẫn Yuki tới làng Suganuma, nơi mà Mugen và Takuma đang bị choáng ngợp bởi hành động tàn ác của lũ phiến quân.
+
+// Mugen's companions want to deliver Masaru to the Shogun. However, the Shogun has left Edo and is currently on his way to Kyōto
+gui_missionMenu_lvl_shogunCamp_desc=Các đồng đội của Mugen muốn giao nộp Masaru đến Mạc Chúa. Tuy nhiên, Mạc Chúa đã rời Edo và đang trên đường đến Kyōto.
+
+// Mugen and his companions must help the Shogun's brother Noboru fight a rebellion. Hayato, Aiko and Yuki are sent to spy on the rebels.
+gui_missionMenu_lvl_lakeVillage_desc=Mugen và các đồng đội phải giúp đỡ em trai Mạc Chúa là Noboru chống lại quân nổi dậy. Hayato, Aiko và Yuki được cử làm gián điệp để trà trộn vào lòng địch.
+
+// -
+gui_missionMenu_lvl_dlc_story_desc=-
+
+// -
+gui_missionMenu_lvl_dlc_moon_desc=-
+
+// BADGES
+gui_menuContentPanel_missionMenu_badges=DANH HIỆU
+
+// Difficulty
+gui_menuContentPanel_missionMenu_difficulty_name=Độ khó
+
+// Cutscene
+gui_menuContentPanel_missionMenu_cutscene_name=Cắt cảnh
+
+// There will be easier/harder enemy setups. Also you will be seen less/more quickly and take more/less hits to die.
+gui_menuContentPanel_missionMenu_difficulty_desc=Càng dễ dàng/khó khăn trong việc phục kích quân địch bao nhiêu. Bạn càng ít/nhanh chóng bị phát hiện và khả năng bị đánh chết ít/nhiều bấy nhiêu.
+
+// Do you want to view the cutscene?
+gui_menuContentPanel_missionMenu_cutscene_desc=Bạn có muốn xem cắt cảnh?
+
+// Beginner
+gui_menuContentPanel_missionMenu_difficulty_op0=Gà mờ
+
+// Normal
+gui_menuContentPanel_missionMenu_difficulty_op1=Bình thường 
+
+// Hardcore
+gui_menuContentPanel_missionMenu_difficulty_op2=Khó - Hardcore
+
+// Yes
+gui_menuContentPanel_general_op2=Có
+
+// No
+gui_menuContentPanel_general_op3=Không
+
+// Mission Briefing
+gui_menuContentPanel_missionMenu_briefing_name=Tóm tắt nhiệm vụ
+
+// PLAY
+gui_menuContentPanel_missionMenu_play=CHƠI
+
+// Last Save:
+hud_base_saveTimer=Lượt lưu cuối cùng:
+
+// No Quicksave
+gui_missionMenu_badge_00_name=Không lưu nhanh
+
+// No Alarm
+gui_missionMenu_badge_01_name=Không có báo động
+
+// No Casualties
+gui_missionMenu_badge_02_name=Không có thương vong
+
+// Unseen
+gui_missionMenu_badge_03_name=Không bị nhìn thấy
+
+// Finish the level without saving.
+gui_missionMenu_badge_00_desc=Kết thúc màn này mà không lưu.
+
+// Finish the level without triggering any alarm.
+gui_missionMenu_badge_01_desc=Kết thúc màn này mà không gây báo động.
+
+// Finish the level without killing anyone (except mission targets).
+gui_missionMenu_badge_02_desc=Kết thúc màn này mà không giết bất kỳ ai (ngoại trừ mục tiêu của nhiệm vụ).
+
+// Finish the level without being detected.
+gui_missionMenu_badge_03_desc=Kết thúc màn này mà không bị phát hiện.
+
+// {0}
+gui_inputBindingMenu_layout_default={0}
+
+// Custom {0}
+gui_inputBindingMenu_layout=Tùy chỉnh {0}
+
+// Create
+gui_inputBindingMenu_layout_add=Tạo
+
+// SAVE
+gui_pauseMenu_saveLoad_save=LƯU SAVE
+
+// MAIN MENU
+gui_pauseMenu_mainMenu=MENU CHÍNH
+
+// PAUSE
+gui_pauseMenu_header=TẠM DỪNG
+
+// QUICK LIST
+gui_pauseMenu_quickList_header=DANH SÁCH LƯU NHANH
+
+// Difficulty:
+gui_pauseMenu_quickList_difficulty=Độ khó:
+
+// {0} {1}
+gui_pauseMenu_quickList_date_date={0} {1}
+
+// {0} today
+gui_pauseMenu_quickList_date_timeToday={0} hôm nay
+
+// {0} m ago
+gui_pauseMenu_quickList_date_minutesAgo={0} m trước
+
+// {0}m {1}s  ago
+gui_pauseMenu_quickList_date_minutesSecondsAgo={0}m {1}s trước
+
+// OVERWRITE
+hud_pause_confirm_overrideSaveGame_header=GHI ĐÈ
+
+// LOAD
+gui_pauseMenu_saveLoad_load=TẢI SAVE
+
+// ---
+gui_inputBindingMenu_layout_empty=---
+
+// SELECT
+gui_inputBindingMenu_layout_select=LỰA CHỌN 
+
+// PLAYER
+gui_inputBindingMenu_tabPage_player_name=NGƯỜI CHƠI 
+
+// Edit player controls
+gui_inputBindingMenu_tabPage_player_desc=Thay đổi điều khiển nhân vật
+
+// CAMERA
+gui_inputBindingMenu_tabPage_camera_name=CAMERA
+
+// Edit camera controls
+gui_inputBindingMenu_tabPage_camera_desc=Thay đổi điều khiển camera
+
+// GENERAL
+gui_inputBindingMenu_tabPage_general_name=Chung
+
+// Edit general controls
+gui_inputBindingMenu_tabPage_general_desc=Thay đổi điều khiển chung
+
+// {0}
+gui_inputBindingMenu_inputEntry_generic={0}
+
+// ---
+gui_inputBindingMenu_layout_inactive=---
+
+// Mute player voice
+gui_menuContentPanel_dev_mutePlayerVoice_name=Tắt âm người chơi
+
+// Enable or disable player character voices.
+gui_menuContentPanel_dev_mutePlayerVoice_desc=Bật hoặc tắt giọng nói của nhân vật
+
+// EXIT GAME
+gui_mainMenuNew_exitGame=THOÁT
+
+// RESTART
+gui_pauseMenu_restartMission=KHỞI ĐỘNG LẠI
+
+// Return to Desktop?
+gui_mainMenuNew_confirmDialog_body_exitGame=Quay về Desktop?
+
+// QUICKLOAD
+gui_pauseMenu_quickLoad=TẢI NHANH
+
+// QL. OLDER
+gui_pauseMenu_quickLoadOlder=SẮP XẾP
+
+// RESET
+gui_inputBindingMenu_confirmDialog_header_resetLayoutToDefault=ĐẶT LẠI
+
+// Reset all Input Actions to default values?
+gui_inputBindingMenu_confirmDialog_body_resetLayoutToDefault=Đặt lại tất cả giá trị về mặc định?
+
+// Mission Success - {0}
+hud_statistics_header=Nhiệm vụ thành công - {0}
+
+// Completion time:
+hud_statistics_Playtime_name=Thời gian hoàn thành:
+
+// Save count:
+hud_statistics_QuicksaveCount_name=Số lần lưu Save:
+
+// Load count:
+hud_statistics_QuickloadCount_name=Số lần tải Save:
+
+// Enemies killed:
+hud_statistics_EnemiesKilled_name=Kẻ địch đã giết:
+
+// Enemies spared:
+hud_statistics_EnemiesSpared_name=Kẻ địch đã tha:
+
+// Civilians killed:
+hud_statistics_NPCsKilled_name=Thường dân đã giết:
+
+// Injuries suffered:
+hud_statistics_EnemiesShotPlayer_name=Bị thương:
+
+// Player detected:
+hud_statistics_PlayerDetected_name=Bị phát hiện:
+
+// Bodies discovered:
+hud_statistics_DeadBodiesFound_name=Phát hiện xác chết:
+
+// Alarm count:
+hud_statistics_AlarmCount_name=Số lần báo động:
+
+// Most kills:
+hud_statistics_CharKilledMostEnemies_name=Giết nhiều nhất:
+
+// Most deaths:
+hud_statistics_CharDiedMostOften_name=Chết nhiều nhất:
+
+// {0}
+hud_statistics_generic_value={0}
+
+// {0}:{1}:{2}
+hud_statistics_playtime_value_hms={0}:{1}:{2}
+
+// {0}:{1}
+hud_statistics_playtime_value_ms={0}:{1}
+
+// {0}s
+hud_statistics_playtime_value_s={0}s
+
+// STATISTICS
+hud_statistics_section_general=THỐNG KÊ
+
+// CHARACTERS
+hud_statistics_section_characters=NHÂN VẬT
+
+// Kills:
+hud_statistics_enemiesKilledByThisChar_name=Giết:
+
+// Time:
+hud_statistics_timeSelected_name=Thời gian:
+
+// ({0}%)
+hud_statistics_timeSelected_value=({0}%)
+
+// SaveLoad test all Scenes
+gui_menuContentPanel_dev_saveLoadTestAllScenes_name=SaveLoad kiểm tra tất cả cắt cảnh
+
+// Save Reminder
+gui_menuContentPanel_gameplay_hideSaveReminder_name=Nhắc lưu Save
+
+// Enable the Save Reminder at the upper edge of the screen and adjust the time interval.
+gui_menuContentPanel_gameplay_hideSaveReminder_desc=Bật nhắc lưu Save ở phía trên màn hình và điều chỉnh khoảng thời gian.
+
+// {0}
+hud_pc_bindableInput_generic_value={0}
+
+// Menu
+hud_pc_header_openPauseMenu=Menu
+
+// Quicksave
+hud_pc_header_quickSave=Lưu Save nhanh
+
+// Quickload
+hud_pc_header_quickLoad=Tải Save nhanh
+
+// ({0})
+hud_cutscene_skip_pc_hotkey=({0})
+
+// Skip
+hud_cutscene_skip=Bỏ qua
+
+// Unlock levels
+gui_menuContentPanel_dev_unlockAllLevels_name=Mở khóa màn chơi
+
+// Delete savefolder
+gui_menuContentPanel_dev_deleteAllSavegames_name=Xóa thư mục Save
+
+// GAME OVER
+hud_missionEnd_gameOver=GAME OVER
+
+// In-World Text
+gui_menuContentPanel_gameplay_showEnemyVoiceOverText_name=Chữ trong Game
+
+// Enable texts above talking NPCs.
+gui_menuContentPanel_gameplay_showEnemyVoiceOverText_desc=Bật chữ phía trên NPC khi đang nói chuyện.
+
+// MISSION INFO
+hud_questLog_objectives=THÔNG TIN NHIỆM VỤ
+
+// HINTS
+hud_questLog_hints=GỢI Ý
+
+// DIALOGUE LOG
+hud_questLog_contextDialogLog=ĐỐI THOẠI
+
+// BADGES
+hud_questLog_badges=DANH HIỆU
+
+// {0} ({1}/{2})
+hud_questLog_badgeName_generic={0} ({1}/{2})
+
+// INFO
+gui_loadingHandler_loadingHint_header=THÔNG TIN
+
+// All skills and characters have tooltips. They can help you discover new strategies.
+txt_loadingtip_tooltips=Tất cả kĩ năng và nhân vật đều có mẹo hữu ích. Chúng sẽ giúp bạn khám phá ra những chiến thuật mới.
+
+// Matchlock pistols are powerful, but have limited ammunition. It is best to save them for when you are stuck.
+txt_loadingtip_firearms=Súng ngắn hỏa mai là vũ khí hỏa lực mạnh nhưng lượng đạn rất hạn chế. Chỉ sử dụng chúng khi lâm vào thế bí.
+
+// All melee attacks have a nonlethal option. <hotkey>{0}</hotkey> to switch to nonlethal, or use the modifier in your skill bar.
+txt_loadingtip_nonLethal=Tất cả tấn công cận chiến đều có lựa chọn không hạ thủ. <hotkey>{0}</hotkey> để chuyển sang không hạ thủ, hoặc thay đổi ở thanh kĩ năng.
+
+// Characters move dead bodies differently. Some focus on speed, others keep close to the ground to avoid detection.
+txt_loadingtip_carryCorpse=Các nhân vật đều có cách di chuyển xác chết khác nhau. Một số tập trung vào tốc độ, còn một số khác thì kéo sát mặt đất để tránh bị phát hiện.
+
+// Hold <hotkey>{0}</hotkey> when ordering a melee kill to pick up the body automatically.
+txt_loadingtip_killCarry_pc=Giữ <hotkey>{0}</hotkey> khi đang thực hiện lệnh giết kẻ địch để tự động nhặt xác lên.
+
+// Hold {1} during a melee kill to pick up the body automatically.
+txt_loadingtip_killCarry_console=Giữ {1} trong khi đang giết kẻ địch để tự động nhặt xác lên.
+
+// Kill all Officers
+gui_missionMenu_badge_convoyOfficers_name=Giết toàn bộ Chỉ Huy.
+
+// Kill all 6 Officers
+gui_missionMenu_badge_convoyOfficers_desc=Giết toàn bộ 6 Chỉ Huy
+
+// Rotate
+hud_con_camera_rotate=Xoay
+
+// Zoom
+hud_con_camera_zoom=Thu phóng
+
+// BACK TO MENU
+hud_statistics_backToMenu=QUAY VỀ MENU
+
+// CUTSCENE
+gui_missionMenu_confirmDialog_watchCutscene_header=CẮT CẢNH
+
+// Do you want to watch the cutscene again?
+gui_missionMenu_confirmDialog_watchCutscene_body=Bạn có muốn xem cắt cảnh lần nữa?
+
+// Narrator
+hud_char_narrator=Người dẫn truyện
+
+// Ryūnosuke
+hud_char_shogunson=Ryūnosuke
+
+// Masaru
+hud_char_brogunson=Masaru
+
+// Quicksaves
+gui_pauseMenu_saveLoad_list_quickSaves=Lưu save nhanh
+
+// Normal Saves
+gui_pauseMenu_saveLoad_list_hardSaves=Save thường
+
+// Press
+hud_missionEnd_failed_loadReminder_00=Nhấn
+
+// to Quickload
+hud_missionEnd_failed_loadReminder_01=để tải save nhanh
+
+// Deprecated savefile!
+gui_pauseMenu_saveLoad_list_deprecatedSaveFile=File lưu lỗi thời!
+
+// NEW GAME
+gui_mainMenuNew_newGame=VÁN MỚI
+
+// Start new game?
+gui_mainMenuNew_confirmDialog_newGame_header=XÁC NHẬN
+
+// NOTE: You can change the difficulty at any point in the mission menu
+gui_mainMenuNew_confirmDialog_newGame_body=Bắt đầu ván mới?
+
+// Shadow Mode
+hud_con_dpad_planningMode=Chế độ Shadow
+
+// Mission
+hud_con_dpad_questLog=Nhiệm vụ
+
+// View
+hud_con_dpad_viewConeMode=Tầm nhìn
+
+// MISSION FEEDBACK
+hud_statistics_confirmDialog_betaSurvey_header=GÓP Ý NHIỆM VỤ
+
+// Well done. Help us deliver the best version of this level when the game launches. Continue will open the survey website. Take your time, we really appreciate it!
+hud_statistics_confirmDialog_betaSurvey_body_00=Well done. Help us deliver the best version of this level when the game launches. Continue will open the survey website. Take your time, we really appreciate it!
+
+// Did you leave your feedback? Thank you!
+hud_statistics_confirmDialog_betaSurvey_body_01=Did you leave your feedback? Thank you!
+
+// REOPEN LINK
+hud_statistics_confirmDialog_betaSurvey_buttonYes_01=REOPEN LINK
+
+// I AM DONE
+hud_statistics_confirmDialog_betaSurvey_buttonNo_01=I AM DONE
+
+// GAME FEEDBACK
+hud_statistics_confirmDialog_betaSurvey_endGame_header=GAME FEEDBACK
+
+// Thanks for playing! Help us improve the quality of the final version. Continue will open the survey website. Take your time, we really appreciate it!
+hud_statistics_confirmDialog_betaSurvey_endGame_body=Thanks for playing! Help us improve the quality of the final version. Continue will open the survey website. Take your time, we really appreciate it!
+
+// Toggle Dev Extra-Options
+gui_menuContentPanel_dev_unlockDevExtraOptions=Bật tắt tùy chọn lập trình
+
+// You can quickly cycle through skills by pressing {0}. The same works with {1} for characters.
+txt_loadingtip_quickselect_01_console=Có thể vào nhanh Vòng Kĩ Năng bằng cách nhấn {0}. Hoạt động giống với {1} nhân vật.
+
+// Demo
+gui_missionMenu_lvl_demo_name=Thử nghiệm
+
+// Demo
+gui_missionMenu_lvl_demo_desc=Thử nghiệm
+
+// DELETE
+gui_pauseMenu_saveLoad_list_delete=XOÁ
+
+// Delete savegame?
+gui_pauseMenu_saveLoad_list_confirmDialog_deleteSaveGame_body=Xoá savegame?
+
+// OK
+gui_confirmDialog_buttonOK=OK
+
+// Unlocked all levels!
+gui_optionsMenu_dev_confirmDialog_unlockAllLevels_body=Đã mở khóa tất cả màn chơi!
+
+// Enter
+hud_con_context_action_enter=Đi vào
+
+// Auto-Standup
+gui_menuContentPanel_gameplay_noAutoRunIfCrawl_name=Tự đứng lên
+
+// Enable whether characters stand up automatically when double clicking.
+gui_menuContentPanel_gameplay_noAutoRunIfCrawl_desc=Kích hoạt nhân vật tự đứng lên khi nhấp đúp.
+
+// View
+hud_conButt_Center1_xboxOne=View
+
+// Menu
+hud_conButt_Center2_xboxOne=Menu
+
+// X
+hud_conButt_ActionBottomRow1_ps=X
+
+// Circle
+hud_conButt_ActionBottomRow2_ps=Tròn
+
+// ActionBottomRow3
+hud_conButt_ActionBottomRow3_ps=ActionBottomRow3
+
+// Square
+hud_conButt_ActionTopRow1_ps=Vuông
+
+// Triangle
+hud_conButt_ActionTopRow2_ps=Tam giác
+
+// ActionTopRow3
+hud_conButt_ActionTopRow3_ps=ActionTopRow3
+
+// L1
+hud_conButt_LeftShoulder1_ps=L1
+
+// L2
+hud_conButt_LeftShoulder2_ps=L2
+
+// R1
+hud_conButt_RightShoulder1_ps=R1
+
+// R2
+hud_conButt_RightShoulder2_ps=R2
+
+// Share
+hud_conButt_Center1_ps4=Share
+
+// Options
+hud_conButt_Center2_ps4=Options
+
+// Center3
+hud_conButt_Center3_ps4=Center3
+
+// Next
+gui_confirmDialogTutorial_buttonNextElement_next=Tiếp theo
+
+// Close
+gui_confirmDialogTutorial_buttonNextElement_close=Đóng
+
+// INFO
+gui_menuContentPanel_missionMenu_info=THÔNG TIN
+
+// HIDE
+gui_mainMenuNew_layout_missionFailed_hideMenu=ẨN
+
+// Mission failed!
+gui_mainMenuNew_layout_missionFailed_header=Nhiệm vụ thất bại!
+
+// Select a file to load
+gui_mainMenuNew_layout_missionFailed_subtitle=Chọn file để tải
+
+// TUTORIALS
+hud_questLog_tutorialBoxes=HƯỚNG DẪN
+
+// Set pass calls
+gui_menuContentPanel_video_setPassCalls_name=Đăt mật khẩu cuộc gọi
+
+// Resolution
+gui_menuContentPanel_video_resolution_name=Độ phân giải
+
+// Shadow Distance
+gui_menuContentPanel_video_shadowQuality_name=Khoảng cách đổ bóng
+
+// Low
+gui_menuContentPanel_video_shadowQuality_op0=Thấp
+
+// Medium
+gui_menuContentPanel_video_shadowQuality_op1=Trung bình
+
+// High
+gui_menuContentPanel_video_shadowQuality_op2=Cao
+
+// ALL Posteffects
+gui_menuContentPanel_video_allPosteffects_name=TẤT CẢ Posteffects
+
+// Passive abilities:
+hud_base_tooltip_passive_abilites_header=Khả năng nội tại:
+
+// Can climb <passiveAbilityName>ladders</passiveAbilityName> and <passiveAbilityName>ivies</passiveAbilityName> and use <passiveAbilityName>hooks</passiveAbilityName>
+hud_base_tooltip_passive_abilites_climb_laddersIvysHooks=Có thể leo <passiveAbilityName>thang</passiveAbilityName>, <passiveAbilityName>cây leo trinh đằng</passiveAbilityName> và sử dụng <passiveAbilityName>móc</passiveAbilityName>
+
+// Can climb <passiveAbilityName>ladders</passiveAbilityName>
+hud_base_tooltip_passive_abilites_climb_ladders=Có thể leo <passiveAbilityName>thang</passiveAbilityName>
+
+// Can <passiveAbilityName>carry</passiveAbilityName> a single body (standing, slow)
+hud_base_tooltip_passive_abilites_carryBody_ninja=Có thể <passiveAbilityName>vác</passiveAbilityName> một cơ thể (đứng, chậm)
+
+// Can <passiveAbilityName>carry</passiveAbilityName> two bodies (standing, fast)
+hud_base_tooltip_passive_abilites_carryBody_warrior=Có thể <passiveAbilityName>vác</passiveAbilityName> hai cơ thể (đứng, nhanh)
+
+// Can <passiveAbilityName>drag</passiveAbilityName> a single body (crouching, slow)
+hud_base_tooltip_passive_abilites_carryBody_drag=Có thể <passiveAbilityName>kéo</passiveAbilityName> một cơ thể (cúi người, chậm)
+
+// Can <passiveAbilityCannot>not</passiveAbilityCannot> <passiveAbilityName>carry</passiveAbilityName> bodies
+hud_base_tooltip_passive_abilites_carryBody_no=<passiveAbilityCannot>Không thể</passiveAbilityCannot> <passiveAbilityName>vác</passiveAbilityName> cơ thể nào
+
+// Can enter <passiveAbilityName>water</passiveAbilityName>
+hud_base_tooltip_passive_abilites_water_yes=Có thể nhảy xuống <passiveAbilityName>nước</passiveAbilityName>
+
+// Can <passiveAbilityCannot>not</passiveAbilityCannot> enter <passiveAbilityName>water</passiveAbilityName>
+hud_base_tooltip_passive_abilites_water_no=<passiveAbilityCannot>Không thể</passiveAbilityCannot> nhảy xuống <passiveAbilityName>nước</passiveAbilityName>
+
+// {0}/{1}
+hud_statistics_generic_amountOfValue={0}/{1}
+
+// No Survivors
+gui_missionMenu_badge_killAll_name=Không một ai sống sót.
+
+// Target Eliminated
+gui_missionMenu_badge_killSpy_demo=Đối tượng bị loại bỏ
+
+// Use your Ninjato to take down an enemy in close range.
+hud_base_tooltip_skill_PlyNinMelee_top=Sử dụng Kiếm Ninja để hạ gục một kẻ địch ở cự ly gần.
+
+// Range: 1, Noise Radius: 3, Duration: 1.3s.
+hud_base_tooltip_skill_PlyNinMelee_bottom=Phạm vi: 1, Bán kính tiếng ồn: 3, Thời gian: 1.3s.
+
+// Range: 1, Noise Radius: 1.5, Duration: 1.3s.
+hud_base_tooltip_skill_PlyNinMelee_bottom_toggled=Phạm vi: 1, Bán kính tiếng ồn: 1.5, Thời gian: 1.3s.
+
+// Use your Matchlock Pistol for a strong ranged attack.
+hud_base_tooltip_skill_PlyGunAttack_top=Sử dụng súng ngắn hỏa mai để có tầm bắn xa và mạnh.
+
+// Range: 17, Noise Radius: 8, Cooldown: 3s, Dying Duration: 1s.
+hud_base_tooltip_skill_PlyGunAttack_bottom=Phạm vi: 17, Bán kính tiếng ồn: 8, Thời gian: 3s, Thời gian chết: 1s.
+
+// Throw a stone to create a noise that makes enemies look in that direction.
+hud_base_tooltip_skill_PlyNinThrowStone_top=Ném một hòn đá để tạo tiếng động khiến cho đối phương nhìn vào đó.
+
+// Range: 12, Noise Radius: 5, Duration: 5s, Cooldown: 6s.
+hud_base_tooltip_skill_PlyNinThrowStone_bottom=Phạm vi: 12, Bán kính tiếng ồn: 5, Thời gian: 5s, Hồi chiêu: 6s.
+
+// Use your Shuriken to perform a ranged attack. Remember to pick it up again after.
+hud_base_tooltip_skill_PlyNinThrowShuriken_top=Sử dụng Phi tiêu Shuriken để tấn công từ xa. Nhớ rằng phải nhặt lại chúng.
+
+// Range: 12, Noise Range: 6, Dying Duration: 4s.
+hud_base_tooltip_skill_PlyNinThrowShuriken_bottom=Phạm vi: 12, Bán kính tiếng ồn: 6, Thời gian chết: 4s.
+
+// Place a trap that kills enemies who step on it. Remember to pick it up again after.
+hud_base_tooltip_skill_PlyTraPlaceStepTrap_top=Đặt một cái bẫy để khi bất kỳ kẻ địch nào giẫm lên đều sẽ bị chết. Nhớ rằng phải nhặt lại chúng.
+
+// Range: 2, Noise Range: 4, Setup Time: 1.5s.
+hud_base_tooltip_skill_PlyTraPlaceStepTrap_bottom=Phạm vi: 2, Bán kính tiếng ồn: 4, Thời gian đặt: 1.5s.
+
+// Whistle to lure enemies toward your current location.
+hud_base_tooltip_skill_PlyTraWhistle_top=Huýt gió để dụ kẻ địch tiến về phía của mình.
+
+// Range: 10, Cooldown: 6s.
+hud_base_tooltip_skill_PlyTraWhistle_bottom=Tầm xa: 10, Hồi chiêu: 6s.
+
+// Throw a grenade for a very loud, long-range area attack.
+hud_base_tooltip_skill_PlyAlcThrowGrenade_top=Ném lựu đạn để tấn công từ xa cũng như gây tiếng ồn lớn.
+
+// Throw Range: 15, Noise Range: 13, Damage Range: 4, Cooldown: 6s.
+hud_base_tooltip_skill_PlyAlcThrowGrenade_bottom=Phạm vi ném: 15, Bán kính tiếng ồn: 13, Phạm vi sát thương: 4, Hồi chiêu: 6s.
+
+// Throw a poison grenade that stuns enemies.
+hud_base_tooltip_skill_PlyAlcThrowGrenade_top_toggled=Ném lựu đạn có độc để khống chế đối phương.
+
+// Throw Range: 15, Noise Range: 0, Damage Range: 5, Cooldown: 6s.
+hud_base_tooltip_skill_PlyAlcThrowGrenade_bottom_toggled=Phạm vi ném: 15, Bán kính tiếng ồn: 0, Phạm vi sát thương: 5, Hồi chiêu: 6s.
+
+// Use your rifle for a long-range attack. Keep track of your ammunition.
+hud_base_tooltip_skill_PlyAlcSnipe_top=Sử dụng súng trường để tấn công từ xa. Nhớ để ý băng đạn.
+
+// Range: 55, Noise Radius: 3, Cooldown: 2s, Dying Duration: 1s.
+hud_base_tooltip_skill_PlyAlcSnipe_bottom=Phạm vi: 55, Bán kính tiếng ồn: 3, Hồi chiêu: 2s, Thời gian chết: 1s.
+
+// Put on your disguise. You will temporarily lose it if you behave suspiciously.
+hud_base_tooltip_skill_PlyGeiDisguise_top=Mặc lớp ngụy trang. Sẽ tạm thời mất hiệu lực nếu hành động cư xử bị nghi ngờ.
+
+// Take off your disguise.
+hud_base_tooltip_skill_PlyGeiDisguise_top_toggled=Cởi bỏ lớp ngụy trang.
+
+// Place a bottle of sake to lure an enemy. If it gets picked up, you will have to retrieve it.
+hud_base_tooltip_skill_PlyWarPlaceSake_top=Đặt chai Sa kê để dụ kẻ địch. Nếu chúng nhặt lên thì phải lấy lại nó.
+
+// Range: 5.
+hud_base_tooltip_skill_PlyWarPlaceSake_bottom=Phạm vi: 5.
+
+// Use your two swords to take down all enemies in close range. <passiveAbilityCannot>Doesn't pierce samurai armor.</passiveAbilityCannot>
+hud_base_tooltip_skill_PlyWarMultikill_top=Sử dụng hai thanh kiếm để hạ tất cả địch trong phạm vi. <passiveAbilityCannot>Không xuyên giáp Samurai.</passiveAbilityCannot>
+
+// Range: 3, Noise Radius: 6, Cooldown: 18s.
+hud_base_tooltip_skill_PlyWarMultikill_bottom=Phạm vi: 3, Bán kính tiếng ồn: 6, Hồi chiêu: 18s.
+
+// Talk to an enemy to keep their view focused on you.
+hud_base_tooltip_skill_PlyDistract_top=Nói chuyện với kẻ địch để hướng sự chú ý vào mình.
+
+// Range: 3.
+hud_base_tooltip_skill_PlyDistract_bottom=Phạm vi: 3.
+
+// Use your dagger to perform a close-range attack.
+hud_base_tooltip_skill_PlyTraMelee_top=Sử dụng dao găm để tấn công phạm vi gần.
+
+// Range: 1, Noise Radius: 3, Duration: 2.8.
+hud_base_tooltip_skill_PlyTraMelee_bottom=Phạm vi: 1, Bán kính tiếng ồn: 3, Thời gian: 2.8.
+
+// Range: 1, Noise Radius: 3, Duration: 2.8.
+hud_base_tooltip_skill_PlyTraMelee_bottom_toggled=Phạm vi: 1, Bán kính tiếng ồn: 3, Thời gian: 2.8.
+
+// Use your hairpins to perform a close-range attack.
+hud_base_tooltip_skill_PlyGeiMelee_top=Sử dụng trâm cài để tấn công phạm vi gần.
+
+// Range: 1, Noise Radius: 3, Duration: 2s.
+hud_base_tooltip_skill_PlyGeiMelee_bottom=Phạm vi: 1, Bán kính tiếng ồn: 3, Thời gian: 2s.
+
+// Range: 1, Noise Radius: 3, Duration: 2s.
+hud_base_tooltip_skill_PlyGeiMelee_bottom_toggled=Phạm vi: 1, Bán kính tiếng ồn: 3, Thời gian: 2s.
+
+// Place the tanuki. It can howl to lure enemies toward it.
+hud_base_tooltip_skill_PlyAlcTanuki_top=Thả lửng chó Tanuki. Nó có thể tru để dụ đối phương.
+
+// Placement Range: 13
+hud_base_tooltip_skill_PlyAlcTanuki_bottom=Phạm vi thả: 13
+
+// Call the tanuki back.
+hud_base_tooltip_skill_PlyAlcTanuki_top_toggled=Gọi lửng chó Tanuki quay lại.
+
+// Make the tanuki howl to lure enemies toward it.
+hud_base_tooltip_skill_PlyAlcTanukiHowl_top=Bắt lửng chó Tanuki tru lên để dụ đối phương.
+
+// Range: 8, Duration: 20
+hud_base_tooltip_skill_PlyAlcTanukiHowl_bottom=Phạm vi: 8, Thời gian: 20
+
+// Use your Katana to perform a close-range attack. Pierces samurai armor.
+hud_base_tooltip_skill_PlyWarMelee_top=Sử dụng Katana để tấn công phạm vi gần. Xuyên giáp Samurai.
+
+// Range: 2, Noise Radius: 3, Duration: 1.4s.
+hud_base_tooltip_skill_PlyWarMelee_bottom=Phạm vi: 2, Bán kính tiếng ồn: 3, Thời gian: 1.4s.
+
+// Range: 2, Noise Radius: 3, Duration: 1.4s.
+hud_base_tooltip_skill_PlyWarMelee_bottom_toggled=Phạm vi: 2, Bán kính tiếng ồn: 3, Thời gian: 1.4s.
+
+// Make an enemy sneeze, temporarily blinding them.
+hud_base_tooltip_skill_PlyGeiBlind_top=Làm địch hắt hơi, chúng sẽ tạm thời mất tầm nhìn.
+
+// Range: 12, Cooldown: 10, Duration: 2,5.
+hud_base_tooltip_skill_PlyGeiBlind_bottom=Phạm vi: 12, Bán kính tiếng ồn: 10, Thời gian: 2,5s.
+
+// Throw the object you are carrying.
+hud_base_tooltip_skill_PlyWarCarryThrow_top=Ném vật đang cầm.
+
+// Range: 4.
+hud_base_tooltip_skill_PlyWarCarryThrow_bottom=Phạm vi: 4.
+
+// Use your hand cannon for a loud, long-range attack. Pierces samurai armor.
+hud_base_tooltip_skill_PlyWarShotgun_top=Sử dụng súng cầm tay để tấn công từ xa và tạo ra tiếng động lớn. Xuyên giáp Samurai.
+
+// Range: 14, Noise Radius: 8, Cooldown: 3s, Dying Duration: 1s.
+hud_base_tooltip_skill_PlyWarShotgun_bottom=Phạm vi: 14, Bán kính tiếng ồn: 8, Hồi chiêu: 3s, Thời gian chết: 1s.
+
+// Heal 3 points of damage.
+hud_base_tooltip_skill_PlyHeal_top=Hồi 3 điểm sát thương
+
+// Knock out an enemy at close range.
+hud_base_tooltip_skill_PlyStun=Nốc ao địch ở phạm vi gần.
+
+// You are carrying something. Drop it to perform further actions.
+hud_base_tooltip_skill_PlyCarry=Đang mang một thứ gì đó. Thả nó xuống để thực hiện hành động khác.
+
+// Ladder
+hud_con_context_object_ladder=Thang
+
+// Vine
+hud_con_context_object_vine=Cây leo trinh đằng
+
+// Vase
+hud_con_context_object_vase=Bình sứ
+
+// Door
+hud_con_context_object_door=Cửa
+
+// Gate
+hud_con_context_object_gate=Cổng
+
+// Hook
+hud_con_context_object_hook=Móc
+
+// Wagon
+hud_con_context_object_wagon=Xe bò
+
+// Rock
+hud_con_context_object_rock=Đá
+
+// Exit
+hud_con_context_action_exit=Lối thoát
+
+// Guard
+hud_base_tooltip_info_enemy=Lính canh
+
+// Samurai
+hud_base_tooltip_info_samurai=Samurai
+
+// Straw Hat
+hud_base_tooltip_info_static=Mũ rơm
+
+// Civilian
+hud_base_tooltip_info_npc_foe=Thường dân
+
+// Friendly
+hud_base_tooltip_info_npc_friendly=Thân thiện
+
+// Officer
+hud_base_tooltip_info_officer=Chỉ huy
+
+// Bodyguard
+hud_base_tooltip_info_bodyguard=Hộ vệ
+
+// Steal
+hud_con_context_action_steal=Lấy trộm
+
+// Key
+hud_con_context_object_key=Chìa khóa
+
+// Cut
+hud_con_context_action_cut=Cắt
+
+// Carry
+hud_con_context_action_carry=Vác
+
+// Ammunition
+hud_con_context_object_ammo=Đạn dược
+
+// Disguise
+hud_con_context_object_uniform=Ngụy trang
+
+// Kill
+hud_con_switch_skill_kill=Giết
+
+// Knock Out
+hud_con_switch_skill_stun=Nốc Ao
+
+// Locked
+hud_con_context_locked=Đã khóa
+
+// Wagon
+hud_base_tooltip_world_wagon_top=Xe bò
+
+// Can be entered and exited when standing still.
+hud_base_tooltip_world_wagon_bottom=Có thể chui vào hoặc đi ra khi vẫn đang đứng.
+
+// Use Mode
+hud_mouse_tooltip_useMode_top=Sử dụng chế độ
+
+// Toggles Use Mode. When activated, you can use environmental objects.
+hud_mouse_tooltip_useMode_bottom=Bật tắt sử dụng chế độ. Khi đã kích hoạt, có thể sử dụng các vật thể ở xung quanh.
+
+// Movement Stance
+hud_mouse_tooltip_movementStance_top=Kiểu di chuyển
+
+// Toggle between standing and crouching.
+hud_mouse_tooltip_movementStance_bottom=Chuyển giữa đứng và cúi người.
+
+// Shadow Mode
+hud_mouse_tooltip_shadowMode_activate_top=Chế độ Shadow
+
+// Record and save your next input. Record actions for multiple characters and execute all saved actions at once, or for each character individually.
+hud_mouse_tooltip_shadowMode_activate_bottom=Tạo và lưu các hành động tiếp theo. Các hành động được tạo cho nhiều nhân vật và được triển khai tất cả hành động đã lưu cùng một thời điểm, hoặc riêng từng nhân vật cũng được.
+
+// Execute Shadow Mode
+hud_mouse_tooltip_shadowMode_execute_top=Triển khai chế độ Shadow
+
+// Execute all saved actions. To execute individual actions, click the desired action above.
+hud_mouse_tooltip_shadowMode_execute_bottom=Triển khai tất cả hành động đã lưu. Để triển khai hành động cá nhân, click vào hành động mong muốn ở trên.
+
+// Reset Shadow Mode
+hud_mouse_tooltip_shadowMode_reset_top=Đặt lại chế độ Shadow
+
+// Reset all saved actions.
+hud_mouse_tooltip_shadowMode_reset_bottom=Đặt lại tất cả hành động đã lưu.
+
+// Mission Log
+hud_mouse_tooltip_questlog_top=Nhiệm vụ
+
+// Open the mission log.
+hud_mouse_tooltip_questlog_bottom=Mở nhiệm vụ.
+
+// Highlight
+hud_mouse_tooltip_highlightMode_top=Nổi bật
+
+// Highlight enemies (red) and interactable objects (yellow).
+hud_mouse_tooltip_highlightMode_bottom=Làm nổi bật địch (đỏ) và các đối tượng có thể tương tác (vàng).
+
+// Grass rendering
+gui_menuContentPanel_video_grassRendering_name=Dựng hình cỏ
+
+// Water reflection
+gui_menuContentPanel_video_waterReflection_name=Phản chiếu nước
+
+// Unfinished badges are not displayed during the first playthrough of a level.
+hud_questLog_badges_firstPlaythroughHint=Danh hiệu chưa hoàn thành sẽ không được hiển thị ở màn chơi lần đầu tiên.
+
+// Benchmark
+gui_menuContentPanel_dev_benchmark_name=Benchmark
+
+// Benchmark finished!
+gui_menu_qa_benchmark_success=Benchmark đã kết thúc!
+
+// {0} (Hold)
+hud_mouse_skillSlot_inputKey_hold={0} (Giữ)
+
+// Auto-Dialogue
+gui_menuContentPanel_gameplay_autoContinueDialogs_name=Tự-Đối thoại
+
+// Context-Traversal
+gui_menuContentPanel_gameplay_noAutoUse_name=Ngữ Cảnh-Tự động
+
+// Center View
+hud_con_dpad_centerView=Trung tâm
+
+// Official
+hud_char_official=Chỉ huy
+
+// Farmers
+hud_char_peasantGroup=Nông dân
+
+// Servant
+hud_char_civilianMale=Đầy tớ
+
+// Camera Zoom
+gui_inputBindingMenu_inputAction_CameraZoom=Camera Thu Phóng
+
+// Camera Rotate Right
+gui_inputBindingMenu_inputAction_CameraRotateRight=Camera Xoay Phải
+
+// Camera Rotate Left
+gui_inputBindingMenu_inputAction_CameraRotateLeft=Camera Xoay Trái
+
+// Select Character
+gui_inputBindingMenu_inputAction_Select=Chọn Nhân Vật
+
+// Character Wheel
+gui_inputBindingMenu_inputAction_CharacterWheel=Vòng Nhân Vật
+
+// Move
+gui_inputBindingMenu_inputAction_Move=Di chuyển
+
+// Run
+gui_inputBindingMenu_inputAction_Run=Chạy
+
+// Crouch
+gui_inputBindingMenu_inputAction_ToggleCrawl=Cúi người
+
+// Context Action
+gui_inputBindingMenu_inputAction_ContextAction=Ngữ Cảnh Hành Động
+
+// Drop
+gui_inputBindingMenu_inputAction_DropCorpse=Hạ xuống
+
+// Context Action Kill
+gui_inputBindingMenu_inputAction_ContextActionMelee=Ngữ Cảnh Hành Động Giết
+
+// Select Skill 1
+gui_inputBindingMenu_inputAction_SkillSelection0=Chọn Skill 1
+
+// Select Skill 2
+gui_inputBindingMenu_inputAction_SkillSelection1=Chọn Skill 2
+
+// Select Skill 3
+gui_inputBindingMenu_inputAction_SkillSelection2=Chọn Skill 3
+
+// Select Skill 4
+gui_inputBindingMenu_inputAction_SkillSelection3=Chọn Skill 4
+
+// Select Skill 5
+gui_inputBindingMenu_inputAction_SkillSelection4=Chọn Skill 5
+
+// Aiming
+gui_inputBindingMenu_inputAction_ActivateSkill=Ngắm
+
+// Do Skill
+gui_inputBindingMenu_inputAction_DoSkill=Triển khai kĩ năng
+
+// Do Skill Advanced Exec
+gui_inputBindingMenu_inputAction_DoSkillAdvancedExec=Triển khai kĩ năng nâng cao
+
+// Viewcone Mode
+gui_inputBindingMenu_inputAction_ViewConeMode=Chế độ góc nhìn
+
+// Continue Dialogue
+gui_inputBindingMenu_inputAction_DialogContinue=Tiếp tục đối thoại
+
+// Tanuki Howl
+gui_inputBindingMenu_inputAction_TanukiToggle=Tanuki Tru
+
+// Toggle Context Action
+gui_inputBindingMenu_inputAction_ContextActionToggle=Đổi Ngữ Cảnh Hành Động
+
+// Select Aiko
+gui_inputBindingMenu_inputAction_CharacterSelectGeisha=Chọn Aiko
+
+// Select Takuma
+gui_inputBindingMenu_inputAction_CharacterSelectAlchemist=Chọn Takuma
+
+// Select Hayato
+gui_inputBindingMenu_inputAction_CharacterSelectNinja=Chọn Hayato
+
+// Select Yuki
+gui_inputBindingMenu_inputAction_CharacterSelectTrapper=Chọn Yuki
+
+// Select Mugen
+gui_inputBindingMenu_inputAction_CharacterSelectWarrior=Chọn Mugen
+
+// Select Other
+gui_inputBindingMenu_inputAction_CharacterSelectOther=Chọn thứ khác
+
+// Highlight All
+gui_inputBindingMenu_inputAction_HighlightAll=Nổi bật tất cả
+
+// Activate Shadow Mode
+gui_inputBindingMenu_inputAction_ActivateTacticalPlanningMode=Kích hoạt chế độ Shadow
+
+// Save Waypoints
+gui_inputBindingMenu_inputAction_SaveWaypoints=Lưu Lộ Trình
+
+// Execute Shadow Mode
+gui_inputBindingMenu_inputAction_ExecuteTacticalPlanningMode=Triển khai chế độ Shadow
+
+// Reset Shadow Mode All
+gui_inputBindingMenu_inputAction_CancelPlanAll=Đặt lại tất cả chế độ Shadow
+
+// Reset Shadow Mode Hayato
+gui_inputBindingMenu_inputAction_CancelPlanNinja=Đặt lại chế độ Shadow Hayato
+
+// Reset Shadow Mode Yuki
+gui_inputBindingMenu_inputAction_CancelPlanTrapper=Đặt lại chế độ Shadow Yuki
+
+// Reset Shadow Mode Takuma
+gui_inputBindingMenu_inputAction_CancelPlanAlchemist=Đặt lại chế độ Shadow Takuma
+
+// Reset Shadow Mode Mugen
+gui_inputBindingMenu_inputAction_CancelPlanWarrior=Đặt lại chế độ Shadow Mugen
+
+// Reset Shadow Mode Aiko
+gui_inputBindingMenu_inputAction_CancelPlanGeisha=Đặt lại chế độ Shadow Aiko
+
+// Camera Rotate Free
+gui_inputBindingMenu_inputAction_CameraRotateFreeMode=Camera Xoay Tự Do
+
+// Viewcone Marker
+gui_inputBindingMenu_inputAction_ViewConeModeMarker=Đánh dấu kiểm tra tầm nhìn
+
+// Quicksave
+gui_inputBindingMenu_inputAction_QuickSaveToFile=Lưu nhanh
+
+// Quickload
+gui_inputBindingMenu_inputAction_QuickLoadFromFile=Tải nhanh
+
+// Viewcone Mode Cycle
+gui_inputBindingMenu_inputAction_ViewConeModeCycle=Vòng chế độ tầm nhìn
+
+// Skip Cutscene
+gui_inputBindingMenu_inputAction_DialogueCancel=Bỏ qua cắt cảnh
+
+// Reset Camera
+gui_inputBindingMenu_inputAction_CameraReset=Đặt lại Camera
+
+// Remove Viewcone Marker
+gui_inputBindingMenu_inputAction_ViewConeModeMarkerRemove=Bỏ đánh dấu kiểm tra tầm nhìn
+
+// Mission Log
+gui_inputBindingMenu_inputAction_QuestLogOpen=Nhiệm vụ
+
+// Switch Context Skill
+gui_inputBindingMenu_inputAction_SwitchSkillContext=Chuyển Ngữ Cảnh Giết
+
+// Skill Wheel
+gui_inputBindingMenu_inputAction_SkillWheel=Vòng Kĩ Năng
+
+// Execute Shadow Mode Hayato
+gui_inputBindingMenu_inputAction_ExecutePlanNinja=Thực hiện chế độ Shadow Hayato
+
+// Execute Shadow Mode Yuki
+gui_inputBindingMenu_inputAction_ExecutePlanTrapper=Thực hiện chế độ Shadow Yuki
+
+// Execute Shadow Mode Takuma
+gui_inputBindingMenu_inputAction_ExecutePlanAlchemist=Thực hiện chế độ Shadow Takuma
+
+// Execute Shadow Mode Mugen
+gui_inputBindingMenu_inputAction_ExecutePlanWarrior=Thực hiện chế độ Shadow Mugen
+
+// Execute Shadow Mode Aiko
+gui_inputBindingMenu_inputAction_ExecutePlanGeisha=Thực hiện chế độ Shadow Aiko
+
+// Focus Leader
+gui_inputBindingMenu_inputAction_CameraFocusLeader=Tập trung trưởng nhóm
+
+// Activate Viewcone
+gui_inputBindingMenu_inputAction_ViewConeSelect=Kích hoạt tầm nhìn
+
+// Select Knock Out
+gui_inputBindingMenu_inputAction_SkillSelectionKnockout=Chọn Nốc Ao
+
+// Minimap
+gui_inputBindingMenu_inputAction_MiniMapToggle=Minimap
+
+// Full
+gui_setting_full=Đầy đủ
+
+// Half
+gui_setting_half=Một nửa
+
+// Quarter
+gui_setting_quarter=Một phần tư
+
+// Eighth
+gui_setting_eighth=Một phần tám
+
+// Load Savegame?
+gui_mainMenuNew_confirmDialog_body_load=Tải Savegame?
+
+// Enemies detect you more slowly and are less aggressive. Characters have more health. Recommended for players new to the genre. NOTE: You cannot earn badges on this difficulty.
+gui_menuContentPanel_missionMenu_difficulty_op0_desc=Địch phát hiện chậm và ít hung hăng hơn. Nhân vật có thêm máu. Khuyến dùng cho người chơi mới làm quen với thể loại Game này. LƯU Ý: Không thể kiếm DANH HIỆU ở độ khó này.
+
+// Balanced difficulty. This is how the game is meant to be played on a first playthrough. It’s still challenging, but slightly forgiving.
+gui_menuContentPanel_missionMenu_difficulty_op1_desc=Độ khó cân bằng. Lối đánh này kiểu như dành cho người chơi muốn phá đảo lần đầu tiên. Nó thử thách nhưng vẫn có một chút dễ dàng.
+
+// Enemies detect you almost instantly and are more aggressive. Characters have less health. Recommended for expert players.
+gui_menuContentPanel_missionMenu_difficulty_op2_desc=Địch phát hiện gần như tức thì và hoạt bát hơn. Nhân vật có ít máu. Khuyến dùng cho người chơi lão luyện.
+
+// Mugen can carry two dead bodies at once, even while running.
+txt_loadingtip_carryCorpse2=Mugen có thể mang hai xác chết cùng một lúc, kể cả khi đang chạy.
+
+// When carrying a dead body, press {0} to crouch and drop it immediately.
+txt_loadingtip_carryCorpse3=Khi đang mang một xác chết, nhấn {0} để cúi người và thả xuống ngay lập tức.
+
+// Take your time when testing a spot with the Viewcone Marker. Some guards have long patrol routes.
+txt_loadingtip_vcMarker=Dành thời gian để đánh dấu kiểm tra tầm nhìn. Một số lính gác có lộ trình tuần tra dài.
+
+// Press {0} to highlight enemies and interactable objects in the environment.
+txt_loadingtip_highlight=Nhấn {0} để làm nổi bật kẻ địch và các vật thể có thể tương tác trong môi trường xung quanh.
+
+// All melee attacks have a nonlethal option. Hold {0} to open your character wheel and press {1} to switch between modes.
+txt_loadingtip_nonLethal1_console=Tất cả tấn công gần đều có lựa chọn không hạ thủ. Giữ {0} để mở Vòng Nhân Vật và nhấn {1} để chuyển chế độ.
+
+// Takuma's grenades can be filled with knock-out gas. Use the modifier in your skill bar to switch to nonlethal.
+txt_loadingtip_nonLethal2_pc=Lựu đạn của Takuma có thể chứa khí Nốc Ao. Sử dụng thay đổi trong thanh kĩ năng để chuyển sang không hạ thủ.
+
+// Takuma's grenades can be filled with knock-out gas. Hold {0} to open your character wheel and press {1} to switch between modes.
+txt_loadingtip_nonLethal2_console=Lựu đạn của Takuma có thể chứa khí Nốc Ao. Giữ {0} để mở Vòng Nhân Vật và nhấn {1} để chuyển chế độ.
+
+// When your melee attack is switched to nonlethal, jumping down on guards will knock them out instead of killing them.
+txt_loadingtip_nonLethal3=Khi tấn công gần chuyển sang không hạ thủ, nhảy xuống vào lính canh sẽ đánh ngất chứ không giết chết chúng.
+
+// Hold down {0} to quickly execute skills that don't require aiming.
+txt_loadingtip_quickskill=Giữ {0} để triển khai kĩ năng nhanh chóng mà không cần ngắm trước.
+
+// Certain objects in the environment can be dropped down onto enemies. Their death will look like an accident, so no one will raise the alarm.
+txt_loadingtip_environmentKill=Một số vật thể trong môi trường có thể rơi xuống trúng vào kẻ địch. Chúng chết trông như một tai nạn, và sẽ không ai nghi ngờ để tạo báo động cả.
+
+// Hold <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to set multiple waypoints the character will follow.
+txt_loadingtip_waypoints_pc=Giữ <hotkey>{0}</hotkey> và sử dụng <hotkey>{1}</hotkey> để tạo lộ trình cho nhân vật đi theo.
+
+// Move your cursor over guards to see their enemy type.
+txt_loadingtip_infoEnemy_pc=Di chuyển chuột vào kẻ địch để xem chúng là loại gì.
+
+// Hold {0} to see a guard's enemy type.
+txt_loadingtip_infoEnemy_console=Giữ {0} để xem địch thuộc loại gì.
+
+// Move your cursor over important objects to see their function.
+txt_loadingtip_infoWorld_pc=Di chuyển chuột vào các vật thể quan trọng để xem chức năng của chúng.
+
+// Hold {0} and move the cursor over interactable objects to see their function.
+txt_loadingtip_infoWorld_console=Giữ {0} để xem chức năng của các vật thể quan trọng.
+
+// You can customize the UI in the options menu and switch off elements like the Save Reminder.
+txt_loadingtip_uiCustomize=Có thể tùy chỉnh giao diện trong Menu Tùy Chọn và tắt những thứ như Nhắc lưu Save.
+
+// If you need ammunition for Takuma's Rifle and grenade, look for supply crates in the environment.
+txt_loadingtip_ammo=Nếu cần đạn dược cho súng trường và lựu đạn của Takuma, hãy để ý thùng tiếp tế ở xung quanh.
+
+// Hold <hotkey>{0}</hotkey> and move the mouse to freely rotate the camera.
+txt_loadingtip_camera_pc=Giữ <hotkey>{0}</hotkey> và di chuyển chuột tự do để xoay Camera.
+
+// Hold {0} and use {1} to freely rotate the camera.
+txt_loadingtip_camera_console=Giữ {0} và sử dụng {1} để xoay camera tự do.
+
+// Press <hotkey>{0}</hotkey> to center the camera on your selected character and reset the camera rotation to default.
+txt_loadingtip_camCenter_pc=Nhấn <hotkey>{0}</hotkey> để canh giữa Camera nhân vật đã chọn và đặt lại góc xoay Camera về mặc định.
+
+// Don't be afraid to enter an enemy's viewcone if necessary. As long as you can get back out fast enough, you will stay undetected.
+txt_loadingtip_vcSurfing1=Đừng ngại lọt vào tầm nhìn của địch nếu cần thiết. Miễn là thoát ra đủ nhanh thì sẽ không bị phát hiện.
+
+// Try surfing on an enemy's viewcone to slip by undetected. Follow it as it moves away from you, then quickly get into cover.
+txt_loadingtip_vcSurfing2=Thử lướt vào tầm nhìn địch mà không bị phát hiện. Nếu làm được thì sẽ nhanh chóng tới được chỗ ẩn nấp tiếp theo.
+
+// When you send out Kuma, the pet tanuki, he appears above your character bar. If you want him to return to Takuma, switch Takuma's Send Skill to Recall.
+txt_loadingtip_tanuki1_pc=Khi thả Kuma, thú lửng chó, con vật sẽ xuất hiện trên thanh nhân vật. Nếu muốn quay về với Takuma, chuyển kĩ năng của Takuma sang Gọi Về.
+
+// When you send out Kuma, the pet tanuki, press {0} to make him howl. If you want to reposition him, aim and press {0}. If you want him to return to Takuma, hold {0}.
+txt_loadingtip_tanuki1_console=Khi thả Kuma, thú lửng chó, nhấn {0} để con vật tru lên. Nếu muốn đặt lại vị trí, ngắm và nhấn {0}. Nếu muốn quay về với Takuma, giữ {0}.
+
+// Once you have sent out Kuma, the pet tanuki, you can give him orders no matter how far away he is. But you can only reposition him within Takuma's range.
+txt_loadingtip_tanuki2=Một khi đã thả Kuma, thú lửng chó, con vật có thể thực hiện các mệnh lệnh dù không ở gần lão già. Tuy nhiên chỉ có thể đặt lại vị trí con vật ở trong phạm vi của Takuma.
+
+// Press <hotkey>{0}</hotkey> to have your selected character(s) stop all current actions.
+txt_loadingtip_cancel_pc=Nhấn <hotkey>{0}</hotkey> để nhân vật đã chọn hủy bỏ tất cả các hành động.
+
+// Bodies hidden indoors will be discovered if an enemy enters the building.
+txt_loadingtip_corpseHouse=Xác giấu trong nhà sẽ bị phát hiện nếu địch vào trong đó.
+
+// Hide bodies in bushes, wells, barrels or deep water to get rid of them forever.
+txt_loadingtip_corpseBush=Xác giấu trong bụi cây, giếng, thùng hoặc nước sâu sẽ biến mất mãi mãi.
+
+// Mugen will execute Sword Wind as soon as he is within the designated area of effect. He does not need to be at the exact center.
+txt_loadingtip_multikill=Mugen sẽ thi triển Phong Kiếm ngay từ khi lướt tới vùng sát thương chỉ định. Không cần phải tới tâm vùng chỉ định.
+
+// Enemy samurai are immune to certain attacks, like Hayato's Shuriken, Mugen's Sword Wind and Yuki's Little Trap.
+txt_loadingtip_samurai=Samurai địch miễn dịch với một số tấn công nhất định, như Phi tiêu Shuriken của Hayato, Phong Kiếm của Mugen và Bẫy Nhỏ của Yuki.
+
+// When walking through snow, you can use your footprints to lure enemies into traps or ambushes.
+txt_loadingtip_snow1=Khi đi trên tuyết sẽ để lại dấu chân giúp thu hút kẻ địch mò tới bẫy hoặc phục kích.
+
+// If an enemy follows your footprints, you can climb ladders or go through buildings to cut off your tracks.
+txt_loadingtip_snow2=Nếu kẻ địch đang mò theo dấu chân của bạn, sử dụng thang hoặc băng qua các ngôi nhà để cắt đuôi.
+
+// Mugen can kill enemies by crushing them with heavy rocks. Their death will look like an accident, so no one will raise the alarm.
+txt_loadingtip_rocks=Mugen có thể giết địch bằng cách nghiền chúng với đá nặng. Chúng chết trông như một vụ tại nạn, không một ai sẽ nghi ngờ nó để tạo báo động cả.
+
+// Mugen's Hand Cannon is the only firearm that can kill samurai.
+txt_loadingtip_handcannon=Súng cầm tay của Mugen là hỏa lực duy nhất có thể giết chết Samurai.
+
+// You can put out light sources, but guards will relight them when they see them.
+txt_loadingtip_lightsource=Có thể dập tắt lửa, nhưng lính canh sẽ thắp sáng lại nếu chúng nhìn thấy nó bị tắt.
+
+// You can use a dead body to lure another guard to their doom. Just make sure you take them out before they raise the alarm.
+txt_loadingtip_corpseLure=Có thể sử dụng xác chết để thu hút sự chú ý của lính canh. Chỉ cần chắc chắn rằng bạn sẽ hạ gục được trước khi chúng tạo báo động.
+
+// Some skills travel in an arc, which means they can be used from cover and pass over obstacles.
+txt_loadingtip_arcSkills=Một số kĩ năng được thi triển theo dạng vòng cung, nghĩa là chúng có thể sử dụng ở nơi ẩn nấp và tự vòng qua chướng ngại vật.
+
+// Some skills travel in a straight line. If the target is blocked from view, your character will search for a better spot to use the skill.
+txt_loadingtip_straightSkills=Một số kĩ năng được thi triển theo đường thẳng. Nếu mục tiêu bị chặn khuất tầm nhìn, nhân vật sẽ tự kiếm vị trí nào đó tốt hơn để thi triển kĩ năng.
+
+// The first enemy that spots Mugen's sake bottle will leave their post to collect it. Patrols always move together.
+txt_loadingtip_sake=Kẻ địch đầu tiên thấy chai sa kê của Mugen sẽ tới để nhặt nó. Nhưng lính tuần sẽ luôn di chuyển cùng nhau.
+
+// Your characters can't enter buildings with enemies inside.
+txt_loadingtip_occupied=Nhân vật không thể vào trong nhà có địch ở bên trong.
+
+// Enemies can't climb vines, use hookshots or jump over gaps. Use these advantages when trying to escape.
+txt_loadingtip_escape=Địch không thể leo cây leo, sử dụng móc hoặc nhảy qua những khoảng trống. Sử dụng lợi thế này để cắt đuôi chúng.
+
+// Enemies can detect you from the corner of their eye if you stand next to them for too long.
+txt_loadingtip_eyecorner=Địch có thể phát hiện bạn ở góc rìa tầm nhìn nếu đứng đó quá lâu.
+
+// You can use extinguished lights to lure enemies into traps or ambushes.
+txt_loadingtip_lamp1=Có thể dập tắt lửa để dụ kẻ địch vào bẫy hoặc để phục kích.
+
+// Torches carried by enemies won't go out if you kill them with ranged attacks. Move close to the body to extinguish them.
+txt_loadingtip_lamp2=Ngọn đuốc kẻ địch cầm sẽ không bị tắt nếu giết chúng từ xa. Di chuyển lại gần xác chết để dập tắt chúng.
+
+// Hostile civilians won't attack you, but if they see you, they will run away and fetch the nearest guard.
+txt_loadingtip_civilians1=Thường dân địch sẽ không tấn công, nhưng nếu chúng thấy bạn, chúng sẽ bỏ chạy tới lính canh gần nhất để trình báo.
+
+// Some civilians are friendly and will not expose you to the enemy. You can recognize them by their gray Field of View.
+txt_loadingtip_civilians2=Một số thường dân sẽ thân thiện và không xem bạn là kẻ thù. Có thể biết được điều này thông qua tầm nhìn màu xám của họ.
+
+// Takuma cannot move while using his rifle.
+txt_loadingtip_sniper1=Takuma không thể di chuyển trong khi đang sử dụng súng trường.
+
+// Takuma's Rifle is his main means of attacking. You should not hesitate to use it, especially if you are stuck.
+txt_loadingtip_sniper2=Súng trường là vũ khí tấn công chính của lão Takuma. Không nên ngần ngại sử dụng nó, đặc biệt là khi đang lâm vào thế bí.
+
+// Shadow Mode is a powerful tool for setting up simultaneous actions. Try it out if you're stuck on a challenge.
+txt_loadingtip_shadowmode1=Chế độ Shadow là công cụ tuyệt vời để thực hiện các hành động đồng thời. Thử dùng nó khi đang lâm vào thế bí.
+
+// When using Shadow Mode, don't forget Takuma. His rifle requires little setup and can take out enemies from a safe distance.
+txt_loadingtip_shadowmode2=Khi sử dụng chế độ Shadow, đừng quên Takuma. Súng trường của lão cần chút thời gian lắp đặt và nó có thể hạ gục kẻ địch từ khoảng cách an toàn.
+
+// Takuma will always save an extra bullet for mission objectives. Do not worry about failing the mission because you ran out of bullets.
+txt_loadingtip_goldenbullet=Takuma sẽ luôn mang thêm đạn dành riêng cho mục tiêu của nhiệm vụ. Đừng quá lo lắng khi đã hết đạn.
+
+// Inside buildings, Aiko's disguise works the same way as outside.
+txt_loadingtip_disguise1=Ở trong nhà, ngụy trang của Aiko hoạt động giống như ngoài trời.
+
+// If you want to take off Aiko's disguise manually, hold {0}.
+txt_loadingtip_disguise2=Nếu muốn cởi bỏ ngụy trang của Aiko thủ công, giữ {0}.
+
+// Unlock badges by performing certain feats or playing levels under certain conditions.
+txt_loadingtip_badges1=Danh hiệu mở khóa thông qua một chiến công nhất định hoặc cũng có thể đạt được khi thực hiện theo các quy định của màn chơi.
+
+// Badges can be unlocked when playing on Normal difficulty or higher.
+txt_loadingtip_badges2=Danh hiệu có thể mở khóa khi chơi ở độ khó bình thường hoặc cao hơn.
+
+// Small badges are skill tests, like completion time or number of casualties in a level. Large badges will require you to play levels in ways you did not expect.
+txt_loadingtip_badges3=Danh hiệu nhỏ là bài kiểm tra kĩ năng, như thời gian hoàn thành hoặc số thương vong ở một màn chơi. Còn danh hiệu lớn đòi hỏi thực hiện theo những cách mà bạn không hề mong muốn.
+
+// Some enemies are named after our developers. Can you find them all?
+txt_loadingtip_secret=Một số kẻ địch được đặt tên theo đội ngũ phát triển. Bạn có thể tìm thấy tất cả không?
+
+// You cannot change difficulty while playing a level.
+txt_loadingtip_difficulty1=Không thể thay đổi độ khó trong khi đang chơi.
+
+// You can lower the difficulty while playing a level, but you cannot increase it.
+txt_loadingtip_difficulty2=Có thể giảm độ khó trong khi chơi nhưng lại không thể tăng lên.
+
+// Ōsaka Castle
+gui_loadingMap_firstCastle=Thành Ōsaka
+
+// Nakasendō Road
+gui_loadingMap_convoy=Đường Nakasendō
+
+// Imai Town
+gui_loadingMap_snowCity=Thị trấn Imai
+
+// Mount Tsuru
+gui_loadingMap_monastery1=Núi Tsuru
+
+// Lord Yabu's Estate
+gui_loadingMap_mansion=Biệt thự lãnh chúa Yabu
+
+// Hida Village
+gui_loadingMap_lakeVillage=Làng Hida
+
+// Suganuma Village
+gui_loadingMap_ricefields=Làng Suganuma
+
+// Kanazawa City
+gui_loadingMap_uprising=Thành phố Kanazawa
+
+// Kage-sama's Camp
+gui_loadingMap_bambooForest=Trại Kage-sama
+
+// Mount Tsuru (Prison)
+gui_loadingMap_monastery2=Núi Tsuru (Nhà tù)
+
+// Matsuyama City
+gui_loadingMap_bathhouse1=Thành phố Matsuyama
+
+// Kyotō City
+gui_loadingMap_bathhouse2=Thành phố Kyotō
+
+// Myōgi Pass
+gui_loadingMap_shogunCamp=Đèo Myōgi
+
+// Sunpu Castle
+gui_loadingMap_finalCastle=Thành Sunpu
+
+// Edo Castle
+gui_loadingMap_edo=Thành Edo
+
+// Nagoya City
+gui_loadingMap_tavern=Thành phố Nagoya
+
+// Safe House
+gui_loadingMap_safehouse=Nhà an toàn
+
+// Noboru's Warcamp
+gui_loadingMap_warcamp=Trại chiến của Noboru
+
+// Mugen's companions are wanted dead by the Shogun. In order to clear their names, Aiko and Hayato travel to Matsuyama to kidnap Masaru.
+gui_missionMenu_lvl_bathhouse_desc2=Mạc Chúa muốn đồng đội của Mugen phải chết. Để xóa bỏ tội danh của họ, Aiko và Hayato phải đến Matsuyama để bắt cóc Masaru.
+
+// Takuma can shoot ropes that hold heavy cargo, and kill anyone caught standing below.
+txt_loadingtip_environmentKill2=Takuma có thể bắn đứt dây thừng đang giữ xe bò nặng, và giết mọi người đang đứng dưới đó.
+
+// Invisibility
+gui_optionsMenu_cheat_invisibility=Tàng hình
+
+// Invincibility
+gui_optionsMenu_cheat_invincibility=Bất tử
+
+// Kill Command
+gui_optionsMenu_cheat_killCommand=Giết chỉ huy
+
+// Teleport Character
+gui_optionsMenu_cheat_teleport=Dịch chuyển nhân vật
+
+// Spawn Takuma
+gui_optionsMenu_cheat_spawnAlc=Triệu hồi Takuma
+
+// Spawn Hayato
+gui_optionsMenu_cheat_spawnNin=Triệu hồi Hayato
+
+// Spawn Yuki
+gui_optionsMenu_cheat_spawnTra=Triệu hồi Yuki
+
+// Spawn Aiko
+gui_optionsMenu_cheat_spawnGei=Triệu hồi Aiko
+
+// Spawn Mugen
+gui_optionsMenu_cheat_spawnWar=Triệu hồi Mugen
+
+// Lower Difficulty? You won't be able to raise it back up.
+hud_pause_confirmDialog_difficulty1=Độ khó thấp hơn? Bạn không thể tăng nó lên mức cao hơn nữa đâu.
+
+// Lower Difficulty? You will lose all badges associated with the original difficulty.
+hud_pause_confirmDialog_difficulty2=Độ khó thấp hơn? Bạn sẽ mất tất cả danh hiệu được gán với độ khó mặc định.
+
+// You cannot change this during gameplay.
+gui_menuContentPanel_missionMenu_difficulty_info=Không thể thay đổi ở màn chơi hiện tại.
+
+// Make all selected characters invisible.
+gui_optionsMenu_cheat_invisibility_desc=Làm cho tất cả nhân vật đã chọn tàng hình.
+
+// Make all selected characters invincible.
+gui_optionsMenu_cheat_invincibility_desc=Làm cho tất cả nhân vật đã chọn bất tử.
+
+// Kill your target with the press of a button.
+gui_optionsMenu_cheat_killCommand_desc=Giết tất cả mục tiêu với một nút duy nhất.
+
+// Teleport all selected characters to the target location.
+gui_optionsMenu_cheat_teleport_desc=Dịch chuyển tất cả nhân vật đã chọn tới điểm đã chọn.
+
+// Spawn Takuma at the target location.
+gui_optionsMenu_cheat_spawnAlc_desc=Triệu hồi Takuma ở điểm đã chọn.
+
+// Spawn Hayato at the target location.
+gui_optionsMenu_cheat_spawnNin_desc=Triệu hồi Hayato ở điểm đã chọn.
+
+// Spawn Yuki at the target location.
+gui_optionsMenu_cheat_spawnTra_desc=Triệu hồi Yuki ở điểm đã chọn.
+
+// Spawn Aiko at the target location.
+gui_optionsMenu_cheat_spawnGei_desc=Triệu hồi Aiko ở điểm đã chọn.
+
+// Spawn Mugen at the target location.
+gui_optionsMenu_cheat_spawnWar_desc=Triệu hồi Mugen ở điểm đã chọn.
+
+// CHEATS
+gui_optionsMenu_cheat_name=GIAN LẬN
+
+// Don't save during the mission.
+gui_missionMenu_badge_NoQuicksave=Không thể lưu Save trong nhiệm vụ này.
+
+// Don't raise any alarm.
+gui_missionMenu_badge_NoAlarm=Không tạo bất kỳ báo động nào.
+
+// Don't kill anyone (except mission targets).
+gui_missionMenu_badge_NoCasualties=Không giết bất kỳ ai (trừ mục tiêu nhiệm vụ).
+
+// Don't be seen by anyone.
+gui_missionMenu_badge_Unseen=Không để ai nhìn thấy.
+
+// Kill all officers.
+gui_missionMenu_badge_Convoy_Officers=Giết tất cả chỉ huy.
+
+// Kill all enemies.
+gui_missionMenu_badge_KillAll=Giết tất cả địch. 
+
+// Kill the spy.
+gui_missionMenu_badge_KillSpy_demo=Giết gián điệp.
+
+// Speedrun: Complete the mission under {0} minutes.
+gui_missionMenu_badge_TimeChallenge=Chạy đua: Hoàn thành nhiệm vụ dưới {0} phút.
+
+// Don't kill anyone, and don't raise any alarm.
+gui_missionMenu_badge_NoCasualtiesNoAlarm=Không giết bất kỳ ai và không tạo bạo động nào.
+
+// Hide all bodies in bushes, wells, doors, etc.
+gui_missionMenu_badge_AllBodiesHidden=Giấu tất cả xác trong bụi cây, giếng nước, cửa...
+
+// Don't extinguish any lights, including torches carried by enemies.
+gui_missionMenu_badge_NoLightsExtinguished=Không dập tắt bất kỳ ngọn lửa nào, kể cả ngọn đuốc mà kẻ địch cầm.
+
+// Don't enter the water.
+gui_missionMenu_badge_NoWater=Không nhảy xuống nước.
+
+// Don't kill any civilians.
+gui_missionMenu_badge_NoCiviliansKilled=Không giết bất kỳ thường dân nào.
+
+// Don't kill any samurai.
+gui_missionMenu_badge_NoSamuraiKilled=Không giết bất kỳ Samurai nào.
+
+// Don't step on loud surfaces.
+gui_missionMenu_badge_NoNoisyGround=Không đặt chân vào nơi phát ra tiếng động lớn.
+
+// Kill all enemies that carry torches.
+gui_missionMenu_badge_KillAllGuardsWithTorches=Giết tất cả kẻ địch cầm đuốc.
+
+// Extinguish all torches, including torches carried by enemies.
+gui_missionMenu_badge_ExtinguisAllTorches=Dập tắt tất cả đuốc, bao gồm đuốc mà kẻ địch cầm.
+
+// Make an enemy follow your footprints for {0} meters.
+gui_missionMenu_badge_LureByFootprints=Làm cho địch đi theo dấu chân của bạn {0} mét.
+
+// Don't touch any bushes.
+gui_missionMenu_badge_NoBushes=Không chạm vào bất kỳ bụi cây nào.
+
+// Complete the mission on Hardcore difficulty.
+gui_missionMenu_badge_HardMode=Hoàn thành nhiệm vụ ở độ khó Hardcore.
+
+// Don't shoot anyone with Takuma.
+gui_missionMenu_badge_FirstCastle_NoSnipe=Takuma không bắn bất kỳ ai.
+
+// Kill {0} enemies with an exploding barrel.
+gui_missionMenu_badge_FirstCastle_AOEKillsBarrels=Giết {0} kẻ địch với một thùng thuốc nổ.
+
+// Kill {0} enemies with Mugen's Sword Wind.
+gui_missionMenu_badge_FirstCastle_Multikill=Giết {0} kẻ địch với Phong Kiếm của Mugen.
+
+// Throw stones with Hayato to distract {0} enemies at once.
+gui_missionMenu_badge_FirstCastle_AOEStone=Hayato ném đá đánh lạc hướng {0} kẻ địch cùng một lúc.
+
+// Provoke an ox to kill {0} people.
+gui_missionMenu_badge_Convoy_XOxKills=Khiêu khích một con bò giết {0} người.
+
+// Kill {0} people with a wagon.
+gui_missionMenu_badge_Convoy_KillGuardsWithWagon=Giết {0} người với một xe bò.
+
+// Kill {0} people with a big rock.
+gui_missionMenu_badge_Convoy_AOEKillsStone=Giết {0} người với một tảng đá lớn.
+
+// Don't destroy the wooden towers.
+gui_missionMenu_badge_SnowCity_DontDestroyTower=Không phá hủy tháp gỗ.
+
+// Don't kill anyone inside the compound.
+gui_missionMenu_badge_SnowCity_NoKillsInside=Không giết bất kỳ ai trong lâu đài.
+
+// Unlock the south gate first.
+gui_missionMenu_badge_SnowCity_EnterRight=Mở khóa cổng phía Nam đầu tiên.
+
+// Unlock the north gate first.
+gui_missionMenu_badge_SnowCity_EnterLeft=Mở khóa cổng phía Bắc đầu tiên.
+
+// Hide inside the red wagon.
+gui_missionMenu_badge_SnowCity_UseWagon=Nấp bên trong xe bò đỏ.
+
+// Don't ring the bell.
+gui_missionMenu_badge_Monastery1_NoBell=Không rung chuông.
+
+// Don't use a disguise.
+gui_missionMenu_badge_Monastery1_NoDisguise=Không sử dụng ngụy trang.
+
+// Don't kill anyone with Mugen (except mission objectives).
+gui_missionMenu_badge_Monastery1_NoWarriorKills=Mugen không giết bất kì ai (trừ mục tiêu nhiệm vụ).
+
+// Get Mugen inside the temple before Aiko.
+gui_missionMenu_badge_Monastery1_WarriorEnterFirst=Mugen vào trong đền thờ trước Aiko.
+
+// Get both disguises.
+gui_missionMenu_badge_Monastery1_BothDisguises=Ngụy trang hai lần.
+
+// Use {0} tunnel shortcuts.
+gui_missionMenu_badge_Monastery1_UseXTunnels=Sử dụng {0} đường hầm tắt.
+
+// Kill only when disguised.
+gui_missionMenu_badge_Monastery1_DisguiseOnlyKills=Chỉ giết khi ngụy trang.
+
+// Kill all samurai.
+gui_missionMenu_badge_KillAllSamurai=Giết tất cả Samurai. 
+
+// Poison the tea and leave the estate before Lord Yabu drinks it.
+gui_missionMenu_badge_Mansion_ExitBeforeDaimyoDead=Bỏ độc vào trà và rời biệt thự trước khi lãnh chúa Yabu uống nó.
+
+// Kill all enemies inside the estate.
+gui_missionMenu_badge_Mansion_KillAllInMansion=Giết tất cả địch trong biệt thự.
+
+// Kill Lord Yabu without using Poison or Takuma's Rifle.
+gui_missionMenu_badge_Mansion_NoPoisonNoSnipe=Giết lãnh chúa Yabu mà không sử dụng Thuốc Độc hoặc Súng trường của Takuma.
+
+// Use Poison to kill Lord Yabu.
+gui_missionMenu_badge_Mansion_Poison=Sử dụng thuốc độc để giết lãnh chúa Yabu.
+
+// Use Takuma's Rifle to kill Lord Yabu.
+gui_missionMenu_badge_Mansion_Snipe=Sử dụng súng trường của Takuma để giết lãnh chúa Yabu.
+
+// Reach the highest point of Lord Yabu's estate.
+gui_missionMenu_badge_Mansion_ReachHighestPoint=Tới nơi cao nhất trên biệt thự lãnh chúa Yabu.
+
+// Eavesdrop on the patrol at the tavern.
+gui_missionMenu_badge_LakeVillage_EavesdropLeft=Nghe trộm lính tuần tra ở quán rượu.
+
+// Eavesdrop on the patrol at the stables.
+gui_missionMenu_badge_LakeVillage_EavesdropRight=Nghe trộm lính tuần tra ở chuồng bò.
+
+// Help the mistreated villagers.
+gui_missionMenu_badge_LakeVillage_HelpVillagers=Giúp thường dân bị ngược đãi.
+
+// Don't climb ladders or vines, and don't use the hookshot.
+gui_missionMenu_badge_Ricefields_NoClimbing=Không leo thang hoặc cây leo trinh đằng, và không sử dụng móc.
+
+// Complete the mission without reclaiming Mugen's gear.
+gui_missionMenu_badge_Ricefields_DontEquipWar=Hoàn thành nhiệm vụ mà không lấy lại đồ cho Mugen.
+
+// Rescue the farmers before you rescue Mugen.
+gui_missionMenu_badge_Ricefields_RescueFarmersFirst=Giải cứu nông dân trước khi cứu Mugen.
+
+// Kill {0} enemies with a single grenade.
+gui_missionMenu_badge_Ricefields_AOEGrenade=Giết {0} kẻ địch với một quả lựu đạn duy nhất.
+
+// Kill {0} enemies by crushing them with rocks.
+gui_missionMenu_badge_Ricefields_KillXWithRocks=Giết {0} kẻ địch bằng cách nghiền chúng với đá.
+
+// Don't kill any rebel officers.
+gui_missionMenu_badge_Uprising_DontKillOfficer=Không giết bất kỳ chỉ huy phiến quân nào.
+
+// Kill General Okkoto within {0} seconds after he left his tent.
+gui_missionMenu_badge_Uprising_KillGeneralInXSeconds=Giết tướng Okkoto trong vòng {0} giây kể từ khi hắn rời trại của mình.
+
+// Kill {0} enemies with an explosive barrel.
+gui_missionMenu_badge_Uprising_AOEBarrels=Giết {0} kẻ địch với một thùng thuốc nổ.
+
+// Free the caged Shogunate men inside Kanazawa Castle.
+gui_missionMenu_badge_Uprising_FreePrisoners=Giải thoát cho những người Mạc Phủ trong lồng ở thành Kanazawa.
+
+// Kill all rebel officers.
+gui_missionMenu_badge_Uprising_KillOfficers=Giết tất cả chỉ huy phiến quân.
+
+// Knock out Kage-sama instead of killing him.
+gui_missionMenu_badge_BambooForest_KnockoutKageSama=Nốc ao đánh ngất Kage-sama thay vì giết chết hắn ta.
+
+// Kill {0} enemies with a single grenade.
+gui_missionMenu_badge_BambooForest_AOEGrenade=Giết {0} kẻ địch với một quả lựu đạn duy nhất.
+
+// Kill all enemies after reuniting with Mugen.
+gui_missionMenu_badge_Monastery2_KillAllAfterSeppuku=Giết tất cả địch sau khi tái hợp với Mugen.
+
+// Don't reclaim any of your gear.
+gui_missionMenu_badge_Monastery2_NoGear=Không lấy lại đồ nào hết.
+
+// Don't climb ladders or vines, and don't use the hookshot.
+gui_missionMenu_badge_Monastery2_NoClimbing=Không leo thang hoặc cây leo trinh đằng, và không sử dụng móc.
+
+// Escape with Hayato first.
+gui_missionMenu_badge_Monastery2_EscapeWithNinja=Hayato trốn thoát đầu tiên.
+
+// Escape with Yuki first.
+gui_missionMenu_badge_Monastery2_EscapeWithTrapper=Yuki trốn thoát đầu tiên.
+
+// Don't call back Kuma.
+gui_missionMenu_badge_Monastery2_NoTanuki=Không gọi Kuma quay lại.
+
+// Don't interfere with the masseur or the bathwater.
+gui_missionMenu_badge_Bathhouse_NoMasseurNoHotWater=Không can thiệt vào người đấm bóp hoặc bồn tắm.
+
+// Overheat the bathwater.
+gui_missionMenu_badge_Bathhouse_HotWater=Làm sôi nước bồn tắm.
+
+// Take out the masseur.
+gui_missionMenu_badge_Bathhouse_Masseur=Giết người đấm bóp.
+
+// Kill {0} enemies with falling objects.
+gui_missionMenu_badge_Bathhouse_XEnvironmentalKills=Giết {0} kẻ địch bằng vật thể rơi xuống.
+
+// Never drop Masaru.
+gui_missionMenu_badge_ShogunCamp_DontDropBrogunSon=Không bao giờ buông tay khi mang Masaru.
+
+// Don't hide in any of the wagons.
+gui_missionMenu_badge_ShogunCamp_NoWagon=Không nấp trong xe bò nào cả.
+
+// Use the wagons to reach the Shogun's tent.
+gui_missionMenu_badge_ShogunCamp_Wagon=Sử dụng xe bò để tới lều Mạc Chúa.
+
+// Use the sleeping draught to reach the Shogun's tent.
+gui_missionMenu_badge_ShogunCamp_Poison=Sử dụng thuốc mê để tới lều Mạc Chúa.
+
+// Reach the highest point of Myōgi Pass.
+gui_missionMenu_badge_ShogunCamp_ReachHighestPoint=Tới vị trí cao nhất trên đèo Myōgi.
+
+// Finish the final mission.
+gui_missionMenu_badge_FinalCastle_BladesOfTheShogun=Hoàn thành nhiệm vụ cuối cùng.
+
+// Don't use {0}'s skills.
+gui_missionMenu_badge_FinalCastle_DontUseSkillXY=Không sử dụng kĩ năng của {0}.
+
+// Enter the well at the west wall.
+gui_missionMenu_badge_FinalCastle_LeftWay=Chui vào giếng ở tường phía Tây.
+
+// Enter the well at the north wall.
+gui_missionMenu_badge_FinalCastle_RightWay=Chui vào giếng ở tường phía Bắc.
+
+// Don't kill anyone in the garden.
+gui_missionMenu_badge_FinalCastle_NoKillInGarden=Không giết bất kỳ ai trong vườn.
+
+// Drown Lord Noboru.
+gui_missionMenu_badge_FinalCastle_BrogunInWater=Dìm chết lãnh chúa Noboru.
+
+// Don't touch any of the ricefields.
+gui_missionMenu_badge_Ricefields_NoFields=Không chạm vào ruộng lúa nào hết.
+
+// Don't select {0}.
+gui_missionMenu_badge_DontUseChar=Không chọn {0}.
+
+// Switch Exit
+hud_con_context_action_switchDoor=Chuyển lối thoát
+
+// Benchmark SaveLoad
+gui_menuContentPanel_dev_benchmark_save_load=Benchmark SaveLoad
+
+// Use-Mode
+gui_inputBindingMenu_inputAction_UsableMode=Sử dụng-Chế độ
+
+// Camera Move Left
+gui_inputBindingMenu_inputAction_CameraHorizontalLeft=Di chuyển Camera trái
+
+// Camera Move Right
+gui_inputBindingMenu_inputAction_CameraHorizontalRight=Di chuyển Camera phải
+
+// Camera Move Down
+gui_inputBindingMenu_inputAction_CameraVerticalDown=Di chuyển Camera xuống
+
+// Camera Move Up
+gui_inputBindingMenu_inputAction_CameraVerticalUp=Di chuyển Camera lên
+
+// V-Sync
+gui_menuContentPanel_video_VSync_name=V-Sync
+
+// Unlocked
+gui_menuContentPanel_video_vsync_op0=Đã mở khóa
+
+// 60
+gui_menuContentPanel_video_vsync_op1=60
+
+// 30
+gui_menuContentPanel_video_vsync_op2=30
+
+// Anisotropic Filtering
+gui_menuContentPanel_video_anistropic_textures_name=Lọc bất đẳng hướng
+
+// Fullscreen
+gui_menuContentPanel_video_fullscreen_name=Toàn màn hình
+
+// Quality
+gui_menuContentPanel_video_quality_settings_name=Chất lượng
+
+// Low
+gui_menuContentPanel_video_quality_settings_op0=Thấp
+
+// Medium
+gui_menuContentPanel_video_quality_settings_op1=Trung bình
+
+// High
+gui_menuContentPanel_video_quality_settings_op2=Cao
+
+// Custom
+gui_menuContentPanel_video_quality_settings_op3=Tuỳ chỉnh
+
+// Ambient Occlusion
+gui_menuContentPanel_video_ambient_occlusion=Đổ bóng chân thật
+
+// Actions:
+gui_inputBindingMenu_confirmDialog_body_append_actions=Hành động:
+
+// Unbind
+gui_inputBindingMenu_inputEntry_unbind=Hủy gán
+
+// 
+gui_inputBindingMenu_con_axis_rightStick=Right Stick
+
+// 
+gui_inputBindingMenu_con_axis_leftStick=Left Stick
+
+// Aiming
+gui_inputBindingMenu_inputAction_axis_aiming=Ngắm
+
+// Move
+gui_inputBindingMenu_inputAction_axis_camMove=Di chuyển
+
+// Rotate/Zoom
+gui_inputBindingMenu_inputAction_axis_camRotateZoom=Xoay/Thu phóng
+
+// Viewcone Cursor
+gui_inputBindingMenu_inputAction_axis_viewConeCursor=Con trỏ tầm nhìn
+
+// Anti Aliasing
+gui_menuContentPanel_video_aa_name=Khử răng cưa
+
+// Colorblind Mode
+gui_menuContentPanel_video_colorblind_name=Chế độ mù màu
+
+// Toggle Highlighter
+gui_optionsMenu_gameplay_highlightAllControllerToggle=Bật tắt Nổi Bật
+
+// Scroll Speed
+gui_optionsMenu_gameplay_mouseSensivity=Tốc độ cuộn
+
+// Controller Axes Sensitivity
+gui_optionsMenu_gameplay_controllerAxisSensivity=Độ nhạy trục Gamepad
+
+// 
+gui_mainMenuNew_confirmDialog_body_newGame=LƯU Ý: Có thể thay đổi độ khó ở bất kỳ thời điểm nào trong Menu nhiệm vụ
+
+// Save Error
+gui_confirmDialog_header_saveError=Lưu Save Lỗi
+
+// Something went wrong while saving.
+gui_confirmDialog_body_saveError=Có gì đó sai sai trong khi đang lưu.
+
+// Loading
+gui_loadingHandler_loadingText=Đang tải
+
+// Road to Warcamp
+gui_loadingMap_roadToWarcamp=Đường tới trại chiến
+
+// Saving
+gui_loadingHandler_savingText=Đang lưu
+
+// Cheater
+gui_confirmDialog_header_cheat=Gian lận
+
+// Badges cannot be unlocked while cheating.
+gui_confirmDialog_body_cheat=Danh hiệu sẽ không được mở khóa trong khi gian lận.
+
+// More games
+gui_mainMenuNew_moreGames=Game khác
+
+// Classic RTS
+gui_inputBindingMenu_layout_alternative_name=RTS cổ điển
+
+// Shadow Tactics
+gui_inputBindingMenu_layout_default_name=Shadow Tactics
+
+// 
+gui_inputBindingMenu_explanation=Ở đây có thể tùy chỉnh gán phím và tạo bộ cài đặt điều khiển mới. Thay đổi áp dụng tự động. Có thể chuyển giữa khác bộ phím bằng cách tick vào ô bên phải.
+
+// Optimized for playing Shadow Tactics and for fans of the real time tactics genre.
+gui_inputBindingMenu_layout_default_explanation=Phù hợp cho người chơi Shadow Tactics và các fan của thể loại chiến thuật thời gian thực.
+
+// Optimized for RTS players. Moving and selecting are swapped. Skills are on QWERT.
+gui_inputBindingMenu_layout_alternative_explanation=Phù hợp cho người chơi thể loại chiến thuật thời gian thực. Di chuyển và lựa chọn đổi cho nhau. Kĩ năng ở QWERT.
+
+// Your custom layout
+gui_inputBindingMenu_layout_custom_explanation=Bộ cài đặt phím của bạn
+
+// Previous
+gui_confirmDialogTutorial_buttonLastElement=Trước
+
+// Text Language
+gui_optionsMenu_audio_language_text_name=Ngôn ngữ văn bản
+
+// Voice Language
+gui_optionsMenu_audio_language_voice_name=Ngôn ngữ giọng nói
+
+// Statistics
+hud_statistics_header_statistics=Thống kê
+
+// Badges
+hud_statistics_header_badges=Danh hiệu
+
+// Your language change will be applied when loading a level or reloading the main menu. Do you want to reload the main menu now?
+gui_confirmDialog_body_changeLanguageReloadMainMenu=Ngôn ngữ thay đổi sẽ được áp dụng khi đang tải một màn chơi hoặc tải lại Menu chính. Bạn có muốn tải lại Menu chính không?
+
+// Your language change will be applied when returning to the main menu.
+gui_confirmDialog_body_changeLanguageWillBeAppliedOnLevelLoad=Ngôn ngữ thay đổi sẽ được áp dụng khi quay về Menu chính.
+
+// You can customize the control scheme and various gameplay settings in the options menu.
+txt_loadingtip_controls=Có thể tùy chỉnh cơ chế điều khiển và thiết lập tùy chỉnh lối chơi khác nhau trong Menu tùy chọn.
+
+// Enemies will detect you briefly when you use firearms, even while crouching.
+txt_loadingtip_firearms2=Địch sẽ phát hiện ngay lập tức khi sử dụng hỏa lực, kể cả khi cúi người.
+
+// Only kill guards using Hayato.
+gui_missionMenu_badge_Uprising_HayatoKillsOnly=Chỉ Hayato giết lính canh.
+
+// Overview
+hud_statistics_header_overview=Tổng quan
+
+// Enable colorblind-mode
+gui_menuContentPanel_video_colorblind_desc=Bật chế độ mù màu
+
+// Advance dialogue automatically
+gui_menuContentPanel_gameplay_autoContinueDialogs_desc=Tự động đối thoại nâng cao
+
+// Clicking on doors, ladders, ivys and hooks uses them automatically. (Jumps are always context-sensitive.)
+gui_menuContentPanel_gameplay_noAutoUse_desc=Click vào cửa, thang, cây leo và móc để sử dụng tự động. (Nhảy phụ thuộc vào tình hình)
+
+// Enable bolder outlines for characters and interactive objects.
+gui_menuContentPanel_video_boldOutlines_desc=Bật tô đậm viền cho các nhân vật và vật thể tương tác.
+
+// Bold Outlines
+gui_menuContentPanel_video_boldOutlines_name=Tô đậm viền
+
+// Gamma Correction
+gui_menuContentPanel_video_gammaCorrection_name=Hiệu chỉnh Gamma
+
+// Adjust the visibility of enemy viewcones.
+gui_menuContentPanel_video_viewconeVis_desc=Điều chỉnh hiển thị tầm nhìn của địch.
+
+// Viewcone
+gui_menuContentPanel_video_viewconeVis_name=Tầm nhìn
+
+// Shadow Resolution
+gui_menuContentPanel_video_shadowRes_name=Độ phân giải đổ bóng
+
+// If set to On, the highlighter will stay on until you toggle it off.
+gui_optionsMenu_gameplay_highlightAllControllerToggle_desc=Nếu bật, Nổi Bật sẽ luôn sáng đến khi bị tắt.
+
+// Don't use firearms.
+gui_missionMenu_badge_noGuns=Không sử dụng vũ khí.
+
+// Warning: This savegame is depricated! Loading it will convert it to the latest version.
+gui_pauseMenu_saveLoad_list_deprecatedSaveFile_desc=Cảnh báo: Save game này đã lỗi thời! Tải nó sẽ chuyển sang phiên bản mới nhất.
+
+// Warning: This savegame is depricated! Loading it will convert it to the latest version. This might break your current savegame; mission and badge progress will still be correct.
+gui_pauseMenu_saveLoad_list_deprecatedSaveFile_desc1=Cảnh báo: Save game này đã lỗi thời! Tải nó sẽ chuyển sang phiên bản mới nhất. Có thể làm hỏng Save hiện tại; nhiệm vụ và tiến trình danh hiệu hiện tại vẫn còn đó.
+
+// Choose Dialogue Language
+gui_mainMenuNew_confirmDialog_selectVoiceLanguageFirstTime_header=Lựa chọn ngôn ngữ đối thoại
+
+// Please select your preferred language for spoken dialogue. You can always change this setting later in the options menu.
+gui_mainMenuNew_confirmDialog_selectVoiceLanguageFirstTime_body=Vui lòng lựa chọn ngôn ngữ nói ưa thích của bạn cho những cuộc đối thoại. Luôn luôn có thể thay đổi cài đặt này sau trong Menu Tùy Chọn. 
+
+// English
+gui_mainMenuNew_confirmDialog_selectVoiceLanguageFirstTime_button_english=Tiếng Anh
+
+// Japanese
+gui_mainMenuNew_confirmDialog_selectVoiceLanguageFirstTime_button_japanese=Tiếng Nhật
+
+// Apply
+gui_confirmDialog_button_apply=Áp dụng
+
+// Please stand by. Loading a level for the first time might take up to a minute and the game might appear to be frozen.
+gui_loadingHandler_firstTimeLoadText_body=Vui lòng chờ. Tải màn chơi lần đầu tiên có thể mất đến một phút và Game sẽ bị đơ đơ đôi chút.
+
+// Settings have been changed. Apply changes?
+gui_confirmDialog_applyChangedSettings_body=Cài đặt đã được thay đổi. Áp dụng thay đổi?
+
+// This savegame was created in another level. Loading it will exit the current level. All unsaved progress will be lost! Continue?
+gui_pauseMenu_confirmDialog_quickLoadDifferentLevel_body=Save này được tạo trong màn chơi khác. Tải nó sẽ thoát màn chơi hiện tại. Tất cả quá trình chơi sẽ bị mất! Tiếp tục chứ?
+
+// Demo end:
+hud_base_demo_timer_label=Kết thúc thử nghiệm:
+
+// 
+gui_thankYouScreen_body_text_00=Cảm ơn bạn đã chơi Shadow Tactics: Blades of the Shogun bản thử nghiệm!
+
+// 
+gui_thankYouScreen_button_text=Click vào đây nếu muốn mua Shadow Tactics: Blades of the Shogun.
+
+// 
+gui_thankYouScreen_body_text_01=Chúng tôi hi vọng bạn thích màn đầu tiên này của Game!
+
+// 
+gui_menuContentPanel_gameplay_selectController_name=Kích hoạt Gamepad
+
+// Speaker Mode
+gui_menuContentPanel_audio_speakerMode_name=Chế độ loa
+
+// Select which Speaker Mode you want to use. This option is only available in the main menu.
+gui_menuContentPanel_audio_speakerMode_desc=Chọn chế độ loa muốn sử dụng. Tùy chọn này chỉ có trong Menu chính.
+
+// 
+gui_menuContentPanel_gameplay_selectController_desc=Chọn Gamepad muốn sử dụng để điều khiển.
+
+// Enable Tobii Eye Tracking
+gui_menuContentPanel_eyeTracking_enabled_name=Kích hoạt Mắt Theo Dõi Tobii
+
+// You need to enable this in order to use Tobii Eye Tracking features.
+gui_menuContentPanel_eyeTracking_enabled_desc=Cần phải bật để sử dụng các chức năng của Mắt Theo Dõi Tobii.
+
+// Start Aiming at Gaze Point
+gui_menuContentPanel_eyeTracking_startAimAtGazePoint_name=Bắt đầu ngắm tại điểm đang nhìn vào
+
+// When you aim a skill, the cursor starts at the point  you are currently looking at.
+gui_menuContentPanel_eyeTracking_startAimAtGazePoint_desc=Khi ngắm để thi triển một kĩ năng, con trỏ sẽ bắt đầu tại điểm hiện tại mà bạn đang nhìn nào.
+
+// Start Viewcone Mode at Gaze Point
+gui_menuContentPanel_eyeTracking_startVCModeAtGaze_name=Bắt đầu Chế Độ Tầm Nhìn tại điểm đang nhìn
+
+// When going into Viewcone Mode, the cursor starts at the point you are currently looking at.
+gui_menuContentPanel_eyeTracking_startVCModeAtGaze_desc=Khi ở chế độ tầm nhìn, con trỏ chuột sẽ bắt đầu tại điểm đang nhìn vào.
+
+// Switch Viewcone Target by Gaze
+gui_menuContentPanel_eyeTracking_vcTargetSwitchByGaze_name=Chuyển tầm nhìn mục tiêu bằng điểm đang nhìn
+
+// Show an NPC's viewcone by holding the Viewcone Mode button and looking at the desired target.
+gui_menuContentPanel_eyeTracking_vcTargetSwitchByGaze_desc=Hiển thị tầm nhìn của NPC bằng cách giữ nút Chế độ Tầm Nhìn và nhìn vào mục tiêu mong muốn.
+
+// Switch Skill Target by Gaze
+gui_menuContentPanel_eyeTracking_skillTargetSwitchByGaze_name=Chuyển mục tiêu kĩ năng bằng điểm đang nhìn
+
+// Aim single target skills (like Shuriken) by holding the Aim button and looking at the desired target.
+gui_menuContentPanel_eyeTracking_skillTargetSwitchByGaze_desc=Ngắm kĩ năng đơn mục tiêu (như Shuriken) bằng cách giữ nút Ngắm và nhìn vào mục tiêu mong muốn.
+
+// Zoom on Gaze Point
+gui_menuContentPanel_eyeTracking_zoomToGazePoint_name=Phóng vào điểm đang nhìn
+
+// Zooming focusses on the point you are looking at instead of the center of the screen.
+gui_menuContentPanel_eyeTracking_zoomToGazePoint_desc=Phóng to vào điểm đang nhìn vào thay vì trung tâm màn hình.
+
+// Bungie Zoom
+gui_menuContentPanel_eyeTracking_bungieZoomEnabled_name=Thu phóng nhanh
+
+// Hold the Eye Tracking Action button when zooming out to jump to maximum zoom, then release the button to zoom in on the point you are currently looking at.
+gui_menuContentPanel_eyeTracking_bungieZoomEnabled_desc=Giữ Mắt theo dõi - Hành động khi đang thu nhỏ để thu nhỏ tối đa, rồi thả nút để phóng to vào điểm mà đang nhìn vào.
+
+// Eye Tracking Center Camera
+gui_menuContentPanel_eyeTracking_centerScreenButtonEnabled_name=Mắt theo dõi - Căn giữa Camera
+
+// Press the Eye Tracking Center Camera button to center the camera on the point you are currently looking at.
+gui_menuContentPanel_eyeTracking_centerScreenButtonEnabled_desc=Nhấn Mắt theo dõi - Căn giữa Camera để căn giữa Camera tại vị trí đang nhìn vào.
+
+// Eye Tracking UI Interaction
+gui_menuContentPanel_eyeTracking_eyeTrackingUIInteractionEnabled_name=Mắt theo dõi - Giao diện tương tác
+
+// Press the Eye Tracking Action button to use the UI element you are looking at.
+gui_menuContentPanel_eyeTracking_eyeTrackingUIInteractionEnabled_desc=Nhấn Mắt theo dõi - Hành động để sử dụng các chức năng tại vị trí đang nhìn của giao diện.
+
+// Eye Tracking
+gui_optionsMenu_eyeTracking=Mắt theo dõi
+
+// Eye Tracking Action
+gui_inputBindingMenu_inputAction_EyeTrackingButton=Mắt theo dõi - Hành động
+
+// Eye Tracking Center Camera
+gui_inputBindingMenu_inputAction_EyeTrackingCamCenterButton=Mắt theo dõi - Căn giữa Camera
+
+// Cancel
+gui_inputBindingMenu_inputAction_Cancel=Huỷ bỏ
+
+// Adjust the gamma slider so that you can distinguish between all the steps of the gradient texture and barely see the ninja on the left anymore.
+gui_optionsMenu_gameplay_confirmDialog_gammaCorrection_body=Di chuyển thanh trượt đến khi hình ảnh bên trái không nhìn thấy và hình ảnh bên phải thấy rõ ràng 
+
+// Movie subtitles
+gui_menuContentPanel_audio_movieSubtitles_name=Phụ đề phim
+
+// Show subtitles for the spoken text in the animatic cutscenes between missions.
+gui_menuContentPanel_audio_movieSubtitles_desc=Hiển thị phụ đề của cuộc đối thoại trong cắt cảnh giữa các màn chơi.
+
+// Camera rotation
+gui_menuContentPanel_gameplay_invertedCameraRotation_name=Xoay Camera
+
+// Camera rotation
+gui_menuContentPanel_gameplay_invertedCameraRotation_desc=Xoay Camera
+
+// Drag Camera
+gui_inputBindingMenu_inputAction_CameraPan=Kéo Camera
+
+// Camera Zoom
+gui_menuContentPanel_gameplay_invertedCameraZoom_name=Thu phóng Camera
+
+// Camera Zoom
+gui_menuContentPanel_gameplay_invertedCameraZoom_desc=Thu phóng Camera
+
+// Camera X-Axis
+gui_menuContentPanel_gameplay_invertedCameraMoveX_name=Camera X-Axis
+
+// Camera X-Axis
+gui_menuContentPanel_gameplay_invertedCameraMoveX_desc=Camera X-Axis
+
+// Camera Y-Axis
+gui_menuContentPanel_gameplay_invertedCameraMoveY_name=Camera Y-Axis
+
+// Camera Y-Axis
+gui_menuContentPanel_gameplay_invertedCameraMoveY_desc=Camera Y-Axis
+
+// Drag Camera X-Axis
+gui_menuContentPanel_gameplay_invertedCameraPanX_name=Kéo Camera X-Axis
+
+// Drag Camera X-Axis
+gui_menuContentPanel_gameplay_invertedCameraPanX_desc=Kéo Camera X-Axis
+
+// Drag Camera Y-Axis
+gui_menuContentPanel_gameplay_invertedCameraPanY_name=Kéo Camera Y-Axis
+
+// Drag Camera Y-Axis
+gui_menuContentPanel_gameplay_invertedCameraPanY_desc=Kéo Camera Y-Axis
+
+// Aiming X-Axis
+gui_menuContentPanel_gameplay_invertedCameraAimX_name=Ngắm X-Axis
+
+// Aiming X-Axis
+gui_menuContentPanel_gameplay_invertedCameraAimX_desc=Ngắm X-Axis
+
+// Aiming Y-Axis
+gui_menuContentPanel_gameplay_invertedCameraAimY_name=Ngắm Y-Axis
+
+// Aiming Y-Axis
+gui_menuContentPanel_gameplay_invertedCameraAimY_desc=Ngắm Y-Axis
+
+// Multiselect
+gui_inputBindingMenu_inputAction_Multiselect=Chọn nhiều
+
+// Inverted
+gui_menuContentPanel_gameplay_axis_inverted=Đảo ngược
+
+// Normal
+gui_menuContentPanel_gameplay_axis_normal=Bình thường
+
+
+// -----------------SYNC DATE 6/28/2020 9:40:29 PM-----------------//
+
+// Press {0} to start
+gui_gameStart_pressAnyKey_console=Press {0} to start
+
+// CONFIRM
+gui_confirmDialog_header_confirm=XÁC NHẬN
+
+// Right Stick
+gui_inputBindingMenu_con_axis_rightStick_xboxOne=Right Stick
+
+// Left Stick
+gui_inputBindingMenu_con_axis_leftStick_xboxOne=Left Stick
+
+// Here you can customize and create new control schemes. Changes are applied automatically. You can switch between control schemes via the checkboxes on the right.
+gui_inputBindingMenu_explanation_pc=Ở đây có thể tùy chỉnh gán phím và tạo bộ cài đặt điều khiển mới. Thay đổi áp dụng tự động. Có thể chuyển giữa khác bộ phím bằng cách tick vào ô bên phải.
+
+// Thank you for playing the Shadow Tactics: Blades of the Shogun Demo!
+gui_thankYouScreen_realDemo_body_text_00=Cảm ơn bạn đã chơi Shadow Tactics: Blades of the Shogun bản thử nghiệm!
+
+// Click here if you want to purchase Shadow Tactics: Blades of the Shogun.
+gui_thankYouScreen_realDemo_button_text=Click vào đây nếu muốn mua Shadow Tactics: Blades of the Shogun.
+
+// We hope you enjoyed this first slice of the game!
+gui_thankYouScreen_realDemo_body_text_01=Chúng tôi hi vọng bạn thích màn đầu tiên này của Game!
+
+// Active Controller
+gui_menuContentPanel_gameplay_selectController_name_ps4=Active Controller
+
+// Select which controller you want to use for input.
+gui_menuContentPanel_gameplay_selectController_desc_ps4=Select which controller you want to use for input.
+
+// Controller Disconnected
+gui_consoleUserManager_confirmDialog_inputDeviceLost_header_xbox=Controller Disconnected
+
+// Reconnect your controller or press {0} on another connected controller.
+gui_consoleUserManager_confirmDialog_inputDeviceLost_body_xbox=Reconnect your controller or press {0} on another connected controller.
+
+// Vibration
+gui_menuContentPanel_gameplay_controllerRumble_name=Vibration
+
+// Toggle wireless controller vibration.
+gui_menuContentPanel_gameplay_controllerRumble_desc_ps4=Toggle wireless controller vibration.
+
+// Camera Sensitivity
+gui_optionsMenu_gameplay_cameraRotateSensitivity=Camera Sensitivity
+
+// Loading User Savedata
+gui_gameStart_loadingSaveDataForUser=Loading User Savedata
+
+// Savegame is corrupt.
+gui_confirmDialog_corrupt_save_body=Savegame is corrupt.
+
+// The file you tried to load was corrupted and will be overwritten with the default settings.
+gui_confirmDialog_corrupt_settings_body=The file you tried to load was corrupted and will be overwritten with the default settings.
+
+// The trophy progress can not be loaded because it is corrupted and will be deleted.
+gui_confirmDialog_corrupt_trophies_body=The trophy progress can not be loaded because it is corrupted and will be deleted.
+
+// USER DATA
+gui_fileDescription_userData=USER DATA
+
+// Wireless Controller Disconnected
+gui_consoleUserManager_confirmDialog_inputDeviceLost_header_ps4=Wireless Controller Disconnected
+
+// Not enough disk space, please free up more space to save the game.
+gui_confirmDialog_body_saveError_outOfStorage=Not enough disk space, please free up more space to save the game.
+
+// corrupt
+gui_pauseMenu_saveLoad_list_corruptFile=corrupt
+
+// SWITCHING USER
+gui_gameStart_loadingSaveDataForUser_header=SWITCHING USER
+
+// Please do not turn off your PlayStation®4 system while this symbol is displayed.
+gui_mainMenu_confirmDialog_saveWarning_ps4=Please do not turn off your PlayStation®4 system while this symbol is displayed.
+
+// Please do not close the game, suspend the game or turn off your Xbox One console while this symbol is displayed.
+gui_mainMenu_confirmDialog_saveWarning_xboxOne=Please do not close the game, suspend the game or turn off your Xbox One console while this symbol is displayed.
+
+// Please do not close the game while this symbol is displayed.
+gui_mainMenu_confirmDialog_saveWarning_pc=Please do not close the game while this symbol is displayed.
+
+// Failed to initialize storage. In order to play, you need a connected storage space.
+gui_confirmDialog_saveError_storageUnavailable_body=Failed to initialize storage. In order to play, you need a connected storage space.
+
+// Try Again
+gui_confirmDialog_saveError_storageUnavailable_button=Try Again
+
+// $USER_NAME_OR_ID unlocked a badge in $TITLE_NAME.
+activity_feed_complete_badge=$USER_NAME_OR_ID unlocked a badge in $TITLE_NAME.
+
+// $USER_NAME_OR_ID unlocked $STORY_COUNT badges in $TITLE_NAME.
+activity_feed_complete_badge_condensed=$USER_NAME_OR_ID unlocked $STORY_COUNT badges in $TITLE_NAME.
+
+// $USER_NAME_OR_ID completed {0} on {1} difficulty in $TITLE_NAME.
+activity_feed_complete_mission=$USER_NAME_OR_ID completed {0} on {1} difficulty in $TITLE_NAME.
+
+// $USER_NAME_OR_ID completed $STORY_COUNT levels on {0} difficulty in $TITLE_NAME.
+activity_feed_complete_mission_condensed=$USER_NAME_OR_ID completed $STORY_COUNT levels on {0} difficulty in $TITLE_NAME.
+
+// $USER_NAME_OR_ID killed {0} guards in $TITLE_NAME.
+activity_feed_killed_guards=$USER_NAME_OR_ID killed {0} guards in $TITLE_NAME.
+
+// $USER_NAME_OR_ID killed a significant number of guards in $TITLE_NAME.
+activity_feed_killed_guards_condensed=$USER_NAME_OR_ID killed a significant number of guards in $TITLE_NAME.
+
+// $USER_NAME_OR_ID killed {0} samurai in $TITLE_NAME.
+activity_feed_killed_samurai=$USER_NAME_OR_ID killed {0} samurai in $TITLE_NAME.
+
+// $USER_NAME_OR_ID killed a significant number of samurai in $TITLE_NAME.
+activity_feed_killed_samurai_condensed=$USER_NAME_OR_ID killed a significant number of samurai in $TITLE_NAME.
+
+// $USER_NAME_OR_ID saved {0} times in $TITLE_NAME.
+activity_feed_save=$USER_NAME_OR_ID saved {0} times in $TITLE_NAME.
+
+// $USER_NAME_OR_ID saved many times in $TITLE_NAME.
+activity_feed_save_condensed=$USER_NAME_OR_ID saved many times in $TITLE_NAME.
+
+// $USER_NAME_OR_ID loaded {0} times in $TITLE_NAME.
+activity_feed_load=$USER_NAME_OR_ID loaded {0} times in $TITLE_NAME.
+
+// $USER_NAME_OR_ID loaded many times in $TITLE_NAME.
+activity_feed_load_condensed=$USER_NAME_OR_ID loaded many times in $TITLE_NAME.
+
+// $USER_NAME_OR_ID executed shadow mode with {0} characters in $TITLE_NAME.
+activity_feed_shadow_mode=$USER_NAME_OR_ID executed shadow mode with {0} characters in $TITLE_NAME.
+
+// $USER_NAME_OR_ID executed shadow mode with multiple characters $STORY_COUNT times in $TITLE_NAME.
+activity_feed_shadow_mode_condensed=$USER_NAME_OR_ID executed shadow mode with multiple characters $STORY_COUNT times in $TITLE_NAME.
+
+// $USER_NAME_OR_ID killed {0} enemies at the same time in $TITLE_NAME.
+activity_feed_multikill=$USER_NAME_OR_ID killed {0} enemies at the same time in $TITLE_NAME.
+
+// $USER_NAME_OR_ID killed multiple enemies at the same time $STORY_COUNT times in $TITLE_NAME.
+activity_feed_multikill_condensed=$USER_NAME_OR_ID killed multiple enemies at the same time $STORY_COUNT times in $TITLE_NAME.
+
+// Your latest savegame is deprecated or corrupt. Do you wish to restart the current mission instead?
+gui_mainMenuNew_confirmDialog_continueSaveGameCorruptOrDeprecated_body=Your latest savegame is deprecated or corrupt. Do you wish to restart the current mission instead?
+
+// RESET GAME
+gui_optionsMenu_resetAllProgress_confirmDialog_header=RESET GAME
+
+// This will reset your game. You will lose all mission progress, savegames and unlocked badges. Your video settings, audio settings, gameplay settings and custom input layouts will NOT be reset. Do you wish to continue?
+gui_optionsMenu_resetAllProgress_confirmDialog_body=This will reset your game. You will lose all mission progress, savegames and unlocked badges. Your video settings, audio settings, gameplay settings and custom input layouts will NOT be reset. Do you wish to continue?
+
+// $USER_NAME_OR_ID completed {0} on {1} difficulty and unlocked {2} badges in $TITLE_NAME.
+activity_feed_complete_badgesInLevel=$USER_NAME_OR_ID completed {0} on {1} difficulty and unlocked {2} badges in $TITLE_NAME.
+
+// $USER_NAME_OR_ID completed $STORY_COUNT levels on {1} difficulty in $TITLE_NAME.
+activity_feed_complete_badgesInLevel_condensed=$USER_NAME_OR_ID completed $STORY_COUNT levels on {1} difficulty in $TITLE_NAME.
+
+// $USER_NAME_OR_ID unlocked all badges of {0} in $TITLE_NAME.
+activity_feed_complete_allBadgesInLevel=$USER_NAME_OR_ID unlocked all badges of {0} in $TITLE_NAME.
+
+// $USER_NAME_OR_ID unlocked all badges of $STORY_COUNT levels in $TITLE_NAME.
+activity_feed_complete_allBadgesInLevel_condensed=$USER_NAME_OR_ID unlocked all badges of $STORY_COUNT levels in $TITLE_NAME.
+
+// Push
+hud_con_context_action_push=Push
+
+// Box
+hud_con_context_object_box=Box
+
+// Here you can customize and create new control schemes. Changes are applied automatically. To switch to a different control scheme, select it and press {0} to apply.
+gui_inputBindingMenu_explanation_console=Here you can customize and create new control schemes. Changes are applied automatically. To switch to a different control scheme, select it and press {0} to apply.
+
+// You have reached the maximum number of savegames. Please delete or overwrite an existing savegame.
+gui_pauseMenu_saveLoad_list_confirmDialog_maximumNumberOfSavegamesReached_body=You have reached the maximum number of savegames. Please delete or overwrite an existing savegame.
+
+// Reconnect your Wireless Controller or use another connected Wireless Controller and switch to the user who started the application.
+gui_consoleUserManager_confirmDialog_inputDeviceLost_body_ps4=Reconnect your Wireless Controller or use another connected Wireless Controller and switch to the user who started the application.
+
+// Saving: Please do not close the game, suspend the game or turn off your Xbox One console while this symbol is displayed.
+gui_mainMenu_confirmDialog_saveWarning_overlay_xboxOne=Saving: Please do not close the game, suspend the game or turn off your Xbox One console while this symbol is displayed.
+
+// Saving: Please do not turn off your PlayStation®4 system while this symbol is displayed.
+gui_mainMenu_confirmDialog_saveWarning_overlay_ps4=Saving: Please do not turn off your PlayStation®4 system while this symbol is displayed.
+
+// Saving: Please do not close the game while this symbol is displayed.
+gui_mainMenu_confirmDialog_saveWarning_overlay_pc=Saving: Please do not close the game while this symbol is displayed.
+
+// Visit our store page if you want to purchase Shadow Tactics: Blades of the Shogun.
+gui_thankYouScreen_consoleTrial_body_text_03=Visit our store page if you want to purchase Shadow Tactics: Blades of the Shogun.
+
+// Go to Xbox Store
+gui_thankYouScreen_consoleTrial_button_text_xboxOne=Go to Xbox Store
+
+// Go to PlayStation®Store
+gui_thankYouScreen_consoleTrial_button_text_ps4=Go to PlayStation®Store
+
+// Something went wrong while loading.
+gui_confirmDialog_body_loadError=Something went wrong while loading.
+
+// Sorry. Something went wrong.
+gui_confirmDialog_body_somethingWentWrong=Sorry. Something went wrong.
+
+// With the latest patch, save files made on earlier versions of Shadow Tactics are no longer compatible. You can change your install to an earlier version if you still want to use your older save files. Your game progress will carry over between versions. Visit our website if you wish to learn how to change your install to an earlier version.
+gui_pcPatch_patchInfo_confirmDialog_body=With the latest patch, save files made on earlier versions of Shadow Tactics are no longer compatible. You can change your install to an earlier version if you still want to use your older save files. Your game progress will carry over between versions. Visit our website if you wish to learn how to change your install to an earlier version.
+
+// This save file is not compatible with the current version of Shadow Tactics. You can change your install to an earlier version if you still want to use this save file. Your game progress will carry over between versions. Visit our website if you wish to learn how to change your install to an earlier version.
+gui_pcPatch_saveGameInfo_confirmDialog_body=This save file is not compatible with the current version of Shadow Tactics. You can change your install to an earlier version if you still want to use this save file. Your game progress will carry over between versions. Visit our website if you wish to learn how to change your install to an earlier version.
+
+// Go to Website
+gui_pcPatch_saveGameInfo_confirmDialog_button=Go to Website
+
+// A new difficulty option has been added. Are you prepared to face Oni Mode?
+gui_pcPatch_difficultyInfo_confirmDialog_body=A new difficulty option has been added. Are you prepared to face Oni Mode?
+
+// Finish the level on Oni Mode difficulty.
+gui_missionMenu_badge_OniMode=Finish the level on Oni Mode difficulty.
+
+// Oni Mode
+gui_menuContentPanel_missionMenu_difficulty_op3_name=Oni Mode
+
+// Enemies detect you even faster, there are more of them and all characters make noise while running. Recommended for immortal demons.
+gui_menuContentPanel_missionMenu_difficulty_op3_desc=Enemies detect you even faster, there are more of them and all characters make noise while running. Recommended for immortal demons.
+
+// What is Eye Tracking?
+gui_menuContentPanel_eyeTracking_info_name=What is Eye Tracking?
+
+// Active Controller
+gui_menuContentPanel_gameplay_selectController_name_xbox=Active Controller
+
+// Select which controller you want to use for input.
+gui_menuContentPanel_gameplay_selectController_desc_xbox=Select which controller you want to use for input.
+
+// Toggle controller vibration.
+gui_menuContentPanel_gameplay_controllerRumble_desc_xbox=Toggle controller vibration.
+
+// Signed Out
+gui_consoleUserManager_user_signOut_header=Signed Out
+
+// {0} has signed out, returning to main menu now.
+gui_consoleUserManager_user_signOut_body={0} has signed out, returning to main menu now.
+
+// User Switched
+gui_consoleUserManager_user_switch_header=User Switched
+
+// Switched to profile {0}, returning to main menu now.
+gui_consoleUserManager_user_switch_body=Switched to profile {0}, returning to main menu now.
+
+// (HOLD)
+gui_pauseMenu_controller_explanation_inputModifier_hold=(HOLD)
+
+// (CLICK)
+gui_pauseMenu_controller_explanation_inputModifier_click=(CLICK)
+
+// (+{0} more)
+gui_pauseMenu_controller_explanation_moreInputs=(+{0} more)
+
+// Press any key to start
+gui_gameStart_pressAnyKey_pc=Nhấn phím bất kỳ để bắt đầu
+
+// Right Stick
+gui_inputBindingMenu_con_axis_rightStick_ps4=Right Stick
+
+// Left Stick
+gui_inputBindingMenu_con_axis_leftStick_ps4=Left Stick
+
+// Waiting for PlayStation®Store
+gui_thankYouScreen_consoleTrial_button_text_waitingForStore_ps4=Waiting for PlayStation®Store
+
+// Waiting for Xbox Store
+gui_thankYouScreen_consoleTrial_button_text_waitingForStore_xboxOne=Waiting for Xbox Store
+
+// A network error occured.
+gui_confirmDialog_body_networkError=A network error occured.
+
+// Video Settings
+gui_settings_video=Video Settings
+
+// Gameplay Settings
+gui_settings_gameplay=Gameplay Settings
+
+// Audio Settings
+gui_settings_audio=Audio Settings
+
+// Bootup Data
+gui_settings_bootup=Bootup Data
+
+// Input Layout
+gui_settings_inputLayout=Input Layout
+
+// Savegame is corrupt, mission will be restarted.
+gui_confirmDialog_corrupt_save_loadingLevel_body=Savegame is corrupt, mission will be restarted.
+
+// Eye Tracking Settings
+gui_settings_eyeTracking=Eye Tracking Settings
+
+// Not enough space available, please free up more space to save the game.
+gui_confirmDialog_body_saveError_outOfStorage_ps4=Not enough space available, please free up more space to save the game.
+
+// For a full overview of all bindable actions, head to Options and open the Controls menu
+gui_pauseMenu_controller_explanation_help=For a full overview of all bindable actions, head to Options and open the Controls menu
+

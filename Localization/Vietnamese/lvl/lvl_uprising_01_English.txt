@@ -1,0 +1,45 @@
+// Destroy the Depot
+1951240981=Thổi bay kho
+
+// Place a barrel of gunpowder near the supply depot and shoot it to blow up the building.
+1263516502=Đặt thùng thuốc súng gần kho tiếp tế và bắn vào nó để thổi bay ngôi nhà.
+
+// Regroup
+-1477602831=Tập hợp nhóm
+
+// Gather at a safe spot near General Okkoto's tent. 
+1285602772=Tập trung tại vị trí an toàn gần lều tướng quân Okkoto.
+
+// Kill General Okkoto
+-1195985696=Giết tướng quân Okkoto
+
+// Kill General Okkoto to end the rebellion.
+198365393=Giết tướng quân Okkoto để kết thúc cuộc nổi loạn.
+
+// Rebel Officers
+1379945351=Chỉ huy phiến quân
+
+// Killing officers will confuse the rebels, exposing them to the Shogunate army.
+20692585=Giết chỉ huy để làm rối loạn phiến quân, chúng sẽ tạo sơ hở cho quân đội Mạc Phủ tấn công.
+
+// Barrels
+1123870409=Thùng
+
+// Remember: Only Mugen can carry the heavy barrel to the supply depot.
+-1779139528=Nhớ rằng: Chỉ có Mugen có thể mang thùng nặng tới kho tiếp tế.
+
+// Explosives
+1945751014=Thuốc nổ
+
+// All firearms can blow up gunpowder barrels, but Takuma's rifle is the safest option.
+-1323036364=Tất cả hỏa lực sẽ thổi bay thùng thuốc nổ, nhưng súng trường Takuma là lựa chọn an toàn nhất.
+
+// You cannot complete your mission objective.
+1634864919=Không thể hoàn thành mục tiêu của nhiệm vụ.
+
+// Firippo Pekotsu
+-2082953194=Firippo Pekotsu
+
+// Okkoto
+567873829=Okkoto
+

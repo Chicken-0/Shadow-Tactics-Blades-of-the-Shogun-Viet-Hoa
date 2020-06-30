@@ -1,0 +1,132 @@
+// Find Masaru
+-129664850=Tìm Masaru
+
+// Find out where Masaru is located by eavesdropping on his men.
+1423201963=Tìm vị trí của Masaru bằng cách nghe lén người của nó.
+
+// Harbor
+-1116724851=Cảng
+
+// You can eavesdrop on the talking patrol at the harbor.
+1114992702=Có thể nghe lén lính tuần ở cảng.
+
+// Estate
+523908812=Biệt thự
+
+// You can eavesdrop on the talking patrol at Masaru's estate.
+1908075287=Có thể nghe lén lính tuần ở biệt thự Masaru.
+
+// Regroup
+600639915=Tái hợp nhóm
+
+// Meet at a safe spot and plan your next move.
+-547088444=Gặp nhau tại vị trí an toàn để bàn về các bước tiếp theo.
+
+// Safe Spot A
+1890902120=Điểm an toàn A
+
+// Meet on a roof near the harbor.
+-1850224033=Gặp nhau trên mái nhà gần cảng.
+
+// Safe Spot B
+-1467857439=Điểm an toàn B
+
+// Meet on a roof near Masaru's estate.
+559528377=Gặp nhau trên mái nhà biệt thự Masaru.
+
+// Kidnap Masaru
+710192023=Bắt cóc Masaru
+
+// Separate Masaru from his bodyguards and knock him unconscious. Do not kill him!
+-1872348537=Tách Masaru ra khỏi đám hộ vệ rồi đánh ngất. Đừng giết nó!
+
+// Leave
+2129995523=Bỏ trốn
+
+// Carry Masaru to the boat and leave together.
+-2130663672=Mang Masaru lên thuyền và cùng bỏ trốn.
+
+// Find a Disguise
+296966941=Tìm lớp ngụy trang
+
+// Find a suitable Kimono for Aiko.
+139848394=Tìm bộ Kimono cho Aiko.
+
+// Disguise A
+892792051=Ngụy trang A
+
+// You can take a Kimono from the laundry lines.
+1684751663=Có thể lấy Kimono từ chỗ dây phơi đồ.
+
+// Disguise B
+-362375548=Ngụy trang B
+
+// You can knock out a courtesan and steal her Kimono.
+-122899729=Có thể đánh ngất một kĩ nữ và lấy cắp Kimono của cô ta.
+
+// Eavesdropping
+211534986=Nghe lén
+
+// Remember:\nWhen eavesdropping, stay close to your target until the meter is full.
+282233302=Nhớ rằng:\nKhi đang nghe lén, phải luôn giữ đủ khoảng cách với mục tiêu cho đến khi bộ đếm đầy.
+
+// Routine
+418434573=Thói quen
+
+// Masaru follows a simple routine while he enjoys himself at the bathhouse.
+-758192894=Masaru có một thói quen đơn giản trong khi nó hưởng thụ bản thân ở phòng tắm.
+
+// Bodyguards
+1904025542=Hộ vệ
+
+// Disrupt Masaru's routine to separate him from his bodyguards.
+1839773153=Phá hỏng thói quen của Masaru để tách nó ra khỏi đám hộ vệ.
+
+// Masseur
+2056529375=Người đấm bóp
+
+// Masaru gets his massage from a private masseur.
+310427707=Masaru mát xa từ một người đấm bóp riêng.
+
+// Hot Water
+180934342=Nước nóng
+
+// When bathing, Masaru always requests more hot water.
+-1574056704=Khi tắm, Masaru luôn yêu cầu nước nóng.
+
+// Masseur
+1130267979=Người đấm bóp
+
+// Masseur
+-974381309=Người đấm bóp
+
+// Shirohana-Hime
+2030464665=Shirohana-Hime
+
+// 
+-689948112=Đẩy
+
+// 
+-1200257290=Hộp
+
+// 
+-1444141236=Đẩy
+
+// 
+-1515788252=Hộp
+
+// 
+-2142766574=Đẩy
+
+// 
+-396698501=Hộp
+
+// Hattori Hambo
+-2142167243=Hattori Hambo
+
+// You cannot complete your mission objective.
+-1501037580=Không thể hoàn thành mục tiêu của nhiệm vụ.
+
+// The eavesdrop target was killed before you were able to gather any information.
+-794233975=Các đối tượng cần nghe lén đã chết trước khi thu thập được thông tin.
+

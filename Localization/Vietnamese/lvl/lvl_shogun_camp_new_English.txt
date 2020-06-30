@@ -1,0 +1,75 @@
+// Shogun's Tent
+-270474894=Lều của Mạc Chúa
+
+// Reach the Shogun's tent and enter together.
+1863037124=Tới lều của Mạc Chúa và tái hợp nhóm.
+
+// Masaru
+1986787858=Masaru
+
+// Carry Masaru into the Shogun's tent.
+-2028312160=Mang Masaru vào lều của Mạc Chúa.
+
+// Disguise A
+901955324=Ngụy trang A
+
+// Aiko can steal a Kimono from the laundry line.
+-1253582799=Aiko có thể lấy cắp Kimono ở chỗ dây phơi đồ.
+
+// Disguise B
+-1249333164=Ngụy trang B
+
+// Aiko can knock out a temple servant and take her clothes.
+-512671401=Aiko có thể đánh ngất hầu nữ đền thờ và lấy đồ của cô ấy.
+
+// Alchemy Station
+-1275621667=Trạm giả kim
+
+// Takuma can brew a sleeping draught at the alchemy station.
+-1064469139=Takuma có thể chế thuốc ngủ tại trạm giả kim.
+
+// Red Wagon
+555074746=Xe bò đỏ
+
+// The red wagon carries goods from the lower camp to the small temple.
+631540649=Xe bò đỏ mang hàng hóa tới đền nhỏ.
+
+// Sake
+-2074878088=Sa kê
+
+// Servants fetch sake from the barrel and serve it to the drinking soldiers.
+1399975723=Người hầu lấy sa kê từ thùng và phục vụ cho quân lính uống.
+
+// You cannot complete your mission objective.
+-920419008=Không thể hoàn thành mục tiêu của nhiệm vụ.
+
+// Oda Cemunaga
+1839816933=Oda Cemunaga
+
+// Sake Barrel
+-744521855=Thùng Sa kê
+
+// Aiko can mix Takuma's sleeping draught into the sake.
+1127892843=Aiko có thể trộn thuốc ngủ của Takuma vào rượu.
+
+// Poison Sake
+1973308638=Thuốc ngủ sa kê
+
+// Alchemy Station
+385119923=Trạm giả kim
+
+// Takuma can brew a sleeping draught here.
+-1038660798=Takuma có thể chế thuốc ngủ ở đây.
+
+// Shogun's Tent
+-562179089=Lều của Mạc Chúa
+
+// Enter the tent together. Bring Masaru with you.
+8547946=Vào trong lều cùng với Masaru.
+
+// You cannot complete your mission objective.
+1368663121=Không thể hoàn thành mục tiêu của nhiệm vụ.
+
+// You cannot complete your mission objective.
+1984201296=Không thể hoàn thành mục tiêu của nhiệm vụ.
+

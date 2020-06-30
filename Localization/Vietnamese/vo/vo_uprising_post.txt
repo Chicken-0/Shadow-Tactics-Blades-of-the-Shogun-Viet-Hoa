@@ -1,0 +1,156 @@
+// SPEAKER: NARRATOR
+// With General Okkoto's death, the end of the rebellion was certain. 
+vocs_over_over_uprising_post_n00=Với cái chết của tướng Okkoto, nhất định cuộc nổi loạn đã kết thúc.
+
+// SPEAKER: NARRATOR
+// Under Lord Noboru's command, the Shogunate army crushed the remaining rebels and restored the peace. Mugen and his companions had achieved an important victory. 
+vocs_over_over_uprising_post_n01=Theo lệnh lãnh chúa Noboru, quân đội Mạc Phủ phải nghiền nát đám phiến quân tàn dư và khôi phục lại hòa bình. Mugen cùng đồng đội đã có được một chiến thắng trong vinh quang.
+
+// SPEAKER: NARRATOR
+// Armed with the knowledge of Kage-sama's secret hideout, they traveled to Edo, where they would await the orders of the Shogun.
+vocs_over_over_uprising_post_n02=Được trang bị kiến thức về nơi ẩn náu của Kage-sama, họ đã tới Edo, nơi mà sẽ nhận được lệnh từ Mạc Chúa.
+
+// SPEAKER: SHOGUN
+// Ah, Lord Noboru. I was pleased when I received news of your victory.
+vocs_over_over_uprising_post_n03=Ah, Noboru. Ta rất hài lòng khi nhận được tin thắng trận của em.
+
+// SPEAKER: SHOGUN
+// Your victory over the rebel Okkoto prevented this country from falling into chaos. I chose well when I entrusted you with this task, brother.
+vocs_over_over_uprising_post_n03a=Chiến thắng của em trước lũ phiến quân Okkoto đã giúp nước ta thoát khỏi hỗn loạn. Ta rất hài lòng khi giao phó nhiệm vụ này cho em.
+
+// SPEAKER: BROGUN
+// The Shogunate army brought about the end of the rebellion. However, it would bring me shame if I did not mention the involvement of Mugen-san and his comrades.
+vocs_over_over_uprising_post_n04=Quân đội Mạc Phủ đã kết thúc hỗn loạn. Tuy nhiên, sẽ rất xấu hổ nếu không nhắc tới sự tham gia của Mugen-san và đồng đội.
+
+// SPEAKER: SHOGUN
+// Ah yes, Mugen-san. To think that a group of only five could achieve this much. You chose well, Mugen.
+vocs_over_over_uprising_post_n05=Ah đúng, Mugen-san. Một nhóm chỉ với con số năm lại có thể làm được nhiều việc như thế. Thần chọn tốt lắm, Mugen.
+
+// SPEAKER: SHOGUN
+// Hmm...impressive. To think that a group of only five facilitated such a victory. You chose well, Mugen.
+vocs_over_over_uprising_post_n05a=Hmm...quá ấn tượng. Một nhóm chỉ với con số năm đã làm nên chiến thắng. Thần chọn tốt lắm, Mugen.
+
+// SPEAKER: WARRIOR
+// Your words honor us, my Shogun.
+vocs_over_over_uprising_post_n06=Chúng thần vinh dự vì lời khen của ngài, hỡi Mạc Chúa.
+
+// SPEAKER: WARRIOR
+// Your words honor me, my Shogun.
+vocs_over_over_uprising_post_n06a=Thần vinh dự vì lời khen của ngài, hỡi Mạc Chúa.
+
+// SPEAKER: SHOGUN
+// Together you even uncovered the location of Kage-sama. You must be very proud of these men and women.
+vocs_over_over_uprising_post_n07=Cùng nhau tìm ra vị trí của Kage-sama. Thần phải tự hào về những chàng trai và cô gái này đấy.
+
+// SPEAKER: WARRIOR
+// I am, my Shogun. I have rarely seen such skill in a group. I am honored that they trust me as their leader.
+vocs_over_over_uprising_post_n08=Vâng, hỡi Mạc Chúa. Thần hiếm khi thấy nhiều kĩ năng như vậy trong một nhóm. Thần rất vinh dự khi họ tin tưởng vào sự chỉ đạo của thần.
+
+// SPEAKER: BROGUN
+// Now all that is left is to bring an end to Kage-sama. I say Mugen-san has earned the right to finish this matter himself.
+vocs_over_over_uprising_post_n09=Giờ tất cả những gì còn lại là mang kết thúc đến với Kage-sama. Mugen-san có đủ sức thuyết phục để kết thúc vấn đề này.
+
+// SPEAKER: SHOGUN
+// I agree. No doubt a large attack force would only alert our enemy. I leave this matter to you, Mugen.
+vocs_over_over_uprising_post_n10=Đồng ý. Một lực lượng tấn công lớn sẽ chỉ đả động cho hắn biết. Ta để vấn đề này lại cho thần, Mugen.
+
+// SPEAKER: WARRIOR
+// Do you want him captured alive, my Shogun?
+vocs_over_over_uprising_post_n11=Ngài có muốn bắt sống hắn không, hỡi Mạc Chúa?
+
+// SPEAKER: SHOGUN
+// Alive or dead, I want you to bring him to me. I must see the face of the man that conspired against me.
+vocs_over_over_uprising_post_n12=Sống hay chết đều được, mang hắn về đây cho ta. Ta phải nhìn thấy được khuôn mặt của kẻ dám chống lại ta.
+
+// SPEAKER: WARRIOR
+// We will not disappoint you, my Shogun. Noboru-sama.
+vocs_over_over_uprising_post_n13=Sẽ không làm ngài thất vọng, hỡi Mạc Chúa. Noboru-sama.
+
+// SPEAKER: SHOGUN
+// I must thank you too, brother. We may disagree on certain things, but I know there is no finer man to command the Shogunate army.
+vocs_over_over_uprising_post_n14=Ta cũng phải cảm ơn em đấy. Không có người đàn ông nào giỏi chỉ huy quân đội Mạc Phủ hơn em đâu.
+
+// SPEAKER: BROGUN
+// I only fulfill my duty, brother. To my Shogun, and to Japan.
+vocs_over_over_uprising_post_n15=Em chỉ thực hiện nhiệm vụ của mình thôi anh à. Vì Mạc Chúa, và vì Nhật Bản.
+
+// SPEAKER: TRAPPER
+// We really met the Shogun! That was exciting!
+vocs_over_over_uprising_post_n16=Chúng ta thực sự đã gặp Mạc Chúa! Thú vị wá đi!
+
+// SPEAKER: NINJA
+// So...this is it, huh?
+vocs_over_over_uprising_post_n17=Vậy...là đây hả?
+
+// SPEAKER: WARRIOR
+// Yes, we will finally meet our enemy face to face.
+vocs_over_over_uprising_post_n18=Đúng rồi, chúng ta cuối cùng cũng đối mặt được với kẻ thù.
+
+// SPEAKER: NINJA
+// When this is done...I think I'll need some time alone... Have to think about a few things.
+vocs_over_over_uprising_post_n19=Khi chuyện này xong...Tôi sẽ cần chút thời gian ở một mình... Phải suy ngẫm về một số thứ.
+
+// SPEAKER: WARRIOR
+// I see... Well, I am grateful that you are here for this most important mission.
+vocs_over_over_uprising_post_n20=Tôi biết... Tôi rất cảm kích khi cậu ở đây cho nhiệm vụ quan trọng này.
+
+// SPEAKER: GEISHA
+// Will we receive support from the Shogunate troops?
+vocs_over_over_uprising_post_n21=Chúng ta sẽ nhận được hỗ trợ từ quân đội Mạc Phủ chứ?
+
+// SPEAKER: WARRIOR
+// No, we cannot risk spies warning off our prey. There will not be a better chance than this.
+vocs_over_over_uprising_post_n22=Không, không thể mạo hiểm để gián điệp kích động tới con mồi của chúng ta. Sẽ không còn cơ hội nào như thế này.
+
+// SPEAKER: GEISHA
+// While that is true, I am not certain you have given this enough thought.
+vocs_over_over_uprising_post_n23=Nếu nó là thật, em không biết là anh đã nghĩ kĩ chưa.
+
+// SPEAKER: WARRIOR
+// Will you not come with me, and point me in the right direction?
+vocs_over_over_uprising_post_n24=Sao em không đi cùng anh, rồi chỉ cho anh đi đúng hướng?
+
+// SPEAKER: GEISHA
+// I can hardly leave you alone on such an important occasion.
+vocs_over_over_uprising_post_n25=Em khó mà có thể bỏ mặc anh trong nhiệm vụ quan trọng như thế này.
+
+// SPEAKER: TRAPPER
+// Will we all be together on this one?
+vocs_over_over_uprising_post_n26=Tất cả chúng ta sẽ cùng nhau làm chuyện này chứ?
+
+// SPEAKER: WARRIOR
+// Indeed, Yuki-chan. That is, if Takuma-san feels ready.
+vocs_over_over_uprising_post_n27=Đúng thế, Yuki-chan. Đó là nếu Takuma-san cảm thấy sẵn sàng.
+
+// SPEAKER: ALCHEMIST
+// No need to worry about me, Mugen.
+vocs_over_over_uprising_post_n28=Không cần lo cho thân già này, Mugen.
+
+// SPEAKER: WARRIOR
+// Very good. Everyone! Listen here!
+vocs_over_over_uprising_post_n29=Tốt quá. Mọi người nghe đây!
+
+// SPEAKER: WARRIOR
+// Together we have come far, and we only need to go a little further. Whatever comes after we have finished with Kage-sama, know that I am honored by your trust and loyalty.
+vocs_over_over_uprising_post_n30=Chúng ta đã cùng nhau đi một chặng đường dài, và giờ chỉ cần đi xa thêm đoạn nữa. Dù sau khi hoàn thành vụ Kage-sama, tôi sẽ luôn luôn tự hào về niềm tin và lòng trong thành của mọi người dành cho tôi.
+
+// SPEAKER: WARRIOR
+// A toast. To the Shogun and his trusted blades. May we bring an end to Kage-sama. Kanpai!
+vocs_over_over_uprising_post_n31=Cầm chén lên. Vì Mạc Chúa và vì lòng tin của ngài ấy. Chúng ta có thể chấm dứt Kage-sama. Kanpai!
+
+// SPEAKER: NINJA
+// Kanpai!
+vocs_over_over_uprising_post_n32=Kanpai!
+
+// SPEAKER: TRAPPER
+// Kanpai!
+vocs_over_over_uprising_post_n33=Kanpai!
+
+// SPEAKER: GEISHA
+// Kanpai!
+vocs_over_over_uprising_post_n34=Kanpai!
+
+// SPEAKER: ALCHEMIST
+// Kanpai!
+vocs_over_over_uprising_post_n35=Kanpai!
+

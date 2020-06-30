@@ -1,0 +1,1384 @@
+// SPEAKER: Samurai
+// Alarm! Sound the alarm!
+vo_eny_eny_samurai_00_alarm_area_00=Báo động! Có báo động!
+
+// SPEAKER: Samurai
+// We're under attack!
+vo_eny_eny_samurai_00_alarm_area_01=Chúng ta bị tấn công!
+
+// SPEAKER: Samurai
+// To arms!
+vo_eny_eny_samurai_00_alarm_area_02=Gọi thêm người!
+
+// SPEAKER: Samurai
+// Call reinforcements!
+vo_eny_eny_samurai_00_alarm_area_03=Gọi tiếp viện ngay!
+
+// SPEAKER: Samurai
+// Alert the others!
+vo_eny_eny_samurai_00_alarm_area_04=Báo cho người khác biết!
+
+// SPEAKER: Samurai
+// Over here!
+vo_eny_eny_samurai_00_alarm_local_00=Ở đây!
+
+// SPEAKER: Samurai
+// To me!
+vo_eny_eny_samurai_00_alarm_local_01=Tới chỗ tôi!
+
+// SPEAKER: Samurai
+// I need backup!
+vo_eny_eny_samurai_00_alarm_local_02=Tôi cần hỗ trợ!
+
+// SPEAKER: Samurai
+// Help!
+vo_eny_eny_samurai_00_alarm_local_03=Giúp với!
+
+// SPEAKER: Samurai
+// Assemble!
+vo_eny_eny_samurai_00_alarm_local_04=Tập hợp!
+
+// SPEAKER: Samurai
+// Men!
+vo_eny_eny_samurai_00_alarm_local_05=Lính đâu!
+
+// SPEAKER: Samurai
+// Damn!
+vo_eny_eny_samurai_00_alarm_local_06=Chết tiệt!
+
+// SPEAKER: Samurai
+// They've escaped! Stop the search...
+vo_eny_eny_samurai_00_alarm_stop_00=Chúng đã trốn thoát! Tắt báo động đi.
+
+// SPEAKER: Samurai
+// It's over! Back to routine.
+vo_eny_eny_samurai_00_alarm_stop_01=Hết rồi! Về vị trí đi.
+
+// SPEAKER: Samurai
+// They must have fled! Cease the alarm!
+vo_eny_eny_samurai_00_alarm_stop_02=Chúng đã chạy trốn! Ngưng báo động đi!
+
+// SPEAKER: Samurai
+// No danger! At ease, everyone.
+vo_eny_eny_samurai_00_alarm_stop_03=Không còn nguy hiểm! Yên tâm đi mọi người.
+
+// SPEAKER: Samurai
+// We've driven them off.
+vo_eny_eny_samurai_00_alarm_stop_04=Chúng ta đã đuổi hắn đi!
+
+// SPEAKER: Samurai
+// All clear!
+vo_eny_eny_samurai_00_alarm_stop_05=Tất cả trống!
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_carry_object_00=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_clear_throat_00=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_cough_00=
+
+// SPEAKER: Samurai
+// Aim high! They're above us!
+vo_eny_eny_samurai_00_danger_toohigh_00=Ngắm trên cao! Chúng ở phía trên!
+
+// SPEAKER: Samurai
+// They're above us!
+vo_eny_eny_samurai_00_danger_toohigh_01=Hắn ở phía trên chúng ta!
+
+// SPEAKER: Samurai
+// They're attacking from above!
+vo_eny_eny_samurai_00_danger_toohigh_02=Hắn tấn công từ phía trên!
+
+// SPEAKER: Samurai
+// Cowards! Fight like men!
+vo_eny_eny_samurai_00_danger_unreachable_00=Hèn nhát! Xuống chiến đấu như người đàn ông xem!
+
+// SPEAKER: Samurai
+// How did they get there?
+vo_eny_eny_samurai_00_danger_unreachable_01=Hắn lên đó bằng cách nào?
+
+// SPEAKER: Samurai
+// I can't reach them!
+vo_eny_eny_samurai_00_danger_unreachable_02=Tao không thể lên với mày...
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_death_scream_00=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_death_scream_01=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_death_scream_02=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_death_scream_03=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_death_scream_muffled_00=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_death_scream_muffled_01=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_death_scream_muffled_02=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_death_scream_muffled_03=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_death_scream_muffled_04=
+
+// SPEAKER: Samurai
+// She's dead!
+vo_eny_eny_samurai_00_detect_corpse_female_00=Cô ấy đã chết!
+
+// SPEAKER: Samurai
+// They killed her!
+vo_eny_eny_samurai_00_detect_corpse_female_01=Chúng đã giết cô ấy...
+
+// SPEAKER: Samurai
+// He is dead!
+vo_eny_eny_samurai_00_detect_corpse_male_00=Anh ta đã chết...
+
+// SPEAKER: Samurai
+// They killed him!
+vo_eny_eny_samurai_00_detect_corpse_male_01=Chúng đã giết anh ta!
+
+// SPEAKER: Samurai
+// Murder!
+vo_eny_eny_samurai_00_detect_corpse_neutral_00=Có người chết!
+
+// SPEAKER: Samurai
+// Assassins!
+vo_eny_eny_samurai_00_detect_corpse_neutral_01=Có sát thủ!
+
+// SPEAKER: Samurai
+// Huh? ...footprints!
+vo_eny_eny_samurai_00_detect_footsteps_00=Huh? ...footprints!
+
+// SPEAKER: Samurai
+// Who made those footprints?
+vo_eny_eny_samurai_00_detect_footsteps_01=Ai để lại dấu chân này?
+
+// SPEAKER: Samurai
+// Who left those tracks?
+vo_eny_eny_samurai_00_detect_footsteps_02=Dấu vết này là của ai?
+
+// SPEAKER: Samurai
+// Those tracks shouldn't be there...
+vo_eny_eny_samurai_00_detect_footsteps_03=Dấu vết của kẻ lạ mặt!
+
+// SPEAKER: Samurai
+// Someone must be sneaking about.
+vo_eny_eny_samurai_00_detect_footsteps_04=Có kẻ lén lút ở quanh đây?
+
+// SPEAKER: Samurai
+// Hm? The light went out...
+vo_eny_eny_samurai_00_detect_lightsource_00=Hm? Lửa đã tắt...
+
+// SPEAKER: Samurai
+// Did wind kill the flame?
+vo_eny_eny_samurai_00_detect_lightsource_01=Gió giết chết ngọn lửa?
+
+// SPEAKER: Samurai
+// That light should be burning.
+vo_eny_eny_samurai_00_detect_lightsource_02=Lửa sẽ được thắp lại!
+
+// SPEAKER: Samurai
+// Ah, some idiot must have been careless with that lamp.
+vo_eny_eny_samurai_00_detect_lightsource_03=Ah, cần một thằng ngu nào đó trông coi ngọn lửa này.
+
+// SPEAKER: Samurai
+// The fire died...
+vo_eny_eny_samurai_00_detect_lightsource_04=Lửa đã tàn...
+
+// SPEAKER: Samurai
+// Stop moving!
+vo_eny_eny_samurai_00_detect_player_00=Cấm di chuyển!
+
+// SPEAKER: Samurai
+// Stop right there!
+vo_eny_eny_samurai_00_detect_player_01=Đứng yên!
+
+// SPEAKER: Samurai
+// Halt!
+vo_eny_eny_samurai_00_detect_player_02=Dừng lại!
+
+// SPEAKER: Samurai
+// I see you!
+vo_eny_eny_samurai_00_detect_player_03=Tao thấy mày rồi!
+
+// SPEAKER: Samurai
+// You there!
+vo_eny_eny_samurai_00_detect_player_04=Hắn ở đây!
+
+// SPEAKER: Samurai
+// Stop right there!
+vo_eny_eny_samurai_00_detect_player_05=Dừng lại ngay!
+
+// SPEAKER: Samurai
+// Intruder!
+vo_eny_eny_samurai_00_detect_player_06=Kẻ đột nhập!
+
+// SPEAKER: Samurai
+// Die, you scum!
+vo_eny_eny_samurai_00_detect_player_07=Chết đi đồ cặn bã!
+
+// SPEAKER: Samurai
+// I have you now!
+vo_eny_eny_samurai_00_detect_player_08=Tao đã tóm được mày!
+
+// SPEAKER: Samurai
+// You!
+vo_eny_eny_samurai_00_detect_player_09=Ê đứa kia!
+
+// SPEAKER: Samurai
+// Oh, you'll die for being here!
+vo_eny_eny_samurai_00_detect_player_10=Oh, mày sẽ chết ở đây!
+
+// SPEAKER: Samurai
+// I'm gonna kill you, assailant!
+vo_eny_eny_samurai_00_detect_player_11=Tao sẽ giết mày, kẻ tấn công!
+
+// SPEAKER: Samurai
+// There are Shogunate men here!
+vo_eny_eny_samurai_00_detect_player_12=Người Mạc Phủ!
+
+// SPEAKER: Samurai
+// Ah, it's them!
+vo_eny_eny_samurai_00_detect_player_13=Ah, Là chúng!
+
+// SPEAKER: Samurai
+// Oh, you shouldn't be here!
+vo_eny_eny_samurai_00_detect_player_14=Oh, Mày không nên ở đây!
+
+// SPEAKER: Samurai
+// Oh, I'll take care of you!
+vo_eny_eny_samurai_00_detect_player_15=Oh, Tao sẽ chăm sóc mày!
+
+// SPEAKER: Samurai
+// Don't try to run!
+vo_eny_eny_samurai_00_detect_player_16=Đừng cố mà chạy!
+
+// SPEAKER: Samurai
+// Go on—try escaping!
+vo_eny_eny_samurai_00_detect_player_17=Chạy đi—thử trốn thoát xem!
+
+// SPEAKER: Samurai
+// Assassin in disguise!
+vo_eny_eny_samurai_00_detect_player_geisha_00=Sát thủ ngụy trang!
+
+// SPEAKER: Samurai
+// She's an assassin!
+vo_eny_eny_samurai_00_detect_player_geisha_01=Ả ta là sát thủ!
+
+// SPEAKER: Samurai
+// You think you can fool me, woman?!
+vo_eny_eny_samurai_00_detect_player_geisha_02=Mày nghĩ lừa được tao hả, đồ đàn bà?!
+
+// SPEAKER: Samurai
+// I see through your disguise!
+vo_eny_eny_samurai_00_detect_player_geisha_03=Tao thấy mày ngụy trang rồi!
+
+// SPEAKER: Samurai
+// Hmph! You fool.
+vo_eny_eny_samurai_00_detect_player_kill_00=Hmph! Đồ ngu.
+
+// SPEAKER: Samurai
+// Ha! Coward.
+vo_eny_eny_samurai_00_detect_player_kill_01=Ha! Nhát chết.
+
+// SPEAKER: Samurai
+// Ha! Weakling.
+vo_eny_eny_samurai_00_detect_player_kill_02=Ha! Kẻ yếu đuối.
+
+// SPEAKER: Samurai
+// Heh. You are no samurai.
+vo_eny_eny_samurai_00_detect_player_kill_03=Heh. Mày không phải samurai.
+
+// SPEAKER: Samurai
+// Ha! You are no match for me.
+vo_eny_eny_samurai_00_detect_player_kill_04=Ha! Mày không phù hợp với tao.
+
+// SPEAKER: Samurai
+// Something's wrong...
+vo_eny_eny_samurai_00_detect_player_proximity_00=Có gì đó sai sai...
+
+// SPEAKER: Samurai
+// Strange, it...feels like...
+vo_eny_eny_samurai_00_detect_player_proximity_01=Kỳ lạ thật...nó cảm giác như...
+
+// SPEAKER: Samurai
+// Wait...is someone...
+vo_eny_eny_samurai_00_detect_player_proximity_02=Chờ đã...có ai đó...
+
+// SPEAKER: Samurai
+// There is something there...
+vo_eny_eny_samurai_00_detect_player_proximity_03=Tao chắc chắn có ai đó ở đây...
+
+// SPEAKER: Samurai
+// Sake, hm? ...I have my own.
+vo_eny_eny_samurai_00_detect_sake_00=Sa kê, hm? ...Mình có rồi.
+
+// SPEAKER: Samurai
+// Sake? ...hrm, low-grade swill.
+vo_eny_eny_samurai_00_detect_sake_01=Sa kê? ...hrm, loại cùi bắp ấy mà.
+
+// SPEAKER: Samurai
+// Heh, only a peasant would bow down for sake.
+vo_eny_eny_samurai_00_detect_sake_02=Heh, chỉ xứng đáng với lũ bần nông.
+
+// SPEAKER: Samurai
+// Filthy creature.
+vo_eny_eny_samurai_00_detect_tanuki_00=Con vật thối.
+
+// SPEAKER: Samurai
+// Annoying critter.
+vo_eny_eny_samurai_00_detect_tanuki_01=Phiền vđ.
+
+// SPEAKER: Samurai
+// Leave, before I...squish you.
+vo_eny_eny_samurai_00_detect_tanuki_02=Đi đi, trước khi tao...làm thịt mày.
+
+// SPEAKER: Samurai
+// Huh? Oh...just some animal.
+vo_eny_eny_samurai_00_detect_tanuki_03=Huh? Oh...chỉ là một con vật.
+
+// SPEAKER: Samurai
+// Huh? What's this rubbish?
+vo_eny_eny_samurai_00_detect_trap_00=Huh? Thứ rác rưởi gì đây?
+
+// SPEAKER: Samurai
+// Heh! A child's toy.
+vo_eny_eny_samurai_00_detect_trap_01=Heh! Đồ chơi con nít.
+
+// SPEAKER: Samurai
+// Who left that here? ...hrm, trash.
+vo_eny_eny_samurai_00_detect_trap_02=Ai để nó ở đây? ...hrm, rác rưởi.
+
+// SPEAKER: Samurai
+// Oh, she's unconscious.
+vo_eny_eny_samurai_00_detect_unconscious_female_01=Oh, cô ấy bất tỉnh.
+
+// SPEAKER: Samurai
+// She's been hit...
+vo_eny_eny_samurai_00_detect_unconscious_female_02=Cô ấy bị đánh...
+
+// SPEAKER: Samurai
+// She's been attacked!
+vo_eny_eny_samurai_00_detect_unconscious_female_03=Cô ấy bị tấn công.
+
+// SPEAKER: Samurai
+// He's unconscious.
+vo_eny_eny_samurai_00_detect_unconscious_male_00=Anh ta bất tỉnh.
+
+// SPEAKER: Samurai
+// He's been hit!
+vo_eny_eny_samurai_00_detect_unconscious_male_01=Anh ta bị đánh!
+
+// SPEAKER: Samurai
+// He's been attacked!
+vo_eny_eny_samurai_00_detect_unconscious_male_02=Anh ta bị tấn công.
+
+// SPEAKER: Samurai
+// What happened?
+vo_eny_eny_samurai_00_detect_unconscious_neutral_01=Chuyện gì đã xảy ra?
+
+// SPEAKER: Samurai
+// You! Who attacked you?
+vo_eny_eny_samurai_00_detect_unconscious_neutral_02=Ngươi! Ai đã đánh ngươi?
+
+// SPEAKER: Samurai
+// Are you asleep?
+vo_eny_eny_samurai_00_detect_unconscious_neutral_03=Đang ngủ hả?
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_drink_sake_00=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_drop_object_00=
+
+// SPEAKER: Samurai
+// She left her post!
+vo_eny_eny_samurai_00_friend_missing_female_00=Cô ấy rời vị trí.
+
+// SPEAKER: Samurai
+// Where is she?
+vo_eny_eny_samurai_00_friend_missing_female_01=Cô ấy đâu rồi?
+
+// SPEAKER: Samurai
+// What's keeping her?
+vo_eny_eny_samurai_00_friend_missing_female_02=Cái gì cầm chân cô ấy lại?
+
+// SPEAKER: Samurai
+// She's been gone too long.
+vo_eny_eny_samurai_00_friend_missing_female_03=Cô ấy đi cũng khá lâu rồi.
+
+// SPEAKER: Samurai
+// She's missing!
+vo_eny_eny_samurai_00_friend_missing_female_04=Cố ấy bị mất tích!
+
+// SPEAKER: Samurai
+// How dare she keep me waiting!
+vo_eny_eny_samurai_00_friend_missing_female_05=Sao cô ấy bắt mình phải chờ nhỉ!
+
+// SPEAKER: Samurai
+// He left his post!
+vo_eny_eny_samurai_00_friend_missing_male_00=Anh ta rời vị trí.
+
+// SPEAKER: Samurai
+// Where is he?
+vo_eny_eny_samurai_00_friend_missing_male_01=Anh ta đâu rồi?
+
+// SPEAKER: Samurai
+// What's keeping him?
+vo_eny_eny_samurai_00_friend_missing_male_02=Cái gì cầm chân anh ta lại?
+
+// SPEAKER: Samurai
+// Eh, he's been gone too long...
+vo_eny_eny_samurai_00_friend_missing_male_03=Eh, Anh ta đi cũng khá lâu rồi.
+
+// SPEAKER: Samurai
+// He's missing!
+vo_eny_eny_samurai_00_friend_missing_male_04=Anh ta bị mất tích!
+
+// SPEAKER: Samurai
+// How dare he keep me waiting!
+vo_eny_eny_samurai_00_friend_missing_male_05=Sao anh ta bắt mình phải chờ nhỉ!
+
+// SPEAKER: Samurai
+// Hey! Wake up!
+vo_eny_eny_samurai_00_friend_wakeup_00=Hey! Dậy nào!
+
+// SPEAKER: Samurai
+// Get up!
+vo_eny_eny_samurai_00_friend_wakeup_01=Dậy đi!
+
+// SPEAKER: Samurai
+// You all right?
+vo_eny_eny_samurai_00_friend_wakeup_02=Có sao không?
+
+// SPEAKER: Samurai
+// What happened to you?
+vo_eny_eny_samurai_00_friend_wakeup_03=Có chuyện khỉ gì vậy?
+
+// SPEAKER: Samurai
+// On your feet!
+vo_eny_eny_samurai_00_friend_wakeup_04=Đứng dậy!
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_hard_work_00=
+
+// SPEAKER: Samurai
+// Huh?!
+vo_eny_eny_samurai_00_hear_noise_00=Hả?!
+
+// SPEAKER: Samurai
+// What was that?
+vo_eny_eny_samurai_00_hear_noise_01=Cái gì thế?
+
+// SPEAKER: Samurai
+// I heard something...
+vo_eny_eny_samurai_00_hear_noise_02=Mình nghe thấy gì đó...
+
+// SPEAKER: Samurai
+// Strange sound...
+vo_eny_eny_samurai_00_hear_noise_03=Tiếng động lớn...
+
+// SPEAKER: Samurai
+// That noise...
+vo_eny_eny_samurai_00_hear_noise_04=Đó là...tiếng ồn...
+
+// SPEAKER: Samurai
+// Huh? How dare you, coward?!
+vo_eny_eny_samurai_00_hear_noise_directhit_00=Huh? Sao mày dám, đồ hèn!
+
+// SPEAKER: Samurai
+// You'll suffer for this, wherever you are!
+vo_eny_eny_samurai_00_hear_noise_directhit_01=Mày phải trả giá cho những gì mày đang làm!
+
+// SPEAKER: Samurai
+// Hrm! Show yourself, coward!
+vo_eny_eny_samurai_00_hear_noise_directhit_02=Hrm! Lộ diện ngay coi nào!
+
+// SPEAKER: Samurai
+// You achieved nothing! ...fool!
+vo_eny_eny_samurai_00_hear_noise_directhit_03=Mày không làm được gì cả! ...Đồ ngu!
+
+// SPEAKER: Samurai
+// Why is there shooting?!
+vo_eny_eny_samurai_00_hear_noise_gunshot_00=Sao có tiếng súng?
+
+// SPEAKER: Samurai
+// Shots fired! Alarm!
+vo_eny_eny_samurai_00_hear_noise_gunshot_01=Tiếng súng! Báo động!
+
+// SPEAKER: Samurai
+// The enemy has firearms!
+vo_eny_eny_samurai_00_hear_noise_gunshot_02=Địch có hỏa lực!
+
+// SPEAKER: Samurai
+// Someone there?
+vo_eny_eny_samurai_00_hear_noise_human_00=Có ai đó ở đây?
+
+// SPEAKER: Samurai
+// Who goes there?
+vo_eny_eny_samurai_00_hear_noise_human_01=Có ai đó đến đây?
+
+// SPEAKER: Samurai
+// I heard that!
+vo_eny_eny_samurai_00_hear_noise_human_02=Tao nghe thấy rồi!
+
+// SPEAKER: Samurai
+// Who is making noise?
+vo_eny_eny_samurai_00_hear_noise_human_03=Đứa nào làm ồn?
+
+// SPEAKER: Samurai
+// Who hides in the shadows?
+vo_eny_eny_samurai_00_hear_noise_human_04=Thằng nào nấp trong bóng tối?
+
+// SPEAKER: Samurai
+// Who is this?
+vo_eny_eny_samurai_00_hear_noise_human_05=Ai đó?
+
+// SPEAKER: Samurai
+// You are testing my patience.
+vo_eny_eny_samurai_00_hear_noise_too_much_00=Mày đang kiểm tra sự kiên nhẫn của tao hả.
+
+// SPEAKER: Samurai
+// Oh, you'll pay for this!
+vo_eny_eny_samurai_00_hear_noise_too_much_01=Oh, mày sẽ phải trả giá!
+
+// SPEAKER: Samurai
+// Show yourself, coward!
+vo_eny_eny_samurai_00_hear_noise_too_much_02=Lộ mặt đi, đồ hèn!
+
+// SPEAKER: Samurai
+// Play your games while you can, fool.
+vo_eny_eny_samurai_00_hear_noise_too_much_03=Mày lừa tao chỉ khi mày có thể.
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_hum_00=
+
+// SPEAKER: Samurai
+// Ah, it was nothing.
+vo_eny_eny_samurai_00_ignore_distraction_00=Ah, chả có gì.
+
+// SPEAKER: Samurai
+// Uh...just the wind!
+vo_eny_eny_samurai_00_ignore_distraction_01=Uh...Chỉ là gió mà thôi!
+
+// SPEAKER: Samurai
+// The wind trying to trick me.
+vo_eny_eny_samurai_00_ignore_distraction_02=Gió đang đùa mình ấy mà.
+
+// SPEAKER: Samurai
+// I will not be distracted.
+vo_eny_eny_samurai_00_ignore_distraction_03=Mình sẽ không bị phân tâm nữa.
+
+// SPEAKER: Samurai
+// Eh, not worth my attention.
+vo_eny_eny_samurai_00_ignore_disturbance_00=Eh, không đáng quan tâm.
+
+// SPEAKER: Samurai
+// This is beneath me.
+vo_eny_eny_samurai_00_ignore_disturbance_01=Không đáng quan tâm.
+
+// SPEAKER: Samurai
+// I will not make a fool of myself.
+vo_eny_eny_samurai_00_ignore_disturbance_02=Không lừa được tao đâu.
+
+// SPEAKER: Samurai
+// Get out of my sight, peasant!
+vo_eny_eny_samurai_00_ignore_peasant_00=Tránh khuất mắt ta, thằng bần nông!
+
+// SPEAKER: Samurai
+// How dare you speak to me? Leave!
+vo_eny_eny_samurai_00_ignore_peasant_01=Mày dám nói chuyện với tao hả? Cút!
+
+// SPEAKER: Samurai
+// Your troubles do not concern me!
+vo_eny_eny_samurai_00_ignore_peasant_02=Vấn đề của mày không liên quan tới tao!
+
+// SPEAKER: Samurai
+// What happened?
+vo_eny_eny_samurai_00_investigate_accident_start_00=Chuyện quái gì vậy?
+
+// SPEAKER: Samurai
+// How...how did this happen?
+vo_eny_eny_samurai_00_investigate_accident_start_01=Sao...sao nó lại xảy ra được?
+
+// SPEAKER: Samurai
+// Whose fault is this?
+vo_eny_eny_samurai_00_investigate_accident_start_02=Đã gây ra chuyện gì?
+
+// SPEAKER: Samurai
+// Who...who's responsible for this?!
+vo_eny_eny_samurai_00_investigate_accident_start_03=Ai...ai chịu trách nhiệm cho chuyện này?!
+
+// SPEAKER: Samurai
+// This is outrageous!
+vo_eny_eny_samurai_00_investigate_accident_start_04=Đáng đời!
+
+// SPEAKER: Samurai
+// We will investigate this later.
+vo_eny_eny_samurai_00_investigate_accident_stop_00=Chúng ta sẽ điều tra sau.
+
+// SPEAKER: Samurai
+// Hmph. Karma.
+vo_eny_eny_samurai_00_investigate_accident_stop_01=Hmph. Nghiệp chướng.
+
+// SPEAKER: Samurai
+// I will find those responsible.
+vo_eny_eny_samurai_00_investigate_accident_stop_02=Tao sẽ tìm ra kẻ gây ra vụ này.
+
+// SPEAKER: Samurai
+// Fate was...unkind today.
+vo_eny_eny_samurai_00_investigate_accident_stop_03=Hôm nay mày đến hạn rồi.
+
+// SPEAKER: Samurai
+// Eh, it cannot be changed.
+vo_eny_eny_samurai_00_investigate_accident_stop_04=Eh, không thể thay đổi gì.
+
+// SPEAKER: Samurai
+// Ha! Hiding in the bushes?!
+vo_eny_eny_samurai_00_investigate_bush_00=Ha! Nấp trong bụi cây hả?!
+
+// SPEAKER: Samurai
+// You cannot hide from me!
+vo_eny_eny_samurai_00_investigate_bush_01=Mày không thể trốn tao đâu!
+
+// SPEAKER: Samurai
+// Oh, you cannot fool me...
+vo_eny_eny_samurai_00_investigate_bush_02=Oh, Mày không thể lừa được tao...
+
+// SPEAKER: Samurai
+// Huh? Crawling through the thicket?!
+vo_eny_eny_samurai_00_investigate_bush_03=Huh? Thu thập thông tin từ bụi cây hả?
+
+// SPEAKER: Samurai
+// Ohoho, the brush will not protect you!
+vo_eny_eny_samurai_00_investigate_bush_04=Ohoho, Bụi cây không thể bảo vệ mày!
+
+// SPEAKER: Samurai
+// I will drag you out of there.
+vo_eny_eny_samurai_00_investigate_door_00=Tao sẽ lôi mày ra khỏi đó.
+
+// SPEAKER: Samurai
+// I know you're in there!
+vo_eny_eny_samurai_00_investigate_door_01=Tao biết mày ở đây!
+
+// SPEAKER: Samurai
+// You'll find no safety in there.
+vo_eny_eny_samurai_00_investigate_door_02=Mày nghĩ mày an toàn khi ở đây hả?
+
+// SPEAKER: Samurai
+// Fine! This will be your grave.
+vo_eny_eny_samurai_00_investigate_door_03=Được thôi! Chỗ này sẽ là mộ của mày.
+
+// SPEAKER: Samurai
+// Nobody here.
+vo_eny_eny_samurai_00_investigate_end_00=Không có ai ở đây.
+
+// SPEAKER: Samurai
+// Ugh, gone.
+vo_eny_eny_samurai_00_investigate_end_01=Ugh, đi rồi.
+
+// SPEAKER: Samurai
+// Nothing.
+vo_eny_eny_samurai_00_investigate_end_02=Không có gì.
+
+// SPEAKER: Samurai
+// Augh, they must have run away.
+vo_eny_eny_samurai_00_investigate_end_03=Augh, chúng đã bỏ chạy.
+
+// SPEAKER: Samurai
+// Huh...guess I drove them off. Hah!
+vo_eny_eny_samurai_00_investigate_end_04=Huh...đoán là mình đã đuổi hắn đi. Hah!
+
+// SPEAKER: Samurai
+// Aw...no one to be found.
+vo_eny_eny_samurai_00_investigate_end_05=Aw...không thể tìm thấy ai.
+
+// SPEAKER: Samurai
+// Hello?
+vo_eny_eny_samurai_00_investigate_missing_00=Hello?
+
+// SPEAKER: Samurai
+// Are you hiding somewhere?
+vo_eny_eny_samurai_00_investigate_missing_01=Mày đang nấp quanh đây phải không?
+
+// SPEAKER: Samurai
+// Are you there?
+vo_eny_eny_samurai_00_investigate_missing_02=Mày đang ở đó?
+
+// SPEAKER: Samurai
+// I'm not in the mood for this!
+vo_eny_eny_samurai_00_investigate_missing_03=Tao đếch có tâm trạng cho chuyện này đâu nhé!
+
+// SPEAKER: Samurai
+// Where are you? Speak up!
+vo_eny_eny_samurai_00_investigate_missing_04=Mày ở đâu? Trả lời coi!
+
+// SPEAKER: Samurai
+// You hear me?
+vo_eny_eny_samurai_00_investigate_missing_05=Mày nghe thấy tao không?
+
+// SPEAKER: Samurai
+// Where are you?
+vo_eny_eny_samurai_00_investigate_start_00=Mày ở đâu hả?
+
+// SPEAKER: Samurai
+// I know you're here!
+vo_eny_eny_samurai_00_investigate_start_01=Tao biết mày ở đây!
+
+// SPEAKER: Samurai
+// I will find you!
+vo_eny_eny_samurai_00_investigate_start_02=Tao sẽ tìm thấy mày!
+
+// SPEAKER: Samurai
+// Come forward!
+vo_eny_eny_samurai_00_investigate_start_03=Tiến lên trước!
+
+// SPEAKER: Samurai
+// Come on, I haven't got all day!
+vo_eny_eny_samurai_00_investigate_start_04=Thôi nào, tao không rảnh cả ngày với mày đâu!
+
+// SPEAKER: Samurai
+// Ugh, that's not worth the walk.
+vo_eny_eny_samurai_00_investigate_too_long_00=Ugh, không đáng để đi bộ.
+
+// SPEAKER: Samurai
+// Ah, it's too far off.
+vo_eny_eny_samurai_00_investigate_too_long_01=Ah, ở đó quá xa.
+
+// SPEAKER: Samurai
+// I will not waste my time.
+vo_eny_eny_samurai_00_investigate_too_long_02=Mình sẽ không lãng phí thời gian.
+
+// SPEAKER: Samurai
+// Ungh...I can't reach that!
+vo_eny_eny_samurai_00_investigate_unreachable_00=Ungh...mình không thể tới đó.
+
+// SPEAKER: Samurai
+// The path is blocked!
+vo_eny_eny_samurai_00_investigate_unreachable_01=Đường đã bị chặn!
+
+// SPEAKER: Samurai
+// Ah, that'd be too much trouble.
+vo_eny_eny_samurai_00_investigate_unreachable_02=Ah, Quá nhiều rắc rối.
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_knockout_scream_00=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_knockout_scream_01=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_knockout_scream_02=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_knockout_scream_03=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_knockout_scream_04=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_laugh_evil_00=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_laugh_good_00=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_make_toast_00=
+
+// SPEAKER: Samurai
+// Stay vigilant. We have assassins in our midst.
+vo_eny_eny_samurai_00_officer_alert_00=Cảnh giác. Chúng ta có sát thủ ở đây.
+
+// SPEAKER: Samurai
+// The enemy is among us. Stay sharp.
+vo_eny_eny_samurai_00_officer_alert_01=Địch ở gần chúng ta. Hãy khôn ngoan lên.
+
+// SPEAKER: Samurai
+// Do not be fooled. They are still here.
+vo_eny_eny_samurai_00_officer_alert_02=Đừng để bị lừa. Chúng vẫn còn ở đây.
+
+// SPEAKER: Samurai
+// Watch the shadows! It's where they hide.
+vo_eny_eny_samurai_00_officer_alert_03=Nhìn mấy chỗ tối ấy. Đó là nơi chúng nấp.
+
+// SPEAKER: Samurai
+// Keep together. Don't let them separate you.
+vo_eny_eny_samurai_00_officer_alert_04=Đi cùng nhau. Đừng để chúng tóm được mày.
+
+// SPEAKER: Samurai
+// They're looking for weakness. Give them death!
+vo_eny_eny_samurai_00_officer_alert_05=Chúng đang tìm điểm yếu. Cho chúng nhận lấy cái chết nào.
+
+// SPEAKER: Samurai
+// Attack on sight. Show no mercy.
+vo_eny_eny_samurai_00_officer_alert_06=Tấn công khi phát hiện. Không phải thương sót.
+
+// SPEAKER: Samurai
+// Do not cower before common criminals.
+vo_eny_eny_samurai_00_officer_alert_07=Đừng sợ lũ tội phạm cùi bắp này.
+
+// SPEAKER: Samurai
+// Teach them fear! Give them no place to hide!
+vo_eny_eny_samurai_00_officer_alert_08=Dạy chúng sợ hãi. Không cho chúng chỗ để nấp luôn.
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_pickup_object_00=
+
+// SPEAKER: Samurai
+// Ungh...damn them.
+vo_eny_eny_samurai_00_regain_consciousness_00=Ungh...bọn chó chết tiệt.
+
+// SPEAKER: Samurai
+// Ugh! ...ah, it's nothing!
+vo_eny_eny_samurai_00_regain_consciousness_01=Ugh! ...ah, không có gì!
+
+// SPEAKER: Samurai
+// ...I was shamed.
+vo_eny_eny_samurai_00_regain_consciousness_02=...Tôi thật xấu hổ.
+
+// SPEAKER: Samurai
+// Hrm! ...cowards...
+vo_eny_eny_samurai_00_regain_consciousness_03=Hrm! ...hèn nhát...
+
+// SPEAKER: Samurai
+// ...they attacked me!
+vo_eny_eny_samurai_00_regain_consciousness_04=...Chúng tấn công tôi!
+
+// SPEAKER: Samurai
+// ...they beat me down.
+vo_eny_eny_samurai_00_regain_consciousness_05=...chúng đánh gục tôi!
+
+// SPEAKER: Samurai
+// ...I will see them suffer!
+vo_eny_eny_samurai_00_regain_consciousness_06=...Sẽ cho chúng thấy đau đớn!
+
+// SPEAKER: Samurai
+// How?!
+vo_eny_eny_samurai_00_see_flying_body_00=Làm thế nào?!
+
+// SPEAKER: Samurai
+// Demons!
+vo_eny_eny_samurai_00_see_flying_body_01=Ác quỷ!
+
+// SPEAKER: Samurai
+// Honorless killers!
+vo_eny_eny_samurai_00_see_flying_body_02=Kẻ giết người man rợ!
+
+// SPEAKER: Samurai
+// What...what's this?!
+vo_eny_eny_samurai_00_see_flying_object_00=Cái...gì thế này?!
+
+// SPEAKER: Samurai
+// Who did that?!
+vo_eny_eny_samurai_00_see_flying_object_01=Ai đã làm?!
+
+// SPEAKER: Samurai
+// Oh come on! This is ridiculous!
+vo_eny_eny_samurai_00_see_flying_object_02=Oh thôi nào! Thật vớ vẩn!
+
+// SPEAKER: Samurai
+// What?
+vo_eny_eny_samurai_00_see_something_00=Cái gì?
+
+// SPEAKER: Samurai
+// Huh?
+vo_eny_eny_samurai_00_see_something_01=Hả?
+
+// SPEAKER: Samurai
+// What's that?
+vo_eny_eny_samurai_00_see_something_02=Quái gì thế?
+
+// SPEAKER: Samurai
+// Something...
+vo_eny_eny_samurai_00_see_something_03=Có gì đó...
+
+// SPEAKER: Samurai
+// Hmm...
+vo_eny_eny_samurai_00_see_something_04=Hmm?
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_snore_00=
+
+// SPEAKER: Samurai
+// Nothing here. Resume your duties.
+vo_eny_eny_samurai_00_squad_investigate_end_00=Không có gì! Quay về nhiệm vụ của mày đi.
+
+// SPEAKER: Samurai
+// Ah, they're long gone. Resume your duties.
+vo_eny_eny_samurai_00_squad_investigate_end_01=Ah, chúng đi lâu rồi. Quay về nhiệm vụ của mày đi.
+
+// SPEAKER: Samurai
+// Ah, there's no one here! Resume your duties.
+vo_eny_eny_samurai_00_squad_investigate_end_02=Ah, Không có gì ở đây! Quay về nhiệm vụ của mày đi.
+
+// SPEAKER: Samurai
+// Stop the search. Return to your posts.
+vo_eny_eny_samurai_00_squad_investigate_end_03=Dừng tìm kiếm lại. Quay về nhiệm vụ của mày đi.
+
+// SPEAKER: Samurai
+// Danger has passed. Return to your posts.
+vo_eny_eny_samurai_00_squad_investigate_end_04=Không còn nguy hiểm. Quay về nhiệm vụ của mày đi.
+
+// SPEAKER: Samurai
+// Search the area!
+vo_eny_eny_samurai_00_squad_investigate_start_00=Tìm kiếm khu vực này!
+
+// SPEAKER: Samurai
+// Attack on sight!
+vo_eny_eny_samurai_00_squad_investigate_start_01=Tấn công khi phát hiện!
+
+// SPEAKER: Samurai
+// They could still be here!
+vo_eny_eny_samurai_00_squad_investigate_start_02=Chúng có thể vẫn còn ở đây!
+
+// SPEAKER: Samurai
+// Search everywhere!
+vo_eny_eny_samurai_00_squad_investigate_start_03=Tìm khắp nơi đi!
+
+// SPEAKER: Samurai
+// Show no mercy!
+vo_eny_eny_samurai_00_squad_investigate_start_04=Không cần thương hại!
+
+// SPEAKER: Samurai
+// There is nothing here!
+vo_eny_eny_samurai_00_squad_investigate_talk_00=Không có gì ở đây!
+
+// SPEAKER: Samurai
+// Where did they go?!
+vo_eny_eny_samurai_00_squad_investigate_talk_01=Chúng đã đi đâu?
+
+// SPEAKER: Samurai
+// Keep your eyes open.
+vo_eny_eny_samurai_00_squad_investigate_talk_02=Căng cái mắt của mày ra.
+
+// SPEAKER: Samurai
+// Huh... Do I see tracks?
+vo_eny_eny_samurai_00_squad_investigate_talk_03=Huh... Mình thấy dấu vết?
+
+// SPEAKER: Samurai
+// Are these tracks? ...no, they're not.
+vo_eny_eny_samurai_00_squad_investigate_talk_04=Dấu vết này của ai? ...không, không phải họ.
+
+// SPEAKER: Samurai
+// Do you see them?
+vo_eny_eny_samurai_00_squad_investigate_talk_05=Có ai thấy chúng không?
+
+// SPEAKER: Samurai
+// They can't have vanished!
+vo_eny_eny_samurai_00_squad_investigate_talk_06=Chúng không thể biến mất!
+
+// SPEAKER: Samurai
+// We're not hunting ghosts!
+vo_eny_eny_samurai_00_squad_investigate_talk_07=Chúng ta đang đi săn ma hả!
+
+// SPEAKER: Samurai
+// What are we looking for?
+vo_eny_eny_samurai_00_squad_investigate_talk_08=Chúng ta đang tìm cái khỉ gì vậy?
+
+// SPEAKER: Samurai
+// Are you certain you saw something?
+vo_eny_eny_samurai_00_squad_investigate_talk_09=Có chắc là họ bảo thấy cái gì đó không?
+
+// SPEAKER: Samurai
+// ...they use firearms! The cowards!
+vo_eny_eny_samurai_00_stun_end_00=...chúng sử dụng hỏa lực! Lũ hèn nhát!
+
+// SPEAKER: Samurai
+// Ambush!
+vo_eny_eny_samurai_00_stun_end_01=Phục kích!
+
+// SPEAKER: Samurai
+// You shot me! ...now I cut you in half!
+vo_eny_eny_samurai_00_stun_end_02=Mày bắn tao hả! ...giờ tao sẽ chém mày ra làm đôi!
+
+// SPEAKER: Samurai
+//  ...you think that would kill me?!
+vo_eny_eny_samurai_00_stun_end_03=...mày nghĩ nó đủ để giết tao ư?!
+
+// SPEAKER: Samurai
+// ...assassins!
+vo_eny_eny_samurai_00_stun_end_04=...sát thủ!
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_stun_scream_00=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_stun_scream_01=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_stun_scream_02=
+
+// SPEAKER: Samurai
+// Agh! ...you...
+vo_eny_eny_samurai_00_stun_scream_03=Agh! ...mày...
+
+// SPEAKER: Samurai
+// Ugh! Cowards!
+vo_eny_eny_samurai_00_stun_scream_04=Ugh! Hèn nhát!
+
+// SPEAKER: Samurai
+// 
+vo_gothic_gothic_samurai_00_talk_idle_00=
+
+// SPEAKER: Samurai
+// 
+vo_gothic_gothic_samurai_00_talk_idle_01=
+
+// SPEAKER: Samurai
+// Hmm...
+vo_gothic_gothic_samurai_00_talk_idle_02=Hmm...
+
+// SPEAKER: Samurai
+// A-hah!
+vo_gothic_gothic_samurai_00_talk_idle_03=A-hah!
+
+// SPEAKER: Samurai
+// Hrm.
+vo_gothic_gothic_samurai_00_talk_idle_04=Hrm.
+
+// SPEAKER: Samurai
+// Ah, yes.
+vo_gothic_gothic_samurai_00_talk_idle_05=Ah, đúng rồi.
+
+// SPEAKER: Samurai
+// Hrm, focus.
+vo_gothic_gothic_samurai_00_talk_idle_06=Hrm, tập trung.
+
+// SPEAKER: Samurai
+// Victory is certain.
+vo_gothic_gothic_samurai_00_talk_idle_battle_calm_00=Chắc chắn chiến thắng.
+
+// SPEAKER: Samurai
+// Hrm...curse the Shogun.
+vo_gothic_gothic_samurai_00_talk_idle_battle_calm_01=Hrm...Nguyền rủa lũ Mạc chúa.
+
+// SPEAKER: Samurai
+// A single strike...
+vo_gothic_gothic_samurai_00_talk_idle_battle_calm_02=Một cuộc phản công...
+
+// SPEAKER: Samurai
+// ...this is our place.
+vo_gothic_gothic_samurai_00_talk_idle_battle_calm_03=...đây là vị trí của chúng ta.
+
+// SPEAKER: Samurai
+// Honor in death...
+vo_gothic_gothic_samurai_00_talk_idle_battle_calm_04=Chết trong vinh quang...
+
+// SPEAKER: Samurai
+// Reloading!
+vo_gothic_gothic_samurai_00_talk_idle_battle_05=Thay đạn!
+
+// SPEAKER: Samurai
+// I'm reloading!
+vo_gothic_gothic_samurai_00_talk_idle_battle_06=Tao thay đạn!
+
+// SPEAKER: Samurai
+// Cover me!
+vo_gothic_gothic_samurai_00_talk_idle_battle_07=Yểm trợ tao!
+
+// SPEAKER: Samurai
+// Die, Shogunate scum!
+vo_gothic_gothic_samurai_00_talk_idle_battle_08=Chết đi, Mạc Phủ cặn bã!
+
+// SPEAKER: Samurai
+// Hold the castle!
+vo_gothic_gothic_samurai_00_talk_idle_battle_09=Giữ vững thành!
+
+// SPEAKER: Samurai
+// Push them back!
+vo_gothic_gothic_samurai_00_talk_idle_battle_10=Đẩy chúng lùi lại!
+
+// SPEAKER: Samurai
+// Retreat!
+vo_gothic_gothic_samurai_00_talk_idle_battle_11=Rút quân!
+
+// SPEAKER: Samurai
+// Fall back!
+vo_gothic_gothic_samurai_00_talk_idle_battle_12=Lui quân!
+
+// SPEAKER: Samurai
+// Officer dead!
+vo_gothic_gothic_samurai_00_talk_idle_battle_13=Chỉ huy đã chết!
+
+// SPEAKER: Samurai
+// For Lord Yabu.
+vo_gothic_gothic_samurai_00_talk_idle_daimyo_00=Vì lãnh chúa Yabu.
+
+// SPEAKER: Samurai
+// For Lord Okkoto.
+vo_gothic_gothic_samurai_00_talk_idle_general_00=Vì lãnh cháu Okkoto.
+
+// SPEAKER: Samurai
+// For Kage-sama.
+vo_gothic_gothic_samurai_00_talk_idle_kagesama_00=Vì Kage-sama.
+
+// SPEAKER: Samurai
+// For Lord Noboru.
+vo_gothic_gothic_samurai_00_talk_idle_kagesama_01=Vì lãnh chúa Noboru.
+
+// SPEAKER: Samurai
+// Hmm. Sake.
+vo_gothic_gothic_samurai_00_talk_idle_night_00=Hmm. Sa kê.
+
+// SPEAKER: Samurai
+// It was a long day.
+vo_gothic_gothic_samurai_00_talk_idle_night_01=Một ngày dài lê thê.
+
+// SPEAKER: Samurai
+// Hmm, dark tonight.
+vo_gothic_gothic_samurai_00_talk_idle_night_02=Hmm, Đêm ảm đạm.
+
+// SPEAKER: Samurai
+// Hrm.
+vo_gothic_gothic_samurai_00_talk_idle_night_03=Hrm.
+
+// SPEAKER: Samurai
+// Hrm...focus.
+vo_gothic_gothic_samurai_00_talk_idle_night_04=Hrm...tập trung.
+
+// SPEAKER: Samurai
+// Cursed snow.
+vo_gothic_gothic_samurai_00_talk_idle_snow_00=Tuyết đáng bị nguyền rủa.
+
+// SPEAKER: Samurai
+// Ugh, the wind is freezing!
+vo_gothic_gothic_samurai_00_talk_idle_snow_01=Ugh, gió thổi đóng băng cmnr!
+
+// SPEAKER: Samurai
+// It's too cold.
+vo_gothic_gothic_samurai_00_talk_idle_snow_02=Lạnh quá.
+
+// SPEAKER: Samurai
+// 
+vo_gothic_gothic_samurai_00_talk_idle_snow_03=
+
+// SPEAKER: Samurai
+// 
+vo_gothic_gothic_samurai_00_talk_idle_snow_04=
+
+// SPEAKER: Samurai
+// Ah, that's not my concern.
+vo_gothic_gothic_samurai_00_talk_npc_00=Ah, Tao không quan tâm.
+
+// SPEAKER: Samurai
+// That much is clear.
+vo_gothic_gothic_samurai_00_talk_npc_01=Nó phải rõ ràng.
+
+// SPEAKER: Samurai
+// You...you should not believe baseless rumors.
+vo_gothic_gothic_samurai_00_talk_npc_02=Mày...mày không nên tin vào lời đồn vô căn cứ.
+
+// SPEAKER: Samurai
+// I've heard differently.
+vo_gothic_gothic_samurai_00_talk_npc_03=Tao nghe ra thứ khác.
+
+// SPEAKER: Samurai
+// That's how it's always been.
+vo_gothic_gothic_samurai_00_talk_npc_04=Nó luôn như thế mà thôi.
+
+// SPEAKER: Samurai
+// He's a coward! Don't listen to him.
+vo_gothic_gothic_samurai_00_talk_npc_05=Hắn là thằng ngu. Đừng nghe hắn.
+
+// SPEAKER: Samurai
+// I can agree to that.
+vo_gothic_gothic_samurai_00_talk_npc_06=Tôi có thể đồng ý.
+
+// SPEAKER: Samurai
+// Look, I warn you. Be careful what you say.
+vo_gothic_gothic_samurai_00_talk_npc_07=Nhìn đi, tao cảnh bảo mày. Cẩn thận với những gì mày nói.
+
+// SPEAKER: Samurai
+// He'll only cause trouble.
+vo_gothic_gothic_samurai_00_talk_npc_08=Anh ta sẽ chỉ gây rắc rối.
+
+// SPEAKER: Samurai
+// Eh, it'll change nothing.
+vo_gothic_gothic_samurai_00_talk_npc_09=Eh, nó sẽ không thay đổi gì thế.
+
+// SPEAKER: Samurai
+// Understood.
+vo_gothic_gothic_samurai_00_talk_npc_confirm_00=Đã rõ.
+
+// SPEAKER: Samurai
+// My lord.
+vo_gothic_gothic_samurai_00_talk_npc_confirm_01=Tuân lệnh thưa ngài.
+
+// SPEAKER: Samurai
+// At once.
+vo_gothic_gothic_samurai_00_talk_npc_confirm_02=Ngay bây giờ.
+
+// SPEAKER: Samurai
+// Understood!
+vo_gothic_gothic_samurai_00_talk_npc_confirm_battle_00=Đã rõ!
+
+// SPEAKER: Samurai
+// I shall not fail!
+vo_gothic_gothic_samurai_00_talk_npc_confirm_battle_01=Tôi sẽ không thất bại!
+
+// SPEAKER: Samurai
+// For honor!
+vo_gothic_gothic_samurai_00_talk_npc_confirm_battle_02=Vì danh dự!
+
+// SPEAKER: Samurai
+// Carry on.
+vo_gothic_gothic_samurai_00_talk_npc_orders_00=Cảnh giác hơn.
+
+// SPEAKER: Samurai
+// Continue.
+vo_gothic_gothic_samurai_00_talk_npc_orders_01=Tiếp tục đi.
+
+// SPEAKER: Samurai
+// Ah, stay vigilant.
+vo_gothic_gothic_samurai_00_talk_npc_orders_02=Ah, Giữ cảnh giác.
+
+// SPEAKER: Samurai
+// Uh-huh. Stay sharp.
+vo_gothic_gothic_samurai_00_talk_npc_orders_03=Uh-huh. Thông minh lên.
+
+// SPEAKER: Samurai
+// Good, keep it up.
+vo_gothic_gothic_samurai_00_talk_npc_orders_04=Tốt lắm, Giữ vững!
+
+// SPEAKER: Samurai
+// Do not get lazy.
+vo_gothic_gothic_samurai_00_talk_npc_orders_05=Không lười biếng!
+
+// SPEAKER: Samurai
+// Carry on!
+vo_gothic_gothic_samurai_00_talk_npc_orders_battle_00=Cảnh giác hơn!
+
+// SPEAKER: Samurai
+// I have new orders!
+vo_gothic_gothic_samurai_00_talk_npc_orders_battle_01=Ta có lệnh mới!
+
+// SPEAKER: Samurai
+// Stay strong!
+vo_gothic_gothic_samurai_00_talk_npc_orders_battle_02=Mạnh mẽ lên!
+
+// SPEAKER: Samurai
+// Hold your position!
+vo_gothic_gothic_samurai_00_talk_npc_orders_battle_03=Giữ vị trí của mày!
+
+// SPEAKER: Samurai
+// New orders!
+vo_gothic_gothic_samurai_00_talk_npc_orders_battle_04=Lệnh mới!
+
+// SPEAKER: Samurai
+// Continue!
+vo_gothic_gothic_samurai_00_talk_npc_orders_battle_05=Tiếp tục!
+
+// SPEAKER: Samurai
+// Reload!
+vo_gothic_gothic_samurai_00_talk_npc_orders_battle_06=Thay đạn!
+
+// SPEAKER: Samurai
+// Fire!
+vo_gothic_gothic_samurai_00_talk_npc_orders_battle_07=Bắn!
+
+// SPEAKER: Samurai
+// Report.
+vo_gothic_gothic_samurai_00_talk_npc_report_00=Báo cáo đi.
+
+// SPEAKER: Samurai
+// Your report?
+vo_gothic_gothic_samurai_00_talk_npc_report_01=Mày báo cáo hả?
+
+// SPEAKER: Samurai
+// What news?
+vo_gothic_gothic_samurai_00_talk_npc_report_02=Có gì mới?
+
+// SPEAKER: Samurai
+// Is there anything new?
+vo_gothic_gothic_samurai_00_talk_npc_report_03=Có gì mới?
+
+// SPEAKER: Samurai
+// Is everything quiet?
+vo_gothic_gothic_samurai_00_talk_npc_report_04=Mọi thứ vẫn yên lặng hả?
+
+// SPEAKER: Samurai
+// Report!
+vo_gothic_gothic_samurai_00_talk_npc_report_battle_00=Báo cáo đi!
+
+// SPEAKER: Samurai
+// Tell me!
+vo_gothic_gothic_samurai_00_talk_npc_report_battle_01=Nói cho tao!
+
+// SPEAKER: Samurai
+// Give your report!
+vo_gothic_gothic_samurai_00_talk_npc_report_battle_02=Cho tao biết báo cáo của mày!
+
+// SPEAKER: Samurai
+// We have our orders!
+vo_gothic_gothic_samurai_00_talk_npc_tense_00=Lệnh của chúng ta!
+
+// SPEAKER: Samurai
+// Keep fighting!
+vo_gothic_gothic_samurai_00_talk_npc_tense_01=Tiếp tục chiến đấu!
+
+// SPEAKER: Samurai
+// We will gain honor today.
+vo_gothic_gothic_samurai_00_talk_npc_tense_02=Hôm nay chúng ta sẽ dành được vinh quang.
+
+// SPEAKER: Samurai
+// We must stay strong.
+vo_gothic_gothic_samurai_00_talk_npc_tense_03=Chúng ta phải mạnh mẽ lên!
+
+// SPEAKER: Samurai
+// Let the enemy come to us.
+vo_gothic_gothic_samurai_00_talk_npc_tense_04=Để địch tiến về phía chúng ta.
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_urinate_00=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_whistle_00=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_wounded_00=
+
+// SPEAKER: Samurai
+// 
+vo_eny_eny_samurai_00_yawn_00=
+

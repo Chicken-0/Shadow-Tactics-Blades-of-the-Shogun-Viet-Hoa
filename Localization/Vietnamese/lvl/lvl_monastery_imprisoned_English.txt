@@ -1,0 +1,153 @@
+// Escape the Prison
+1217268342=Thoát khỏi tù
+
+// Free Hayato, Yuki and Takuma from their cages.
+-1099584753=Giải thoát Hayato, Yuki và Takuma ra khỏi lồng.
+
+// Hayato
+-94980146=Hayato
+
+// Free Hayato.
+1077495865=Giải thoát Hayato.
+
+// Yuki
+1090236381=Yuki
+
+// Free Yuki.
+-905181412=Giải thoát Yuki.
+
+// Takuma
+661780450=Takuma
+
+// Free Takuma.\n
+-1281623879=Giải thoát Takuma.\n
+
+// Optional: Find Your Gear
+-997603679=Tùy chọn: Tìm trang bị
+
+// Track down all pieces of equipment that have been taken from you.
+37929978=Theo dấu các trang bị để lầy chúng về.
+
+// Bird's Voice
+1088067547=Tiếng Chim
+
+// -
+2057168990=-
+
+// Kuma
+1502271634=Kuma
+
+// -
+1317725445=-
+
+// Little Trap
+1026798070=Bẩy Bé Bỏng
+
+// -
+-1061359788=-
+
+// Matchlock Pistols
+-1716502167=Súng Ngắn Hỏa Mai
+
+// -
+2113732409=-
+
+// Ninjato
+-960663936=Kiếm Ninjato
+
+// -
+-959644866=-
+
+// Shuriken
+-850331955=Phi tiêu Shuriken
+
+// -
+-766954177=-
+
+// Free Aiko
+-2096340589=Giải thoát Aiko
+
+// Aiko has been taken away for questioning. Free her.
+1674806723=Aiko đang bị thẩm vấn. Hãy giải thoát cho cô ấy.
+
+// Gather Near Mugen
+1070695862=Tới gần Mugen
+
+// Mugen is not himself. Gather everyone around him to help.
+277321055=Mugen không còn là chính mình. Mọi người lại gần để giúp anh ấy.
+
+// Leave
+1035267972=Thoát
+
+// Gather near the main road and leave Mount Tsuru.
+786677113=Tới gần đường chính và thoát khỏi núi Tsuru.
+
+// Overseer
+127356369=Kẻ giám ngục
+
+// The prison overseer checks all cells regularly. Should someone escape, he will soon notice.
+-717872926=Giám ngục sẽ kiểm tra tù nhân định kỳ. Nếu có người trốn thoát, hắn sẽ biết được.
+
+// Pickpocketing
+-1270754819=Móc túi
+
+// Enemies who carry a piece of your gear can be pickpocketed.
+-2059279271=Kẻ địch nào đang cầm trang bị của nhân vật thì có thể móc túi được.
+
+// Kuma
+147192016=Kuma
+
+// Kuma ran away when you got captured. Try calling for him.
+784507646=Kuma đã bỏ chạy khi bị bắt. Thử gọi nó xem.
+
+// Crane Statues
+-1925410101=Tượng Crane
+
+// The crane statues open secret passages.
+346038096=Tượng Crane mở ra lối đi bí mật.
+
+// Rat's Tooth
+-1536759668=Răng Chuột
+
+// Take back Yuki's Rat's Tooth.
+185976453=Lấy Răng Chuột về với Yuki.
+
+// Bird's Voice
+-862064588=Tiếng Chim
+
+// Take back Yuki's Bird's Voice.
+-1582463462=Lấy Tiếng Chim về với Yuki.
+
+// Little Trap
+1565087569=Bẩy Bé Bỏng
+
+// Take back Yuki's Little Trap.
+-794201257=Lấy Bẫy Bé Bỏng về với Yuki.
+
+// Matchlock Pistols
+2051393512=Súng ngắn hỏa mai
+
+// Take back all matchlock pistols.
+-559070413=Lấy tất cả súng ngắn hỏa mai.
+
+// Ninjato
+1156288113=Kiếm Ninjato
+
+// Take back Hayato's Ninjato.
+-1278533114=Lấy Kiếm Ninjato về với Hayato.
+
+// Shuriken
+-633202507=Phi tiêu Shuriken
+
+// Take back Hayato's Shuriken.
+654548221=Lấy Shuriken về với Hayato.
+
+// Use
+388996765=Sử dụng
+
+// Icicle
+1233277807=Cục nước đá
+
+// Denisu Hasusake
+-1198316586=Denisu Hasusake
+

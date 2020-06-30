@@ -1,0 +1,796 @@
+// SPEAKER: NINJA
+// That's as far as this wagon will get us. You ready, old man?
+vocs_over_over_finalcastle_briefing_n00=Xe hàng này sẽ che giúp chúng ta. Sẵn sàng chưa lão già?
+
+// SPEAKER: ALCHEMIST
+// The excitement is quite rejuvenating! Even Kuma is eager.
+vocs_over_over_finalcastle_briefing_n01=Nỗi phấn khích của lão đang dần trẻ lại! Cả Kuma cũng háo hức lắm.
+
+// SPEAKER: TANUKI
+// ...!
+vocs_over_over_finalcastle_briefing_n02=...!
+
+// SPEAKER: NINJA
+// Yes, quite. The others should be in position by now.
+vocs_over_over_finalcastle_briefing_n03=Thế tốt quá. Những người khác chắc giờ cũng phải vào vị trí cả rồi.
+
+// SPEAKER: TRAPPER
+// Up here, Aiko-san! We're almost there.
+vocs_over_over_finalcastle_briefing_n04=Trên này nè, Aiko-san! Chúng ta gần đến rồi.
+
+// SPEAKER: GEISHA
+// Your navigation skills are impressive, Yuki-chan. 
+vocs_over_over_finalcastle_briefing_n05=Kĩ năng xác định phương hướng của em thật ấn tượng, Yuki-chan.
+
+// SPEAKER: GEISHA
+// Now, we have a hard task ahead of us.
+vocs_over_over_finalcastle_briefing_n06=Giờ chúng ta có một nhiệm vụ khó nhằn trước mặt.
+
+// SPEAKER: GEISHA
+// Lord Noboru is at the heart of his castle.
+vocs_over_over_finalcastle_briefing_n07=Lãnh chúa Noboru ở trung tâm thành của hắn.
+
+// SPEAKER: NINJA
+// It doesn't look like there's an easy way to reach Noboru.
+vocs_over_over_finalcastle_briefing_n08=Không dễ gì mà tiếp cận được Noboru.
+
+// SPEAKER: ALCHEMIST
+// The best paths are often hidden from view.
+vocs_over_over_finalcastle_briefing_n09=Cách tốt nhất là đừng để lọt vào tầm nhìn địch.
+
+// SPEAKER: ALCHEMIST
+// Remember what I told you before. The wells are all connected with each other.
+vocs_over_over_finalcastle_briefing_n10=Nhớ lấy lời lão đã nói trước đây. Mấy cái giếng này được thông với nhau.
+
+// SPEAKER: NINJA
+// So, we use the wells to get into the upper castle.
+vocs_over_over_finalcastle_briefing_n11=Vậy thì sử dụng giếng để lẻn lên trên thành.
+
+// SPEAKER: GEISHA
+// Takuma-san expected the wells to be secured with locks.
+vocs_over_over_finalcastle_briefing_n12=Takuma-san hi vọng mấy cái giếng đó đã bị khóa lại.
+
+// SPEAKER: TRAPPER
+// Locks have keys, right?
+vocs_over_over_finalcastle_briefing_n13=Khóa có chìa khóa, đúng hông?
+
+// SPEAKER: TRAPPER
+// I can find a key!
+vocs_over_over_finalcastle_briefing_n14=Em có thể tìm một chìa!
+
+// SPEAKER: GEISHA
+// We should also look for a disguise on the way.
+vocs_over_over_finalcastle_briefing_n15=Chị cũng nên tìm một bộ ngụy trang trên đường lên tới đó.
+
+// SPEAKER: GEISHA
+// Very well.
+vocs_over_over_finalcastle_briefing_n16=Tốt lắm.
+
+// SPEAKER: GEISHA
+// Let us meet the others halfway and enter the wells together. After that we will make further plans.
+vocs_over_over_finalcastle_briefing_n17=Mọi người sẽ tập trung ở giữa chặng tại dưới cái giếng. Sau đó bàn về các bước tiếp theo.
+
+// SPEAKER: NINJA
+// Let's meet the others halfway and use the wells together.
+vocs_over_over_finalcastle_briefing_n17a=Hãy gặp những người khác tại dưới giếng.
+
+// SPEAKER: GEISHA
+// Now, shall we begin?
+vocs_over_over_finalcastle_briefing_n18=Giờ bắt đầu được chưa?
+
+// SPEAKER: TRAPPER
+// Ready, Aiko-san!
+vocs_over_over_finalcastle_briefing_n19=Sẵn sàng, Aiko-san!
+
+// SPEAKER: ALCHEMIST
+// Ready when you are, Hayato-san.
+vocs_over_over_finalcastle_briefing_n20=Lão sẵn sàng từ lâu rồi, Hayato-san.
+
+// SPEAKER: NINJA
+// Right. Let's finish this.
+vocs_over_over_finalcastle_briefing_n21=Giờ hãy kết thúc chuyện này nào.
+
+// SPEAKER: NINJA
+// Shooting practice, huh?
+vocs_over_over_finalcastle_shootingrange_n00=Diễn tập bắn súng, huh?
+
+// SPEAKER: TRAPPER
+// Ugh. Always shooting.
+vocs_over_over_finalcastle_shootingrange_n01=Ugh. Luôn luôn bắn bắn.
+
+// SPEAKER: GEISHA
+// The soldiers are training.
+vocs_over_over_finalcastle_shootingrange_n02=Đám lính đang luyện tập.
+
+// SPEAKER: ALCHEMIST
+// Who made those rifles? They're so loud, we could shoot their owners and no one would notice!
+vocs_over_over_finalcastle_shootingrange_n03=Ai chế tạo súng cho chúng nhỉ? Khá là ồn đấy, chúng ta có thể bắn chúng mà không bị ai để ý!
+
+// SPEAKER: TRAPPER
+// Ooh, I get it!
+vocs_over_over_finalcastle_shootingrange_n04=Ooh, cháu hiểu rồi!
+
+// SPEAKER: GEISHA
+// Yes, we could mask our shots with their own.
+vocs_over_over_finalcastle_shootingrange_n05=Vâng, dấu phát bắn của chúng ta bằng cách lẫn vào tiếng súng của chúng.
+
+// SPEAKER: NINJA
+// Hm! Not a bad idea.
+vocs_over_over_finalcastle_shootingrange_n06=Hm! Ý tưởng không tồi.
+
+// SPEAKER: GEISHA
+// Well now, it seems we're all present.
+vocs_over_over_finalcastle_meetup_n00=Tốt lắm, tất cả chúng ta đã ở đây.
+
+// SPEAKER: TRAPPER
+// Wow! You look different, Takuma-sensei!
+vocs_over_over_finalcastle_meetup_n01=Wow! Ông trông khác quá, Takuma-sensei!
+
+// SPEAKER: ALCHEMIST
+// Believe me, Yuki-chan, I feel more alive than I have in years.
+vocs_over_over_finalcastle_meetup_n02=Tin ông đi, Yuki-chan, vào lúc này ông cảm thấy sung sức hơn bao giờ hết.
+
+// SPEAKER: NINJA
+// You and me both, old man. Noboru won't know what hit him.
+vocs_over_over_finalcastle_meetup_n03=Cháu cũng như lão. Rồi Noboru sẽ chết mà không ai biết kẻ nào đã giết hắn.
+
+// SPEAKER: SAMURAI
+// What?!
+vo_hint_hint_finalcastle_oxen_n00=Cái gì?!
+
+// SPEAKER: SAMURAI
+// How...how could this happen?!
+vo_hint_hint_finalcastle_oxen_n01=Sao...sao nó lại xảy ra được?!
+
+// SPEAKER: SAMURAI
+// You imbecile!
+vo_hint_hint_finalcastle_oxen_n02=Ngu như bò!
+
+// SPEAKER: SAMURAI
+// Look at what you've done!
+vo_hint_hint_finalcastle_oxen_n03=Nhìn vào những gì mày đã làm đi!
+
+// SPEAKER: SAMURAI
+// How can you be so incompetent?!
+vo_hint_hint_finalcastle_oxen_n04=Mày có đủ sức để làm chuyện này ư!
+
+// SPEAKER: SAMURAI
+// Lord Noboru will be displeased!
+vo_hint_hint_finalcastle_oxen_n05=Lãnh chúa Noboru sẽ không hài lòng!
+
+// SPEAKER: SAMURAI
+// This...this is outrageous!
+vo_hint_hint_finalcastle_oxen_n06=Nó...nó thật quá đáng!
+
+// SPEAKER: SAMURAI
+// You and your stupid animal!
+vo_hint_hint_finalcastle_oxen_n07=Mày và con vật ngu ngốc của mày!
+
+// SPEAKER: SAMURAI
+// These stupid animals.
+vo_hint_hint_finalcastle_cargo_n00=Mấy con vật ngu.
+
+// SPEAKER: SAMURAI
+// Get it done, you hear me?
+vo_hint_hint_finalcastle_cargo_n01=Làm cho xong, nghe tao nói không hả?
+
+// SPEAKER: SAMURAI
+// No delays. Lord Noboru was clear.
+vo_hint_hint_finalcastle_cargo_n02=Không lề mề. Lãnh chúa Noboru đã lệnh.
+
+// SPEAKER: SAMURAI
+// Can't you load these wagons faster?
+vo_hint_hint_finalcastle_cargo_n03=Mày không thể chất hàng nhanh hơn hả?
+
+// SPEAKER: SAMURAI
+// We must leave before nightfall.
+vo_hint_hint_finalcastle_cargo_n04=Bọn tao phải đi trước khi đêm xuống.
+
+// SPEAKER: SAMURAI
+// Move it! We're losing precious time!
+vo_hint_hint_finalcastle_cargo_n05=Di chuyển nó! Cấm lãng phí thời gian quý báu!
+
+// SPEAKER: CIVILIAN M
+// He's coming!
+vo_hint_hint_finalcastle_slackers_n00=Hắn đi rồi!
+
+// SPEAKER: ENEMY
+// To your posts!
+vo_hint_hint_finalcastle_slackers_n01=Đứng gác!
+
+// SPEAKER: SAMURAI
+// Hm? What's going on?
+vo_hint_hint_finalcastle_slackers_n02=Hm? Chuyện khỉ gì vậy?
+
+// SPEAKER: SAMURAI
+// Hmm...
+vo_hint_hint_finalcastle_slackers_n03=Hmm...
+
+// SPEAKER: CIVILIAN M
+// He's gone.
+vo_hint_hint_finalcastle_slackers_n04=Hắn đã đi.
+
+// SPEAKER: SAMURAI
+// Ah, finally.
+vo_hint_hint_finalcastle_slackers_n05=Ah, cuối cùng.
+
+// SPEAKER: SAMURAI
+// Hm? What's going on?
+vo_hint_hint_finalcastle_slackers_n06=Hm? Chuyện khỉ gì vậy?
+
+// SPEAKER: SAMURAI
+// Load!
+vo_hint_hint_finalcastle_shooting1_n00=Nạp đạn!
+
+// SPEAKER: SAMURAI
+// Take aim!
+vo_hint_hint_finalcastle_shooting1_n01=Ngắm bắn!
+
+// SPEAKER: SAMURAI
+// Fire!
+vo_hint_hint_finalcastle_shooting1_n02=Bắn!
+
+// SPEAKER: SAMURAI
+// Fire!
+vo_hint_hint_finalcastle_shooting1_n03=Bắn!
+
+// SPEAKER: SAMURAI
+// Fire!
+vo_hint_hint_finalcastle_shooting1_n04=Bắn!
+
+// SPEAKER: SAMURAI
+// Not fast enough.
+vo_hint_hint_finalcastle_shooting1_n05=Không đủ nhanh.
+
+// SPEAKER: SAMURAI
+// You are not master marksmen yet!
+vo_hint_hint_finalcastle_shooting1_n06=Anh không có kĩ năng thiện xạ!
+
+// SPEAKER: SAMURAI
+// Your weapon is part of you!
+vo_hint_hint_finalcastle_shooting1_n07=Vũ khí là một phần trong các anh!
+
+// SPEAKER: SAMURAI
+// Aim true, for Lord Noboru!
+vo_hint_hint_finalcastle_shooting1_n08=Ngắm chính xác, vì lãnh chúa Noboru!
+
+// SPEAKER: SAMURAI
+// Again!
+vo_hint_hint_finalcastle_shooting1_n09=Thử lại!
+
+// SPEAKER: SAMURAI
+// Lord Noboru!
+vo_hint_hint_finalcastle_shooting2_n00=Lãnh chúa Noboru!
+
+// SPEAKER: BROGUN
+// I wish to observe your progress.
+vo_hint_hint_finalcastle_shooting2_n01=Ta muốn thấy sự tiến bộ của chúng.
+
+// SPEAKER: SAMURAI
+// Of course, Noboru-sama.
+vo_hint_hint_finalcastle_shooting2_n02=Dĩ nhiên, Noboru-sama.
+
+// SPEAKER: SAMURAI
+// Men! You have heard Lord Noboru!
+vo_hint_hint_finalcastle_shooting2_n03=Các chàng trai! Nghe lời lãnh chúa Noboru rồi đấy!
+
+// SPEAKER: SAMURAI
+// Fire!
+vo_hint_hint_finalcastle_shooting2_n04=Bắn!
+
+// SPEAKER: SAMURAI
+// Fire!
+vo_hint_hint_finalcastle_shooting2_n05=Bắn!
+
+// SPEAKER: SAMURAI
+// Fire!
+vo_hint_hint_finalcastle_shooting2_n06=Bắn!
+
+// SPEAKER: BROGUN
+// Hm. Very well. Continue.
+vo_hint_hint_finalcastle_shooting2_n07=Hm. Tốt lắm, tiếp tục đi.
+
+// SPEAKER: SAMURAI
+// You have heard your lord! Again!
+vo_hint_hint_finalcastle_shooting2_n08=Nghe ngài ấy nói chưa! Thử lại!
+
+// SPEAKER: GEISHA
+// Excellent. All here.
+vocs_over_over_finalcastle_message_n00=Tuyệt vời. Tất cả đã ở đây.
+
+// SPEAKER: NINJA
+// So far so good.
+vocs_over_over_finalcastle_message_n00a=Mọi thứ vẫn ổn.
+
+// SPEAKER: BROGUN
+// ...very good. See that the men are prepared for my brother's return from Kyōto.
+vocs_over_over_finalcastle_message_n01=...rất tốt. Xem chừng bọn lính đang chuẩn bị cho anh trai ta quay về từ Kyōto.
+
+// SPEAKER: SAMURAI
+// Yes, Noboru-sama.
+vocs_over_over_finalcastle_message_n02=Tuân lệnh, Noboru-sama.
+
+// SPEAKER: OFFICER
+// Lord Noboru!
+vocs_over_over_finalcastle_message_n03=Lãnh chúa Noboru!
+
+// SPEAKER: BROGUN
+// Why do you disturb us? Do you bring news of my son?
+vocs_over_over_finalcastle_message_n04=Sao dám làm phiền bọn ta? Ngươi đến đưa tin về con trai ta hả?
+
+// SPEAKER: OFFICER
+// A letter came. A message from our spies in Kyōto.
+vocs_over_over_finalcastle_message_n05=Có một lá thư đến. Tin báo từ gián điệp ở Kyōto.
+
+// SPEAKER: BROGUN
+// ...this... How is this possible?
+vocs_over_over_finalcastle_message_n06=...nó... Thế quái nào nó lại như vậy?
+
+// SPEAKER: BROGUN
+// Tell the officers to double the guards. No one is to enter the keep. 
+vocs_over_over_finalcastle_message_n07=Lệnh cho chỉ huy gấp đôi lính canh. Không để một ai lọt vào trong này.
+
+// SPEAKER: BROGUN
+// If anyone tries, they are to be killed!
+vocs_over_over_finalcastle_message_n08=Nếu có người làm thế, xử chúng ngay lập tức!
+
+// SPEAKER: SAMURAI
+// ...understood, Noboru-sama!
+vocs_over_over_finalcastle_message_n09=...đã hiểu, Noboru-sama!
+
+// SPEAKER: BROGUN
+// My son...executed by my own brother. Is Mugen taking vengeance on me?
+vocs_over_over_finalcastle_message_n10=Con mình...đang ở chỗ anh trai. Liệu Mugen đang muốn trả thù ta ư?
+
+// SPEAKER: BROGUN
+// This changes everything.
+vocs_over_over_finalcastle_message_n11=Chuyện này thay đổi tất cả mọi thứ rồi.
+
+// SPEAKER: BROGUN
+// I must think.
+vocs_over_over_finalcastle_message_n12=Mình cần phải tính toán.
+
+// SPEAKER: NINJA
+// Seems to me like the Shogun took his revenge already.
+vocs_over_over_finalcastle_keep_n00=Có vẻ như Mạc Chúa đã sẵn sàng để trả thù.
+
+// SPEAKER: GEISHA
+// This complicates matters for us.
+vocs_over_over_finalcastle_keep_n01=Nhiệm vụ của chúng ta phức tạp hơn rồi.
+
+// SPEAKER: TRAPPER
+// He's cowering like a spider in a broken web.
+vocs_over_over_finalcastle_keep_n02=Hắn co rúm như một con nhện trên lưới hỏng.
+
+// SPEAKER: ALCHEMIST
+// He may hide up there, yet he forgets that height is your specialty.
+vocs_over_over_finalcastle_keep_n03=Hắn có thể nấp ở đó, nhưng hắn quên rằng độ cao là chuyên môn của cậu.
+
+// SPEAKER: NINJA
+// What about you, old man?
+vocs_over_over_finalcastle_keep_n04=Ý lão là sao?
+
+// SPEAKER: ALCHEMIST
+// You know me, Hayato-san. I always find my way to assist you.
+vocs_over_over_finalcastle_keep_n05=Cậu biết rõ về lão rồi mà, Hayato-san. Lão luôn tìm cách riêng để hỗ trợ cho cậu.
+
+// SPEAKER: NINJA
+// Damn. There must be a way up there.
+vocs_over_over_finalcastle_ascent_n00=Khỉ thật. Phải có đường lên trên đó.
+
+// SPEAKER: TRAPPER
+// Ugh, so high! How will we get there?
+vocs_over_over_finalcastle_ascent_n01=Ugh, cao quá! Chúng ta lên đó bằng cách nào đây?
+
+// SPEAKER: GEISHA
+// We will have to improvise. There must be a way up.
+vocs_over_over_finalcastle_ascent_n02=Phải ứng biến. Rồi sẽ có một đường lên tới đó.
+
+// SPEAKER: NINJA
+// Nice view.
+vocs_over_over_finalcastle_noalarm_n00=Tầm nhìn đẹp.
+
+// SPEAKER: TRAPPER
+// Oh, it's really high!
+vocs_over_over_finalcastle_noalarm_n01=Oh, cao thiệt cao!
+
+// SPEAKER: GEISHA
+// Noboru is on the top balcony. Right now he is exposed, but if he learns we are here, we will never reach him. We cannot let anyone raise the alarm!
+vocs_over_over_finalcastle_noalarm_n02=Noboru ở trên ban công. Giờ hắn đang lộ ra ngoài, nhưng nếu hắn biết chúng ta ở đây thì sẽ không bao giờ có được hắn nữa. Không thể để bất kỳ ai tạo báo động nào hết!
+
+// SPEAKER: TRAPPER
+// Right. Be clever. Be fast.
+vocs_over_over_finalcastle_noalarm_n03=Đúng đó. Thông minh hơn. Nhanh nhẹn hơn.
+
+// SPEAKER: ALCHEMIST
+// Hehe! I will watch over your ascent.
+vocs_over_over_finalcastle_noalarm_n04=Hehe! Lão sẽ canh chừng cho mọi người.
+
+// SPEAKER: NINJA
+// Hope Noboru enjoys his final minutes.
+vocs_over_over_finalcastle_noalarm_n05=Hi vọng Noboru đang hưởng thụ giây phút cuối cùng của đời hắn.
+
+// SPEAKER: BROGUN
+// Fools! Your carelessness will cost you dearly!
+vocs_over_over_finalcastle_fail_n00=Óc chó! Sự bất cẩn của bọn mày đã phải trả giá!
+
+// SPEAKER: NINJA
+// He went inside. Damn. That was our only chance!
+vocs_over_over_finalcastle_fail_n01=Hắn đã vào trong. Mẹ kiếp. Đó là cơ hội duy nhất của chúng ta!
+
+// SPEAKER: BROGUN
+// Your technique is magnificent.
+vocs_over_over_finalcastle_easteregg_n00=Kĩ thuật của mày tuyệt vời đấy.
+
+// SPEAKER: BROGUN
+// When cut across the neck, a sound like wailing winter winds is heard, they say.
+vocs_over_over_finalcastle_easteregg_n01=Khi vết chém đi ngang cổ, chúng bảo một âm thanh như tiếng khóc mùa đông được nghe thấy.
+
+// SPEAKER: BROGUN
+// I'd always hoped to cut someone like that someday, to hear that sound.
+vocs_over_over_finalcastle_easteregg_n02=Tao đã luôn hi vọng có một ngày được cắt đầu một ai đó, để nghe xem âm thanh sẽ ra sao.
+
+// SPEAKER: BROGUN
+// But to have it happen to my own neck is ridiculous.
+vocs_over_over_finalcastle_easteregg_n03=Nhưng nó mà xảy ra với cái cổ của tao thì quá vô lý.
+
+// SPEAKER: BROGUN
+// Ōshiro Mugen. Have I underestimated you?
+vo_hint_hint_finalcastle_monologue1_n00=Ōshiro Mugen. Mình đã đánh giá thấp hắn?
+
+// SPEAKER: BROGUN
+// It doesn't matter. The game is lost. My brother will not let me recover.
+vo_hint_hint_finalcastle_monologue1_n01=Không còn quan trọng. Giờ chả còn gì để mất. Anh mình chắc chắn sẽ không cho cơ hội để sửa sai.
+
+// SPEAKER: BROGUN
+// No doubt Mugen's assassins are already on their way.
+vo_hint_hint_finalcastle_monologue1_n02=Chắc chắn lũ sát thủ của Mugen đang tới đây.
+
+// SPEAKER: BROGUN
+// Yes, they must have been the ones who took my son.
+vo_hint_hint_finalcastle_monologue1_n03=Đúng rồi, chúng là một trong số những người bắt cóc con trai mình.
+
+// SPEAKER: BROGUN
+// I wonder...of all people, would Mugen have understood?
+vo_hint_hint_finalcastle_monologue1_n04=Tự hỏi...tất cả mọi người, liệu thằng Mugen có hiểu được?
+
+// SPEAKER: BROGUN
+// Was he not a man of honor, willing to make sacrifices to fulfill his duty?
+vo_hint_hint_finalcastle_monologue1_n05=Hắn không phải là người đàn ông danh dự, sẵn sàng hi sinh để hoàn thành nhiệm vụ của đời mình?
+
+// SPEAKER: BROGUN
+// We are all masters of our fate. We choose our duty. I chose a future of conquest, while my brother chose peace.
+vo_hint_hint_finalcastle_monologue1_n06=Tao mày đều phó mặc cho số phận. Đều chọn nhiệm vụ cho riêng mình. Tao chọn sự chinh phục, trong khi anh tao lại chọn hòa bình.
+
+// SPEAKER: BROGUN
+// And so, for duty, I ignored family and gathered allies against my own brother.
+vo_hint_hint_finalcastle_monologue1_n07=Rồi tao đi theo nhiệm vụ đó, ruồng bỏ gia đình và thu nạp đồng minh để chống lại anh tao.
+
+// SPEAKER: BROGUN
+// For duty, I sacrificed Okkoto so I would gain honor and respect.
+vo_hint_hint_finalcastle_monologue1_n08=Vì nhiệm vụ, tao đã hi sinh cả Okkoto chỉ để có được danh dự và sự tôn trọng.
+
+// SPEAKER: BROGUN
+// For duty, I killed my own nephew, and for duty I would have become Shogun.
+vo_hint_hint_finalcastle_monologue1_n09=Vì nhiệm vụ, tao đã giết chết cháu của tao, và vì nhiệm vụ tao sẽ trở thành Mạc Chúa.
+
+// SPEAKER: BROGUN
+// I would have reclaimed our territories in Korea.
+vo_hint_hint_finalcastle_monologue1_n11=Tao đã có thể dành lại lãnh thổ ở Hàn Quốc.
+
+// SPEAKER: BROGUN
+// I would have led our samurai against the Chinese.
+vo_hint_hint_finalcastle_monologue1_n12=Tao đã có thể dẫn đầu samurai đi chống lại Trung Hoa.
+
+// SPEAKER: BROGUN
+// The world would have known our glory. A nation of the finest warriors. An unstoppable force.
+vo_hint_hint_finalcastle_monologue1_n13=Thế giới sẽ biết đến sự vinh quang của tao. Một quốc gia với các chiến binh giỏi nhất. Một thế lực không thể ngăn cản.
+
+// SPEAKER: BROGUN
+// That is the future I saw for our people. That is the duty I chose.
+vo_hint_hint_finalcastle_monologue1_n14=Đó là tương lai tao đã thấy cho mọi người. Đó là nghiệm vụ tao đã chọn.
+
+// SPEAKER: BROGUN
+// A samurai is master of his fate. Yet without duty, life has no purpose.
+vo_hint_hint_finalcastle_monologue1_n15=Một samurai phó mặc cho số phận đời mình. Không có nhiệm vụ, cuộc sống sẽ không có mục đích.
+
+// SPEAKER: BROGUN
+// But now Mugen stands victorious in death. Was it because his duty lay elsewhere, in the end?
+vo_hint_hint_finalcastle_monologue1_n16=Nhưng giờ thằng Mugen lại chiến thắng tao ngay cả khi đã chết. Có phải vì nhiệm vụ của hắn nằm ở chỗ khác, kết thúc rồi ư?
+
+// SPEAKER: BROGUN
+// Yes, I see.
+vo_hint_hint_finalcastle_monologue2_n00=Đúng, tao thấy.
+
+// SPEAKER: BROGUN
+// Still, it doesn't matter.
+vo_hint_hint_finalcastle_monologue2_n01=Nó vẫn không quan trọng.
+
+// SPEAKER: BROGUN
+// We all chose our duty.
+vo_hint_hint_finalcastle_monologue2_n02=Tao mày đều chọn nhiệm vụ cho riêng mình.
+
+// SPEAKER: BROGUN
+// We are masters of our own destiny.
+vo_hint_hint_finalcastle_monologue2_n03=Tao mày đều phó mặc cho số phận đời mình.
+
+// SPEAKER: BROGUN
+// And yet, I wonder...
+vo_hint_hint_finalcastle_monologue2_n04=Và giờ, tao tự hỏi...
+
+// SPEAKER: BROGUN
+// What will be left, in the end...
+vo_hint_hint_finalcastle_monologue2_n05=Thứ gì sẽ còn lại cuối cùng...
+
+// SPEAKER: BROGUN
+// You! What loyalty does a mercenary like you owe to the dead?
+vocs_over_over_finalcastle_revenge1_n00=Mày! Sao lính đánh thuê như mày lại trung thành với một người đã chết?
+
+// SPEAKER: NINJA
+// To the dead? None. To a friend, though...more than enough to finish you.
+vocs_over_over_finalcastle_revenge1_n01=Người đã chết? Không. Là một người bạn, mặc dù...còn nhiều lý do để kết thúc mạng của mày.
+
+// SPEAKER: BROGUN
+// Filthy assassin. You are not worthy of my sight. I'd rather watch the evening sky.
+vocs_over_over_finalcastle_revenge1_n02=Sát thủ bẩn thỉu. Mày không xứng đáng đứng trước mặt tao. Tao muốn ngắm nhìn bầu trời buổi tối.
+
+// SPEAKER: BROGUN
+// Filthy assassin.
+vocs_over_over_finalcastle_revenge1_n02a=Sát thủ bẩn thỉu.
+
+// SPEAKER: BROGUN
+// If I must die, I will do so by my own hands.
+vocs_over_over_finalcastle_revenge1_n03a=Nếu phải chết, tao sẽ tự xử bằng chính bàn tay của tao.
+
+// SPEAKER: BROGUN
+// Ah! The thief Ōshiro Mugen took pity on. Here to avenge your benefactor?
+vocs_over_over_finalcastle_revenge2_n00=Ah! Một tên trộm được Ōshiro Mugen thương hại. Đến đây để trả thù cho ân nhân của mày hả?
+
+// SPEAKER: TRAPPER
+// He was a friend. You don't leave friends behind. And you don't forget them.
+vocs_over_over_finalcastle_revenge2_n01=Chú ấy là một người bạn. Còn mày thì không nên bỏ mặc bạn bè lại phía sau. Và không nên quên về họ.
+
+// SPEAKER: BROGUN
+// Killed by a ragged child. Who would have thought. Go ahead. Don't waste my time.
+vocs_over_over_finalcastle_revenge2_n02=Bị giết bởi con nhóc rách rưới. Ai mà ngờ được chứ. Làm đi. Đừng lãng phí thời gian.
+
+// SPEAKER: BROGUN
+// I will not be killed by a ragged child.
+vocs_over_over_finalcastle_revenge2_n02a=Tao sẽ không chết dưới tay của một con nhóc rách rưới.
+
+// SPEAKER: BROGUN
+// If I must die, I will do so by my own hand.
+vocs_over_over_finalcastle_revenge2_n03a=Nếu phải chết, tao sẽ tự xử bằng chính bàn tay của tao.
+
+// SPEAKER: BROGUN
+// Ahh. The whore that warmed Mugen's bed.
+vocs_over_over_finalcastle_revenge3_n00=Ahh. Con điếm thúi thỏa mãn thằng Mugen trên giường.
+
+// SPEAKER: GEISHA
+// A poor choice for last words.
+vocs_over_over_finalcastle_revenge3_n01=Một lời trăn trối bần cùng.
+
+// SPEAKER: BROGUN
+// So I shall die at the hands of a woman. Very well. Do what you must.
+vocs_over_over_finalcastle_revenge3_n02=Vậy tao sẽ chết dưới tay của một mụ đàn bà. Tốt thôi. Làm những gì mày cần phải làm đi.
+
+// SPEAKER: BROGUN
+// I will not be killed by the hands of a woman.
+vocs_over_over_finalcastle_revenge3_n02a=Tao sẽ không chết dưới tay của một mụ đàn bà.
+
+// SPEAKER: BROGUN
+// If I must die, I will do so by my own hand.
+vocs_over_over_finalcastle_revenge3_n03a=Nếu phải chết, tao sẽ tự xử bằng chính bàn tay của tao.
+
+// SPEAKER: NINJA
+// Oshiro Mugen sends his regards...
+vocs_over_over_finalcastle_revenge4_n00=Oshiro Mugen gửi tới sự trân trọng của anh ấy...
+
+// SPEAKER: TRAPPER
+// My name is Yuki. I am not a child.
+vocs_over_over_finalcastle_revenge4_n01=Tôi tên là Yuki. Tôi không phải là một đứa nhóc.
+
+// SPEAKER: GEISHA
+// We all wept for Mugen. No one will weep for you.
+vocs_over_over_finalcastle_revenge4_n02=Bọn tao đều khóc vì Mugen. Những sẽ không có ai sẽ khóc vì mày.
+
+// SPEAKER: BROGUN
+// I shall commit Seppuku.
+vocs_over_over_finalcastle_revenge5_n03=Tao phải thực hiện Seppuku.
+
+// SPEAKER: BROGUN
+// *deathsound*
+vocs_over_over_finalcastle_revenge5_n04=*âm thanh chết*
+
+// SPEAKER: NINJA
+// Good riddance.
+vocs_over_over_finalcastle_revenge5_n05=Tự do muôn năm.
+
+// SPEAKER: TRAPPER
+// It's over. He's gone.
+vocs_over_over_finalcastle_revenge5_n06=Kết thúc rồi. Hắn đã dẹo.
+
+// SPEAKER: GEISHA
+// It was more than you deserved.
+vocs_over_over_finalcastle_revenge5_n07=Nó quá nhiều để xứng đáng với mày.
+
+// SPEAKER: ALCHEMIST
+// In the cicada's cry...no sign can foretell...how soon it must die.
+vocs_over_over_finalcastle_debriefing_n00=Khi con ve sầu khóc...có thể không có dấu hiệu báo trước...nhưng rồi sau đó nó phải chết.
+
+// SPEAKER: GEISHA
+// It is done.
+vocs_over_over_finalcastle_debriefing_n01=Mọi chuyện đã kết thúc.
+
+// SPEAKER: TRAPPER
+// What now?
+vocs_over_over_finalcastle_debriefing_n03=Giờ làm gì tiếp theo?
+
+// SPEAKER: NINJA
+// We should leave, before anyone starts looking for us.
+vocs_over_over_finalcastle_debriefing_n04=Phải rời khỏi đây, trước khi họ bắt đầu truy lùng chúng ta.
+
+// SPEAKER: TRAPPER
+// Takuma-sensei!
+vocs_over_over_finalcastle_debriefing_n05=Takuma-sensei!
+
+// SPEAKER: ALCHEMIST
+// Yuki-chan! Good to see we've all made it out safely.
+vocs_over_over_finalcastle_debriefing_n06=Yuki-chan! Thật tốt khi thấy tất cả kết thúc mọi chuyện trong an toàn.
+
+// SPEAKER: NINJA
+// What is going to happen now?
+vocs_over_over_finalcastle_debriefing_n07=Giờ tính thế nào đây?
+
+// SPEAKER: GEISHA
+// That depends. I, for one, will return to the Shogun.
+vocs_over_over_finalcastle_debriefing_n08=Còn tùy. Tôi, mình tôi, sẽ quay về Mạc Chúa.
+
+// SPEAKER: TRAPPER
+// A-a...and we're not?
+vocs_over_over_finalcastle_debriefing_n09=A-a...sao không phải tất cả?
+
+// SPEAKER: GEISHA
+// I believe the choice is up to you. We did as the Shogun commanded, but we did so because of Mugen.
+vocs_over_over_finalcastle_debriefing_n10=Chị tin là em đã có lựa chọn cho riêng mình. Chúng ta làm như lệnh của Mạc Chúa, nhưng thực ra là dành cho Mugen.
+
+// SPEAKER: NINJA
+// I...I guess you're right. It won't be the same.
+vocs_over_over_finalcastle_debriefing_n11=Tôi...tôi đoán cô đã đúng. Hai vấn đề này không hề liên quan tới nhau.
+
+// SPEAKER: GEISHA
+// I have come to enjoy our companionship. I would rather say goodbye on my own than see us drawn apart by circumstance.
+vocs_over_over_finalcastle_debriefing_n12=Tôi đã tận hưởng những giây phút đồng hành cùng mọi người. Giờ tôi thà nói lời từ biệt còn hơn là thấy chúng ta chia ly vì hoàn cảnh.
+
+// SPEAKER: ALCHEMIST
+// Now, there is wisdom in that.
+vocs_over_over_finalcastle_debriefing_n13=Có sự ngôn ngoan ở trong đó.
+
+// SPEAKER: TRAPPER
+// What about you, Aiko-san? Won't the Shogun be angry with you if we don't come too?
+vocs_over_over_finalcastle_debriefing_n14=Còn chị thì sao, Aiko-san? Mạc Chúa sẽ không nổi giận với chị nếu chúng ta không cùng tới đó chứ?
+
+// SPEAKER: GEISHA
+// Do not fear, Yuki-chan. I still have something to offer him. I hope he will forgive this minor disobedience.
+vocs_over_over_finalcastle_debriefing_n15=Đừng sợ, Yuki-chan. Chị vẫn còn một số thứ để cung cấp cho ngài ấy. Chị hi vọng ngài ấy sẽ tha thứ vì sự bất kính nhỏ nhoi này.
+
+// SPEAKER: NINJA
+// So...it is farewell, then?
+vocs_over_over_finalcastle_debriefing_n16=Vậy...đây là vĩnh biệt sao?
+
+// SPEAKER: ALCHEMIST
+// Hm, the road ahead is long...
+vocs_over_over_finalcastle_debriefing_n17=Hm, con đường phía trước còn dài...
+
+// SPEAKER: ALCHEMIST
+// Why not travel together for a bit, and say goodbye along the way?
+vocs_over_over_finalcastle_debriefing_n18=Sao không đi cùng nhau một lúc, rồi nói lời từ biệt trên đường?
+
+// SPEAKER: TRAPPER
+// Oh yes! Please, can we do that, Aiko-san? Please say yes!
+vocs_over_over_finalcastle_debriefing_n19=Oh đúng đó! Làm ơn, chúng ta có thể làm thế, Aiko-san? Làm ơn nói có đi chị!
+
+// SPEAKER: GEISHA
+// Hehe, I have no objection. What about you, Hayato-san?
+vocs_over_over_finalcastle_debriefing_n20=Hehe, không phản đối. Còn anh thì sao, Hayato-san?
+
+// SPEAKER: NINJA
+// Sure. No one else around to keep an eye on you...
+vocs_over_over_finalcastle_debriefing_n21=Chắc rồi. Không còn ai khác quanh đây để cô nhìn đâu...
+
+// SPEAKER: NINJA
+// Eh...I think I can make some room in my schedule...
+vocs_over_over_finalcastle_debriefing_n22=Eh...Tôi nghĩ tôi có thể dành chút thời gian với mọi người...
+
+// SPEAKER: NINJA
+// Sure. What would you do without me...?
+vocs_over_over_finalcastle_debriefing_n23=Chắc rồi. Liệu cô sẽ làm gì nếu không có tôi...?
+
+// SPEAKER: NINJA
+// Heh. All right. Why not. Lead the way...
+vocs_over_over_finalcastle_debriefing_n24=Heh. Được thôi. Tại sao không. Dẫn đường đi...
+
+// SPEAKER: ALCHEMIST
+// In the cicada's cry...no sign can foretell...how soon it must die.
+vocs_over_over_finalcastle_debriefing1a_n00=Khi con ve sầu khóc...có thể không có dấu hiệu báo trước...nhưng rồi sau đó nó phải chết.
+
+// SPEAKER: GEISHA
+// It is done.
+vocs_over_over_finalcastle_debriefing1a_n01=Nó đã xong.
+
+// SPEAKER: TRAPPER
+// What now?
+vocs_over_over_finalcastle_debriefing1a_n03=Giờ làm gì tiếp theo?
+
+// SPEAKER: NINJA
+// We'd better leave, before anyone starts looking for us.
+vocs_over_over_finalcastle_debriefing1a_n04=Phải rời khỏi đây, trước khi họ bắt đầu truy lùng chúng ta.
+
+// SPEAKER: TRAPPER
+// Takuma-sensei!
+vocs_over_over_finalcastle_debriefing1a_n05=Takuma-sensei!
+
+// SPEAKER: ALCHEMIST
+// Yuki-chan! Good to see we've all made it out safely.
+vocs_over_over_finalcastle_debriefing1a_n06=Yuki-chan! Thật tốt khi thấy tất cả kết thúc mọi chuyện trong an toàn.
+
+// SPEAKER: GEISHA
+// We have fulfilled our duty. Now all that's left is to report back to the Shogun.
+vocs_over_over_finalcastle_debriefing1a_n07=Chúng ta đã hoàn thành nhiệm vụ. Giờ việc tất cả cần làm là quay về báo cáo cho Mạc Chúa.
+
+// SPEAKER: NINJA
+// I...don't think I'll be coming.
+vocs_over_over_finalcastle_debriefing1a_n08=Tôi...không nghĩ là sẽ đi cùng.
+
+// SPEAKER: TRAPPER
+// Huh? W-...why not? We did what the Shogun wanted, right?
+vocs_over_over_finalcastle_debriefing1a_n09=Huh? T-...Tại sao ạ? Chúng ta đã hoàn thành thứ mà Mạc chúa cần, đúng không?
+
+// SPEAKER: NINJA
+// I didn't do this for the Shogun. I did it for us, and...you know.
+vocs_over_over_finalcastle_debriefing1a_n10=Anh không làm cho Mạc chúa. Em biết đấy, anh làm là vì tất cả chúng ta.
+
+// SPEAKER: NINJA
+// Don't get me wrong—I have nothing against you all. But from here on...
+vocs_over_over_finalcastle_debriefing1a_n11=Đừng hiểu lầm anh. Anh không phản đối mọi người. Nhưng từ đây...
+
+// SPEAKER: GEISHA
+// ...it would not be the same. I understand, Hayato-san.
+vocs_over_over_finalcastle_debriefing1a_n12=...hai vấn đề này không hề liên quan tới nhau. Tôi hiểu, Hayato-san.
+
+// SPEAKER: ALCHEMIST
+// Then maybe we should follow Hayato's example, Yuki-chan. 
+vocs_over_over_finalcastle_debriefing1a_n13=Vậy chúng ta cũng nên làm theo Hayato, Yuki-chan.
+
+// SPEAKER: TRAPPER
+// But...won't the Shogun be looking for us?
+vocs_over_over_finalcastle_debriefing1a_n14=Nhưng...Mạc chúa sẽ không tìm chúng ta ư?
+
+// SPEAKER: GEISHA
+// Do not fear, Yuki-chan. I will still report to the Shogun. I have an offer to make him. If he accepts it, he might forgive this minor disobedience.
+vocs_over_over_finalcastle_debriefing1a_n15=Đừng lo, Yuki-chan. Chị vẫn sẽ báo cáo với Mạc Chúa. Chị có một thứ cho ngài ấy. Nếu ngài ấy đồng ý, ngài ấy sẽ tha thứ cho sự bất kính nhỏ nhoi này.
+
+// SPEAKER: TRAPPER
+// So...we say goodbye, now?
+vocs_over_over_finalcastle_debriefing1a_n16=Vậy...giờ chúng ta nói lời từ biệt sao?
+
+// SPEAKER: ALCHEMIST
+// The road ahead is long...
+vocs_over_over_finalcastle_debriefing1a_n17=Hm, con đường phía trước còn dài...
+
+// SPEAKER: ALCHEMIST
+// Why not travel together a bit longer, and say goodbye along the way?
+vocs_over_over_finalcastle_debriefing1a_n18=Sao không đi cùng nhau một lúc, rồi nói lời từ biệt trên đường?
+
+// SPEAKER: TRAPPER
+// Oh yes! Can we do that, Aiko-san? Please, please say yes!
+vocs_over_over_finalcastle_debriefing1a_n19=Oh đúng đó! Làm ơn, chúng ta có thể làm thế, Aiko-san? Làm ơn nói có đi chị!
+
+// SPEAKER: GEISHA
+// Hehe, I have no objection. What about you, Hayato-san?
+vocs_over_over_finalcastle_debriefing1a_n20=Hehe, không phản đối. Còn anh thì sao, Hayato-san?
+
+// SPEAKER: NINJA
+// Oy...all right. I think I can put up with you for a few more miles...
+vocs_over_over_finalcastle_debriefing1a_n21=Oy...được rồi. Tôi nghĩ tôi có thể đi cùng mọi người thêm vài dặm...
+

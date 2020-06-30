@@ -1,0 +1,508 @@
+// SPEAKER: General
+// 
+vo_eny_eny_general_death_scream_00=
+
+// SPEAKER: General
+// 
+vo_eny_eny_general_death_scream_01=
+
+// SPEAKER: General
+// 
+vo_eny_eny_general_death_scream_02=
+
+// SPEAKER: General
+// 
+vo_eny_eny_general_death_scream_03=
+
+// SPEAKER: General
+// 
+vo_eny_eny_general_death_scream_muffled_00=
+
+// SPEAKER: General
+// 
+vo_eny_eny_general_death_scream_muffled_01=
+
+// SPEAKER: General
+// 
+vo_eny_eny_general_death_scream_muffled_02=
+
+// SPEAKER: General
+// 
+vo_eny_eny_general_death_scream_muffled_03=
+
+// SPEAKER: General
+// 
+vo_eny_eny_general_death_scream_muffled_04=
+
+// SPEAKER: General
+// She's dead!
+vo_eny_eny_general_detect_corpse_female_00=Ả ta đã chết!
+
+// SPEAKER: General
+// They killed her!
+vo_eny_eny_general_detect_corpse_female_01=Chúng đã giết ả ta!
+
+// SPEAKER: General
+// He's dead!
+vo_eny_eny_general_detect_corpse_male_00=Thằng này đã chết!
+
+// SPEAKER: General
+// They killed him!
+vo_eny_eny_general_detect_corpse_male_01=Chúng đã giết thằng này!
+
+// SPEAKER: General
+// Murder!
+vo_eny_eny_general_detect_corpse_neutral_00=Có người chết!
+
+// SPEAKER: General
+// Assassins!
+vo_eny_eny_general_detect_corpse_neutral_01=Sát thủ!
+
+// SPEAKER: General
+// The light went out...
+vo_eny_eny_general_detect_lightsource_00=Lửa đã tắt...
+
+// SPEAKER: General
+// Did the wind kill the flame?
+vo_eny_eny_general_detect_lightsource_01=Gió đã thổi tắt lửa hả?
+
+// SPEAKER: General
+// That light should be burning.
+vo_eny_eny_general_detect_lightsource_02=Lửa cần được thắp lại.
+
+// SPEAKER: General
+// Was someone careless with the lamp?
+vo_eny_eny_general_detect_lightsource_03=Thằng lính nào không canh chừng ngọn lửa này?
+
+// SPEAKER: General
+// The fire died...
+vo_eny_eny_general_detect_lightsource_04=Lửa đã tàn...
+
+// SPEAKER: General
+// I see you!
+vo_eny_eny_general_detect_player_00=Tao thấy mày rồi!
+
+// SPEAKER: General
+// There you are!
+vo_eny_eny_general_detect_player_01=Hắn ở đây!
+
+// SPEAKER: General
+// Die, scum!
+vo_eny_eny_general_detect_player_02=Chết đi đồ cặn bã!
+
+// SPEAKER: General
+// Now I have you!
+vo_eny_eny_general_detect_player_03=Tao đã tóm được mày!
+
+// SPEAKER: General
+// Your life is mine!
+vo_eny_eny_general_detect_player_04=Mạng mày giờ thuộc về tao!
+
+// SPEAKER: General
+// I will take your head!
+vo_eny_eny_general_detect_player_05=Tao sẽ lấy đầu mày!
+
+// SPEAKER: General
+// Ha! You fool.
+vo_eny_eny_general_detect_player_kill_00=Ha! Thằng ngu.
+
+// SPEAKER: General
+// Ha! Coward!
+vo_eny_eny_general_detect_player_kill_01=Ha! Hèn nhát!
+
+// SPEAKER: General
+// Ha! Weakling.
+vo_eny_eny_general_detect_player_kill_02=Ha! Kẻ yếu đuối.
+
+// SPEAKER: General
+// Ha! You are no samurai.
+vo_eny_eny_general_detect_player_kill_03=Heh. Mày không phải samurai.
+
+// SPEAKER: General
+// Ha! You are no match for me.
+vo_eny_eny_general_detect_player_kill_04=Ha! Mày không phù hợp với tao.
+
+// SPEAKER: General
+// Something is wrong...
+vo_eny_eny_general_detect_player_proximity_00=Có gì đó sai sai...
+
+// SPEAKER: General
+// Strange, it feels like...
+vo_eny_eny_general_detect_player_proximity_01=Kỳ lạ thật...nó cảm giác như...
+
+// SPEAKER: General
+// Wait...is someone...
+vo_eny_eny_general_detect_player_proximity_02=Chờ đã...có ai đó...
+
+// SPEAKER: General
+// Someone is skulking about...
+vo_eny_eny_general_detect_player_proximity_03=Tao chắc chắn có ai đó ở đây...
+
+// SPEAKER: General
+// Sake, hm? ...I have my own.
+vo_eny_eny_general_detect_sake_00=Sa kê, hm? ...Mình có rồi.
+
+// SPEAKER: General
+// Sake? Hrm...low quality swill.
+vo_eny_eny_general_detect_sake_01=Sa kê? ...hrm, loại cùi bắp ấy mà.
+
+// SPEAKER: General
+// Only a peasant would bow down for sake.
+vo_eny_eny_general_detect_sake_02=Heh, chỉ xứng đáng với lũ bần nông.
+
+// SPEAKER: General
+// Filthy creature. You can't fool me.
+vo_eny_eny_general_detect_tanuki_00=Con vật thối. Mày không thể lừa được tao.
+
+// SPEAKER: General
+// Hah! Is this supposed to scare me?
+vo_eny_eny_general_detect_tanuki_01=Hah! Mày đang dọa tao hả?
+
+// SPEAKER: General
+// Eh? That will not work...
+vo_eny_eny_general_detect_trap_00=Eh? Thứ này không hiệu quả với mình...
+
+// SPEAKER: General
+// Hah! You must take me for a fool!
+vo_eny_eny_general_detect_trap_01=Hah! Mày đang khiến tao trở thành thằng ngốc ư!
+
+// SPEAKER: General
+// I will crush this little plaything.
+vo_eny_eny_general_detect_trap_02=Tao sẽ nghiền nát thứ này.
+
+// SPEAKER: General
+// He is unconscious.
+vo_eny_eny_general_detect_unconscious_male_00=Anh ta bất tỉnh.
+
+// SPEAKER: General
+// He's been hit!
+vo_eny_eny_general_detect_unconscious_male_01=Anh ta bị đánh!
+
+// SPEAKER: General
+// He's been attacked.
+vo_eny_eny_general_detect_unconscious_male_02=Anh ta bị tấn công.
+
+// SPEAKER: General
+// What happened?
+vo_eny_eny_general_detect_unconscious_neutral_00=Chuyện gì đã xảy ra?
+
+// SPEAKER: General
+// You! Who attacked you?
+vo_eny_eny_general_detect_unconscious_neutral_01=Ngươi! Ai đã đánh ngươi?
+
+// SPEAKER: General
+// Stand up!
+vo_eny_eny_general_detect_unconscious_neutral_02=Đứng lên!
+
+// SPEAKER: General
+// How dare he leave his post!
+vo_eny_eny_general_friend_missing_male_00=Sao cô ấy bắt mình phải chờ nhỉ!
+
+// SPEAKER: General
+// Where is he?!
+vo_eny_eny_general_friend_missing_male_01=Anh ta đâu rồi?
+
+// SPEAKER: General
+// He is missing!
+vo_eny_eny_general_friend_missing_male_02=Anh ta bị mất tích!
+
+// SPEAKER: General
+// Hey! Wake up!
+vo_eny_eny_general_friend_wakeup_00=Hey! Dậy đi!
+
+// SPEAKER: General
+// Get up!
+vo_eny_eny_general_friend_wakeup_01=Dậy ngay!
+
+// SPEAKER: General
+// You all right?
+vo_eny_eny_general_friend_wakeup_02=Có sao không?
+
+// SPEAKER: General
+// What happened to you?
+vo_eny_eny_general_friend_wakeup_03=Có chuyện khỉ gì vậy?
+
+// SPEAKER: General
+// On your feet!
+vo_eny_eny_general_friend_wakeup_04=Đứng dậy!
+
+// SPEAKER: General
+// Huh?!
+vo_eny_eny_general_hear_noise_00=Huh?!
+
+// SPEAKER: General
+// What was that?
+vo_eny_eny_general_hear_noise_01=Cái gì thế?
+
+// SPEAKER: General
+// I heard something...
+vo_eny_eny_general_hear_noise_02=Mình nghe thấy gì đó...
+
+// SPEAKER: General
+// Strange sound...
+vo_eny_eny_general_hear_noise_03=Tiếng động lớn...
+
+// SPEAKER: General
+// That noise...
+vo_eny_eny_general_hear_noise_04=Đó là...tiếng ồn...
+
+// SPEAKER: General
+// Hrm! How dare you, coward?!
+vo_eny_eny_general_hear_noise_directhit_00=Hrm! Sao mày dám, đồ hèn!
+
+// SPEAKER: General
+// Hrm! You will suffer for this!
+vo_eny_eny_general_hear_noise_directhit_01=Hrm! Mày sẽ phải trả giá!
+
+// SPEAKER: General
+// Hrm! That will cost you dearly!
+vo_eny_eny_general_hear_noise_directhit_02=Hrm! Mày sẽ phải trả giá đắt!
+
+// SPEAKER: General
+// Hrm! You have achieved nothing, fool!
+vo_eny_eny_general_hear_noise_directhit_03=Hrm! Mày không làm được gì cả, đồ ngu!
+
+// SPEAKER: General
+// That was no rifle. They are here!
+vo_eny_eny_general_hear_noise_gunshot_00=Đây không phải là súng trường. Chúng ở đây!
+
+// SPEAKER: General
+// Shots fired! They are here!
+vo_eny_eny_general_hear_noise_gunshot_01=Tiếng súng bắn! Chúng ở đây!
+
+// SPEAKER: General
+// Hah! You have revealed yourself!
+vo_eny_eny_general_hear_noise_gunshot_02=Hah! Mày đã tự lộ diện ra rồi!
+
+// SPEAKER: General
+// Someone there?
+vo_eny_eny_general_hear_noise_human_00=Có ai đó ở đây?
+
+// SPEAKER: General
+// Who goes there?
+vo_eny_eny_general_hear_noise_human_01=Có ai đó đến đây?
+
+// SPEAKER: General
+// I heard that!
+vo_eny_eny_general_hear_noise_human_02=Tao nghe thấy rồi!
+
+// SPEAKER: General
+// Who is making noise?
+vo_eny_eny_general_hear_noise_human_03=Đứa nào làm ồn?
+
+// SPEAKER: General
+// Who hides in the shadows?
+vo_eny_eny_general_hear_noise_human_04=Thằng nào nấp trong bóng tối?
+
+// SPEAKER: General
+// Who is this?
+vo_eny_eny_general_hear_noise_human_05=Ai đó?
+
+// SPEAKER: General
+// You are testing my patience.
+vo_eny_eny_general_hear_noise_too_much_00=Mày đang kiểm tra sự kiên nhẫn của tao hả.
+
+// SPEAKER: General
+// You will pay for this.
+vo_eny_eny_general_hear_noise_too_much_01=Oh, mày sẽ phải trả giá!
+
+// SPEAKER: General
+// Show yourself, coward!
+vo_eny_eny_general_hear_noise_too_much_02=Lộ mặt đi, đồ hèn!
+
+// SPEAKER: General
+// Play your games while you can, fool.
+vo_eny_eny_general_hear_noise_too_much_03=Mày lừa tao chỉ khi mày có thể.
+
+// SPEAKER: General
+// You must think I'm a fool!
+vo_eny_eny_general_ignore_distraction_00=Mày nghĩ tao ngu lắm hả!
+
+// SPEAKER: General
+// Hah! That will not work on me!
+vo_eny_eny_general_ignore_distraction_01=Hah! Nó không hiệu quả với tao đâu!
+
+// SPEAKER: General
+// This is absurd! Fight!
+vo_eny_eny_general_ignore_distraction_02=Quá vô lý! Chiến đấu đi!
+
+// SPEAKER: General
+// Hah! Hiding in the bushes?!
+vo_eny_eny_general_investigate_bush_00=Ha! Nấp trong bụi cây hả?!
+
+// SPEAKER: General
+// You cannot hide from me!
+vo_eny_eny_general_investigate_bush_01=Mày không thể trốn tao đâu!
+
+// SPEAKER: General
+// You cannot fool me!
+vo_eny_eny_general_investigate_bush_02=Mày không thể lừa được tao!
+
+// SPEAKER: General
+// Hrm! Crawling through the thicket?
+vo_eny_eny_general_investigate_bush_03=Huh? Thu thập thông tin từ bụi cây hả?
+
+// SPEAKER: General
+// The brush will not protect you.
+vo_eny_eny_general_investigate_bush_04=Bụi cây không thể bảo vệ mày!
+
+// SPEAKER: General
+// I will drag you out of there.
+vo_eny_eny_general_investigate_door_00=Tao sẽ lôi mày ra khỏi đó.
+
+// SPEAKER: General
+// I know you are inside!
+vo_eny_eny_general_investigate_door_01=Tao biết mày ở trong đấy!
+
+// SPEAKER: General
+// You will find no safety inside.
+vo_eny_eny_general_investigate_door_02=Mày nghĩ mày an toàn khi ở đây hả?
+
+// SPEAKER: General
+// Fine! This will be your grave.
+vo_eny_eny_general_investigate_door_03=Được thôi! Chỗ này sẽ là mộ của mày.
+
+// SPEAKER: General
+// This is not over.
+vo_eny_eny_general_investigate_end_00=Đây không phải là kết thúc.
+
+// SPEAKER: General
+// They will return.
+vo_eny_eny_general_investigate_end_01=Chúng sẽ quay lại.
+
+// SPEAKER: General
+// I am waiting, cowards!
+vo_eny_eny_general_investigate_end_02=Tao vẫn đang chờ mày, đồ hèn!
+
+// SPEAKER: General
+// Yes, run away!
+vo_eny_eny_general_investigate_end_03=Đúng, bỏ chạy đi!
+
+// SPEAKER: General
+// Where are you?!
+vo_eny_eny_general_investigate_start_00=Mày ở đâu?!
+
+// SPEAKER: General
+// Cowards!
+vo_eny_eny_general_investigate_start_01=Hèn nhát!
+
+// SPEAKER: General
+// I know you're here!
+vo_eny_eny_general_investigate_start_02=Tao biết mày ở đây!
+
+// SPEAKER: General
+// Wait till I find you!
+vo_eny_eny_general_investigate_start_03=Sẽ chờ đến khi tao tìm thấy mày!
+
+// SPEAKER: General
+// Come forward!
+vo_eny_eny_general_investigate_start_04=Tiến lên phía trước!
+
+// SPEAKER: General
+// 
+vo_eny_eny_general_knockout_scream_00=
+
+// SPEAKER: General
+// 
+vo_eny_eny_general_knockout_scream_01=
+
+// SPEAKER: General
+// 
+vo_eny_eny_general_knockout_scream_02=
+
+// SPEAKER: General
+// ...they jumped me.
+vo_eny_eny_general_regain_consciousness_00=...chúng nhảy vào tao.
+
+// SPEAKER: General
+// ...they knocked me down!
+vo_eny_eny_general_regain_consciousness_01=...chúng đánh gục tao!
+
+// SPEAKER: General
+// ...a cowardly attack!
+vo_eny_eny_general_regain_consciousness_02=...một tấn công hèn nhát!
+
+// SPEAKER: General
+// How?!
+vo_eny_eny_general_see_flying_body_00=Làm thế nào?!
+
+// SPEAKER: General
+// Demons!
+vo_eny_eny_general_see_flying_body_01=Ác quỷ!
+
+// SPEAKER: General
+// Honorless killers!
+vo_eny_eny_general_see_flying_body_02=Kẻ giết người man rợ!
+
+// SPEAKER: General
+// What's this?!
+vo_eny_eny_general_see_flying_object_00=Cái...gì thế này?!
+
+// SPEAKER: General
+// Who did that?!
+vo_eny_eny_general_see_flying_object_01=Ai đã làm?!
+
+// SPEAKER: General
+// Is this madness part of their plan?!
+vo_eny_eny_general_see_flying_object_02=Đây là một phần trong kế hoạch điên rồ của chúng ư?!
+
+// SPEAKER: General
+// W...what?!
+vo_eny_eny_general_see_something_00=Cái gì?
+
+// SPEAKER: General
+// Hrm?
+vo_eny_eny_general_see_something_01=Hrm?
+
+// SPEAKER: General
+// Is...is that...
+vo_eny_eny_general_see_something_02=Cái...gì...
+
+// SPEAKER: General
+// Something...
+vo_eny_eny_general_see_something_03=Có gì đó...
+
+// SPEAKER: General
+// Hrm?!
+vo_eny_eny_general_see_something_04=Hrm?!
+
+// SPEAKER: General
+// ...firearms?! Cowards!
+vo_eny_eny_general_stun_end_00=...hỏa lực?! Lũ hèn nhát!
+
+// SPEAKER: General
+// ...you fools! I will break you!
+vo_eny_eny_general_stun_end_01=...thằng ngu! Tao sẽ hạ mày!
+
+// SPEAKER: General
+// You shot me! Now I cut you in half!
+vo_eny_eny_general_stun_end_02=Mày bắn tao! Giờ tao sẽ chẻ mày làm đôi!
+
+// SPEAKER: General
+// ...you thought that would kill me?!
+vo_eny_eny_general_stun_end_03=...mày nghĩ thứ đó có thể giết được tao hả?!
+
+// SPEAKER: General
+// ...assassins! Face me!
+vo_eny_eny_general_stun_end_04=...sát thủ! Đối mặt với tao coi!
+
+// SPEAKER: General
+// 
+vo_eny_eny_general_stun_scream_00=
+
+// SPEAKER: General
+// 
+vo_eny_eny_general_stun_scream_01=
+
+// SPEAKER: General
+// 
+vo_eny_eny_general_stun_scream_02=
+
+// SPEAKER: General
+// ...agh...you...
+vo_eny_eny_general_stun_scream_03=...agh...mày...
+
+// SPEAKER: General
+// ...ugh...cowards!...
+vo_eny_eny_general_stun_scream_04=...ugh...hèn nhát!...
+

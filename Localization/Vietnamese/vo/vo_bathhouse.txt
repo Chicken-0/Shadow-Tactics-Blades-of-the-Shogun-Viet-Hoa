@@ -1,0 +1,408 @@
+// SPEAKER: GEISHA
+// This city is beautiful at night. We will find ample shadows here—don't you think, Hayato-san?
+vocs_over_over_bathhouse_briefing_n00=Thành phố này rất đẹp về đêm. Sẽ có nhiều góc tối để ẩn nấp lắm đây.—anh nghĩ thế không, Hayato-san?
+
+// SPEAKER: NINJA
+// ...hmph. Let's get on with it.
+vocs_over_over_bathhouse_briefing_n01=...hmph. Hãy về với nó.
+
+// SPEAKER: GEISHA
+// As you wish.
+vocs_over_over_bathhouse_briefing_n02=Như anh muốn.
+
+// SPEAKER: GEISHA
+// We must avoid the streets. No doubt Noboru's men are looking for us.
+vocs_over_over_bathhouse_briefing_n03=Tránh mấy con đường. Chắc chắn lính Noboru đang lùng chúng ta.
+
+// SPEAKER: NINJA
+// Hrm...
+vocs_over_over_bathhouse_briefing_n04=Hrm...
+
+// SPEAKER: GEISHA
+// Masaru's residence is in this district. Let us listen in on his men.
+vocs_over_over_bathhouse_briefing_n05=Masaru hẳn là đang ở quanh khu này. Chúng ta hãy nghe lén người của hắn.
+
+// SPEAKER: GEISHA
+// I am certain they will tell us where to find him.
+vocs_over_over_bathhouse_briefing_n06=Chắc chắn chúng sẽ tiết lộ vị trí của nó.
+
+// SPEAKER: GEISHA
+// I'd prefer having a disguise when listening in.
+vocs_over_over_bathhouse_briefing_n07=Tui muốn ngụy trang khi nghe lén.
+
+// SPEAKER: GEISHA
+// I need a suitable Kimono.
+vocs_over_over_bathhouse_briefing_n08=Tui cần bộ Kimono.
+
+// SPEAKER: NINJA
+// Whatever. Let's get on with it.
+vocs_over_over_bathhouse_briefing_n09=Bất cứ thứ gì. Hãy lấy nó đi.
+
+// SPEAKER: GEISHA
+// Very well.
+vocs_over_over_bathhouse_briefing_n10=Được rồi.
+
+// SPEAKER: NINJA
+// Red lights...
+vocs_over_over_bathhouse_redlight_n00=Ánh sáng đỏ...
+
+// SPEAKER: GEISHA
+// The hanamachi. This brings back memories.
+vocs_over_over_bathhouse_redlight_n01=Khu đèn đỏ. Nó gợi cho tui nhiều ký ức.
+
+// SPEAKER: NINJA
+// Hrm...
+vocs_over_over_bathhouse_redlight_n02=Hrm...
+
+// SPEAKER: CIVILIAN M
+// Why not here?
+vo_hint_hint_bathhouse_hanamachi2_n00=Tại sao không?
+
+// SPEAKER: CIVILIAN F
+// Please, it is not customary.
+vo_hint_hint_bathhouse_hanamachi2_n01=Làm ơn, không bình thường tẹo nào đâu.
+
+// SPEAKER: CIVILIAN M
+// I have money.
+vo_hint_hint_bathhouse_hanamachi2_n02=Anh có tiền.
+
+// SPEAKER: CIVILIAN F
+// Then speak with the mistress of the house.
+vo_hint_hint_bathhouse_hanamachi2_n03=Vậy thì bảo với tú bà ấy.
+
+// SPEAKER: CIVILIAN M
+// Am I not good enough?
+vo_hint_hint_bathhouse_hanamachi2_n04=Anh không đủ tốt ư?
+
+// SPEAKER: CIVILIAN F
+// It is not for me to say.
+vo_hint_hint_bathhouse_hanamachi2_n05=Chuẩn cmnr đấy.
+
+// SPEAKER: NINJA
+// Guards...
+vocs_over_over_bathhouse_residential_n00=Lính canh...
+
+// SPEAKER: GEISHA
+// Middle-class households. With more guards than usual, I'd say.
+vocs_over_over_bathhouse_residential_n01=Hộ gia đình trung lưu. Với nhiều lính canh hơn bình thường. Tui nói rồi mà.
+
+// SPEAKER: NINJA
+// Hrm...
+vocs_over_over_bathhouse_residential_n02=Hrm...
+
+// SPEAKER: CIVILIAN M
+// Oh, these are dark times...
+vo_hint_hint_bathhouse_residential_n00=Oh, đây là thời khắc đen tối...
+
+// SPEAKER: CIVILIAN M
+// So it's true? The Shogun's son has been murdered?
+vo_hint_hint_bathhouse_residential_n01=Nó là thật? Con trai Mạc Chúa đã bị sát hại?
+
+// SPEAKER: CIVILIAN M
+// It's not safe to go outside.
+vo_hint_hint_bathhouse_residential_n02=Thật không an toàn để đi ra ngoài.
+
+// SPEAKER: CIVILIAN M
+// I heard the Shogun is on his way to Kyōto.
+vo_hint_hint_bathhouse_residential_n03=Nghe nói Mạc Chúa đang trên đường tới Kyōto.
+
+// SPEAKER: CIVILIAN M
+// I see they are looking for the killers.
+vo_hint_hint_bathhouse_residential_n04=Họ đang tìm kẻ giết người.
+
+// SPEAKER: CIVILIAN M
+// Did you know Lord Noboru's son is here?
+vo_hint_hint_bathhouse_residential_n05=Có biết con trai lãnh chúa Noboru đang ở đây không?
+
+// SPEAKER: CIVILIAN M
+// Be wary. Keep away from dark alleys.
+vo_hint_hint_bathhouse_residential_n06=Đề cao cảnh giác. Tránh xa mấy hẻm tối.
+
+// SPEAKER: CIVILIAN F
+// Dark times.
+vo_hint_hint_bathhouse_residential_n07=Thời khắc đen tối.
+
+// SPEAKER: CIVILIAN F
+// The Shogun's son has been murdered.
+vo_hint_hint_bathhouse_residential_n08=Con trai Mạc Chúa đã bị sát hại.
+
+// SPEAKER: CIVILIAN F
+// It is not safe to go outside.
+vo_hint_hint_bathhouse_residential_n09=Thật không an toàn để đi ra ngoài.
+
+// SPEAKER: CIVILIAN F
+// I hear the Shogun is on his way to Kyōto.
+vo_hint_hint_bathhouse_residential_n10=Nghe nói Mạc Chúa đang trên đường tới Kyōto.
+
+// SPEAKER: CIVILIAN F
+// They are looking for the killers.
+vo_hint_hint_bathhouse_residential_n11=Họ đang tìm kẻ giết người.
+
+// SPEAKER: CIVILIAN F
+// Lord Noboru's son is here.
+vo_hint_hint_bathhouse_residential_n12=Con trai lãnh chúa Noboru đang ở đây.
+
+// SPEAKER: CIVILIAN F
+// If I were you, I'd keep away from dark alleys.
+vo_hint_hint_bathhouse_residential_n13=Nếu tôi là cậu, tôi sẽ tránh xa mấy hẻm tối.
+
+// SPEAKER: NINJA
+// Busy...
+vocs_over_over_bathhouse_wanted_n00=Bận rộn...
+
+// SPEAKER: GEISHA
+// I suspect that guards here have been doubled since Noboru learned of our escape.
+vocs_over_over_bathhouse_wanted_n01=Tui nghi ngờ lũ lính canh ở đây tăng gấp đôi kể từ khi lãnh chúa Noboru biết được chúng ta trốn thoát.
+
+// SPEAKER: NINJA
+// Mmhm.
+vocs_over_over_bathhouse_wanted_n02=Mmhm.
+
+// SPEAKER: GEISHA
+// That will do fine. Let us continue.
+vocs_over_over_bathhouse_disguise_n00=Chuyện đó sẽ tốt thôi. Tiếp tục nào.
+
+// SPEAKER: NINJA
+// Mmhm.
+vocs_over_over_bathhouse_disguise_n01=Mmhm.
+
+// SPEAKER: GEISHA
+// You have been quiet lately, Hayato-san.
+vocs_over_over_bathhouse_disguise_n02=Sao gần đây anh im lặng vậy, Hayato-san.
+
+// SPEAKER: NINJA
+// ...best I can do. No idea how you can be so calm, like nothing happened.
+vocs_over_over_bathhouse_disguise_n03=...thứ tốt nhất tôi có thể làm. Cạn lời bởi vì cô giữ được bình tĩnh, như chưa có chuyện gì xảy ra.
+
+// SPEAKER: GEISHA
+// I was forced to master my emotions at a very young age. I am sorry if it bothers you.
+vocs_over_over_bathhouse_disguise_n04=Tui đã bị ép phải làm chủ cảm xúc của mình từ hồi còn trẻ. Tui xin lỗi nếu nó làm phiên anh.
+
+// SPEAKER: NINJA
+// Got it.
+vocs_over_over_bathhouse_info_n00=Hiểu rồi.
+
+// SPEAKER: GEISHA
+// So he's in that place... Hayato-san, let us find a safe spot and discuss what we have learned.
+vocs_over_over_bathhouse_info_n01=Vậy nó ở đó... Hayato-san, hãy tìm vị trí an toàn và thỏa luận về thứ chúng ta nghe lén được.
+
+// SPEAKER: NINJA
+// Mmhm.
+vocs_over_over_bathhouse_info_n02=Mmhm.
+
+// SPEAKER: GEISHA
+// It appears that Masaru is enjoying himself at the public bathhouse.
+vocs_over_over_bathhouse_unveil_n00=Chúng nói rằng Masaru đang tận hưởng bản thân ở nhà tắm công cộng.
+
+// SPEAKER: NINJA
+// Hrm... Bastard.
+vocs_over_over_bathhouse_unveil_n01=Hrm... Tên khốn.
+
+// SPEAKER: GEISHA
+// No doubt he will have protection. Let us observe his movements. We may find an opportunity to isolate him from his entourage.
+vocs_over_over_bathhouse_unveil_n02=Nó được lính bảo vệ. Hãy quan sát mọi chuyển động của nó. Rồi sẽ có cơ hội để nhập vào đoàn tùy tùng.
+
+// SPEAKER: GEISHA
+// After we take him, we must make a swift exit. I suggest we take the canal.
+vocs_over_over_bathhouse_unveil_n03=Sau khi tóm được nó, phải có một lối thoát thật nhanh. Chắc là con kênh rồi.
+
+// SPEAKER: NINJA
+// So let's go.
+vocs_over_over_bathhouse_unveil_n04=Vậy đi thôi.
+
+// SPEAKER: CIVILIAN M
+// Ahhh...
+vo_hint_hint_bathhouse_relax_n00=Ahhh...
+
+// SPEAKER: CIVILIAN M
+// Mmm...
+vo_hint_hint_bathhouse_relax_n01=Mmm...
+
+// SPEAKER: CIVILIAN M
+// Ooh! Ooh! Oooh...
+vo_hint_hint_bathhouse_relax_n02=Ooh! Ooh! Oooh...
+
+// SPEAKER: CIVILIAN M
+// Hmm...sake?
+vo_hint_hint_bathhouse_relax_n03=Hmm...sa kê?
+
+// SPEAKER: CIVILIAN M
+// Agh... Ahhh...
+vo_hint_hint_bathhouse_relax_n04=Agh... Ahhh...
+
+// SPEAKER: CIVILIAN M
+// Oh... Oh, yes! That's it!
+vo_hint_hint_bathhouse_relax_n05=Oh... Oh, đúng! Chỗ đó!
+
+// SPEAKER: CIVILIAN M
+// Right there!
+vo_hint_hint_bathhouse_relax_n06=Đúng rồi!
+
+// SPEAKER: CIVILIAN M
+// Oooh... Ooh!
+vo_hint_hint_bathhouse_relax_n07=Oooh... Ooh!
+
+// SPEAKER: GEISHA
+// Very well. Let us proceed as planned.
+vocs_over_over_bathhouse_rage_n00=Tốt lắm. Hãy tiến hành như kế hoạch.
+
+// SPEAKER: NINJA
+// How do you do it, huh? All that talking, bowing, smiling, after all that happened. 
+vocs_over_over_bathhouse_rage_n01=Sao mà cô làm được, huh? Nói chuyện, cúi đầu, mỉm cười sau tất cả mọi chuyện đã xảy ra.
+
+// SPEAKER: NINJA
+// How do you do it, huh? How can you act like nothing happened?
+vocs_over_over_bathhouse_rage_n01a=Sao mà cô làm được, huh? Sao có thể hành động như chưa hề có gì xảy ra?
+
+// SPEAKER: GEISHA
+// If a woman does not surround herself with walls, she dies. All women learn this. If we must feel, we must do so in secret.
+vocs_over_over_bathhouse_rage_n02=Nếu một người phụ nữ không tự vây mình quanh những bức tường, cô ấy sẽ chết. Tất cả phụ nữ đều học nó. Ngay cả khi cảm xúc dâng trào, nó cũng phải kìm nén trong bí mật.
+
+// SPEAKER: NINJA
+// That's... I...I...I want to kill that bastard Masaru and his father!
+vocs_over_over_bathhouse_rage_n03=Nó... tôi...tôi...tôi muốn giết thằng khốn Masaru và cha nó!
+
+// SPEAKER: GEISHA
+// We cannot afford the luxury of rage, Hayato-san. Let my words be your walls. Reserve the cold hatred of revenge for when the time is right.
+vocs_over_over_bathhouse_rage_n04=Tụi mình không đủ khả năng để cơn thịnh nộ bùng phát, Hayato-san. Nhớ lời tui dựng lên bức tường cho riêng anh. Tích trữ lòng thù hận để trả thù vào đúng thời điểm.
+
+// SPEAKER: NINJA
+// ...damn...all right...I'll follow.
+vocs_over_over_bathhouse_rage_n05=...con bà nó...được rồi...tui sẽ theo.
+
+// SPEAKER: NINJA
+// Hm. Bathtubs.
+vocs_over_over_bathhouse_bathtubs1_n00=Hm. Bồn tắm.
+
+// SPEAKER: GEISHA
+// This must be where he takes his bath.
+vocs_over_over_bathhouse_bathtubs1_n01=Đây hẳn là nơi nó tắm.
+
+// SPEAKER: NINJA
+// Obviously. Where do they heat the water?
+vocs_over_over_bathhouse_bathtubs1_n02=Dĩ nhiên rồi. Mà chúng lấy nước nóng từ đâu nhỉ?
+
+// SPEAKER: NINJA
+// Servant brings hot water.
+vocs_over_over_bathhouse_hintbath_n00=Đầy tớ mang nước nóng.
+
+// SPEAKER: GEISHA
+// Why not tamper with the fire. Bring the water close to boiling.
+vocs_over_over_bathhouse_hintbath_n01=Tại sao ta không đun nước lên nhỉ. Để cho họ mang nước gần sôi ấy.
+
+// SPEAKER: NINJA
+// Heh... Good idea.
+vocs_over_over_bathhouse_hintbath_n02=Heh... ý tưởng hay.
+
+// SPEAKER: BROGUNSON
+// A bath! I need a bath!
+vo_hint_hint_bathhouse_bathtubs2_n00=Bồn tắm! Ta cần bồn tắm!
+
+// SPEAKER: BROGUNSON
+// Ahh, almost perfect. Servant? More hot water!
+vo_hint_hint_bathhouse_hotwater1_n00=Ahh, gần như hoàn hảo. Người đâu? Thêm nước nóng!
+
+// SPEAKER: BROGUNSON
+// Aah! Aah! Aah! Ooh! Aaaah-aah!
+vo_hint_hint_bathhouse_hotwater2_n00=Aah! Aah! Aah! Ooh! Aaaah-aah!
+
+// SPEAKER: BROGUNSON
+// Ahh, ahh... 
+vo_hint_hint_bathhouse_cooling_n00=Ahh, ahh...
+
+// SPEAKER: NINJA
+// Hmm...the massage area.
+vocs_over_over_bathhouse_massage1_n00=Hmm...khu vực mát xa.
+
+// SPEAKER: GEISHA
+// This must be where he gets his massage.
+vocs_over_over_bathhouse_massage1_n01=Đây hẳn là nơi nó mát xa.
+
+// SPEAKER: NINJA
+// Hm. Who's giving the massage?
+vocs_over_over_bathhouse_massage1_n02=Hm. Liệu ai sẽ mát xa cho nó?
+
+// SPEAKER: NINJA
+// Hrm...always the same masseur.
+vocs_over_over_bathhouse_hintmassage_n00=Hrm...luôn giống người đấm bóp.
+
+// SPEAKER: GEISHA
+// What would happen if the masseur does not come?
+vocs_over_over_bathhouse_hintmassage_n01=Chuyện gì sẽ xảy ra nếu người đấm bóp không tới?
+
+// SPEAKER: NINJA
+// Hmm...could be interesting.
+vocs_over_over_bathhouse_hintmassage_n02=Hmm...có thể rất thú vị.
+
+// SPEAKER: BROGUNSON
+// Ugh... I want a massage, now!
+vo_hint_hint_bathhouse_massage2_n00=Ugh... Ta muốn mát xa, ngay!
+
+// SPEAKER: BROGUNSON
+// Hmm, yes. Masseur! Get to work.
+vo_hint_hint_bathhouse_masseur1_n00=Hmm, đúng rồi. Người mát xa! Làm việc đi.
+
+// SPEAKER: BROGUNSON
+// He's keeping me waiting. Does he not know who I am? Find him!
+vo_hint_hint_bathhouse_masseur2_n00=Hắn để tao phải chờ hả. Hắn có biết tao là ai không? Đi tìm hắn!
+
+// SPEAKER: BROGUNSON
+// Ah, there you are...
+vo_hint_hint_bathhouse_masseur3_n00=Ah, chỗ đó...
+
+// SPEAKER: BROGUNSON
+// Ohh, yes.
+vo_hint_hint_bathhouse_masseur3_n01=Ohh, đúng lắm.
+
+// SPEAKER: BROGUNSON
+// Oh, ugh...not so hard...
+vo_hint_hint_bathhouse_masseur3_n02=Oh, ugh...không khó...
+
+// SPEAKER: BROGUNSON
+// Ahh...that's the spot.
+vo_hint_hint_bathhouse_masseur3_n03=Ahh...vị trí này.
+
+// SPEAKER: BROGUNSON
+// Okay... That's enough. You can leave.
+vo_hint_hint_bathhouse_masseur3_n04=Okay... Thế đủ rồi. Ngươi có thể lui.
+
+// SPEAKER: NINJA
+// We've got him!
+vocs_over_over_bathhouse_kidnapping_n00=Đã có được nó!
+
+// SPEAKER: GEISHA
+// We have him.
+vocs_over_over_bathhouse_kidnapping_n01=Có nó rồi.
+
+// SPEAKER: GEISHA
+// Quickly, to the boat with him!
+vocs_over_over_bathhouse_kidnapping_n02=Nhanh lên, cùng nó lên thuyền!
+
+// SPEAKER: NINJA
+// I'm on my way!
+vocs_over_over_bathhouse_kidnapping_n03=Tui đang tới!
+
+// SPEAKER: NINJA
+// All right then.
+vocs_over_over_bathhouse_debriefing_n00=Ổn cả rồi.
+
+// SPEAKER: GEISHA
+// How is your temper, Hayato-san? Must I still fear for the safety of our hostage?
+vocs_over_over_bathhouse_debriefing_n01=Sao mà ổn được, Hayato-san? Tui vẫn còn lo cho tính an toàn của con tin?
+
+// SPEAKER: NINJA
+// Heh...I don't think so... He's worth more alive.
+vocs_over_over_bathhouse_debriefing_n02=Heh...Tui không nghĩ thế... Nó sống có giá trị hơn.
+
+// SPEAKER: GEISHA
+// You did well, Hayato-san.
+vocs_over_over_bathhouse_debriefing_n03=Anh đã làm rất tốt, Hayato-san.
+
+// SPEAKER: NINJA
+// Yes...you too.
+vocs_over_over_bathhouse_debriefing_n04=Ờ...cô cũng thế.
+
+// SPEAKER: GEISHA
+// Let us head to the safe house. Yuki and Takuma should be ready by now.
+vocs_over_over_bathhouse_debriefing_n05=Giờ hướng tới nhà an toàn. Yuki và Takuma đã sẵn sàng chờ ở đó rồi.
+

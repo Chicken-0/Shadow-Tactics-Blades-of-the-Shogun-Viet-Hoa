@@ -1,0 +1,104 @@
+// SPEAKER: NARRATOR
+// Although his prisoners had escaped, Lord Noboru reacted quickly. Using clever words, he framed them for the murder of the Shogun's son and the death of Mugen.
+vocs_over_over_monastery2_post_n00=Mặc dù tù nhân của hắn trốn thoát, nhưng lãnh chúa Noboru đã ứng biến một cách tinh ranh. Với lời lẽ của mình, hắn khép cho họ tội danh sát hại con trai Mạc Chúa và Mugen.
+
+// SPEAKER: NARRATOR
+// While the Shogun sent every available man to hunt down the alleged killers, Noboru silently forged plans to assassinate his brother.
+vocs_over_over_monastery2_post_n01=Trong khi Mạc Chúa gửi người đi săn lùng những kẻ giết người bị buộc tội, Noboru đang thầm lặng lên kế hoạch ám sát anh trai mình.
+
+// SPEAKER: NARRATOR
+// Meanwhile, Mugen's companions could do little more than hide from the wrath of the Shogun.
+vocs_over_over_monastery2_post_n02=Trong khi đó, Đồng đội của Mugen cần phải làm nhiều việc hơn là lẩn tránh cơn thịnh nộ của Mạc Chúa.
+
+// SPEAKER: NARRATOR
+// Knowing the last wishes of her beloved, Aiko prepared for a final, desperate maneuver.
+vocs_over_over_monastery2_post_n03=Biết được mong muốn cuối cùng của người cô yêu, Aiko đã chuẩn bị mọi thứ cho một kế hoạch liều lĩnh.
+
+// SPEAKER: NINJA
+// ...you really think meeting here is a good idea?
+vocs_over_over_monastery2_post_n04=...lão nghĩ gặp nhau ở đây là ý tưởng hay hả?
+
+// SPEAKER: ALCHEMIST
+// Eh, the place was ransacked some time ago. Perhaps lightning will strike again, but I have my doubts.
+vocs_over_over_monastery2_post_n05=Eh, nơi này trước đây đã bị lục soát. Cả thêm sét đánh nữa, nhưng chả phải nơi nguy hiểm nhất là nơi an toàn nhất sao.
+
+// SPEAKER: TRAPPER
+// ...where's Aiko-san?
+vocs_over_over_monastery2_post_n06=...Aiko-san ở đâu ạ?
+
+// SPEAKER: ALCHEMIST
+// I don't know, Yuki-chan. She should be here by now.
+vocs_over_over_monastery2_post_n07=Ông không biết, Yuki-chan. Giờ cô ây đã nên ở đây rồi.
+
+// SPEAKER: NINJA
+// This is taking too long. I'm out...
+vocs_over_over_monastery2_post_n08=Nói thế đủ nhiều rồi. Tôi đi đây...
+
+// SPEAKER: TRAPPER
+// No, don't leave Hayato-san! Please...
+vocs_over_over_monastery2_post_n09=Không, đừng đi mà Hayato-san! Xin anh đó...
+
+// SPEAKER: TRAPPER
+// Aiko-san! You're back!
+vocs_over_over_monastery2_post_n10=Aiko-san! Chị quay lại rồi!
+
+// SPEAKER: NINJA
+// ...huh. Thought you wouldn't come.
+vocs_over_over_monastery2_post_n11=...huh. Tui nghĩ cô không đến cơ.
+
+// SPEAKER: GEISHA
+// Then I am grateful you waited for me.
+vocs_over_over_monastery2_post_n12=Vậy tui xin cảm kích vì anh đã chờ.
+
+// SPEAKER: ALCHEMIST
+// Hmm...will you tell us what kept you so long?
+vocs_over_over_monastery2_post_n13=Hmm...Cháu cần giải thích tại sao lại để chúng ta chờ lâu như vậy?
+
+// SPEAKER: GEISHA
+// I learned the whereabouts of Masaru. He has a residence in this very city.
+vocs_over_over_monastery2_post_n14=Cháu tìm ra được nơi ở của Masaru. Nó không bao giờ sống ở thành phố này.
+
+// SPEAKER: NINJA
+// Good. Let's kill him. 
+vocs_over_over_monastery2_post_n15=Tốt. Giết nó thôi.
+
+// SPEAKER: GEISHA
+// I feel your rage, Hayato-san, but we must capture him alive. We will question him, and afterwards we deliver him to the Shogun.
+vocs_over_over_monastery2_post_n16=Tui biết rõ cơn thịnh nộ của anh, Hayato-san, nhưng cần phải bắt sống nó. Chúng ta sẽ thẩm vấn rồi đưa nó tới Mạc Chúa.
+
+// SPEAKER: NINJA
+// Hrgh...not my idea of justice.
+vocs_over_over_monastery2_post_n17=Hrgh...tui không muốn thực thi công lý.
+
+// SPEAKER: GEISHA
+// But the right way to honor Mugen's sacrifice. Takuma-san, will you prepare the interrogation?
+vocs_over_over_monastery2_post_n18=Nhưng như thế mới tôn vinh được sự hi sinh của Mugen. Takuma-san, lão có thể dụng cụ đồ để thẩm vấn chứ?
+
+// SPEAKER: ALCHEMIST
+// Well, there's not much to work with. A substance, perhaps? I would need ingredients, but...with no money...
+vocs_over_over_monastery2_post_n19=Tốt thôi, chả có gì nhiều để chuẩn bị. Có lẽ chất độc chăng? Ta cần thành phần chế tạo, nhưng...cháy túi rồi...
+
+// SPEAKER: TRAPPER
+// Let's go together, Takuma-sensei! You show me what you need, and I can get it for you!
+vocs_over_over_monastery2_post_n20=Đi với cháu, Takuma-sensei! Ông chỉ cháu nhưng thứ ông cần, và cháu sẽ lấy nó cho ông!
+
+// SPEAKER: ALCHEMIST
+// Very well. It appears we will both be occupied for a while, Aiko-san.
+vocs_over_over_monastery2_post_n21=Tốt lắm. Bọn ta sẽ cần thời gian để tập trung chế tạo nó, Aiko-san.
+
+// SPEAKER: GEISHA
+// That is all right. I would like your help with Masaru, Hayato-san.
+vocs_over_over_monastery2_post_n22=Thế thì tốt quá. Tui cũng muốn anh giúp vụ Masaru, Hayato-san.
+
+// SPEAKER: NINJA
+// Fine, as long as we do something...
+vocs_over_over_monastery2_post_n23=Được thôi, miễn là chúng ta cùng làm vì Mugen...
+
+// SPEAKER: GEISHA
+// We will be back soon. Please be careful, Takuma-san, Yuki-chan.
+vocs_over_over_monastery2_post_n24=Chúng ta sẽ hội nhóm sớm. Nhớ bảo trọng, Takuma-san, Yuki-chan.
+
+// SPEAKER: ALCHEMIST
+// Do not worry. We will manage.
+vocs_over_over_monastery2_post_n25=Cháu đừng lo. Bọn ta sẽ thu xếp.
+

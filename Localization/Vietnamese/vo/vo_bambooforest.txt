@@ -1,0 +1,452 @@
+// SPEAKER: GEISHA
+// What do you see, Takuma-sama?
+vocs_over_over_bambooforest_briefing_n00=Lão thấy được gì, Takuma-sama?
+
+// SPEAKER: ALCHEMIST
+// Fire, at the heart of the camp.
+vocs_over_over_bambooforest_briefing_n01=Đống lửa ở trung tâm trại.
+
+// SPEAKER: ALCHEMIST
+// I'd reckon that's where Kage-sama is.
+vocs_over_over_bambooforest_briefing_n02=Lão nghĩ đó là nơi Kage-sama ở.
+
+// SPEAKER: GEISHA
+// I agree. Are the others in position?
+vocs_over_over_bambooforest_briefing_n03=Cháu đồng ý. Vậy những người khác vào vị trí chưa?
+
+// SPEAKER: TRAPPER
+// Why did Aiko-san and Takuma-san go another way?
+vocs_over_over_bambooforest_briefing_n04=Sao Aiko-san và Takuma-san lại đi hướng khác?
+
+// SPEAKER: NINJA
+// We'll attack from two sides, circle in on him, then take him out.
+vocs_over_over_bambooforest_briefing_n05=Vì chúng ta sẽ tấn công từ hai hướng, vây lại rồi tóm lấy hắn.
+
+// SPEAKER: WARRIOR
+// Remember that the Shogun wants Kage-sama delivered. We need to take him with us, whether he is alive or dead.
+vocs_over_over_bambooforest_briefing_n06=Nhớ rằng Mạc Chúa muốn mang Kage-sama về. Cần phải bắt được hắn, dù sống hoặc đã chết.
+
+// SPEAKER: NINJA
+// Dead's fine with me. Saves us trouble on the road.
+vocs_over_over_bambooforest_briefing_n07=Chết thì tốt hơn với tôi. Chúng ta không gặp thêm rắc rối trên đường về.
+
+// SPEAKER: WARRIOR
+// Once we have incapacitated him, we will carry him back here and leave this forest with our prize.
+vocs_over_over_bambooforest_briefing_n08=Một khi vô hiệu hóa được hắn, mang hắn về đây và cùng thoát khỏi khu rừng này với chiến công.
+
+// SPEAKER: TRAPPER
+// Ah! Sneak inside, catch the shadow, sneak back out.
+vocs_over_over_bambooforest_briefing_n09=Ah! Lẻn vào trong, tóm lấy cái bóng, rồi lại lẻn ra ngoài.
+
+// SPEAKER: NINJA
+// Heh, sounds simple. All right, let's finish this.
+vocs_over_over_bambooforest_briefing_n10=Heh, nghe đơn giản ghê. Được rồi, kết thúc vụ này thôi.
+
+// SPEAKER: NINJA
+// What's this? Almost looks challenging...
+vocs_over_over_bambooforest_force_n00=Khỉ gì thế này? Có vẻ đầy thử thách...
+
+// SPEAKER: TRAPPER
+// Oh, a challenge!
+vocs_over_over_bambooforest_force_n01=Oh, một thử thách!
+
+// SPEAKER: WARRIOR
+// Ha! These men do not know what they're up against.
+vocs_over_over_bambooforest_force_n02=Ha! Những người đàn ông này họ không biết đang chống lại ai đây mà.
+
+// SPEAKER: NINJA
+// Workers...slaves, maybe.
+vocs_over_over_bambooforest_workers_n00=Công nhân...có thể là nô lệ.
+
+// SPEAKER: TRAPPER
+// Look! They don't have weapons...
+vocs_over_over_bambooforest_workers_n01=Nhìn kìa! Họ không có vũ khí...
+
+// SPEAKER: WARRIOR
+// Civilians, either enslaved or loyal to the enemy. We will deal with them later.
+vocs_over_over_bambooforest_workers_n02=Thường dân, nô lệ hoặc là đầy tớ trung thành của địch. Chúng ta sẽ đối phó với họ sau.
+
+// SPEAKER: ENEMY
+// That's it, carry on.
+vo_hint_hint_bambooforest_workers1_n00=Là nó, mang về.
+
+// SPEAKER: STATIC
+// No slacking!
+vo_hint_hint_bambooforest_workers1_n01=Đéo được lười!
+
+// SPEAKER: ENEMY
+// We're not done yet.
+vo_hint_hint_bambooforest_workers1_n02=Vẫn chưa xong.
+
+// SPEAKER: STATIC
+// Come on, faster.
+vo_hint_hint_bambooforest_workers1_n03=Nào, nhanh lên.
+
+// SPEAKER: ENEMY
+// Kage-sama wants these walkways finished.
+vo_hint_hint_bambooforest_workers1_n04=Kage-sama muốn những lối đi này được hoàn tất.
+
+// SPEAKER: STATIC
+// You know what happens when Kage-sama is displeased.
+vo_hint_hint_bambooforest_workers1_n05=Ngươi biết chuyện gì xảy ra khi Kage-sama không hài lòng không.
+
+// SPEAKER: CIVILIAN M
+// Hrgn...
+vo_hint_hint_bambooforest_workers1_n06=Hrgn...
+
+// SPEAKER: CIVILIAN M
+// Ugh...heavy...
+vo_hint_hint_bambooforest_workers1_n07=Ugh...nặng...
+
+// SPEAKER: CIVILIAN F
+// ...ah, my back.
+vo_hint_hint_bambooforest_workers1_n08=...ah, lưng tôi.
+
+// SPEAKER: ENEMY
+// You're too slow.
+vo_hint_hint_bambooforest_workers2_n00=Mày quá chậm.
+
+// SPEAKER: STATIC
+// This is taking forever.
+vo_hint_hint_bambooforest_workers2_n01=Không được nói nhiều.
+
+// SPEAKER: ENEMY
+// You call that a swing?
+vo_hint_hint_bambooforest_workers2_n02=Ngươi gọi nó là trò chơi hả?
+
+// SPEAKER: STATIC
+// Faster, damn it!
+vo_hint_hint_bambooforest_workers2_n03=Nhanh lên, chết tiệt!
+
+// SPEAKER: ENEMY
+// Kage-sama won't be pleased.
+vo_hint_hint_bambooforest_workers2_n04=Kage-sama sẽ không hài lòng.
+
+// SPEAKER: STATIC
+// Those who don't pull their weight will be executed. Kage-sama's orders.
+vo_hint_hint_bambooforest_workers2_n05=Đứa nào không kéo nổi sẽ bị xử tử. Lệnh của Kage-sama.
+
+// SPEAKER: CIVILIAN M
+// ...So tired.
+vo_hint_hint_bambooforest_workers2_n06=...Mệt quá.
+
+// SPEAKER: CIVILIAN M
+// Agh, my back!
+vo_hint_hint_bambooforest_workers2_n07=Agh, lưng tôi!
+
+// SPEAKER: CIVILIAN F
+// Forgive us...
+vo_hint_hint_bambooforest_workers2_n08=Thứ lỗi cho tôi...
+
+// SPEAKER: NINJA
+// Not bad. Small. Well hidden. No wonder no one ever found it.
+vocs_over_over_bambooforest_camp_n00=Không tệ. Nhỏ đấy. Dấu tốt lắm. Không còn thắc mắc khi chả có ai tìm ra được chỗ này.
+
+// SPEAKER: WARRIOR
+// The camp may be small, but it's well defended.
+vocs_over_over_bambooforest_camp_n01=Trại này nhỏ nhưng được phỏng thủ kiên cố.
+
+// SPEAKER: TRAPPER
+// This place...it's like a hidden shinobi village!
+vocs_over_over_bambooforest_camp_n02=Nơi này...nó như một làng shinobi bí ẩn!
+
+// SPEAKER: NINJA
+// Heh. Trust me: if it were, we'd be dead by now.
+vocs_over_over_bambooforest_camp_n03=Heh. Tin anh đi: nếu đúng là thế thì giờ chúng ta đã dẹo hết rồi.
+
+// SPEAKER: NINJA
+// That man in the center...guess that's Kage-sama.
+vocs_over_over_bambooforest_nemesis_n00=Gã này ở trung tâm...đoán hắn là Kage-sama.
+
+// SPEAKER: TRAPPER
+// Look! The spider in his web! Kage-sama!
+vocs_over_over_bambooforest_nemesis_n01=Nhìn kìa! Con nhện trong lưới của mình! Kage-sama!
+
+// SPEAKER: WARRIOR
+// Black clothes, like they were cut from shadow. Kage-sama truly lives up to his name.
+vocs_over_over_bambooforest_nemesis_n02=Đồ đen, như kiểu chúng lấy nó từ bóng đêm. Kage-sama thực sự sống đúng với cái tên của hắn.
+
+// SPEAKER: TRAPPER
+// He's just sitting there, like a statue. Why is he doing that?
+vocs_over_over_bambooforest_nemesis_n03=Chỉ ngồi ở đó như một bức tượng. Sao hắn lại làm thế?
+
+// SPEAKER: NINJA
+// Doesn't matter. He won't be doing it for much longer.
+vocs_over_over_bambooforest_nemesis_n04=Không quan trọng. Hắn sẽ không làm việc đó lâu nữa đâu.
+
+// SPEAKER: GEISHA
+// I shall go meet the others. I trust you'll watch over my descent.
+vocs_over_over_bambooforest_worry_n00=Cháu sẽ đi gặp những người khác. Cháu tin lão sẽ lo được phần còn lại.
+
+// SPEAKER: ALCHEMIST
+// Of course I will. Is something troubling you, Aiko-san?
+vocs_over_over_bambooforest_worry_n01=Dĩ nhiên lão làm được. Cháu có vấn đề gì hả, Aiko-san?
+
+// SPEAKER: GEISHA
+// Perhaps. I think there is more to this place than meets the eye.
+vocs_over_over_bambooforest_worry_n02=Dường như ở đây còn nhiều tai mắt hơn thế này.
+
+// SPEAKER: ALCHEMIST
+// Ah, caution. I understand. I will watch for anything unusual or out of place.
+vocs_over_over_bambooforest_worry_n03=Ah, thận trọng nhé. Lão hiểu rồi. Lão sẽ canh chừng, nếu có gì bất thường thì sẽ rời khỏi đây.
+
+// SPEAKER: GEISHA
+// Thank you, Takuma-san.
+vocs_over_over_bambooforest_worry_n04=Cảm ơn lão, Takuma-san.
+
+// SPEAKER: GEISHA
+// The man who caused all this trouble. Quite disappointing, I must say. You have wasted enough of everyone's time.
+vocs_over_over_bambooforest_contempt_n00=Gã này là nguồn gốc của mọi rắc rồi. Phải nói rằng quá thất vọng. Hắn đã lãng phí nhiều thời gian của mọi người.
+
+// SPEAKER: NINJA
+// Hey...
+vocs_over_over_bambooforest_reunion_n00=Hey...
+
+// SPEAKER: TRAPPER
+// Aiko-san!
+vocs_over_over_bambooforest_reunion_n01=Aiko-san!
+
+// SPEAKER: GEISHA
+// I see you are doing well.
+vocs_over_over_bambooforest_reunion_n02=Em thấy anh làm rất tốt.
+
+// SPEAKER: WARRIOR
+// Ah, Aiko-san. I am glad you join me for this victory.
+vocs_over_over_bambooforest_reunion_n03=Ah, Aiko-san. Anh rất vui khi em tham gia vào cùng chiến thắng này.
+
+// SPEAKER: GEISHA
+// I cannot shake the feeling that not all is as it seems. Let us be cautious.
+vocs_over_over_bambooforest_reunion_n04=Em có linh tính bất thường khi mọi việc quá dễ dàng thế này. Chúng mình cần phải thận trọng hơn.
+
+// SPEAKER: FAKE
+// Yes, the time is near.
+vo_hint_hint_bambooforest_shadows_n00=Đúng, gần đến lúc rồi.
+
+// SPEAKER: FAKE
+// A quiet moment.
+vo_hint_hint_bambooforest_shadows_n01=Một khoảng khắc yên tĩnh.
+
+// SPEAKER: FAKE
+// Yet everything is in motion.
+vo_hint_hint_bambooforest_shadows_n02=Nhưng mọi thứ thì đang chuyển động.
+
+// SPEAKER: FAKE
+// It is as it should be.
+vo_hint_hint_bambooforest_shadows_n03=Nó nên như thế.
+
+// SPEAKER: FAKE
+// A life for a life.
+vo_hint_hint_bambooforest_shadows_n04=Cuộc sống là cuộc sống.
+
+// SPEAKER: FAKE
+// All men choose their duty.
+vo_hint_hint_bambooforest_shadows_n05=Tất cả đàn ông đều chọn nhiệm cụ cho họ.
+
+// SPEAKER: FAKE
+// I have chosen mine.
+vo_hint_hint_bambooforest_shadows_n06=Mình đã chọn cho bản thân.
+
+// SPEAKER: OFFICER
+// Now!
+vocs_over_over_bambooforest_debriefing_n00=Ngay bây giờ!
+
+// SPEAKER: WARRIOR
+// A trap!
+vocs_over_over_bambooforest_debriefing_n01=một cái bẫy!
+
+// SPEAKER: NINJA
+// Damn!
+vocs_over_over_bambooforest_debriefing_n02=Chó thật!
+
+// SPEAKER: TRAPPER
+// Wha–NO!
+vocs_over_over_bambooforest_debriefing_n03=Cái...–KHÔNG!
+
+// SPEAKER: GEISHA
+// No, stay back!
+vocs_over_over_bambooforest_debriefing_n04=Không, lùi lại!
+
+// SPEAKER: 
+// 
+vocs_over_over_bambooforest_debriefing_n05=
+
+// SPEAKER: OFFICER
+// It is done, Kage-sama. The old man was on a slope nearby. They came alone, just like you said.
+vocs_over_over_bambooforest_debriefing_n06=Mọi thứ đã xong, Kage-sama. Lão già ở trên sườn dốc gần đây. Chúng tới một mình, như ngài đã bảo.
+
+// SPEAKER: WARRIOR
+// Kage-sama... YOU!
+vocs_over_over_bambooforest_debriefing_n07=Kage-sama...NGƯƠI!
+
+// SPEAKER: BROGUN
+// ...I remember my brother giving you this... A remarkable weapon.
+vocs_over_over_bambooforest_debriefing_n08=...Ta nhớ rằng anh ta đã trao cho ngươi thứ này... Một vũ khí đáng gườm.
+
+// SPEAKER: BROGUN
+// Such a waste.
+vocs_over_over_bambooforest_debriefing_n09=Thật lãng phí.
+
+// SPEAKER: WARRIOR
+// It makes no sense... How is this possible?!
+vocs_over_over_bambooforest_debriefing_n10=Chuyện này chả có nghĩa gì hết... Sao lại có thể xảy ra như thế?!
+
+// SPEAKER: BROGUN
+// My brother and I disagree on so many things, Mugen. If you knew the extent of it, you would not be surprised.
+vocs_over_over_bambooforest_debriefing_n11=Anh ta và ta bất đồng về nhiều thứ, Mugen. Nếu biết mức độ của nó thì ngươi sẽ không phải ngạc nhiên thế này đâu.
+
+// SPEAKER: WARRIOR
+// Then what do you want, traitor?!
+vocs_over_over_bambooforest_debriefing_n12=Rồi mày làm những gì mày muốn hả, thằng phản bội?!
+
+// SPEAKER: BROGUN
+// A great deal. Mugen, from you...
+vocs_over_over_bambooforest_debriefing_n13=Một thỏa thuận tuyệt vời. Mugen, với mày...
+
+// SPEAKER: BROGUN
+// ...I want to know where you hid Ryūnosuke.
+vocs_over_over_bambooforest_debriefing_n14=...Tao muốn biết nơi mày đang dấu Ryūnosuke.
+
+// SPEAKER: WARRIOR
+// Do you think I would let you harm the heir to the Shogunate?!
+vocs_over_over_bambooforest_debriefing_n15=Mày nghĩ là tao sẽ cho phép mày làm hại tới người kế tục Mạc Phủ ư!
+
+// SPEAKER: BROGUN
+// Of course not.
+vocs_over_over_bambooforest_debriefing_n16=Dĩ nhiên không.
+
+// SPEAKER: BROGUN
+// I know you, Ōshiro Mugen.
+vocs_over_over_bambooforest_debriefing_n17=Tao biết rõ mày, Ōshiro Mugen.
+
+// SPEAKER: BROGUN
+// You are the most loyal man I have ever met.
+vocs_over_over_bambooforest_debriefing_n18=Mày là người đàn ông trung thành nhất mà tao từng gặp.
+
+// SPEAKER: BROGUN
+// You would rather die than betray your precious Shogun.
+vocs_over_over_bambooforest_debriefing_n19=Mày thà chết còn hơn là phản bội lại Mạc Chúa của mày.
+
+// SPEAKER: BROGUN
+// But I wonder...
+vocs_over_over_bambooforest_debriefing_n20=Nhưng tao tự hỏi...
+
+// SPEAKER: BROGUN
+// How far does your loyalty to my brother go?
+vocs_over_over_bambooforest_debriefing_n21=Lòng trung thành của mày với anh tao sẽ lớn như thế nào?
+
+// SPEAKER: BROGUN
+// Far enough to sacrifice your friends...?
+vocs_over_over_bambooforest_debriefing_n22=Có đủ để hi sinh bạn bè của mày...?
+
+// SPEAKER: BROGUN
+// These people you are so proud of...
+vocs_over_over_bambooforest_debriefing_n23=Lũ này tự hào về...
+
+// SPEAKER: BROGUN
+// Would you rather watch them die?
+vocs_over_over_bambooforest_debriefing_n24=Mày sẽ mặc chúng chết ư?
+
+// SPEAKER: WARRIOR
+// Damn you! Damn you for all eternity!
+vocs_over_over_bambooforest_debriefing_n25=Mẹ kiếp thằng chó! Trời tru đất diệt mày!
+
+// SPEAKER: BROGUN
+// The boy, Mugen. Or she will be the first to die.
+vocs_over_over_bambooforest_debriefing_n26=Nào Mugen. Hoặc ả này sẽ chết đầu tiên.
+
+// SPEAKER: GEISHA
+// ...go ahead. I will face death with open eyes!
+vocs_over_over_bambooforest_debriefing_n27=...tao đi trước. Tao sẽ chết với đôi mắt mở to!
+
+// SPEAKER: TRAPPER
+// Aiko-san!
+vocs_over_over_bambooforest_debriefing_n28=Aiko-san!
+
+// SPEAKER: TRAPPER
+// ...agh!
+vocs_over_over_bambooforest_debriefing_n29=...agh!
+
+// SPEAKER: BROGUNSON
+// Shut your mouth, brat.
+vocs_over_over_bambooforest_debriefing_n30=Câm cái mồm thối lại, trẻ ranh.
+
+// SPEAKER: BROGUN
+// A decision, Mugen. It does not have to be like this.
+vocs_over_over_bambooforest_debriefing_n31=Quyết định đi Mugen. Nó sẽ không như thế này.
+
+// SPEAKER: WARRIOR
+// ...My name is Ōshiro Mugen. I am samurai.
+vocs_over_over_bambooforest_debriefing_n32=...Tên tôi là Ōshiro Mugen. Tôi là một Samurai.
+
+// SPEAKER: WARRIOR
+// A samurai must serve his lord...
+vocs_over_over_bambooforest_debriefing_n33=Một samurai thì phải phụng sự chủ của mình...
+
+// SPEAKER: WARRIOR
+// ...protect his lord...
+vocs_over_over_bambooforest_debriefing_n34=...bảo vệ chủ của mình...
+
+// SPEAKER: WARRIOR
+// ...die for his lord.
+vocs_over_over_bambooforest_debriefing_n35=...chết vì chủ của mình.
+
+// SPEAKER: WARRIOR
+// ...But I cannot!
+vocs_over_over_bambooforest_debriefing_n36=...Nhưng không thể!
+
+// SPEAKER: WARRIOR
+// I cannot let my companions die!
+vocs_over_over_bambooforest_debriefing_n37=Mình không thể để đồng đội chết!
+
+// SPEAKER: GEISHA
+// No... 
+vocs_over_over_bambooforest_debriefing_n38=Đừng anh...
+
+// SPEAKER: WARRIOR
+// My Shogun, forgive me!
+vocs_over_over_bambooforest_debriefing_n39=Mạc Chúa, thứ lỗi cho thần!
+
+// SPEAKER: BROGUN
+// A wise choice, Mugen.
+vocs_over_over_bambooforest_debriefing_n40=Một lựa chọn khôn ngoan, Mugen.
+
+// SPEAKER: WARRIOR
+// Swear to me, on your life and the life of your son, that you will not harm my companions!
+vocs_over_over_bambooforest_debriefing_n41=Thế với tao bằng mạng sống mày và con trai mày, rằng mày sẽ không làm hại tới đồng đội của tao!
+
+// SPEAKER: BROGUN
+// I will not touch them. On this you have my word.
+vocs_over_over_bambooforest_debriefing_n42=Tao sẽ không động tới chúng. Nếu như mày giữ lời.
+
+// SPEAKER: WARRIOR
+// ...then...I yield... You have won...
+vocs_over_over_bambooforest_debriefing_n43=...vậy...tao mang... mày thắng...
+
+// SPEAKER: BROGUN
+// Good. You will lead the way. Your friends will come with us.
+vocs_over_over_bambooforest_debriefing_n44=Tốt. Mày sẽ dẫn đường. Rồi bạn của mày sẽ về với mày.
+
+// SPEAKER: BROGUN
+// Masaru, see that they are secured. They are not to be harmed—is that understood?
+vocs_over_over_bambooforest_debriefing_n45=Masaru, con phải đảm bảo cho chúng. Đừng để chúng bị thương—hiểu không?
+
+// SPEAKER: BROGUNSON
+// Yes, father...
+vocs_over_over_bambooforest_debriefing_n46=Vâng thưa cha...
+
+// SPEAKER: BROGUNSON
+// You! What are you waiting for?! Get to work.
+vocs_over_over_bambooforest_debriefing_n47=Mày! Chờ cái đéo gì nữa?! Làm việc đi.
+
+// SPEAKER: GEISHA
+// I knew something was wrong. I should have known better...
+vocs_over_over_bambooforest_debriefing_n48=Mình biết là có chuyện không ổn mà. Đáng lẽ mình phải biết nhiều hơn thế...
+
+// SPEAKER: ALCHEMIST
+// It doesn't matter. Save your strength. Dark things lie ahead.
+vocs_over_over_bambooforest_debriefing_n49=Nó không quan trọng. Hãy giữ sức của cháu. Nhiều thứ tối tăm đang chờ ở phía trước.
+
+// SPEAKER: NINJA
+// Mugen...
+vocs_over_over_bambooforest_debriefing_n50=Mugen...
+

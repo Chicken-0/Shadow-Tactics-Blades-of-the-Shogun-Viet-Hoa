@@ -1,0 +1,644 @@
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_carry_object_00=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_clear_throat_00=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_cough_00=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_death_scream_00=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_death_scream_01=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_death_scream_02=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_death_scream_03=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_death_scream_04=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_death_scream_muffled_00=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_death_scream_muffled_01=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_death_scream_muffled_02=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_death_scream_muffled_03=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_death_scream_muffled_04=
+
+// SPEAKER: Civilian M
+// She's dead!
+vo_eny_eny_civilian_00_detect_corpse_female_02=Cô ấy đã chết!
+
+// SPEAKER: Civilian M
+// They killed her!
+vo_eny_eny_civilian_00_detect_corpse_female_03=Chúng đã giết cô ấy!
+
+// SPEAKER: Civilian M
+// He is dead!
+vo_eny_eny_civilian_00_detect_corpse_male_00=Anh ta đã chết!
+
+// SPEAKER: Civilian M
+// They killed him!
+vo_eny_eny_civilian_00_detect_corpse_male_01=Chúng đã giết anh ta!
+
+// SPEAKER: Civilian M
+// Help! Murder!
+vo_eny_eny_civilian_00_detect_corpse_neutral_00=Cứu với! Có kẻ giết người!
+
+// SPEAKER: Civilian M
+// There's a killer!
+vo_eny_eny_civilian_00_detect_corpse_neutral_01=Có một kẻ giết người!
+
+// SPEAKER: Civilian M
+// Strange tracks.
+vo_eny_eny_civilian_00_detect_footsteps_00=Dấu vết lạ.
+
+// SPEAKER: Civilian M
+// Hmm...this is unfamiliar.
+vo_eny_eny_civilian_00_detect_footsteps_01=Hmm...nó hơi lạ.
+
+// SPEAKER: Civilian M
+// Who went here?
+vo_eny_eny_civilian_00_detect_footsteps_02=Ai đã ở đây?
+
+// SPEAKER: Civilian M
+// Strong wind today.
+vo_eny_eny_civilian_00_detect_lightsource_00=Ngày lộng gió.
+
+// SPEAKER: Civilian M
+// Weather's too wet.
+vo_eny_eny_civilian_00_detect_lightsource_01=Trời quá ẩm ướt.
+
+// SPEAKER: Civilian M
+// Huh? The flame died!
+vo_eny_eny_civilian_00_detect_lightsource_02=Huh? Lửa tàn rồi!
+
+// SPEAKER: Civilian M
+// Ahh! Help!
+vo_eny_eny_civilian_00_detect_player_00=Ahh! Giúp với!
+
+// SPEAKER: Civilian M
+// Aaaaah!
+vo_eny_eny_civilian_00_detect_player_01=Aaaaah!
+
+// SPEAKER: Civilian M
+// Guards!
+vo_eny_eny_civilian_00_detect_player_02=Lính canh!
+
+// SPEAKER: Civilian M
+// That feeling...
+vo_eny_eny_civilian_00_detect_player_proximity_00=Cảm giác...
+
+// SPEAKER: Civilian M
+// Corner of my eye.
+vo_eny_eny_civilian_00_detect_player_proximity_01=Khóe mắt của mình.
+
+// SPEAKER: Civilian M
+// Someone's close...
+vo_eny_eny_civilian_00_detect_player_proximity_02=Có ai đó ở gần đây...
+
+// SPEAKER: Civilian M
+// A rare find. I'm in luck.
+vo_eny_eny_civilian_00_detect_sake_00=Thật hiếm có. Mình hên quá.
+
+// SPEAKER: Civilian M
+// A gift for the wife. ...maybe.
+vo_eny_eny_civilian_00_detect_sake_01=Có thể là món quà cho vợ.
+
+// SPEAKER: Civilian M
+// A servant must have dropped it.
+vo_eny_eny_civilian_00_detect_sake_02=Một đầy tớ phải vứt nó.
+
+// SPEAKER: Civilian M
+// Oh...just a tanuki.
+vo_eny_eny_civilian_00_detect_tanuki_00=Oh...chỉ là con lửng chó.
+
+// SPEAKER: Civilian M
+// Oh-ho, you look harmless.
+vo_eny_eny_civilian_00_detect_tanuki_01=Oh-ho, nhìn mày có vẻ vô hại.
+
+// SPEAKER: Civilian M
+// Huh? A tanuki? What do you want?
+vo_eny_eny_civilian_00_detect_tanuki_02=Huh? Lửng chó? Mày muốn gì?
+
+// SPEAKER: Civilian M
+// She was hit badly.
+vo_eny_eny_civilian_00_detect_unconscious_female_01=Cô ấy bị đánh rất tệ.
+
+// SPEAKER: Civilian M
+// She's unconscious!
+vo_eny_eny_civilian_00_detect_unconscious_female_02=Cô ấy ngất xỉu.
+
+// SPEAKER: Civilian M
+// She was attacked.
+vo_eny_eny_civilian_00_detect_unconscious_female_03=Cô ấy bị tấn công.
+
+// SPEAKER: Civilian M
+// He was hit badly.
+vo_eny_eny_civilian_00_detect_unconscious_male_00=Anh ta bị đánh rất tệ.
+
+// SPEAKER: Civilian M
+// He is unconscious.
+vo_eny_eny_civilian_00_detect_unconscious_male_01=Anh ta bị ngất xỉu.
+
+// SPEAKER: Civilian M
+// He was attacked.
+vo_eny_eny_civilian_00_detect_unconscious_male_02=Anh ta bị tấn công.
+
+// SPEAKER: Civilian M
+// Are you all right?
+vo_eny_eny_civilian_00_detect_unconscious_neutral_01=Ổn cả chứ?
+
+// SPEAKER: Civilian M
+// W-what happened?
+vo_eny_eny_civilian_00_detect_unconscious_neutral_02=Có chuyện gì thế?
+
+// SPEAKER: Civilian M
+// Hey! Why are you on the ground?
+vo_eny_eny_civilian_00_detect_unconscious_neutral_03=Hey! Sao nằm trên đất vậy?
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_drink_weeping_00=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_drop_object_00=
+
+// SPEAKER: Civilian M
+// Over there! I saw them!
+vo_eny_eny_civilian_00_fetch_guard_00=Đằng kia! Tôi đã thấy chúng!
+
+// SPEAKER: Civilian M
+// Attackers! They came from there!
+vo_eny_eny_civilian_00_fetch_guard_01=Kẻ tấn công! Hắn đến từ chỗ kia!
+
+// SPEAKER: Civilian M
+// I beg you, protect us.
+vo_eny_eny_civilian_00_fetch_guard_02=Tôi xin anh hãy bảo vệ chúng tôi.
+
+// SPEAKER: Civilian M
+// Where is she?
+vo_eny_eny_civilian_00_friend_missing_female_00=Cô ấy đâu rồi?
+
+// SPEAKER: Civilian M
+// She should be here.
+vo_eny_eny_civilian_00_friend_missing_female_01=Cô ấy phải ở đây.
+
+// SPEAKER: Civilian M
+// Where is he?
+vo_eny_eny_civilian_00_friend_missing_male_00=Anh ta đâu rồi?
+
+// SPEAKER: Civilian M
+// He should be here.
+vo_eny_eny_civilian_00_friend_missing_male_01=Anh ta phải ở đây.
+
+// SPEAKER: Civilian M
+// What is taking so long?
+vo_eny_eny_civilian_00_friend_missing_neutral_01=Sao lâu thế nhỉ?
+
+// SPEAKER: Civilian M
+// It's past time...
+vo_eny_eny_civilian_00_friend_missing_neutral_02=Được một thời gian rồi...
+
+// SPEAKER: Civilian M
+// Wake up!
+vo_eny_eny_civilian_00_friend_wakeup_00=Dậy đi!
+
+// SPEAKER: Civilian M
+// Who did this to you?
+vo_eny_eny_civilian_00_friend_wakeup_01=Ai đã gây ra chuyện này?
+
+// SPEAKER: Civilian M
+// Are you injured?
+vo_eny_eny_civilian_00_friend_wakeup_02=Bị thương hả?
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_hard_work_00=
+
+// SPEAKER: Civilian M
+// Huh?
+vo_eny_eny_civilian_00_hear_noise_00=Huh?
+
+// SPEAKER: Civilian M
+// What was that?
+vo_eny_eny_civilian_00_hear_noise_01=Cái gì thế?
+
+// SPEAKER: Civilian M
+// Strange sound...
+vo_eny_eny_civilian_00_hear_noise_02=Tiếng động lạ...
+
+// SPEAKER: Civilian M
+// Argh! ...what hit me?
+vo_eny_eny_civilian_00_hear_noise_directhit_00=Argh! ...cái gì trúng mình thế?
+
+// SPEAKER: Civilian M
+// Huh? ...I don't understand.
+vo_eny_eny_civilian_00_hear_noise_directhit_01=Huh? ...Khó hiểu vđ.
+
+// SPEAKER: Civilian M
+// Ah, stop! I beg you!
+vo_eny_eny_civilian_00_hear_noise_directhit_02=Ah, dừng lại! Tao xin mày đấy!
+
+// SPEAKER: Civilian M
+// That terrible noise!
+vo_eny_eny_civilian_00_hear_noise_gunshot_00=Ồn khủng khiếp!
+
+// SPEAKER: Civilian M
+// Cannon fire!
+vo_eny_eny_civilian_00_hear_noise_gunshot_01=Pháo bẳn?
+
+// SPEAKER: Civilian M
+// We are being attacked!
+vo_eny_eny_civilian_00_hear_noise_gunshot_02=Chúng ta đang bị tấn công!
+
+// SPEAKER: Civilian M
+// Is...someone there?
+vo_eny_eny_civilian_00_hear_noise_human_00=Có...ai đó ở đây?
+
+// SPEAKER: Civilian M
+// Please, come out!
+vo_eny_eny_civilian_00_hear_noise_human_01=Làm ơn ra đây coi!
+
+// SPEAKER: Civilian M
+// Why are you hiding?
+vo_eny_eny_civilian_00_hear_noise_human_02=Sao lại nấp nhứ thế?
+
+// SPEAKER: Civilian M
+// Are there children around?
+vo_eny_eny_civilian_00_hear_noise_too_much_00=Lũ trẻ chơi quanh đây hả?
+
+// SPEAKER: Civilian M
+// I don't understand.
+vo_eny_eny_civilian_00_hear_noise_too_much_01=Mình không hiểu.
+
+// SPEAKER: Civilian M
+// Stop! I beg you!
+vo_eny_eny_civilian_00_hear_noise_too_much_02=Dừng lại! Tao xin mày!
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_hum_00=
+
+// SPEAKER: Civilian M
+// An evil spirit, perhaps?
+vo_eny_eny_civilian_00_investigate_end_00=Một vong linh xấu xa ư?
+
+// SPEAKER: Civilian M
+// I must have imagined it.
+vo_eny_eny_civilian_00_investigate_end_01=Mình phải tưởng tượng nó.
+
+// SPEAKER: Civilian M
+// Ah, my mind is playing tricks on me!
+vo_eny_eny_civilian_00_investigate_end_02=Tâm trí đang chơi đểu mình!
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_knockout_scream_00=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_knockout_scream_01=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_knockout_scream_02=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_make_oxwagondrive_00=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_laugh_oxwagonhalt_00=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_pickup_object_00=
+
+// SPEAKER: Civilian M
+// Ugh, my head...
+vo_eny_eny_civilian_00_regain_consciousness_00=Ugh, đầu mình...
+
+// SPEAKER: Civilian M
+// Ooh, that hurt.
+vo_eny_eny_civilian_00_regain_consciousness_01=Ooh, đau đấy.
+
+// SPEAKER: Civilian M
+// ...what attacked me?
+vo_eny_eny_civilian_00_regain_consciousness_02=...Ai tấn công mình vậy nhỉ?
+
+// SPEAKER: Civilian M
+// What?
+vo_eny_eny_civilian_00_see_something_00=Cái gì?
+
+// SPEAKER: Civilian M
+// Huh?
+vo_eny_eny_civilian_00_see_something_01=Huh?
+
+// SPEAKER: Civilian M
+// It... Something...?
+vo_eny_eny_civilian_00_see_something_02=Có... gì đó...?
+
+// SPEAKER: Civilian M
+// Ah, well. Back to work.
+vo_eny_eny_civilian_00_skill_tanuki_done_00=Ah, tốt thôi. Quay lại làm việc nào.
+
+// SPEAKER: Civilian M
+// Sorry, I've got nothing for you.
+vo_eny_eny_civilian_00_skill_tanuki_done_01=Xin lỗi, Tao không có gì cho mày cả.
+
+// SPEAKER: Civilian M
+// Enough. I have work to do.
+vo_eny_eny_civilian_00_skill_tanuki_done_02=Đủ rồi. Tao phải đi làm việc đây.
+
+// SPEAKER: Civilian M
+// All right, off you go.
+vo_eny_eny_civilian_00_skill_tanuki_runaway_00=Được, đi theo mày!
+
+// SPEAKER: Civilian M
+// That's right. Away with you!
+vo_eny_eny_civilian_00_skill_tanuki_runaway_01=Được thôi, đi với mày.
+
+// SPEAKER: Civilian M
+// There he goes. ...back to work!
+vo_eny_eny_civilian_00_skill_tanuki_runaway_02=Nó đã đi. ...quay lại làm việc thôi.
+
+// SPEAKER: Civilian M
+// What?
+vo_eny_eny_civilian_00_talk_geisha_00=Cái gì?
+
+// SPEAKER: Civilian M
+// Y-yes?
+vo_eny_eny_civilian_00_talk_geisha_01=C-có?
+
+// SPEAKER: Civilian M
+// Oh... Uhm, yes?
+vo_eny_eny_civilian_00_talk_geisha_02=Oh... Uhm, đúng hả?
+
+// SPEAKER: Civilian M
+// How can I help?
+vo_eny_eny_civilian_00_talk_geisha_03=Anh có thể giúp gì không?
+
+// SPEAKER: Civilian M
+// Hmm?
+vo_eny_eny_civilian_00_talk_geisha_04=Hmm?
+
+// SPEAKER: Civilian M
+// Oh, ah...goodbye.
+vo_eny_eny_civilian_00_talk_geisha_leave_00=Oh, ah...tạm biệt.
+
+// SPEAKER: Civilian M
+// Oh, my pleasure!
+vo_eny_eny_civilian_00_talk_geisha_leave_01=Oh, vui ghê!
+
+// SPEAKER: Civilian M
+// Think nothing of it.
+vo_eny_eny_civilian_00_talk_geisha_leave_02=Đừng có mà nghĩ bậy nha mày.
+
+// SPEAKER: Civilian M
+// Oh, emm, er...right!
+vo_eny_eny_civilian_00_talk_geisha_leave_03=Oh, emm, er...được rồi!
+
+// SPEAKER: Civilian M
+// Farewell!
+vo_eny_eny_civilian_00_talk_geisha_leave_04=Vĩnh biệt!
+
+// SPEAKER: Civilian M
+// 
+vo_gothic_gothic_civilian_00_talk_idle_00=
+
+// SPEAKER: Civilian M
+// 
+vo_gothic_gothic_civilian_00_talk_idle_01=
+
+// SPEAKER: Civilian M
+// Hmm!
+vo_gothic_gothic_civilian_00_talk_idle_02=Hmm!
+
+// SPEAKER: Civilian M
+// Ah!
+vo_gothic_gothic_civilian_00_talk_idle_03=Ah!
+
+// SPEAKER: Civilian M
+// Hmm...
+vo_gothic_gothic_civilian_00_talk_idle_04=Hmm...
+
+// SPEAKER: Civilian M
+// Hm, yes.
+vo_gothic_gothic_civilian_00_talk_idle_05=Hm, được.
+
+// SPEAKER: Civilian M
+// Ahh...
+vo_gothic_gothic_civilian_00_talk_idle_06=Ahh...
+
+// SPEAKER: Civilian M
+// No!
+vo_gothic_gothic_civilian_00_talk_idle_afraid_00=Không!
+
+// SPEAKER: Civilian M
+// ...why...
+vo_gothic_gothic_civilian_00_talk_idle_afraid_01=...tại sao...
+
+// SPEAKER: Civilian M
+// Please stop this... Please...
+vo_gothic_gothic_civilian_00_talk_idle_afraid_02=Làm ơn dừng lại... Làm ơn...
+
+// SPEAKER: Civilian M
+// ...help...
+vo_gothic_gothic_civilian_00_talk_idle_afraid_03=...cứu với...
+
+// SPEAKER: Civilian M
+// ...anyone...
+vo_gothic_gothic_civilian_00_talk_idle_afraid_04=...ai đó...
+
+// SPEAKER: Civilian M
+// Hmm... Sake.
+vo_gothic_gothic_civilian_00_talk_idle_night_00=Hmm... Sa kê.
+
+// SPEAKER: Civilian M
+// Been up all day.
+vo_gothic_gothic_civilian_00_talk_idle_night_01=Cả ngày thế này rồi.
+
+// SPEAKER: Civilian M
+// Night's dark.
+vo_gothic_gothic_civilian_00_talk_idle_night_02=Đêm đen.
+
+// SPEAKER: Civilian M
+// 
+vo_gothic_gothic_civilian_00_talk_idle_night_03=
+
+// SPEAKER: Civilian M
+// 
+vo_gothic_gothic_civilian_00_talk_idle_night_04=
+
+// SPEAKER: Civilian M
+// Damn snow.
+vo_gothic_gothic_civilian_00_talk_idle_snow_00=Mẹ kiếp, tuyết.
+
+// SPEAKER: Civilian M
+// It's freezing.
+vo_gothic_gothic_civilian_00_talk_idle_snow_01=Thun hết chim cmnr.
+
+// SPEAKER: Civilian M
+// So cold.
+vo_gothic_gothic_civilian_00_talk_idle_snow_02=Lạnh quá.
+
+// SPEAKER: Civilian M
+// That doesn't concern me.
+vo_gothic_gothic_civilian_00_talk_npc_00=Tôi không quan tâm nó.
+
+// SPEAKER: Civilian M
+// That much is known.
+vo_gothic_gothic_civilian_00_talk_npc_01=Biết thế đủ rồi.
+
+// SPEAKER: Civilian M
+// You shouldn't believe everything you hear.
+vo_gothic_gothic_civilian_00_talk_npc_02=Đừng tin vào những gì mà cậu nghe thấy được.
+
+// SPEAKER: Civilian M
+// I have heard otherwise.
+vo_gothic_gothic_civilian_00_talk_npc_03=Tôi nghe ra thứ khác.
+
+// SPEAKER: Civilian M
+// That's how it's always been.
+vo_gothic_gothic_civilian_00_talk_npc_04=Nó luôn như thế mà.
+
+// SPEAKER: Civilian M
+// He's a fool. Don't listen to him.
+vo_gothic_gothic_civilian_00_talk_npc_05=Anh ta điên đó. Đừng nghe anh ta.
+
+// SPEAKER: Civilian M
+// We can agree on that.
+vo_gothic_gothic_civilian_00_talk_npc_06=Chúng ta có thể đồng ý về điều đó.
+
+// SPEAKER: Civilian M
+// Be careful what you say.
+vo_gothic_gothic_civilian_00_talk_npc_07=Cẩn thận với những gì cậu nói.
+
+// SPEAKER: Civilian M
+// This is grave news.
+vo_gothic_gothic_civilian_00_talk_npc_08=Đó là cái mộ mới...
+
+// SPEAKER: Civilian M
+// It will pass.
+vo_gothic_gothic_civilian_00_talk_npc_09=Sẽ qua thôi.
+
+// SPEAKER: Civilian M
+// That's what I heard, at least.
+vo_gothic_gothic_civilian_00_talk_npc_10=Đó là những gì tôi nghe được.
+
+// SPEAKER: Civilian M
+// Hush...don't speak too loud!
+vo_gothic_gothic_civilian_00_talk_npc_11=Hush...đừng nói to quá!
+
+// SPEAKER: Civilian M
+// Don't say anything, you hear?
+vo_gothic_gothic_civilian_00_talk_npc_12=Đừng nó gì cả, nghe đi!
+
+// SPEAKER: Civilian M
+// But why did they do that?
+vo_gothic_gothic_civilian_00_talk_npc_13=Nhưng sao chúng lại làm thế?
+
+// SPEAKER: Civilian M
+// Wh...what happened then?
+vo_gothic_gothic_civilian_00_talk_npc_14=Rồi chuyện gì đã xảy ra?
+
+// SPEAKER: Civilian M
+// Yes, my lord.
+vo_gothic_gothic_civilian_00_talk_npc_confirm_00=Vâng thưa ngài.
+
+// SPEAKER: Civilian M
+// I understand.
+vo_gothic_gothic_civilian_00_talk_npc_confirm_01=Tôi đã hiểu.
+
+// SPEAKER: Civilian M
+// Yes, of course.
+vo_gothic_gothic_civilian_00_talk_npc_confirm_02=Vâng dĩ nhiên.
+
+// SPEAKER: Civilian M
+// Understood.
+vo_gothic_gothic_civilian_00_talk_npc_confirm_03=Đã rõ.
+
+// SPEAKER: Civilian M
+// As you wish.
+vo_gothic_gothic_civilian_00_talk_npc_confirm_04=Như ngài muốn.
+
+// SPEAKER: Civilian M
+// As you command.
+vo_gothic_gothic_civilian_00_talk_npc_confirm_05=Như lệnh của ngài.
+
+// SPEAKER: Civilian M
+// Oh, these are dark times...
+vo_gothic_gothic_civilian_00_talk_npc_bathhouse_gossip_00=Oh, Thời khắc đen tối.
+
+// SPEAKER: Civilian M
+// So it's true? The Shogun's son has been murdered?
+vo_gothic_gothic_civilian_00_talk_npc_bathhouse_gossip_01=Thật hả? Con trai Mạc Chúa đã bị sát hại ư?
+
+// SPEAKER: Civilian M
+// It's not safe to go outside.
+vo_gothic_gothic_civilian_00_talk_npc_bathhouse_gossip_02=Không an toàn để ra khỏi nhà.
+
+// SPEAKER: Civilian M
+// I heard the Shogun is on his way to Kyōto.
+vo_gothic_gothic_civilian_00_talk_npc_bathhouse_gossip_03=Tôi nghe Mạc Chúa đang tới Kyōto.
+
+// SPEAKER: Civilian M
+// I see they are looking for the killers.
+vo_gothic_gothic_civilian_00_talk_npc_bathhouse_gossip_04=Tôi thấy họ đang truy lùng kẻ giết người.
+
+// SPEAKER: Civilian M
+// Did you know Lord Noboru's son is here?
+vo_gothic_gothic_civilian_00_talk_npc_bathhouse_gossip_05=Có biết là con trai Mạc Chúa ở đây không?
+
+// SPEAKER: Civilian M
+// Be wary. Keep away from dark alleys.
+vo_gothic_gothic_civilian_00_talk_npc_bathhouse_gossip_06=Cẩn thận. Tránh xa mấy hẻm tối ra.
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_urinate_00=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_whimper_00=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_whistle_00=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_wipesweat_00=
+
+// SPEAKER: Civilian M
+// 
+vo_eny_eny_civilian_00_yawn_00=
+

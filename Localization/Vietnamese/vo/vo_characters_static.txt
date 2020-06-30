@@ -1,0 +1,1352 @@
+// SPEAKER: Static
+// Sound the alarm!
+vo_eny_eny_static_00_alarm_area_00=Tiếng báo động!
+
+// SPEAKER: Static
+// We are being attacked!
+vo_eny_eny_static_00_alarm_area_01=Chúng ta bị tấn công!
+
+// SPEAKER: Static
+// To arms!
+vo_eny_eny_static_00_alarm_area_02=Gọi thêm người!
+
+// SPEAKER: Static
+// We need reinforcements!
+vo_eny_eny_static_00_alarm_area_03=Gọi tiếp viện ngay!
+
+// SPEAKER: Static
+// Alert the others!
+vo_eny_eny_static_00_alarm_area_04=Báo cho người khác biết!
+
+// SPEAKER: Static
+// Get over here!
+vo_eny_eny_static_00_alarm_local_00=Ở đây!
+
+// SPEAKER: Static
+// To me, to me!
+vo_eny_eny_static_00_alarm_local_01=Tới chỗ tôi!
+
+// SPEAKER: Static
+// I need backup!
+vo_eny_eny_static_00_alarm_local_02=Tôi cần hỗ trợ!
+
+// SPEAKER: Static
+// Help!
+vo_eny_eny_static_00_alarm_local_03=Giúp với!
+
+// SPEAKER: Static
+// Over here!
+vo_eny_eny_static_00_alarm_local_04=Tập hợp!
+
+// SPEAKER: Static
+// Men, over here!
+vo_eny_eny_static_00_alarm_local_05=Lính đâu!
+
+// SPEAKER: Static
+// Damn it!
+vo_eny_eny_static_00_alarm_local_06=Chết tiệt!
+
+// SPEAKER: Static
+// Ah... They must have escaped. Cancel the alarm.
+vo_eny_eny_static_00_alarm_stop_00=Ah... Chúng đã trốn thoát! Tắt báo động đi.
+
+// SPEAKER: Static
+// Oh, call off the search! As you were.
+vo_eny_eny_static_00_alarm_stop_01=Oh, hết rồi, ngưng tìm kiếm thôi.
+
+// SPEAKER: Static
+// They must have run. Stand down, men.
+vo_eny_eny_static_00_alarm_stop_02=Chúng đã chạy trốn! Bình tĩnh lại nào các chàng trai!
+
+// SPEAKER: Static
+// No more danger. At ease, everyone.
+vo_eny_eny_static_00_alarm_stop_03=Không còn nguy hiểm! Yên tâm đi mọi người.
+
+// SPEAKER: Static
+// Ah! Looks like we've driven them off!
+vo_eny_eny_static_00_alarm_stop_04=Ah! Có vẻ chúng ta đã đuổi hắn đi!
+
+// SPEAKER: Static
+// All clear!
+vo_eny_eny_static_00_alarm_stop_05=Tất cả trống!
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_carry_object_00=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_clear_throat_00=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_cough_00=
+
+// SPEAKER: Static
+// Look! Above us! Taking aim!
+vo_eny_eny_static_00_danger_toohigh_00=Nhìn kìa! Ở trên chúng ta! Ngắm bắn đi!
+
+// SPEAKER: Static
+// They are above us!
+vo_eny_eny_static_00_danger_toohigh_01=Hắn ở phía trên chúng ta!
+
+// SPEAKER: Static
+// They're attacking from above!
+vo_eny_eny_static_00_danger_toohigh_02=Hắn tấn công từ phía trên!
+
+// SPEAKER: Static
+// Cowards! Fight like men!
+vo_eny_eny_static_00_danger_unreachable_00=Hèn nhát! Xuống chiến đấu như người đàn ông xem!
+
+// SPEAKER: Static
+// How did they get there?
+vo_eny_eny_static_00_danger_unreachable_01=Hắn lên đó bằng cách nào?
+
+// SPEAKER: Static
+// Oh, I can't reach them!
+vo_eny_eny_static_00_danger_unreachable_02=Tao không thể lên với mày...
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_death_scream_00=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_death_scream_01=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_death_scream_02=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_death_scream_03=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_death_scream_04=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_death_scream_muffled_00=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_death_scream_muffled_01=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_death_scream_muffled_02=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_death_scream_muffled_03=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_death_scream_muffled_04=
+
+// SPEAKER: Static
+// She's dead!
+vo_eny_eny_static_00_detect_corpse_female_02=Cô ấy đã chết!
+
+// SPEAKER: Static
+// They must have killed her...
+vo_eny_eny_static_00_detect_corpse_female_03=Chúng đã giết cô ấy...
+
+// SPEAKER: Static
+// He's dead...
+vo_eny_eny_static_00_detect_corpse_male_00=Anh ta đã chết...
+
+// SPEAKER: Static
+// They killed him!
+vo_eny_eny_static_00_detect_corpse_male_01=Chúng đã giết anh ta!
+
+// SPEAKER: Static
+// Murder!
+vo_eny_eny_static_00_detect_corpse_neutral_02=Có người chết!
+
+// SPEAKER: Static
+// Assassins!
+vo_eny_eny_static_00_detect_corpse_neutral_03=Sát thủ bây ơi!
+
+// SPEAKER: Static
+// Huh? Footprints...
+vo_eny_eny_static_00_detect_footsteps_00=Huh? Dấu chân...
+
+// SPEAKER: Static
+// Who made those footprints?
+vo_eny_eny_static_00_detect_footsteps_01=Ai để lại dấu chân này?
+
+// SPEAKER: Static
+// Who left those tracks?
+vo_eny_eny_static_00_detect_footsteps_02=Dấu vết này là của ai?
+
+// SPEAKER: Static
+// Those tracks do not belong here...
+vo_eny_eny_static_00_detect_footsteps_03=Dấu vết của kẻ lạ mặt!
+
+// SPEAKER: Static
+// Someone must be sneaking around...
+vo_eny_eny_static_00_detect_footsteps_04=Có kẻ lén lút ở quanh đây?
+
+// SPEAKER: Static
+// The light's gone out!
+vo_eny_eny_static_00_detect_lightsource_00=Lửa đã tắt...
+
+// SPEAKER: Static
+// Was it the wind?
+vo_eny_eny_static_00_detect_lightsource_01=Là gió hả?
+
+// SPEAKER: Static
+// That light should be burning!
+vo_eny_eny_static_00_detect_lightsource_02=Lửa sẽ được thắp lại!
+
+// SPEAKER: Static
+// Ugh... Someone has been careless with the lamp.
+vo_eny_eny_static_00_detect_lightsource_03=Ugh... Cần có người để ý ngọn lửa này.
+
+// SPEAKER: Static
+// The fire's died...
+vo_eny_eny_static_00_detect_lightsource_04=Lửa đã tàn...
+
+// SPEAKER: Static
+// Don't you move!
+vo_eny_eny_static_00_detect_player_00=Đừng di chuyển!
+
+// SPEAKER: Static
+// Stop right there!
+vo_eny_eny_static_00_detect_player_01=Đứng yên!
+
+// SPEAKER: Static
+// Halt!
+vo_eny_eny_static_00_detect_player_02=Dừng lại!
+
+// SPEAKER: Static
+// I can see you!
+vo_eny_eny_static_00_detect_player_03=Tao thấy mày rồi!
+
+// SPEAKER: Static
+// You there!
+vo_eny_eny_static_00_detect_player_04=Hắn ở đây!
+
+// SPEAKER: Static
+// Stop right there!
+vo_eny_eny_static_00_detect_player_05=Dừng lại ngay!
+
+// SPEAKER: Static
+// Intruder!
+vo_eny_eny_static_00_detect_player_06=Kẻ đột nhập!
+
+// SPEAKER: Static
+// Die, you scum!
+vo_eny_eny_static_00_detect_player_07=Chết đi đồ cặn bã!
+
+// SPEAKER: Static
+// I've got you!
+vo_eny_eny_static_00_detect_player_08=Tao đã tóm được mày!
+
+// SPEAKER: Static
+// Hey, you!
+vo_eny_eny_static_00_detect_player_09=Ê đứa kia!
+
+// SPEAKER: Static
+// Death to the attacker!
+vo_eny_eny_static_00_detect_player_10=Cái chết cho kẻ tấn công!
+
+// SPEAKER: Static
+// Kill the intruder!
+vo_eny_eny_static_00_detect_player_11=Giết kẻ tấn công!
+
+// SPEAKER: Static
+// It's the Shogunate!
+vo_eny_eny_static_00_detect_player_12=Người Mạc Phủ!
+
+// SPEAKER: Static
+// It's them!
+vo_eny_eny_static_00_detect_player_13=Là chúng!
+
+// SPEAKER: Static
+// You shouldn't be here!
+vo_eny_eny_static_00_detect_player_14=Mày không nên ở đây!
+
+// SPEAKER: Static
+// I'll take care of you...
+vo_eny_eny_static_00_detect_player_15=Tao sẽ chăm sóc mày...
+
+// SPEAKER: Static
+// Don't try to run!
+vo_eny_eny_static_00_detect_player_16=Đừng cố mà chạy!
+
+// SPEAKER: Static
+// You can't escape!
+vo_eny_eny_static_00_detect_player_17=Mày không thể thoát!
+
+// SPEAKER: Static
+// Something's wrong...
+vo_eny_eny_static_00_detect_player_proximity_00=Có gì đó sai sai...
+
+// SPEAKER: Static
+// Strange... It feels like...
+vo_eny_eny_static_00_detect_player_proximity_01=Kỳ lạ thật...nó cảm giác như...
+
+// SPEAKER: Static
+// Wait...is someone...
+vo_eny_eny_static_00_detect_player_proximity_02=Chờ đã...có ai đó...
+
+// SPEAKER: Static
+// I'm...I'm sure there's something there...
+vo_eny_eny_static_00_detect_player_proximity_03=Tao...Tao chắc chắn có ai đó ở đây...
+
+// SPEAKER: Static
+// Sake, huh? ...someone else have it.
+vo_eny_eny_static_00_detect_sake_00=Sa kê hả? ...người khác cũng sẽ lấy nó thôi.
+
+// SPEAKER: Static
+// Ah... I can't leave my post for sake.
+vo_eny_eny_static_00_detect_sake_01=Ah... Mình không thể rời vị trí vì chai sa kê.
+
+// SPEAKER: Static
+// It's a bad thing I stopped drinking.
+vo_eny_eny_static_00_detect_sake_02=Thật tệ khi mình đã cai rượu.
+
+// SPEAKER: Static
+// Oh, it's just an animal...
+vo_eny_eny_static_00_detect_tanuki_00=Oh, chỉ là một con vật...
+
+// SPEAKER: Static
+// Away with you! Shoo!
+vo_eny_eny_static_00_detect_tanuki_01=Chạy đi! Shoo!
+
+// SPEAKER: Static
+// Ah...all right, I'll just ignore it.
+vo_eny_eny_static_00_detect_tanuki_02=Ah...được rồi, mình chỉ cần lờ đi.
+
+// SPEAKER: Static
+// Ah! She's unconscious!
+vo_eny_eny_static_00_detect_unconscious_female_01=Cô ấy bất tỉnh.
+
+// SPEAKER: Static
+// She's been hit!
+vo_eny_eny_static_00_detect_unconscious_female_02=Cô ấy bị đánh!
+
+// SPEAKER: Static
+// She has been attacked!
+vo_eny_eny_static_00_detect_unconscious_female_03=Cô ấy bị tấn công.
+
+// SPEAKER: Static
+// He's unconscious!
+vo_eny_eny_static_00_detect_unconscious_male_00=Anh ta bất tỉnh.
+
+// SPEAKER: Static
+// He's been hit!
+vo_eny_eny_static_00_detect_unconscious_male_01=Anh ta bị đánh!
+
+// SPEAKER: Static
+// That man looks like he's been attacked.
+vo_eny_eny_static_00_detect_unconscious_male_02=Anh ta có vẻ như bị tấn công.
+
+// SPEAKER: Static
+// What happened there?
+vo_eny_eny_static_00_detect_unconscious_neutral_01=Chuyện gì đã xảy ra?
+
+// SPEAKER: Static
+// Hey! What's wrong?
+vo_eny_eny_static_00_detect_unconscious_neutral_02=Hey...có gì không ổn hả?
+
+// SPEAKER: Static
+// Are you sleeping?
+vo_eny_eny_static_00_detect_unconscious_neutral_03=Đang ngủ hả?
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_drink_sake_00=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_drop_object_00=
+
+// SPEAKER: Static
+// He's gone missing!
+vo_eny_eny_static_00_friend_missing_female_00=Cố ấy bị mất tích!
+
+// SPEAKER: Static
+// She left her post!
+vo_eny_eny_static_00_friend_missing_female_01=Cô ấy rời vị trí.
+
+// SPEAKER: Static
+// Where is she?
+vo_eny_eny_static_00_friend_missing_female_02=Cô ấy đâu rồi?
+
+// SPEAKER: Static
+// What is keeping her?
+vo_eny_eny_static_00_friend_missing_female_03=Cái gì cầm chân cô ấy lại?
+
+// SPEAKER: Static
+// Ugh...she's gone too long.
+vo_eny_eny_static_00_friend_missing_female_04=Ugh...Cô ấy đi cũng khá lâu rồi.
+
+// SPEAKER: Static
+// He left his post.
+vo_eny_eny_static_00_friend_missing_male_01=Anh ta rời vị trí.
+
+// SPEAKER: Static
+// Where is he?
+vo_eny_eny_static_00_friend_missing_male_02=Anh ta đâu rồi?
+
+// SPEAKER: Static
+// What on earth is keeping him?
+vo_eny_eny_static_00_friend_missing_male_03=Cái gì cầm chân anh ta lại?
+
+// SPEAKER: Static
+// He's gone too long!
+vo_eny_eny_static_00_friend_missing_male_04=Anh ta đi cũng khá lâu rồi.
+
+// SPEAKER: Static
+// Hey! Wake up!
+vo_eny_eny_static_00_friend_wakeup_00=Hey! Dậy đi!
+
+// SPEAKER: Static
+// Get up!
+vo_eny_eny_static_00_friend_wakeup_01=Dậy nào!
+
+// SPEAKER: Static
+// Are you all right?
+vo_eny_eny_static_00_friend_wakeup_02=Có sao không?
+
+// SPEAKER: Static
+// What happened to you?
+vo_eny_eny_static_00_friend_wakeup_03=Có chuyện khỉ gì vậy?
+
+// SPEAKER: Static
+// Hey! On your feet!
+vo_eny_eny_static_00_friend_wakeup_04=Hey! Đứng dậy!
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_hard_work_00=
+
+// SPEAKER: Static
+// Huh?!
+vo_eny_eny_static_00_hear_noise_00=Hả?!
+
+// SPEAKER: Static
+// What was that?
+vo_eny_eny_static_00_hear_noise_01=Cái gì thế?
+
+// SPEAKER: Static
+// I heard something...
+vo_eny_eny_static_00_hear_noise_02=Mình nghe thấy gì đó...
+
+// SPEAKER: Static
+// Strange sound...
+vo_eny_eny_static_00_hear_noise_03=Tiếng động lớn...
+
+// SPEAKER: Static
+// That noise...
+vo_eny_eny_static_00_hear_noise_04=Đó là...tiếng ồn...
+
+// SPEAKER: Static
+// Ah! Who was that?
+vo_eny_eny_static_00_hear_noise_directhit_00=Ah! ...thằng nào dám?
+
+// SPEAKER: Static
+// Ow! ...you'll pay for this!
+vo_eny_eny_static_00_hear_noise_directhit_01=Ow! ...Mày phải trả giá cho chuyện này!
+
+// SPEAKER: Static
+// Ow! Show yourself, now!
+vo_eny_eny_static_00_hear_noise_directhit_02=Ow! Lộ diện ngay coi nào!
+
+// SPEAKER: Static
+// Ouch! Stop this!
+vo_eny_eny_static_00_hear_noise_directhit_03=Ouch! Dừng lại ngay!
+
+// SPEAKER: Static
+// Why is there shooting?
+vo_eny_eny_static_00_hear_noise_gunshot_00=Sao có tiếng súng?
+
+// SPEAKER: Static
+// Shots fired! Alarm!
+vo_eny_eny_static_00_hear_noise_gunshot_01=Tiếng súng! Báo động!
+
+// SPEAKER: Static
+// The enemy has firearms!
+vo_eny_eny_static_00_hear_noise_gunshot_02=Địch có hỏa lực!
+
+// SPEAKER: Static
+// Is someone there?
+vo_eny_eny_static_00_hear_noise_human_00=Có ai đó ở đây?
+
+// SPEAKER: Static
+// Who goes there?
+vo_eny_eny_static_00_hear_noise_human_01=Có ai đó đến đây?
+
+// SPEAKER: Static
+// I heard that!
+vo_eny_eny_static_00_hear_noise_human_02=Tao nghe thấy rồi!
+
+// SPEAKER: Static
+// Who's making that noise?
+vo_eny_eny_static_00_hear_noise_human_03=Đứa nào làm ồn?
+
+// SPEAKER: Static
+// Who hides in the shadows?
+vo_eny_eny_static_00_hear_noise_human_04=Thằng nào nấp trong bóng tối?
+
+// SPEAKER: Static
+// Who is this?
+vo_eny_eny_static_00_hear_noise_human_05=Ai đó?
+
+// SPEAKER: Static
+// Enough already!
+vo_eny_eny_static_00_hear_noise_too_much_00=Quá đủ rồi!
+
+// SPEAKER: Static
+// Who is doing this?
+vo_eny_eny_static_00_hear_noise_too_much_01=Thằng nào đang làm đấy?
+
+// SPEAKER: Static
+// Show yourself!
+vo_eny_eny_static_00_hear_noise_too_much_02=Lộ mặt đi!
+
+// SPEAKER: Static
+// This isn't funny!
+vo_eny_eny_static_00_hear_noise_too_much_03=Đéo vui tý nào đâu!
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_hum_00=
+
+// SPEAKER: Static
+// Aw, it's...nothing.
+vo_eny_eny_static_00_ignore_distraction_00=Aw, nó...chả có gì.
+
+// SPEAKER: Static
+// Just the wind.
+vo_eny_eny_static_00_ignore_distraction_01=Chỉ là gió mà thôi.
+
+// SPEAKER: Static
+// The wind plays tricks on me.
+vo_eny_eny_static_00_ignore_distraction_02=Gió đang đùa mình ấy mà.
+
+// SPEAKER: Static
+// I will not be distracted.
+vo_eny_eny_static_00_ignore_distraction_03=Mình sẽ không bị phân tâm nữa.
+
+// SPEAKER: Static
+// Hm... Nothing.
+vo_eny_eny_static_00_ignore_distraction_04=Hm... Không có gì.
+
+// SPEAKER: Static
+// I...cannot leave my post.
+vo_eny_eny_static_00_ignore_disturbance_00=Mình...không thể rời vị trí.
+
+// SPEAKER: Static
+// I must remember my duty.
+vo_eny_eny_static_00_ignore_disturbance_01=Phải nhớ nhiệm vụ của mình.
+
+// SPEAKER: Static
+// Nothing important.
+vo_eny_eny_static_00_ignore_disturbance_02=Chả có gì quan trọng.
+
+// SPEAKER: Static
+// Not worth it.
+vo_eny_eny_static_00_ignore_disturbance_03=Nó không đáng quan tâm.
+
+// SPEAKER: Static
+// What happened?
+vo_eny_eny_static_00_investigate_accident_start_00=Chuyện quái gì vậy?
+
+// SPEAKER: Static
+// How did this happen?
+vo_eny_eny_static_00_investigate_accident_start_01=Sao nó lại xảy ra được?
+
+// SPEAKER: Static
+// Impossible!
+vo_eny_eny_static_00_investigate_accident_start_02=Đéo thể nào!
+
+// SPEAKER: Static
+// B-but...how?!
+vo_eny_eny_static_00_investigate_accident_start_03=N-nhưng...sao?!
+
+// SPEAKER: Static
+// No! It can't be!
+vo_eny_eny_static_00_investigate_accident_start_04=Không! Nó không thể!
+
+// SPEAKER: Static
+// Oh, such a shame...
+vo_eny_eny_static_00_investigate_accident_stop_00=Đời mày quá đen...
+
+// SPEAKER: Static
+// Karma, eh?
+vo_eny_eny_static_00_investigate_accident_stop_01=Nghiệp chướng ư?
+
+// SPEAKER: Static
+// Hmm... Tragic.
+vo_eny_eny_static_00_investigate_accident_stop_02=Hmm... Bi kịch.
+
+// SPEAKER: Static
+// Cursed fate...
+vo_eny_eny_static_00_investigate_accident_stop_03=Hôm nay mày đến hạn rồi.
+
+// SPEAKER: Static
+// Nothing we can do.
+vo_eny_eny_static_00_investigate_accident_stop_04=Bọn tao không thể làm gì hơn.
+
+// SPEAKER: Static
+// Ah! Hiding in the bushes?!
+vo_eny_eny_static_00_investigate_bush_00=Ah! Nấp trong bụi cây hả?!
+
+// SPEAKER: Static
+// You can't hide from me!
+vo_eny_eny_static_00_investigate_bush_01=Mày không thể trốn tao đâu!
+
+// SPEAKER: Static
+// You cannot fool me!
+vo_eny_eny_static_00_investigate_bush_02=Mày không thể lừa được tao!
+
+// SPEAKER: Static
+// Crawling through the thicket?
+vo_eny_eny_static_00_investigate_bush_03=Thu thập thông tin từ bụi cây hả?
+
+// SPEAKER: Static
+// The brush will not protect you!
+vo_eny_eny_static_00_investigate_bush_04=Bụi cây không thể bảo vệ mày!
+
+// SPEAKER: Static
+// Hiding in there?
+vo_eny_eny_static_00_investigate_door_00=Nấp ở đây hả?
+
+// SPEAKER: Static
+// I know you're in there!
+vo_eny_eny_static_00_investigate_door_01=Tao biết mày ở đây!
+
+// SPEAKER: Static
+// You think you're safe in there?
+vo_eny_eny_static_00_investigate_door_02=Mày nghĩ mày an toàn khi ở đây hả?
+
+// SPEAKER: Static
+// Ah... Nobody here.
+vo_eny_eny_static_00_investigate_end_00=Ah... Không có ai ở đây.
+
+// SPEAKER: Static
+// Ah...oh, they're gone.
+vo_eny_eny_static_00_investigate_end_01=Ah...oh, chúng đi rồi.
+
+// SPEAKER: Static
+// Ah, nothing.
+vo_eny_eny_static_00_investigate_end_02=Ah, Không có gì.
+
+// SPEAKER: Static
+// Ugh, ran away.
+vo_eny_eny_static_00_investigate_end_03=Ugh, Đã bỏ chạy.
+
+// SPEAKER: Static
+// Must have fled!
+vo_eny_eny_static_00_investigate_end_04=Chạy trốn rồi!
+
+// SPEAKER: Static
+// Ugh...can't find anyone.
+vo_eny_eny_static_00_investigate_end_05=Ugh...không thể tìm thấy ai.
+
+// SPEAKER: Static
+// Hello?
+vo_eny_eny_static_00_investigate_missing_00=Hello?
+
+// SPEAKER: Static
+// Are you hiding somewhere?
+vo_eny_eny_static_00_investigate_missing_01=Mày đang nấp quanh đây phải không?
+
+// SPEAKER: Static
+// Are you there?
+vo_eny_eny_static_00_investigate_missing_02=Mày đang ở đó?
+
+// SPEAKER: Static
+// I'm not in the mood for this!
+vo_eny_eny_static_00_investigate_missing_03=Tao đếch có tâm trạng cho chuyện này đâu nhé!
+
+// SPEAKER: Static
+// Where are you? Speak up!
+vo_eny_eny_static_00_investigate_missing_04=Mày ở đâu? Trả lời coi!
+
+// SPEAKER: Static
+// You hear me?
+vo_eny_eny_static_00_investigate_missing_05=Mày nghe thấy tao không?
+
+// SPEAKER: Static
+// Someone investigate!
+vo_eny_eny_static_00_investigate_other_00=Ai đó tới điều tra đi!
+
+// SPEAKER: Static
+// You! Investigate!
+vo_eny_eny_static_00_investigate_other_01=Mày! Tới điều tra!
+
+// SPEAKER: Static
+// You, go! I cannot leave my post.
+vo_eny_eny_static_00_investigate_other_02=Mày, đi đi! Tao không thể rời vị trí này.
+
+// SPEAKER: Static
+// There's no one here but me...
+vo_eny_eny_static_00_investigate_self_00=Không có ai ở đây nhưng mình...
+
+// SPEAKER: Static
+// Ugh, damn. I must leave my post.
+vo_eny_eny_static_00_investigate_self_01=Ugh, khỉ thật. Mình phải rời vị trí thôi.
+
+// SPEAKER: Static
+// I'm alone. I have to investigate...
+vo_eny_eny_static_00_investigate_self_02=Chỉ có mình. Phải đi điều tra thôi...
+
+// SPEAKER: Static
+// Where are you?
+vo_eny_eny_static_00_investigate_start_00=Mày ở đâu?
+
+// SPEAKER: Static
+// Anyone here?
+vo_eny_eny_static_00_investigate_start_01=Có ai ở đây không?
+
+// SPEAKER: Static
+// I know you're here!
+vo_eny_eny_static_00_investigate_start_02=Tao biết mày ở đây!
+
+// SPEAKER: Static
+// I will find you!
+vo_eny_eny_static_00_investigate_start_03=Tao sẽ tìm thấy mày!
+
+// SPEAKER: Static
+// Come forward!
+vo_eny_eny_static_00_investigate_start_04=Đi lên phía trước!
+
+// SPEAKER: Static
+// Eh, not worth the walk.
+vo_eny_eny_static_00_investigate_too_long_00=Eh, không đáng để đi bộ.
+
+// SPEAKER: Static
+// No, that's too far off.
+vo_eny_eny_static_00_investigate_too_long_01=Không, ở đó quá xa.
+
+// SPEAKER: Static
+// Eh, no. That's way over there.
+vo_eny_eny_static_00_investigate_too_long_02=Không, lười đi bỏ mẹ.
+
+// SPEAKER: Static
+// No, I can't reach that.
+vo_eny_eny_static_00_investigate_unreachable_00=Không, tao không thể tới đó.
+
+// SPEAKER: Static
+// Eh...aw, the path is blocked.
+vo_eny_eny_static_00_investigate_unreachable_01=Eh, đường đã bị chặn.
+
+// SPEAKER: Static
+// Ah, that's too much trouble.
+vo_eny_eny_static_00_investigate_unreachable_02=Quá nhiều rắc rối.
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_knockout_scream_00=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_knockout_scream_01=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_knockout_scream_02=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_knockout_scream_03=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_knockout_scream_04=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_laugh_evil_00=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_laugh_good_00=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_make_toast_00=
+
+// SPEAKER: Static
+// Stay vigilant. We have assassins in our midst.
+vo_eny_eny_static_00_officer_alert_00=Cảnh giác. Chúng ta có sát thủ ở đây.
+
+// SPEAKER: Static
+// The enemy is among us. Stay sharp.
+vo_eny_eny_static_00_officer_alert_01=Địch ở gần chúng ta. Hãy khôn ngoan lên.
+
+// SPEAKER: Static
+// Don't be fooled. They are still here.
+vo_eny_eny_static_00_officer_alert_02=Đừng để bị lừa. Chúng vẫn còn ở đây.
+
+// SPEAKER: Static
+// Watch the shadows. It's where they hide.
+vo_eny_eny_static_00_officer_alert_03=Nhìn mấy chỗ tối ấy. Đó là nơi chúng nấp.
+
+// SPEAKER: Static
+// Keep together. Don't let them separate you.
+vo_eny_eny_static_00_officer_alert_04=Đi cùng nhau. Đừng để chúng tóm được mày.
+
+// SPEAKER: Static
+// They are looking for weakness. Give them death.
+vo_eny_eny_static_00_officer_alert_05=Chúng đang tìm điểm yếu. Cho chúng nhận lấy cái chết nào.
+
+// SPEAKER: Static
+// Attack on sight. Show no mercy.
+vo_eny_eny_static_00_officer_alert_06=Tấn công khi phát hiện. Không phải thương sót.
+
+// SPEAKER: Static
+// Do not cower before common criminals.
+vo_eny_eny_static_00_officer_alert_07=Đừng sợ lũ tội phạm cùi bắp này.
+
+// SPEAKER: Static
+// Teach them fear. Give them no place to hide.
+vo_eny_eny_static_00_officer_alert_08=Dạy chúng sợ hãi. Không cho chúng chỗ để nấp luôn.
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_pickup_object_00=
+
+// SPEAKER: Static
+// ...oh, ah—so sorry!
+vo_eny_eny_static_00_regain_consciousness_00=...oh, ah—xin lỗi!
+
+// SPEAKER: Static
+// Ohh...my head...
+vo_eny_eny_static_00_regain_consciousness_01=Ohh...đầu mình...
+
+// SPEAKER: Static
+// Oh, I am shamed.
+vo_eny_eny_static_00_regain_consciousness_02=Oh, Tôi thật xấu hổ.
+
+// SPEAKER: Static
+// ...ow! That hurt...
+vo_eny_eny_static_00_regain_consciousness_03=...ow! đau quá...
+
+// SPEAKER: Static
+// ...augh! They...they jumped me!
+vo_eny_eny_static_00_regain_consciousness_04=...augh! Chúng...chúng nhảy vào tôi!
+
+// SPEAKER: Static
+// ...ugh...they knocked me out!
+vo_eny_eny_static_00_regain_consciousness_05=...ugh...chúng đánh gục tôi!
+
+// SPEAKER: Static
+// Agh... I was attacked!
+vo_eny_eny_static_00_regain_consciousness_06=Agh... Tôi bị tấn công!
+
+// SPEAKER: Static
+// ...I left my post!
+vo_eny_eny_static_00_regain_consciousness_07=...Tôi đã rời vị trí của mình!
+
+// SPEAKER: Static
+// ...ohh...I neglected my duty!
+vo_eny_eny_static_00_regain_consciousness_08=...ohh...Tôi đã bỏ bê công việc!
+
+// SPEAKER: Static
+// Wha...AAH!
+vo_eny_eny_static_00_see_flying_body_00=Cái... AGH!
+
+// SPEAKER: Static
+// Uh...ah! AAH!
+vo_eny_eny_static_00_see_flying_body_01=Uh...ah! AAH!
+
+// SPEAKER: Static
+// AAAAAH!
+vo_eny_eny_static_00_see_flying_body_02=AAAAAH!
+
+// SPEAKER: Static
+// ...hey!
+vo_eny_eny_static_00_see_flying_object_00=...hey!
+
+// SPEAKER: Static
+// Wha...what?!
+vo_eny_eny_static_00_see_flying_object_01=Cái...cái gì?!
+
+// SPEAKER: Static
+// ...how did that happen?!
+vo_eny_eny_static_00_see_flying_object_02=...Làm thế nào?!
+
+// SPEAKER: Static
+// What?
+vo_eny_eny_static_00_see_something_00=Cái gì?
+
+// SPEAKER: Static
+// Huh?
+vo_eny_eny_static_00_see_something_01=Hả?
+
+// SPEAKER: Static
+// What's that?
+vo_eny_eny_static_00_see_something_02=Quái gì thế?
+
+// SPEAKER: Static
+// Something...
+vo_eny_eny_static_00_see_something_03=Có gì đó...
+
+// SPEAKER: Static
+// Hmm?
+vo_eny_eny_static_00_see_something_04=Hmm?
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_snore_00=
+
+// SPEAKER: Static
+// Nothing. Back to your posts.
+vo_eny_eny_static_00_squad_investigate_end_00=Không có gì! Quay về chỗ đứng gác đi.
+
+// SPEAKER: Static
+// Bah, long gone. Back to your posts.
+vo_eny_eny_static_00_squad_investigate_end_01=Bah, Lâu quá rồi. Quay về chỗ đứng gác đi.
+
+// SPEAKER: Static
+// Ah, nobody here. Back to your posts.
+vo_eny_eny_static_00_squad_investigate_end_02=Ah, Không có gì ở đây! Quay về chỗ đứng gác đi.
+
+// SPEAKER: Static
+// Stop the search. Back to work.
+vo_eny_eny_static_00_squad_investigate_end_03=Dừng tìm kiếm lại. Quay về chỗ đứng gác đi.
+
+// SPEAKER: Static
+// No danger. Back to work! Return to your posts, everyone.
+vo_eny_eny_static_00_squad_investigate_end_04=Không có nguy hiểm. Quay về chỗ đứng gác đi.
+
+// SPEAKER: Static
+// We must search the area!
+vo_eny_eny_static_00_squad_investigate_start_00=Chúng ta phải tìm kiếm khu vực này!
+
+// SPEAKER: Static
+// Everyone! Attack on sight!
+vo_eny_eny_static_00_squad_investigate_start_01=Mọi người! Tấn công khi phát hiện!
+
+// SPEAKER: Static
+// Careful! They are still here!
+vo_eny_eny_static_00_squad_investigate_start_02=Cẩn thận, chúng có thể vẫn còn ở đây!
+
+// SPEAKER: Static
+// Search everywhere!
+vo_eny_eny_static_00_squad_investigate_start_03=Tìm khắp nơi đi!
+
+// SPEAKER: Static
+// If you find anyone, show no mercy.
+vo_eny_eny_static_00_squad_investigate_start_04=Nếu tìm thấy ai đó thì không cần thương hại.
+
+// SPEAKER: Static
+// Nothing here!
+vo_eny_eny_static_00_squad_investigate_talk_00=Không có gì ở đây!
+
+// SPEAKER: Static
+// Where did they go?
+vo_eny_eny_static_00_squad_investigate_talk_01=Chúng đã đi đâu?
+
+// SPEAKER: Static
+// Eyes open, everyone!
+vo_eny_eny_static_00_squad_investigate_talk_02=Mọi người căng mắt ra mà tìm!
+
+// SPEAKER: Static
+// Tracks, maybe?
+vo_eny_eny_static_00_squad_investigate_talk_03=Có thể là dấu vết?
+
+// SPEAKER: Static
+// Bah, I'm no tracker.
+vo_eny_eny_static_00_squad_investigate_talk_04=Bah, Tao mất dấu rồi.
+
+// SPEAKER: Static
+// Anyone see them?
+vo_eny_eny_static_00_squad_investigate_talk_05=Có ai thấy chúng không?
+
+// SPEAKER: Static
+// They can't have vanished...
+vo_eny_eny_static_00_squad_investigate_talk_06=Chúng không thể biến mất rồi...
+
+// SPEAKER: Static
+// Agh... Are we hunting ghosts?!
+vo_eny_eny_static_00_squad_investigate_talk_07=Agh... Chúng ta đang đi săn ma hả?
+
+// SPEAKER: Static
+// What are we looking for?
+vo_eny_eny_static_00_squad_investigate_talk_08=Chúng ta đang tìm cái khỉ gì vậy?
+
+// SPEAKER: Static
+// Are you sure you saw something?
+vo_eny_eny_static_00_squad_investigate_talk_09=Có chắc là họ bảo thấy cái gì đó không?
+
+// SPEAKER: Static
+// What?
+vo_eny_eny_static_00_talk_geisha_00=Gì thế?
+
+// SPEAKER: Static
+// Yes?
+vo_eny_eny_static_00_talk_geisha_01=Có hả?
+
+// SPEAKER: Static
+// What is it?
+vo_eny_eny_static_00_talk_geisha_02=Nó là cái gì?
+
+// SPEAKER: Static
+// Make it quick.
+vo_eny_eny_static_00_talk_geisha_03=Làm lẹ lên.
+
+// SPEAKER: Static
+// What? I am busy.
+vo_eny_eny_static_00_talk_geisha_04=Cái gì? Anh đang bận.
+
+// SPEAKER: Static
+// Yes, yes yes. Move on.
+vo_eny_eny_static_00_talk_geisha_leave_00=Đúng, đúng đúng. Đi đi.
+
+// SPEAKER: Static
+// Finally! Back to duty
+vo_eny_eny_static_00_talk_geisha_leave_01=Phù! Quay về với nhiệm vụ nào
+
+// SPEAKER: Static
+// It took long enough.
+vo_eny_eny_static_00_talk_geisha_leave_02=Quá mất thời gian.
+
+// SPEAKER: Static
+// Good! Now, leave me be.
+vo_eny_eny_static_00_talk_geisha_leave_03=Tốt lắm! Giờ tránh xa anh ra.
+
+// SPEAKER: Static
+// What a waste of time.
+vo_eny_eny_static_00_talk_geisha_leave_04=Thật lãng phí thời gian.
+
+// SPEAKER: Static
+// Ugh, unbelievable.
+vo_eny_eny_static_00_talk_geisha_leave_05=Ugh, không thể tin được.
+
+// SPEAKER: Static
+// 
+vo_gothic_gothic_static_00_talk_idle_00=
+
+// SPEAKER: Static
+// 
+vo_gothic_gothic_static_00_talk_idle_01=
+
+// SPEAKER: Static
+// 
+vo_gothic_gothic_static_00_talk_idle_02=
+
+// SPEAKER: Static
+// Hm!
+vo_gothic_gothic_static_00_talk_idle_03=Hm!
+
+// SPEAKER: Static
+// Hmm...
+vo_gothic_gothic_static_00_talk_idle_04=Hmm...
+
+// SPEAKER: Static
+// Hmm, yes...
+vo_gothic_gothic_static_00_talk_idle_05=Hm, vâng.
+
+// SPEAKER: Static
+// Ugh...
+vo_gothic_gothic_static_00_talk_idle_06=Ugh...
+
+// SPEAKER: Static
+// We will win.
+vo_gothic_gothic_static_00_talk_idle_battle_calm_00=Bọn tao sẽ thắng.
+
+// SPEAKER: Static
+// Oh...curse the Shogun.
+vo_gothic_gothic_static_00_talk_idle_battle_calm_01=Hmph. Nguyền rủa lũ Mạc chúa.
+
+// SPEAKER: Static
+// Aim true...
+vo_gothic_gothic_static_00_talk_idle_battle_calm_02=Ngắm chuẩn vào!
+
+// SPEAKER: Static
+// ...agh!
+vo_gothic_gothic_static_00_talk_idle_battle_calm_03=...agh!
+
+// SPEAKER: Static
+// Honor in death...
+vo_gothic_gothic_static_00_talk_idle_battle_calm_04=Chết trong vinh quang...
+
+// SPEAKER: Static
+// Reloading!
+vo_gothic_gothic_static_00_talk_idle_battle_05=Thay đạn!
+
+// SPEAKER: Static
+// I'm reloading!
+vo_gothic_gothic_static_00_talk_idle_battle_06=Tao thay đạn!
+
+// SPEAKER: Static
+// Cover me!
+vo_gothic_gothic_static_00_talk_idle_battle_07=Yểm trợ tao!
+
+// SPEAKER: Static
+// Die, Shogunate scum!
+vo_gothic_gothic_static_00_talk_idle_battle_08=Chết đi, Mạc Phủ cặn bã!
+
+// SPEAKER: Static
+// Hold the castle!
+vo_gothic_gothic_static_00_talk_idle_battle_09=Giữ vững thành!
+
+// SPEAKER: Static
+// Push them back!
+vo_gothic_gothic_static_00_talk_idle_battle_10=Đẩy chúng lùi lại!
+
+// SPEAKER: Static
+// Retreat!
+vo_gothic_gothic_static_00_talk_idle_battle_11=Rút quân!
+
+// SPEAKER: Static
+// Fall back!
+vo_gothic_gothic_static_00_talk_idle_battle_12=Lui quân!
+
+// SPEAKER: Static
+// Officer dead!
+vo_gothic_gothic_static_00_talk_idle_battle_13=Chỉ huy đã chết!
+
+// SPEAKER: Static
+// For Lord Yabu.
+vo_gothic_gothic_static_00_talk_idle_daimyo_00=Vì lãnh chúa Yabu.
+
+// SPEAKER: Static
+// For Lord Okkoto.
+vo_gothic_gothic_static_00_talk_idle_general_00=Vì lãnh chúa Okkoto.
+
+// SPEAKER: Static
+// For Kage-sama.
+vo_gothic_gothic_static_00_talk_idle_kagesama_00=Vì Kage-sama.
+
+// SPEAKER: Static
+// For Lord Noboru.
+vo_gothic_gothic_static_00_talk_idle_kagesama_01=Vì lãnh chúa Noboru.
+
+// SPEAKER: Static
+// Mmm...sake.
+vo_gothic_gothic_static_00_talk_idle_night_00=Mmm...sa kê.
+
+// SPEAKER: Static
+// Ah...been up all day.
+vo_gothic_gothic_static_00_talk_idle_night_01=...cả ngày như thế rồi.
+
+// SPEAKER: Static
+// Night is gloomy.
+vo_gothic_gothic_static_00_talk_idle_night_02=Đêm ảm đạm.
+
+// SPEAKER: Static
+// 
+vo_gothic_gothic_static_00_talk_idle_night_03=
+
+// SPEAKER: Static
+// 
+vo_gothic_gothic_static_00_talk_idle_night_04=
+
+// SPEAKER: Static
+// Ugh, damn snow.
+vo_gothic_gothic_static_00_talk_idle_snow_00=Mẹ kiếp, tuyết.
+
+// SPEAKER: Static
+// Oh, it is freezing!
+vo_gothic_gothic_static_00_talk_idle_snow_01=Ah, đóng băng cmr!
+
+// SPEAKER: Static
+// Ah! So cold!
+vo_gothic_gothic_static_00_talk_idle_snow_02=Lạnh quá.
+
+// SPEAKER: Static
+// 
+vo_gothic_gothic_static_00_talk_idle_snow_03=
+
+// SPEAKER: Static
+// 
+vo_gothic_gothic_static_00_talk_idle_snow_04=
+
+// SPEAKER: Static
+// Ah...that does not concern me.
+vo_gothic_gothic_static_00_talk_npc_00=Tao không quan tâm.
+
+// SPEAKER: Static
+// That much is known.
+vo_gothic_gothic_static_00_talk_npc_01=Biết thế đủ rồi.
+
+// SPEAKER: Static
+// You shouldn't believe everything you hear.
+vo_gothic_gothic_static_00_talk_npc_02=Không nên tin vào mọi thứ mà mày nghe đươc.
+
+// SPEAKER: Static
+// I've heard otherwise.
+vo_gothic_gothic_static_00_talk_npc_03=Tao nghe ra thứ khác.
+
+// SPEAKER: Static
+// Ah, that's just how it's always been!
+vo_gothic_gothic_static_00_talk_npc_04=Nó luôn như thế mà thôi.
+
+// SPEAKER: Static
+// He's a fool! Don't listen to him.
+vo_gothic_gothic_static_00_talk_npc_05=Hắn là thằng ngu. Đừng nghe hắn.
+
+// SPEAKER: Static
+// Yeah, we can agree on that.
+vo_gothic_gothic_static_00_talk_npc_06=Hah! Chúng ta có thể đồng ý.
+
+// SPEAKER: Static
+// Heh! Be careful what you say.
+vo_gothic_gothic_static_00_talk_npc_07=Cẩn thận với những gì mày nói.
+
+// SPEAKER: Static
+// This means trouble!
+vo_gothic_gothic_static_00_talk_npc_08=Có chút rắc rối.
+
+// SPEAKER: Static
+// Ah, it'll blow over.
+vo_gothic_gothic_static_00_talk_npc_09=Quên hết đi.
+
+// SPEAKER: Static
+// Understood.
+vo_gothic_gothic_static_00_talk_npc_confirm_00=Đã rõ.
+
+// SPEAKER: Static
+// Yes, my lord.
+vo_gothic_gothic_static_00_talk_npc_confirm_01=Tuân lệnh thưa ngài.
+
+// SPEAKER: Static
+// At once.
+vo_gothic_gothic_static_00_talk_npc_confirm_02=Ngay bây giờ.
+
+// SPEAKER: Static
+// Understood!
+vo_gothic_gothic_static_00_talk_npc_confirm_battle_00=Đã rõ!
+
+// SPEAKER: Static
+// Yes, my lord!
+vo_gothic_gothic_static_00_talk_npc_confirm_battle_01=Tuân lệnh thưa ngài!
+
+// SPEAKER: Static
+// I will not fail!
+vo_gothic_gothic_static_00_talk_npc_confirm_battle_02=Tôi sẽ không thất bại!
+
+// SPEAKER: Static
+// Carry on.
+vo_gothic_gothic_static_00_talk_npc_orders_00=Cảnh giác hơn.
+
+// SPEAKER: Static
+// Continue.
+vo_gothic_gothic_static_00_talk_npc_orders_01=Tiếp tục đi.
+
+// SPEAKER: Static
+// Stay vigilant.
+vo_gothic_gothic_static_00_talk_npc_orders_02=Giữ cảnh giác.
+
+// SPEAKER: Static
+// Stay sharp.
+vo_gothic_gothic_static_00_talk_npc_orders_03=Thông minh lên.
+
+// SPEAKER: Static
+// Keep it up.
+vo_gothic_gothic_static_00_talk_npc_orders_04=Giữ vững!
+
+// SPEAKER: Static
+// Do not get lazy.
+vo_gothic_gothic_static_00_talk_npc_orders_05=Không lười biếng!
+
+// SPEAKER: Static
+// Carry on!
+vo_gothic_gothic_static_00_talk_npc_orders_battle_00=Cảnh giác hơn!
+
+// SPEAKER: Static
+// I have new orders!
+vo_gothic_gothic_static_00_talk_npc_orders_battle_01=Ta có lệnh mới!
+
+// SPEAKER: Static
+// Stay strong!
+vo_gothic_gothic_static_00_talk_npc_orders_battle_02=Mạnh mẽ lên!
+
+// SPEAKER: Static
+// Hold your position!
+vo_gothic_gothic_static_00_talk_npc_orders_battle_03=Giữ vị trí của mày!
+
+// SPEAKER: Static
+// New orders!
+vo_gothic_gothic_static_00_talk_npc_orders_battle_04=Lệnh mới!
+
+// SPEAKER: Static
+// Continue!
+vo_gothic_gothic_static_00_talk_npc_orders_battle_05=Tiếp tục!
+
+// SPEAKER: Static
+// Reload!
+vo_gothic_gothic_static_00_talk_npc_orders_battle_06=Thay đạn!
+
+// SPEAKER: Static
+// Fire!
+vo_gothic_gothic_static_00_talk_npc_orders_battle_07=Bắn!
+
+// SPEAKER: Static
+// Report.
+vo_gothic_gothic_static_00_talk_npc_report_00=Báo cáo đi.
+
+// SPEAKER: Static
+// Your report?
+vo_gothic_gothic_static_00_talk_npc_report_01=Mày báo cáo hả?
+
+// SPEAKER: Static
+// What news?
+vo_gothic_gothic_static_00_talk_npc_report_02=Có gì mới?
+
+// SPEAKER: Static
+// Anything new?
+vo_gothic_gothic_static_00_talk_npc_report_03=Có gì mới?
+
+// SPEAKER: Static
+// Everything quiet?
+vo_gothic_gothic_static_00_talk_npc_report_04=Mọi thứ vẫn yên lặng hả?
+
+// SPEAKER: Static
+// Report!
+vo_gothic_gothic_static_00_talk_npc_report_battle_00=Báo cáo đi!
+
+// SPEAKER: Static
+// Tell me!
+vo_gothic_gothic_static_00_talk_npc_report_battle_01=Nói cho ta!
+
+// SPEAKER: Static
+// Give your report!
+vo_gothic_gothic_static_00_talk_npc_report_battle_02=Cho tao biết báo cáo của mày!
+
+// SPEAKER: Static
+// We have our orders!
+vo_gothic_gothic_static_00_talk_npc_tense_00=Lệnh của chúng ta!
+
+// SPEAKER: Static
+// The battle wages on.
+vo_gothic_gothic_static_00_talk_npc_tense_01=Hơi bất an.
+
+// SPEAKER: Static
+// We will gain honor today.
+vo_gothic_gothic_static_00_talk_npc_tense_02=Hôm nay chúng ta sẽ dành được vinh quang.
+
+// SPEAKER: Static
+// We must stay strong.
+vo_gothic_gothic_static_00_talk_npc_tense_03=Chúng ta phải mạnh mẽ lên!
+
+// SPEAKER: Static
+// Let the enemy come to us.
+vo_gothic_gothic_static_00_talk_npc_tense_04=Để địch tiến về phía chúng ta.
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_urinate_00=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_whistle_00=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_wounded_00=
+
+// SPEAKER: Static
+// 
+vo_eny_eny_static_00_yawn_00=
+

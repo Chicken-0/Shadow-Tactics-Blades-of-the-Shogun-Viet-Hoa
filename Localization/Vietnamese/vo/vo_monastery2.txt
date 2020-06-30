@@ -1,0 +1,668 @@
+// SPEAKER: BROGUNSON
+// Remember how you told me about patience, Mugen-sensei? Let us see how patient you can be.
+vocs_over_over_monastery2_intro_n00=Ta nhớ là thầy đã dạy về cách chịu đựng, Mugen-sensei? Giờ chúng ta cùng xem khả năng chịu đựng của thầy nè.
+
+// SPEAKER: WARRIOR
+// Hrm...
+vocs_over_over_monastery2_intro_n01=Hrm...
+
+// SPEAKER: BROGUN
+// Masaru, do not waste your words. Important things are about to happen.
+vocs_over_over_monastery2_intro_n02=Masaru, con đừng lãng phí lời nữa. Nhiều chuyện quan trọng sắp xảy ra.
+
+// SPEAKER: SHOGUNSON
+// Noboru-sama, Mugen-sensei, Masaru-san. What a pleasant surprise!
+vocs_over_over_monastery2_intro_n03=Noboru-sama, Mugen-sensei, Masaru-san. Một bất ngờ thật thú vị!
+
+// SPEAKER: BROGUN
+// Dear nephew, you cannot know how delighted I am to see you.
+vocs_over_over_monastery2_intro_n04=Cháu trai, ta không biết ta vui như thế nào khi gặp được cháu.
+
+// SPEAKER: SHOGUNSON
+// You bring good news, I hope? Has Kage-sama been defeated?
+vocs_over_over_monastery2_intro_n05=Cháu hi vọng chú mang tin tốt tới? Kage-sama đã bị hạ rồi ư?
+
+// SPEAKER: BROGUN
+// I am afraid matters have changed quite drastically, nephew.
+vocs_over_over_monastery2_intro_n06=Ta e là mọi chuyện đã thay đổi chóng mặt, cháu à.
+
+// SPEAKER: WARRIOR
+// I have failed you, my lord...
+vocs_over_over_monastery2_intro_n07=Thần đã thất bại, thưa ngài...
+
+// SPEAKER: SHOGUNSON
+// What is the meaning of this? 
+vocs_over_over_monastery2_intro_n08=Nghĩa là sao?
+
+// SPEAKER: SHOGUNSON
+// Uncle? 
+vocs_over_over_monastery2_intro_n09=Chú?
+
+// SPEAKER: SHOGUNSON
+// What are you doing?
+vocs_over_over_monastery2_intro_n10=Chú đang làm gì thế?
+
+// SPEAKER: BROGUN
+// Only what must be done. 
+vocs_over_over_monastery2_intro_n11=Làm những gì cần phải làm.
+
+// SPEAKER: BROGUN
+// Masaru...
+vocs_over_over_monastery2_intro_n12=Masaru...
+
+// SPEAKER: BROGUNSON
+// Yes, father.
+vocs_over_over_monastery2_intro_n13=Vâng thưa cha.
+
+// SPEAKER: SHOGUNSON
+// Mugen, please! Explain yourself!
+vocs_over_over_monastery2_intro_n14=Mugen, làm ơn! Giải thích cho trò!
+
+// SPEAKER: WARRIOR
+// I...cannot... Forgive me...
+vocs_over_over_monastery2_intro_n15=Thần...không thể... thứ lỗi cho thần...
+
+// SPEAKER: SHOGUNSON
+// ...Mugen ...why?
+vocs_over_over_monastery2_intro_n16=...Mugen ...tại sao?
+
+// SPEAKER: WARRIOR
+// Ryūnosuke... 
+vocs_over_over_monastery2_intro_n17=Ryūnosuke...
+
+// SPEAKER: WARRIOR
+// My lord...
+vocs_over_over_monastery2_intro_n17a=Ngài...
+
+// SPEAKER: BROGUN
+// It is finished. 
+vocs_over_over_monastery2_intro_n18=Xong cmnr.
+
+// SPEAKER: BROGUN
+// Masaru, go prepare for our departure.
+vocs_over_over_monastery2_intro_n19=Masaru, chúng ta chuẩn bị khởi hành.
+
+// SPEAKER: BROGUN
+// Yes, father.
+vocs_over_over_monastery2_intro_n20=Vâng thưa cha.
+
+// SPEAKER: WARRIOR
+// Why? Why did he have to die? What madness possesses you?
+vocs_over_over_monastery2_intro_n21=Tại sao? Tại sao ngài ấy phải chết? Thứ gì khiến mày điên cuồng vậy?
+
+// SPEAKER: BROGUN
+// This...peace we have now, it is not our way. We are men of the sword. My brother is blind.
+vocs_over_over_monastery2_intro_n22=Thứ đó...hòa bình tao mày đang có, không phải là cách của tao mày. Đàn ông là dành cho lưỡi kiếm. Anh tao đã mù quáng.
+
+// SPEAKER: BROGUN
+// You of all people should understand. Every man chooses his duty. Without duty, life has no purpose.
+vocs_over_over_monastery2_intro_n23=Mày nên hiểu rằng. Mọi người đàn ông đều chọn nhiệm vụ cho riêng mình. Không có nhiệm vụ thì sống không có mục đích.
+
+// SPEAKER: BROGUN
+// And it is my duty to lead Japan back to her true glory.
+vocs_over_over_monastery2_intro_n24=Và nhiệm vụ của tao là đưa Nhật Bản quay về với vinh quanh đích thực đó.
+
+// SPEAKER: BROGUN
+// I wonder, now that you have failed in your duty...will you do what must be done?
+vocs_over_over_monastery2_intro_n25=Tao tự hỏi, giờ mày đã thất bại trong nhiệm vụ...liệu mày sẽ làm gì để hoàn thành nó?
+
+// SPEAKER: BROGUN
+// Farewell, Mugen. We will not see each other again.
+vocs_over_over_monastery2_intro_n26=Từ biệt, Mugen. Tao mày sẽ không còn gặp lại nhau nữa.
+
+// SPEAKER: TRAPPER
+// No... They took Aiko-san away. ...where did they take her?
+vocs_over_over_monastery2_briefing_n00=Không... Chúng bắt Aiko-san đi. ...Chúng đưa chị ấy đi đâu vậy?
+
+// SPEAKER: ALCHEMIST
+// Such is the extent of his treachery. What will he do to the Shogun's son...
+vocs_over_over_monastery2_briefing_n01=Phản bội nối tiếp phản bội. Liệu hắn sẽ làm gì với con trai Mạc Chúa...
+
+// SPEAKER: NINJA
+// Mugen...don't you dare die now. I have to get out, damn it. DAMN IT!
+vocs_over_over_monastery2_briefing_n02=Mugen...bây giờ anh lại không dám chết. Tôi biết ngay mà, chiết tiệt chó thật!
+
+// SPEAKER: NINJA
+// Walls are too slick to climb...damn!
+vocs_over_over_monastery2_ninhint1_n00=Tường quá trơn để leo...khỉ thật!
+
+// SPEAKER: NINJA
+// Guard looks nervous. Could provoke him...
+vocs_over_over_monastery2_ninhint2_n00=Lính canh có vẻ lo lắng. Thử kích động hắn xem...
+
+// SPEAKER: NINJA
+// There's places to hide here. That has to be good for something!
+vocs_over_over_monastery2_ninhint3_n00=Ở đây có nhiều chỗ để nấp. Thật quá tốt để làm gì đó!
+
+// SPEAKER: TRAPPER
+// There's a ledge below... No, you can't get out. Stupid!
+vocs_over_over_monastery2_trahint1_n00=Có một mỏm đá ở dưới... Không, mình không thể ra đó. Ngu quá!
+
+// SPEAKER: TRAPPER
+// Take back Rat's Tooth from that samurai! No, have to get out first, stupid!
+vocs_over_over_monastery2_trahint2_n00=Lấy lại Răng Chuột từ samurai! Không, phải thoát khỏi đây trước đã, ngu quá!
+
+// SPEAKER: TRAPPER
+// The samurai has evil eyes. They don't like empty cages.
+vocs_over_over_monastery2_trahint3_n00=Samurai có đôi mắt ác quỷ. Chúng không thích cái lồng này trống không.
+
+// SPEAKER: ALCHEMIST
+// I have my cane. I have my leg. Both no use without ammunition.
+vocs_over_over_monastery2_alchint1_n00=Lão có gậy. Lão có chân. Nhưng cả hai đều vô dụng do hết đạn.
+
+// SPEAKER: ALCHEMIST
+// Hmm, I wonder where Kuma is now.
+vocs_over_over_monastery2_alchint2_n00=Hmm, tự hỏi Kuma đang ở đâu.
+
+// SPEAKER: ALCHEMIST
+// I could help them both, had I anything to load my rifle with.
+vocs_over_over_monastery2_alchint3_n00=Lão này sẽ cứu họ khi súng trường được nạp đủ đạn.
+
+// SPEAKER: SAMURAI
+// Look at you...shinobi filth.
+vo_hint_hint_monastery2_overseer_n00=Nhìn mày xem...shinobi rác rưởi.
+
+// SPEAKER: SAMURAI
+// You're nothing without your weapons.
+vo_hint_hint_monastery2_overseer_n01=Mày không làm được gì khi không có vũ khí.
+
+// SPEAKER: SAMURAI
+// You stay right where I can see you.
+vo_hint_hint_monastery2_overseer_n02=Mày phải ở chỗ mà tao nhìn thấy được.
+
+// SPEAKER: SAMURAI
+// Still clinging to life, are we?
+vo_hint_hint_monastery2_overseer_n03=Vẫn còn bám trụ lấy cái mạng già đó hả?
+
+// SPEAKER: SAMURAI
+// You will die in here, old fool.
+vo_hint_hint_monastery2_overseer_n04=Mày sẽ chết ở đây, lão già thối.
+
+// SPEAKER: SAMURAI
+// None of your friends can reach you here.
+vo_hint_hint_monastery2_overseer_n05=Không ai trong số bạn mày có thể đụng tới đây.
+
+// SPEAKER: SAMURAI
+// Heh. Not so clever now, are we?
+vo_hint_hint_monastery2_overseer_n06=Heh. sao giờ không còn thông minh hả?
+
+// SPEAKER: SAMURAI
+// Murdering child... You are despicable.
+vo_hint_hint_monastery2_overseer_n07=Trẻ em đi giết người... Đáng kinh bỉ.
+
+// SPEAKER: SAMURAI
+// Your little dagger is mine now. Haha!
+vo_hint_hint_monastery2_overseer_n08=Dao găm nhỏ giờ là của tao. Haha!
+
+// SPEAKER: TANUKI
+// Meep!
+vocs_over_over_monastery2_pellets_n00=Meep!
+
+// SPEAKER: ALCHEMIST
+// Kuma! Hehe, you came! And what's that in your mouth?
+vocs_over_over_monastery2_pellets_n01=Kuma! Hehe, mày đã tới! Trong miệng mày có gì vậy?
+
+// SPEAKER: ALCHEMIST
+// Kuma! Hehe, you came! And what did you throw me just now?
+vocs_over_over_monastery2_pellets_n01a=Kuma! Hehe, mày đã tới! Mày ném cho lão cái gì thế này?
+
+// SPEAKER: TANUKI
+// Meep!
+vocs_over_over_monastery2_pellets_n02=Meep!
+
+// SPEAKER: ALCHEMIST
+// Bag of ammunition. My thanks. Maybe there's still hope left.
+vocs_over_over_monastery2_pellets_n03=Túi đạn. Lão cảm ơn. Giờ thì đã có thêm tia hi vọng.
+
+// SPEAKER: NINJA
+// What the... No idea how he did that, but I'll take it.
+vocs_over_over_monastery2_vineshot_n00=Cái khỉ gì... Không biết lão ta làm thế nào, nhưng mình sẽ bắt lấy cơ hội này.
+
+// SPEAKER: TRAPPER
+// Ah! ...thank you, Takuma-sensei!
+vocs_over_over_monastery2_cageshot_n00=Ah! ...cảm ơn, Takuma-sensei!
+
+// SPEAKER: TRAPPER
+// Yes! Fast and sharp, just like me!
+vocs_over_over_monastery2_knife_n00=Đúng rồi! Nhanh và sắc, giống như mình!
+
+// SPEAKER: NINJA
+// ...okay. Have to be fast. Overseer's on patrol, and he's checking the cells.
+vocs_over_over_monastery2_escape1_n00=...okay. Phải nhanh lên. Lính tuần sẽ quay lại để kiểm tra mọi thứ.
+
+// SPEAKER: TRAPPER
+// Quick! The samurai with the evil eyes—he'll see that you're gone!
+vocs_over_over_monastery2_escape1_n01=Lẹ lên! Samurai với đôi mắt ác quỷ—hắn sẽ xử đẹp mình!
+
+// SPEAKER: NINJA
+// Quick! We have to get to the others!
+vocs_over_over_monastery2_freenin_n00=Nhanh lên! Chúng ta phải cứu những người khác!
+
+// SPEAKER: TRAPPER
+// Thank you! The others need our help!
+vocs_over_over_monastery2_freetra_n00=Cảm ơn ạ! Những người khác đang cần giúp!
+
+// SPEAKER: ALCHEMIST
+// Ah, thank you. We have no time to lose.
+vocs_over_over_monastery2_freealc_n00=Ah, cảm ơn. Không có thời gian để lãng phí.
+
+// SPEAKER: SAMURAI
+// What the... Raise the alarm! Someone escaped! Secure the exit! Let no one leave the prison!
+vocs_over_over_monastery2_escape2_n00=Cái gì... Phát báo động! Có người trốn thoát! Chặn lối ra! Không để ai thoát khỏi nhà tù này!
+
+// SPEAKER: NINJA
+// I'll kill that Noboru and his brat.
+vocs_over_over_monastery2_escape3nin_n00=Mình sẽ giết Noboru và thằng nhóc của hắn.
+
+// SPEAKER: TRAPPER
+// Quickly! Aiko-san and Mugen-san need us!
+vocs_over_over_monastery2_escape3tra_n00=Nhanh lên! Aiko-san và Mugen-san cần chúng ta!
+
+// SPEAKER: ALCHEMIST
+// Huh! Twice now I had to escape from prison on this mountain.
+vocs_over_over_monastery2_escape3alc_n00=Huh! Đã hai lần trốn thoát khỏi nhà tù trên núi này.
+
+// SPEAKER: ALCHEMIST
+// ...I just remembered! The crane statues here open secret passages.
+vocs_over_over_monastery2_statues_n00=...Ta chỉ nhớ là các bước tượng ở đây mở ra lối đi bí mật.
+
+// SPEAKER: NINJA
+// Hope this isn't one of your jokes, old man.
+vocs_over_over_monastery2_statues_n01=Hi vọng đây không phải là trò đùa của lão.
+
+// SPEAKER: TRAPPER
+// How do you know, Takuma-sensei?
+vocs_over_over_monastery2_statues_n02=Sao ông biết hay vậy, Takuma-sensei?
+
+// SPEAKER: ALCHEMIST
+// Just keep it in mind. We need every advantage we can get now.
+vocs_over_over_monastery2_statues_n03=Chỉ cần giữ nó trong đầu thôi mà. Chúng ta có lợi thế và nên tận dụng nó ngay.
+
+// SPEAKER: NINJA
+// Better find Aiko fast.
+vocs_over_over_monastery2_findgeisha_n00=Tốt hơn nên tìm Aiko nhanh lên.
+
+// SPEAKER: TRAPPER
+// Aiko-san. We're coming!
+vocs_over_over_monastery2_findgeisha_n01=Aiko-san. Bọn em đang tới!
+
+// SPEAKER: ALCHEMIST
+// Aiko-san needs us.
+vocs_over_over_monastery2_findgeisha_n02=Aiko-san cần chúng ta.
+
+// SPEAKER: ENEMY
+// Look at her. Have you ever seen such beauty?
+vo_hint_hint_monastery2_guards1_n00=Nhìn nó kìa. Tao chưa bao giờ thấy ai đẹp như này?
+
+// SPEAKER: STATIC
+// We should draw lots to see who will have her first, or it will end in a fight again.
+vo_hint_hint_monastery2_guards1_n01=Tao mày nên rút thăm hay choảng nhau để xem ai sẽ được nện nó trước đây.
+
+// SPEAKER: GEISHA
+// Touch me, and you will die a slow, agonizing death.
+vo_hint_hint_monastery2_guards1_n02=Chạm vào tao rồi mày sẽ chết một cách đau đớn từ từ.
+
+// SPEAKER: ENEMY
+// Ah, do...do you think there's poison in her body? I heard stories once...
+vo_hint_hint_monastery2_guards1_n03=Ah, Mày...nghĩ mày có chất độc trong l*n ấy hả? Tao có nghe chuyện này một lần rồi...
+
+// SPEAKER: STATIC
+// Bah. That's what they are—just stories. You can't have poison in your body...can you?
+vo_hint_hint_monastery2_guards1_n04=Bah. Lũ đàn bà chỉ có thế mà thôi. Mày đéo đời nào có độc trong l*n được...tao nói sai hả?
+
+// SPEAKER: GEISHA
+// You will know soon, if one of you is fool enough to find out.
+vo_hint_hint_monastery2_guards1_n05=Nếu một trong hai chúng mày đút vào thì sẽ biết ngay thôi.
+
+// SPEAKER: STATIC
+// ...let's just stick to questions, for now.
+vo_hint_hint_monastery2_guards1_n06=...kệ cm ả, chuẩn bị mà quất thôi.
+
+// SPEAKER: NINJA
+// Anything hurt?
+vocs_over_over_monastery2_freegeisha_n00=Bị thương chỗ nào không?
+
+// SPEAKER: TRAPPER
+// Aiko-san! Did they hurt you?
+vocs_over_over_monastery2_freegeisha_n01=Aiko-san! Chúng có làm chị bị thương không?
+
+// SPEAKER: ALCHEMIST
+// Any injuries, Aiko-san?
+vocs_over_over_monastery2_freegeisha_n02=Bị thương không, Aiko-san?
+
+// SPEAKER: GEISHA
+// I'm fine. We must find Mugen, quickly!
+vocs_over_over_monastery2_freegeisha_n03=Không sao. Chúng ta phải tìm anh Mugen nhanh lên!
+
+// SPEAKER: ENEMY
+// W...where did she go?!
+vo_hint_hint_monastery2_guards2_n00=Ả...ả đâu rồi?!
+
+// SPEAKER: STATIC
+// We have to find her! Search the area!
+vo_hint_hint_monastery2_guards2_n01=Phải tìm ả ta! Lùng xung quanh xem!
+
+// SPEAKER: TRAPPER
+// Hush, little trap. Did they hurt you?
+vocs_over_over_monastery2_trap_n00=Hush, bẩy bé bỏng. Mày có bị thương không?
+
+// SPEAKER: NINJA
+// Better than nothing. Where'd they put my weapons?
+vocs_over_over_monastery2_gunnin_n00=Tốt hơn không có gì. Chúng để vũ khí mình đâu rồi?
+
+// SPEAKER: TRAPPER
+// ...take it, stupid.
+vocs_over_over_monastery2_guntra_n00=...lấy nó, ngu ngốc.
+
+// SPEAKER: ALCHEMIST
+// Every bit counts.
+vocs_over_over_monastery2_gunalc_n00=Đếm từng viên.
+
+// SPEAKER: GEISHA
+// Good. Let us move on.
+vocs_over_over_monastery2_gungei_n00=Tốt. Di chuyển thôi.
+
+// SPEAKER: CIVILIAN M
+// You...you cannot do this!
+vo_hint_hint_monastery2_abuse1_n00=Anh...anh không thể làm thế!
+
+// SPEAKER: ENEMY
+// We will do as we please.
+vo_hint_hint_monastery2_abuse1_n01=Bọn tao làm những thứ mà thấy hài lòng.
+
+// SPEAKER: CIVILIAN M
+// They have done you no wrong!
+vo_hint_hint_monastery2_abuse1_n02=Họ đã làm vậy rồi mà!
+
+// SPEAKER: ENEMY
+// What do I care?
+vo_hint_hint_monastery2_abuse1_n03=Tao quan tâm lắm hả?
+
+// SPEAKER: CIVILIAN M
+// I beg you, please!
+vo_hint_hint_monastery2_abuse1_n04=Tôi xin anh, làm ơn!
+
+// SPEAKER: ENEMY
+// You can beg all you want.
+vo_hint_hint_monastery2_abuse1_n05=Mày có thể cầu xin thoải mái.
+
+// SPEAKER: CIVILIAN M
+// I-I will not let you touch them...
+vo_hint_hint_monastery2_abuse1_n06=Tôi-tôi sẽ không để anh chạm tới họ...
+
+// SPEAKER: ENEMY
+// Heh! Who are you to stop me?
+vo_hint_hint_monastery2_abuse1_n07=Heh! Mày là ai mà dám ngăn tao?
+
+// SPEAKER: NINJA
+// Mugen!
+vocs_over_over_monastery2_reunionnin_n00=Mugen!
+
+// SPEAKER: WARRIOR
+// ...no...Ryūnosuke...
+vocs_over_over_monastery2_reunionnin_n01=...không...Ryūnosuke...
+
+// SPEAKER: NINJA
+// Agh...have to get the others...
+vocs_over_over_monastery2_reunionnin_n02=Agh...phải chờ những người khác...
+
+// SPEAKER: TRAPPER
+// Master Samurai!
+vocs_over_over_monastery2_reuniontra_n00=Chú samurai xịn!
+
+// SPEAKER: WARRIOR
+// Forgive me... Forgive me...
+vocs_over_over_monastery2_reuniontra_n01=Thứ lỗi cho thần... Thứ lỗi cho thần...
+
+// SPEAKER: TRAPPER
+// W-what's wrong with you?
+vocs_over_over_monastery2_reuniontra_n02=Chú-chú đã làm gì sai à?
+
+// SPEAKER: GEISHA
+// My love!
+vocs_over_over_monastery2_reuniongei_n00=Tình yêu của đời em!
+
+// SPEAKER: WARRIOR
+// I failed you... I'm sorry...
+vocs_over_over_monastery2_reuniongei_n01=Anh đã thất bại... Anh xin lỗi...
+
+// SPEAKER: GEISHA
+// He is not thinking clearly. We need the others here.
+vocs_over_over_monastery2_reuniongei_n02=Anh không phải nghĩ ngợi gì hết. Chúng ta chỉ cần chờ những người khác.
+
+// SPEAKER: ALCHEMIST
+// Mugen-san...
+vocs_over_over_monastery2_reunionalc_n00=Mugen-san...
+
+// SPEAKER: WARRIOR
+// Impossible... Why...
+vocs_over_over_monastery2_reunionalc_n01=Không thể nào... Tại sao...
+
+// SPEAKER: ALCHEMIST
+// Ah, he's trapped in his own mind. We must gather everyone here.
+vocs_over_over_monastery2_reunionalc_n02=Ah, tâm trí cậu ta đã vướng vào vòng luẩn quẩn. Chúng ta cần chờ những người khác tới.
+
+// SPEAKER: WARRIOR
+// You... You are all still alive...
+vocs_over_over_monastery2_seppuku_n00=Em... em cùng mọi người vẫn còn sống...
+
+// SPEAKER: GEISHA
+// My love, what happened to the Shogun's son? Did Noboru kill him?
+vocs_over_over_monastery2_seppuku_n01=Anh yêu, chuyện gì xảy ra với con trai Mạc Chúa? Noboru đã giết cậu ta ư?
+
+// SPEAKER: WARRIOR
+// ...his son did the deed.
+vocs_over_over_monastery2_seppuku_n02=...con trai hắn đã làm.
+
+// SPEAKER: ALCHEMIST
+// Ah...so much darkness.
+vocs_over_over_monastery2_seppuku_n03=Ah...đời lắm u sầu.
+
+// SPEAKER: NINJA
+// We'll make him pay for this. Come with us!
+vocs_over_over_monastery2_seppuku_n04=Chúng ta sẽ xử hắn vì chuyện này. Đi thôi nào!
+
+// SPEAKER: WARRIOR
+// I...I can accompany you no longer.
+vocs_over_over_monastery2_seppuku_n05=Tôi...tôi vẫn có thể đi cùng ư.
+
+// SPEAKER: GEISHA
+// Mugen... 
+vocs_over_over_monastery2_seppuku_n06=Mugen...
+
+// SPEAKER: WARRIOR
+// I have failed Ryūnosuke... I have failed my Shogun... Now I must beg your forgiveness, as well.
+vocs_over_over_monastery2_seppuku_n07=Thần đã khiến Ryūnosuke phải chết... Thần khiến Mạc Chúa phải thất bại... Giờ thần phải cầu xin ngài tha thứ ư.
+
+// SPEAKER: TRAPPER
+// W...what is he talking about?
+vocs_over_over_monastery2_seppuku_n08=C...chú ấy đang nói gì vậy?
+
+// SPEAKER: NINJA
+// When a samurai has been shamed...he thinks he has to...
+vocs_over_over_monastery2_seppuku_n09=Khi một samurai cảm thấy nhục nhã...anh ta nghĩ anh ta cần phải...
+
+// SPEAKER: TRAPPER
+// What?! No! Master samurai!
+vocs_over_over_monastery2_seppuku_n10=Gì cơ?! Không! Chú samurai xịn!
+
+// SPEAKER: ALCHEMIST
+// Yuki-chan...
+vocs_over_over_monastery2_seppuku_n11=Yuki-chan...
+
+// SPEAKER: TRAPPER
+// No! No, we can't let him! I...I don't want him to die! 
+vocs_over_over_monastery2_seppuku_n12=Không! không, chúng ta không thể để như thế! Em...em không muốn chú ấy chết!
+
+// SPEAKER: ALCHEMIST
+// We feel the same, Yuki-chan. But don't you see? To die like a samurai...it is the only thing left to him. We must show our respect, for we can do nothing else.
+vocs_over_over_monastery2_seppuku_n13=Chúng ta đều muốn như thế, Yuki-chan. Nhưng chú ấy thì không? Chết như một samurai...là điều duy nhất chú ấy có thể làm. Chúng ta phải tôn trọng vì không thể làm gì khác.
+
+// SPEAKER: GEISHA
+// ...do you wish me to join you?
+vocs_over_over_monastery2_seppuku_n14=...anh có muốn em tham gia cùng không?
+
+// SPEAKER: WARRIOR
+// My love...I would be honored... But they need you most of all.
+vocs_over_over_monastery2_seppuku_n15=Em yêu...Anh sẽ rất vinh dự... Nhưng họ cần em hơn bao giờ hết.
+
+// SPEAKER: GEISHA
+// Then let me make you one final gift. A secret, meant only for you...
+vocs_over_over_monastery2_seppuku_n16=Vậy để em tặng anh món quà cuối cùng. Một bí mật, chỉ hai ta biết...
+
+// SPEAKER: WARRIOR
+// Ah... Something ends, something begins. It is as it should be.
+vocs_over_over_monastery2_seppuku_n17=Ah... Một thứ gì đó kết thúc, rồi một thứ khác bắt đầu. Đến và đi vào thời điểm thích hợp. ** Các ông tự hiểu nhé :(
+
+// SPEAKER: GEISHA
+// Farewell...my love.
+vocs_over_over_monastery2_seppuku_n18=Vĩnh biệt...tình yêu của đời em.
+
+// SPEAKER: WARRIOR
+// The time has come...
+vocs_over_over_monastery2_seppuku_n19=Thời khắc đã tới...
+
+// SPEAKER: NINJA
+// Mugen...
+vocs_over_over_monastery2_seppuku_n20=Mugen...
+
+// SPEAKER: WARRIOR
+// Hayato-san?
+vocs_over_over_monastery2_seppuku_n21=Hayato-san?
+
+// SPEAKER: NINJA
+// What you said...  I...I'm glad we met. It was an honor, fighting by your side.
+vocs_over_over_monastery2_seppuku_n22=Những gì anh nói...  Tôi...Tôi vui vì chúng ta gặp được nhau. Chiến đấu bên nhau là cả vinh dự lớn.
+
+// SPEAKER: WARRIOR
+// ...likewise, Hayato-san. Farewell.
+vocs_over_over_monastery2_seppuku_n23=...tôi cũng vậy, Hayato-san. Vĩnh biệt.
+
+// SPEAKER: WARRIOR
+// Farewell, Hayato-san.
+vocs_over_over_monastery2_seppuku_n23a=Vĩnh biệt, Hayato-san.
+
+// SPEAKER: TRAPPER
+// No, Mugen-sama!
+vocs_over_over_monastery2_seppuku_n24=Không, Mugen-sama!
+
+// SPEAKER: ALCHEMIST
+// Yuki!
+vocs_over_over_monastery2_seppuku_n25=Yuki!
+
+// SPEAKER: TRAPPER
+// No...
+vocs_over_over_monastery2_seppuku_n26=Đừng mà chú...
+
+// SPEAKER: WARRIOR
+// Falling ill on a journey...my dreams go wandering...over withered fields.
+vocs_over_over_monastery2_seppuku_n27=Gục ngã ở một cuộc hành trình...giấc mơ của tôi đi lang thang...trên những đồng ruộng khô héo.
+
+// SPEAKER: WARRIOR
+// ...!
+vocs_over_over_monastery2_seppuku_n28=...!
+
+// SPEAKER: TRAPPER
+// ...
+vocs_over_over_monastery2_seppuku_n29=...
+
+// SPEAKER: GEISHA
+// Death has found him. Let us leave.
+vocs_over_over_monastery2_seppuku_n30=Thần chết đã tìm thấy anh ấy. Chúng ta đi thôi.
+
+// SPEAKER: GEISHA
+// We are not safe yet. Let us leave this place.
+vocs_over_over_monastery2_leader1_n00=Giờ không an toàn. Chúng ta phải rời khỏi chỗ này.
+
+// SPEAKER: NINJA
+// Mugen... Damn!
+vocs_over_over_monastery2_leader2_n00=Mugen... Chiết tiệt!
+
+// SPEAKER: GEISHA
+// Control your temper, Hayato-san. Focus.
+vocs_over_over_monastery2_leader2_n01=Bình tĩnh nào, Hayato-san. Tập trung đi.
+
+// SPEAKER: TRAPPER
+// M-Mugen-sama. H-he's...he's really gone...
+vocs_over_over_monastery2_leader3_n00=M-Mugen-sama. C-chú...chú ấy đi thật rồi...
+
+// SPEAKER: GEISHA
+// Not now, Yuki-chan. There is no time for grief.
+vocs_over_over_monastery2_leader3_n01=Không phải bây giờ, Yuki-chan. Đây không phải lúc để đau buồn.
+
+// SPEAKER: NINJA
+// Alive again. Good.
+vocs_over_over_monastery2_ninjato_n00=Sống lại rồi. Tốt lắm.
+
+// SPEAKER: CIVILIAN F
+// Please, I beg you...
+vo_hint_hint_monastery2_abuse2_n00=Làm ơn, tôi xin anh...
+
+// SPEAKER: ENEMY
+// Quiet, woman!
+vo_hint_hint_monastery2_abuse2_n01=Câm mồm, đồ đàn bà!
+
+// SPEAKER: CIVILIAN F
+// Don't do this...
+vo_hint_hint_monastery2_abuse2_n02=Đừng làm thế...
+
+// SPEAKER: ENEMY
+// I said quiet!
+vo_hint_hint_monastery2_abuse2_n03=Tao nói im!
+
+// SPEAKER: CIVILIAN F
+// We did nothing...
+vo_hint_hint_monastery2_abuse2_n04=Chúng tôi không có gì hết...
+
+// SPEAKER: ENEMY
+// You are mine, woman. Now kneel!
+vo_hint_hint_monastery2_abuse2_n05=Mày là của tao, đồ đàn bà. Quỳ xuống!
+
+// SPEAKER: CIVILIAN F
+// I...I won't!
+vo_hint_hint_monastery2_abuse2_n06=Tôi...Tôi sẽ không!
+
+// SPEAKER: ENEMY
+// Silence! Kneel beside the others.
+vo_hint_hint_monastery2_abuse2_n07=Câm! Quỳ xuống cạnh người khác.
+
+// SPEAKER: CIVILIAN M
+// Please, I beg you...
+vo_hint_hint_monastery2_abuse3_n00=Làm ơn, tôi xin anh...
+
+// SPEAKER: CIVILIAN F
+// Demon...
+vo_hint_hint_monastery2_abuse3_n01=Ác quỷ...
+
+// SPEAKER: CIVILIAN F
+// ...you killed them.
+vo_hint_hint_monastery2_abuse3_n02=...sẽ giết mày.
+
+// SPEAKER: ENEMY
+// All done...
+vo_hint_hint_monastery2_abuse3_n03=Xong hết rồi...
+
+// SPEAKER: GEISHA
+// We have made it.
+vocs_over_over_monastery2_debriefing_n00=Chúng ta làm được rồi.
+
+// SPEAKER: NINJA
+// ...not all of us.
+vocs_over_over_monastery2_debriefing_n01=...không phải chúng ta.
+
+// SPEAKER: TRAPPER
+// He's still up there...
+vocs_over_over_monastery2_debriefing_n02=Chú ấy vẫn còn ở trên kia...
+
+// SPEAKER: ALCHEMIST
+// Hush, Yuki-chan. There is nothing we could have done.
+vocs_over_over_monastery2_debriefing_n03=Nín đi, Yuki-chan. Chúng ta không thể làm gì khác.
+
+// SPEAKER: NINJA
+// What now?
+vocs_over_over_monastery2_debriefing_n04=Làm gì tiếp đây?
+
+// SPEAKER: GEISHA
+// We must wait until an opportunity presents itself. It will give us time to recover our strength. For now, I suggest we leave this awful place.
+vocs_over_over_monastery2_debriefing_n05=Phải chờ đến khi cơ hội bày ra trước mắt. Chúng ta cần thời gian để chuẩn bị lại mọi thử. Còn giờ thì rời khỏi nơi khủng khiếp này đã.
+

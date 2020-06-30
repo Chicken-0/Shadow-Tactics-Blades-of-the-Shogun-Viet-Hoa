@@ -1,0 +1,36 @@
+// Take Kage-sama
+-1353173650=Bắt cóc Kage-sama
+
+// Kage-sama is in the center of his camp. You must take him, dead or alive.
+-250886320=Kage-sama ở trung tâm trại. Bạn phải bắt được hắn, sống hay chết đều được.
+
+// Leave
+406211914=Bỏ trốn
+
+// Once you have Kage-sama, carry him with you and leave the forest. 
+762656023=Một khi có được Kage-sama, hãy cùng hắn ta trốn khỏi rừng.
+
+// Takuma
+1355185216=Takuma
+
+// Takuma can't leave the rocky ledge, but enemies can't get to him either.
+-1454309841=Takuma không thể rời vị trí gờ đá, tuy nhiên địch cũng không thể tóm được lão.
+
+// Swamp
+972089803=Vũng lầy
+
+// Some parts of the forest are swampy, and walking through puddles makes noise.
+-476465504=Một số vị trí trong rừng là vũng lầy, lội qua chỗ đó sẽ phát ra tiếng động lớn.
+
+// You have been captured!
+1710511360=Bạn đã bị bắt!
+
+// Firippu Raiumori
+-2072248373=Firippu Raiumori
+
+// Kage-sama
+918521299=Kage-sama
+
+// You have been captured!
+-288569028=Bạn đã bị bắt!
+

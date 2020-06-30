@@ -1,0 +1,508 @@
+// SPEAKER: TRAPPER
+// Master samurai? ...master samurai?! ...no, no, no! No, you ran too fast, stupid...
+vocs_over_over_snowcity_briefing1_n00=Samurai Xịn? ...Samurai Xịn?! ...không, không, không! Chú chạy nhanh quá, ngốc thật...
+
+// SPEAKER: TRAPPER
+// Find him, before he gets angry. Now, stupid!
+vocs_over_over_snowcity_briefing1_n01=Phải tìm hắn, trước khi chú nổi điên. Giờ, ngốc wá trời ơi!
+
+// SPEAKER: TRAPPER
+//  ...Master samurai?
+vocs_over_over_snowcity_briefing1a_n00=...Samurai Xịn?
+
+// SPEAKER: TRAPPER
+// Not here! Wrong place, stupid!
+vocs_over_over_snowcity_briefing1a_n01=Không phải ở đây! Nhầm chỗ rồi, ngốc thật!
+
+// SPEAKER: TRAPPER
+// Find him, before he gets angry.
+vocs_over_over_snowcity_briefing1a_n02=Phải tìm hắn trước khi chú nổi điên.
+
+// SPEAKER: TRAPPER
+// Now! Hurry, stupid!
+vocs_over_over_snowcity_briefing1a_n03=Giờ! Lẹ lên, ngốc wá trời ơi!
+
+// SPEAKER: TRAPPER
+// You lost him! Stupid, stupid, stupid!
+vocs_over_over_snowcity_separated_n00=Mình lạc mất chú ấy rồi! Dốt, ngu ngốc, đần độn!
+
+// SPEAKER: TRAPPER
+// Oh, you messed up! Stupid, stupid!
+vocs_over_over_snowcity_separated_n00a=Oh, chú sai thật rồi! Ngốc, ngốc quá!
+
+// SPEAKER: TRAPPER
+// Footprints. Little traitors. Like arrows, pointing at you.
+vocs_over_over_snowcity_footprints_n00=Dấu chân. Một kẻ phản bội tý hon. Như mũi tên đang chỉ vào mình.
+
+// SPEAKER: TRAPPER
+// Maybe this way? Please let him be this way...
+vocs_over_over_snowcity_crossover_n00=Có thể lối này? Làm ơn chú ấy ở lối này...
+
+// SPEAKER: STATIC
+// Head for the market when the wagon's fully loaded.
+vo_hint_hint_snowcity_sake1_n00=Hướng tới chợ khi mấy xe hàng này chất đầy.
+
+// SPEAKER: CIVILIAN M
+// Yes, my lord.
+vo_hint_hint_snowcity_sake1_n01=Vâng, thưa ngài.
+
+// SPEAKER: STATIC
+// Make haste, all of you! The sake won't deliver itself.
+vo_hint_hint_snowcity_sake1_n02=Bọn mày phải nhanh lên! sa kê không phải cho chúng mày.
+
+// SPEAKER: TRAPPER
+// Oh, master samurai!
+vocs_over_over_snowcity_briefing2_n00=Oh, chú samurai xịn!
+
+// SPEAKER: WARRIOR
+// There you are! You had me worried there, young woman.
+vocs_over_over_snowcity_briefing2_n01=Cháu đây rồi! Cháu làm ta khá lo đấy, cô gái trẻ.
+
+// SPEAKER: TRAPPER
+// Sorry... Am I in trouble?
+vocs_over_over_snowcity_briefing2_n02=Xin lỗi ạ... Cháu có vấn đề gì à?
+
+// SPEAKER: WARRIOR
+// We will see. For now, let us proceed with the mission.
+vocs_over_over_snowcity_briefing2_n03=Chúng ta sẽ thấy. Còn giờ, hãy bắt đầu nhiệm vụ.
+
+// SPEAKER: WARRIOR
+// That man is a high-ranking official. He has the documents we need.
+vocs_over_over_snowcity_briefing2_n04=Người đàn ông đó là chỉ huy cấp cao. Hắn có thứ mà chúng ta cần.
+
+// SPEAKER: TRAPPER
+// Uhm, he has lots of samurai with him...
+vocs_over_over_snowcity_briefing2_n05=Uhm, hắn có nhiều samurai bên cạnh...
+
+// SPEAKER: WARRIOR
+// We will worry about that later. First, we need to get inside the compound.
+vocs_over_over_snowcity_briefing2_n06=Chúng ta lo hắn sau. Cần phải lẻn vào trong lâu đài trước đã.
+
+// SPEAKER: WARRIOR
+// There are two side entrances. One at the north wall...  
+vocs_over_over_snowcity_briefing2_n07=Có hai lối vào. Một là tường phía Bắc...
+
+// SPEAKER: WARRIOR
+// ...and one at the south wall. Both of them are locked.
+vocs_over_over_snowcity_briefing2_n08=...và một là tường phía Nam. Cả hai đều bị khóa.
+
+// SPEAKER: WARRIOR
+// That samurai has the key. You need to climb inside and steal it from him.
+vocs_over_over_snowcity_briefing2_n09=Samurai có chìa khóa. Cháu cần trèo vào trong và lấy cắp nó từ hắn.
+
+// SPEAKER: TRAPPER
+// Yes! I can do that!
+vocs_over_over_snowcity_briefing2_n10=Rõ! Cháu có thể làm được!
+
+// SPEAKER: WARRIOR
+// Once you have it, open the gate for me. We will regroup inside and discuss further plans.
+vocs_over_over_snowcity_briefing2_n11=Khi có được nó, hãy mở cổng cho ta. Chúng ta sẽ gặp nhau bên trong và bàn tiếp về kế hoạch.
+
+// SPEAKER: TRAPPER
+// Hai, master samurai!
+vocs_over_over_snowcity_briefing2_n12=Hai, samurai xịn!
+
+// SPEAKER: TRAPPER
+// Master samurai!
+vocs_over_over_snowcity_briefing2a_n00=Chú samurai xịn!
+
+// SPEAKER: WARRIOR
+// There you are! You had me worried there, young woman.
+vocs_over_over_snowcity_briefing2a_n01=Cháu đây rồi! Cháu làm ta khá lo đấy, cô gái trẻ.
+
+// SPEAKER: TRAPPER
+// Sorry... Am I in trouble?
+vocs_over_over_snowcity_briefing2a_n02=Xin lỗi ạ... Cháu có vấn đề gì à?
+
+// SPEAKER: WARRIOR
+// Hm. We will see. Tell me, what did you find out?
+vocs_over_over_snowcity_briefing2a_n03=Hm. Rồi sẽ thấy. Nói cho ta cháu tìm được gì?
+
+// SPEAKER: TRAPPER
+// That man with the papers. He is at that big house, like you said.
+vocs_over_over_snowcity_briefing2a_n04=Đó là người đàn ông có giấy tờ. Hắn có tòa nhà bự chảng, y như chú bảo.
+
+// SPEAKER: TRAPPER
+// He has lots of big, mean samurai with him...
+vocs_over_over_snowcity_briefing2a_n05=Hắn lớn lắm, ý là samurai cạnh hắn...
+
+// SPEAKER: WARRIOR
+// We will worry about them later. First, we need to get inside the compound.
+vocs_over_over_snowcity_briefing2a_n06=Chúng ta lo về họ sau. Cần phải lẻn vào trong lâu đài trước đã.
+
+// SPEAKER: TRAPPER
+// Hai! I found two ways inside. One at the north wall...
+vocs_over_over_snowcity_briefing2a_n07=Hai! Cháu thấy hai cách vào trong. Một là tường phía Bắc...
+
+// SPEAKER: TRAPPER
+// ...and one at the south wall. But they are both locked.
+vocs_over_over_snowcity_briefing2a_n08=...và một là tường phía Nam. Nhưng chúng bị khóa hết rồi.
+
+// SPEAKER: WARRIOR
+// For every lock, there is a key. Can you think of anyone who might have it?
+vocs_over_over_snowcity_briefing2a_n09=Mỗi ổ khóa đều có chìa khóa. Cháu nghĩ ai đang có chìa khóa?
+
+// SPEAKER: TRAPPER
+// Uhm...yes! There was another mean samurai! He has a key that wants to be stolen. 
+vocs_over_over_snowcity_briefing2a_n10=Uhm...đó! Một gã samurai khác! Hắn có chìa khóa mà chúng ta cần.
+
+// SPEAKER: WARRIOR
+// You must climb inside, steal that key and let me in. After that, we will regroup and discuss further plans.
+vocs_over_over_snowcity_briefing2a_n11=Cháu phải lẻn vào trong, lấy cắp chìa khóa và mở cho chú vào. Sau đó, chúng ta gặp lại nhau và nói tiếp về kế hoạch.
+
+// SPEAKER: TRAPPER
+// Hai, master samurai!
+vocs_over_over_snowcity_briefing2a_n12=Hai, chú samurai xịn!
+
+// SPEAKER: WARRIOR
+// Samurai. I can defeat one in a duel, but two will overpower me. Keep your distance, Yuki-chan. Do not attack them at close range.
+vocs_over_over_snowcity_samurai_n01=Samurai. Ta có thể thắng khi một đấu một, nhưng cả hai thì chịu. Giữ khoảng cách, Yuki-chan. Đừng tấn công chúng ở phạm vi gần.
+
+// SPEAKER: TRAPPER
+// Hai!
+vocs_over_over_snowcity_samurai_n02=Hai!
+
+// SPEAKER: WARRIOR
+// To think that all these men serve Kage-sama.
+vocs_over_over_snowcity_shadows_n01=Ta nghĩ tất cả những người này phụng sự cho Kage-sama.
+
+// SPEAKER: TRAPPER
+// Uhm...who is Kage-sama? Is he a...shadow?
+vocs_over_over_snowcity_shadows_n02=Uhm...Kage-sama là ai? Hắn là...bóng tối ư?
+
+// SPEAKER: WARRIOR
+// It is a name, Yuki-chan, meant to scare people and destroy their faith in the Shogun. Stay vigilant now, and we might face him soon enough.
+vocs_over_over_snowcity_shadows_n03=Đó là cái tên, Yuki-chan, nó làm mọi người sợ hãi và phá hủy lòng tin của Mạc Chúa. Giờ phải cẩn trọng, chúng ta sẽ đối mặt với hắn sớm thôi.
+
+// SPEAKER: TRAPPER
+// Yes, master samurai.
+vocs_over_over_snowcity_shadows_n04=Rõ, chú samurai xịn.
+
+// SPEAKER: TRAPPER
+// We can slip through here!
+vocs_over_over_snowcity_infiltration_n00=Chúng ta có thể lọt qua đây!
+
+// SPEAKER: WARRIOR
+// This business comes naturally to you, Yuki-chan. Have you always been a thief?
+vocs_over_over_snowcity_infiltration_n01=Việc này khá tự nhiên đối với cháu, Yuki-chan. Cháu luôn làm tên trộm à?
+
+// SPEAKER: TRAPPER
+// I was alone...for a time. Others came... They taught me how to see things, you know? Things that want to be taken.
+vocs_over_over_snowcity_infiltration_n02=Cháu đơn độc...trong một thời gian. Những người khác đến... Họ dạy cháu biết nhiều thứ, chú biết không? Mấy thứ này muốn được làm như thế.
+
+// SPEAKER: TRAPPER
+// ...is that a problem?
+vocs_over_over_snowcity_infiltration_n03=...đó có phải là vấn đề không?
+
+// SPEAKER: WARRIOR
+// Your origins don't bother me. What matters is how you use the talents that have been given to you.
+vocs_over_over_snowcity_infiltration_n04=Xuất thân của cháu không quan trọng với ta. Điều quan trọng cách cháu thể hiện tài năng từ những thứ mà họ đã dạy cho cháu.
+
+// SPEAKER: TRAPPER
+// A wagon, a wagon!
+vocs_over_over_snowcity_wagon_n00=Xe hàng, một xe hàng!
+
+// SPEAKER: WARRIOR
+// This wagon delivers sake to the northern market.
+vocs_over_over_snowcity_wagon_n01=Xe hàng này mang sa kê cho chợ phía Bắc.
+
+// SPEAKER: TRAPPER
+// He wants to go where we're going. Maybe jump inside?
+vocs_over_over_snowcity_wagon_n02=Anh ấy tới cùng nơi mà chúng ta muốn đến. Có nên nấp vào trong không?
+
+// SPEAKER: WARRIOR
+// Hmm...good thinking.
+vocs_over_over_snowcity_wagon_n03=Hmm...tư duy tốt.
+
+// SPEAKER: ENEMY
+// You can come through.
+vo_hint_hint_snowcity_sake2_n00=Ngươi có thể qua.
+
+// SPEAKER: TRAPPER
+// There! One of the gates.
+vocs_over_over_snowcity_locked_n00=Chỗ này! Một cánh cổng.
+
+// SPEAKER: WARRIOR
+// The gate is locked, as expected. Are you ready, Yuki-chan?
+vocs_over_over_snowcity_locked_n01=Cổng đã khóa như mong đợi. Cháu sẵn sàng chưa, Yuki-chan?
+
+// SPEAKER: TRAPPER
+// Yes. Locks have keys. Keys like being stolen.
+vocs_over_over_snowcity_locked_n02=Vâng. Ổ khóa có chìa khóa. Mà chìa thì đang muốn bị ăn trộm.
+
+// SPEAKER: TRAPPER
+// Look! Big, shiny icicles! Oh, they want to fall on the samurai's head.
+vocs_over_over_snowcity_icicle_n00=Xem kìa! Cột băng sáng bóng, bự đấy! Oh, chúng có vẻ muốn rơi vào đầu mấy tên Samurai.
+
+// SPEAKER: TRAPPER
+// Quick! Open the gate, before master samurai gets worried.
+vocs_over_over_snowcity_key_n00=Lẹ lên! Phải nở cổng, trước khi chú samurai xịn lo lắng.
+
+// SPEAKER: TRAPPER
+// There! All done.
+vocs_over_over_snowcity_unlocked_n00=Đây! Xong rồi nhóe.
+
+// SPEAKER: WARRIOR
+// Impressive. I see why Hayato-san saw potential in you.
+vocs_over_over_snowcity_unlocked_n01=Ấn tượng đó. Giờ mới biết tại sao Hayato-san lại nhìn thấy được tài năng trong cháu.
+
+// SPEAKER: TRAPPER
+// Thank you!
+vocs_over_over_snowcity_unlocked_n02=Đa tạ, quá khen!
+
+// SPEAKER: WARRIOR
+// Let us regroup, and discuss our next approach.
+vocs_over_over_snowcity_unlocked_n03=Giờ chúng ta tái hợp nhóm để bàn về các bước tiếp theo.
+
+// SPEAKER: WARRIOR
+// Very well...
+vocs_over_over_snowcity_briefing3_n00=Giỏi lắm...
+
+// SPEAKER: WARRIOR
+// Remember, the official is well protected.
+vocs_over_over_snowcity_briefing3_n01=Nhớ rằng, Chỉ huy được bảo vệ rất chặt.
+
+// SPEAKER: WARRIOR
+// We are no match for this many bodyguards, so we must find a way to distract them.
+vocs_over_over_snowcity_briefing3_n02=Chúng ta không thể đấu lại nhiều tên hộ vệ như thế, cần phải tìm cách đánh lạc hướng chúng.
+
+// SPEAKER: WARRIOR
+// I saw two fire lookout towers on the way here.
+vocs_over_over_snowcity_briefing3_n03=Ta thấy hai chòi báo hỏa khi trên đường vào đây.
+
+// SPEAKER: WARRIOR
+// If I cut one down, the official will send his men to investigate the disturbance.
+vocs_over_over_snowcity_briefing3_n04=Nếu ta đốn ngã một cái, Chỉ huy sẽ gửi người của hắn tới đề điều tra lộn xộn đó.
+
+// SPEAKER: TRAPPER
+// You can cut through a tower?!
+vocs_over_over_snowcity_briefing3_n05=Chú có thể yêu thương cả một cái tháp ư?!
+
+// SPEAKER: WARRIOR
+// When it happens, you will have plenty of time to steal the documents from our target.
+vocs_over_over_snowcity_briefing3_n06=Khi nó xảy ra, cháu sẽ có nhiều thời gian để lấy cắp tài liệu từ mục tiêu của chúng ta.
+
+// SPEAKER: WARRIOR
+// Once we are finished, we will use this wagon for our escape.
+vocs_over_over_snowcity_briefing3_n07=Xong việc, chúng ta sẽ sử dụng xe bò này để trốn thoát.
+
+// SPEAKER: TRAPPER
+// He's a bad man, right? Maybe I should hurt him...
+vocs_over_over_snowcity_briefing3_n08=Hắn là một gã xấu phải không? Liệu cháu cũng có thể xử đẹp hắn không...
+
+// SPEAKER: WARRIOR
+// No, you must do him no harm. The Shogun will not tolerate the killing of a high-ranking official, not until we have solid proof.
+vocs_over_over_snowcity_briefing3_n09=Không, cháu phải để hắn yên. Mạc Chúa sẽ không tha thứ cho việc giết chết một Chỉ huy cấp cao, cho đến khi chúng ta có bằng chứng rõ ràng.
+
+// SPEAKER: TRAPPER
+// Understood!
+vocs_over_over_snowcity_briefing3_n10=Đã hiểu!
+
+// SPEAKER: WARRIOR
+// Well then. Ready, Yuki-chan?
+vocs_over_over_snowcity_briefing3_n11=Rồi tốt lắm. Sẵn sàng chưa, Yuki-chan?
+
+// SPEAKER: TRAPPER
+// Ready!
+vocs_over_over_snowcity_briefing3_n12=Triển thôi!
+
+// SPEAKER: WARRIOR
+// Very well...
+vocs_over_over_snowcity_briefing3a_n00=Giỏi lắm...
+
+// SPEAKER: WARRIOR
+// Remember, the official is well protected.
+vocs_over_over_snowcity_briefing3a_n01=Nhớ rằng, Chỉ huy được bảo vệ rất chặt.
+
+// SPEAKER: WARRIOR
+// We are no match for this many bodyguards, so we must find a way to distract them.
+vocs_over_over_snowcity_briefing3a_n02=Chúng ta không thể đấu lại nhiều tên hộ vệ như thế, cần phải tìm cách đánh lạc hướng chúng.
+
+// SPEAKER: TRAPPER
+// I saw two big wooden towers when I was here before.
+vocs_over_over_snowcity_briefing3a_n03=Cháu thấy hai cái tháp bằng gỗ khi cháu đến đây.
+
+// SPEAKER: TRAPPER
+// Maybe you can break one of them? It would make lots of noise, and the man with the papers will send his samurai to see what's wrong.
+vocs_over_over_snowcity_briefing3a_n04=Liệu chú có thể yêu thương một trong số chúng không? Nó sẽ tạo ra tiếng ồn lớn, và rồi gã có giấy tờ sẽ gửi samurai tới để xem xét tình hình.
+
+// SPEAKER: WARRIOR
+// An unusual strategy. I am tempted to try it out.
+vocs_over_over_snowcity_briefing3a_n05=Một chiến thuật không bình thường. Ta sẽ thử dụ chúng ra.
+
+// SPEAKER: WARRIOR
+// When I do, you will have plenty of time to steal the documents from our target.
+vocs_over_over_snowcity_briefing3a_n06=Khi ta làm nó, cháu sẽ có nhiều thời gian để lấy cắp tài liệu từ mục tiêu của chúng ta.
+
+// SPEAKER: TRAPPER
+// Yes...and then we leave, right? Let's hide in that wagon. It'll carry us out of here.
+vocs_over_over_snowcity_briefing3a_n07=Vâng...và rồi chúng ta bỏ trốn, phải hông? Nấp trong xe bò. Nó sẽ chở chúng ta ra khỏi đây.
+
+// SPEAKER: TRAPPER
+// The man with the papers...he's bad, right? Maybe I should hurt him...
+vocs_over_over_snowcity_briefing3a_n08=Người có giấy tờ...là gã xấu phải hông? Liệu cháu có thể làm hắn bị thương...
+
+// SPEAKER: WARRIOR
+// No, you must do him no harm. The Shogun will not tolerate the killing of a high-ranking official, not until we have solid proof.
+vocs_over_over_snowcity_briefing3a_n09=Không, cháu phải để hắn yên. Mạc Chúa sẽ không tha thứ cho việc giết chết một Chỉ huy cấp cao, cho đến khi chúng ta có bằng chứng rõ ràng.
+
+// SPEAKER: TRAPPER
+// Understood!
+vocs_over_over_snowcity_briefing3a_n10=Đã rõ!
+
+// SPEAKER: WARRIOR
+// Well then. Ready, Yuki-chan?
+vocs_over_over_snowcity_briefing3a_n11=Rồi tốt lắm. Sẵn sàng chưa, Yuki-chan?
+
+// SPEAKER: TRAPPER
+// Ready!
+vocs_over_over_snowcity_briefing3a_n12=Triển thôi!
+
+// SPEAKER: WARRIOR
+// A well-aimed cut, and this platform will crash to the ground.
+vocs_over_over_snowcity_platform_n00=Ngắm rồi chém, và thứ này sẽ rơi xuống mặt đất.
+
+// SPEAKER: TRAPPER
+// You're strong, master samurai!
+vocs_over_over_snowcity_platform_n01=Khỏe dã man à, chú samurai xịn!
+
+// SPEAKER: TRAPPER
+// You're strong, master samurai! You can do it!
+vocs_over_over_snowcity_platform_n01a=Khỏe dã man à, chú samurai xịn! Chú có thể làm được!
+
+// SPEAKER: WARRIOR
+// One must only know where to strike.
+vocs_over_over_snowcity_platform_n02=Chỉ cần biết đến nơi để tấn công.
+
+// SPEAKER: TRAPPER
+// These towers are really high!
+vocs_over_over_snowcity_tower_n00=Mấy tháp này cao vãi!
+
+// SPEAKER: WARRIOR
+// The tower's supports are no match for my blade. If our plan works, the official will send his guards to investigate.
+vocs_over_over_snowcity_tower_n01=Xử lý cái tháp này không tốt cho lưỡi kiếm của mình. Nếu kế hoạch hoạt động, chỉ huy sẽ gửi lính tới để điều tra.
+
+// SPEAKER: OFFICIAL
+// What is going on?! Go! Investigate, all of you!
+vocs_over_over_snowcity_distraction_n00=Chuyện quái gì vậy?! Đi! Điều tra xem, tất cả bọn mày!
+
+// SPEAKER: WARRIOR
+// This will keep them away for a while. Be careful, Yuki-chan.
+vocs_over_over_snowcity_distraction_n01=Thứ này sẽ giữ chân chúng được một lúc. Cẩn thận đấy, Yuki-chan.
+
+// SPEAKER: WARRIOR
+// Your plan has worked. You know what to do, Yuki-chan.
+vocs_over_over_snowcity_distraction_n01a=Kế hoạch của cháu đã hoạt động. Cháu biết làm gì rồi đấy, Yuki-chan.
+
+// SPEAKER: TRAPPER
+// Yes. Steal the papers. Don't be seen. Don't hurt the bad man.
+vocs_over_over_snowcity_distraction_n02=Rồi. Xin mấy tờ giấy. Không để bị thấy. Không làm gã xấu bị thương.
+
+// SPEAKER: OFFICIAL
+// Lord Yabu was displeased about the loss of the latest shipment. As a result, he has gone to Mount Tsuru.
+vo_hint_hint_snowcity_official1_n00=Lãnh chúa Yabu không hài lòng về mất mát của mấy lô hàng gần đây. Kết quả là ngài ấy tới núi Tsuru.
+
+// SPEAKER: CIVILIAN M
+// Do not worry, my lord. We will double the guards on the next transport. I'm sure this delay will mean little in the end.
+vo_hint_hint_snowcity_official1_n01=Đừng lo, thưa ngài. Chúng ta sẽ gấp đôi lính cho cuộc vận chuyển tiếp theo. Thần chắc chắn nó sẽ chậm trễ đôi chút.
+
+// SPEAKER: OFFICIAL
+// We can only hope. Regardless, I will be glad when this is behind us.
+vo_hint_hint_snowcity_official1_n02=Chúng ta chỉ có thể hi vọng. Bất kể thế nào, ta sẽ rất vui khi mấy thứ này ở lại phía sau ta.
+
+// SPEAKER: CIVILIAN M
+// As will I, my lord. Now, shall we discuss the next point on the list...
+vo_hint_hint_snowcity_official1_n03=Thần sẽ làm, thưa ngài. Giờ chúng ta nói về điểm tiếp theo trong danh sách...
+
+// SPEAKER: OFFICIAL
+// This matter troubles me greatly.
+vo_hint_hint_snowcity_official2_n00=Mấy thứ này làm ta khá lo lắng.
+
+// SPEAKER: CIVILIAN M
+// I will see it done, my lord.
+vo_hint_hint_snowcity_official2_n01=Thần sẽ hoàn thành nó, thưa ngài.
+
+// SPEAKER: OFFICIAL
+// That must be handled immediately!
+vo_hint_hint_snowcity_official2_n02=Nó phải được xử lý ngay lập tức!
+
+// SPEAKER: CIVILIAN M
+// I will report to you once it is done.
+vo_hint_hint_snowcity_official2_n03=Thần sẽ báo cáo ngay khi nó xong.
+
+// SPEAKER: OFFICIAL
+// Are preparations under way?
+vo_hint_hint_snowcity_official2_n04=Nó đang chuẩn bị được tiến hành chứ?
+
+// SPEAKER: CIVILIAN M
+// It will be to your satisfaction.
+vo_hint_hint_snowcity_official2_n05=Nó sẽ làm hài lòng ngài.
+
+// SPEAKER: OFFICIAL
+// Ugh...can we trust him? We better make further inquiries.
+vo_hint_hint_snowcity_official2_n06=Ugh...có thể tin tưởng không? Chúng ta phải làm tốt hơn những gì yêu cầu.
+
+// SPEAKER: CIVILIAN M
+// It will be arranged.
+vo_hint_hint_snowcity_official2_n07=Nó sẽ được thu xếp.
+
+// SPEAKER: TRAPPER
+// Yes! You did it! Now leave quickly.
+vocs_over_over_snowcity_pickpocket_n00=Rồi! Cháu xong rồi! Rời khỏi đây lẹ thôi.
+
+// SPEAKER: WARRIOR
+// Well done, Yuki-chan. Now, let us make haste and meet at the wagon. It will carry us out of danger.
+vocs_over_over_snowcity_pickpocket_n01=Giỏi lắm, Yuki-chan. Giờ nhanh lên và hẹn gặp nhau ở xe bò. Nó sẽ đưa chúng ta thoát khỏi nguy hiểm.
+
+// SPEAKER: TRAPPER
+// Oh, no no no no no! You killed him, stupid, stupid!
+vocs_over_over_snowcity_fail_n00=Oh, no no no no no! Chú đã xử hắn, ngốc quá, ngốc quá!
+
+// SPEAKER: WARRIOR
+// He is dead! I will not be able to justify this to the Shogun. We have failed.
+vocs_over_over_snowcity_fail_n01=Hắn đã chết! Mình sẽ không thể biện minh chuyện này với Mạc Chúa. Thất bại rồi.
+
+// SPEAKER: TRAPPER
+// That was a fun adventure!
+vocs_over_over_snowcity_debriefing_n00=Một chuyến phiêu lưu thú vị!
+
+// SPEAKER: WARRIOR
+// A fine display of the thieving arts, amongst other things.
+vocs_over_over_snowcity_debriefing_n01=Một màn trình diễn nghệ thuật trộm cắp xuất xắc.
+
+// SPEAKER: TRAPPER
+// ...oh! Thank you, master samurai!
+vocs_over_over_snowcity_debriefing_n02=...oh! Đa tạ chú samurai!
+
+// SPEAKER: WARRIOR
+// I think Hayato-san will be glad to have such a talented student.
+vocs_over_over_snowcity_debriefing_n03=Ta nghĩ Hayato-san sẽ rất vui khi có một cô học trò tài năng như vậy.
+
+// SPEAKER: TRAPPER
+// Uhm... Can I...ask you a question?
+vocs_over_over_snowcity_debriefing_n04=Uhm... Cháu có thể...một câu hỏi cho chú?
+
+// SPEAKER: WARRIOR
+// Go ahead.
+vocs_over_over_snowcity_debriefing_n05=Đang nghe nè.
+
+// SPEAKER: TRAPPER
+// You're...you're not like other samurai, are you?
+vocs_over_over_snowcity_debriefing_n06=Chú...chú không thích mấy gã samurai khác, đúng hông?
+
+// SPEAKER: WARRIOR
+// Haha... Is that your idea of a compliment?
+vocs_over_over_snowcity_debriefing_n07=Haha... Có ý kiến cho rằng đó là một lời khen?
+
+// SPEAKER: TRAPPER
+// ...y-yes?
+vocs_over_over_snowcity_debriefing_n08=...c-có?
+
+// SPEAKER: WARRIOR
+// Then I will take it as such. Now, let us return to the meeting place and examine these documents.
+vocs_over_over_snowcity_debriefing_n09=Rồi ta sẽ như thế. Giờ chúng ta quay về và xem mấy thứ tài liệu này.
+
+// SPEAKER: TRAPPER
+// Hai, master samurai.
+vocs_over_over_snowcity_debriefing_n10=Hai, samurai xịn.
+

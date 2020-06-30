@@ -1,0 +1,156 @@
+// SPEAKER: BROGUN
+// They pushed back our first assaults. We must attack the castle in full force, leave them no time to breathe.
+vocs_over_over_ricefields_post_n00=Chúng đẩy lùi được cuộc tấn công đầu tiên của chúng ta. Phải tấn công thành với lực lượng đông đủ, không để chúng có thời gian được thở.
+
+// SPEAKER: BROGUN
+// They fortified themselves within Kanazawa Castle. I will not let them rest on this victory. Our next move must end this rebellion and stop Okkoto once and for all.
+vocs_over_over_ricefields_post_n00a=Chúng tăng cường sức mạnh trong thành Kanazawa. Ta sẽ không để chúng nghỉ ngơi trên chiến thắng ấy. Phải di chuyển để kết thúc cuộc nổi loạn này và dừng Okkoto một lần và mãi mãi.
+
+// SPEAKER: WARRIOR
+// I will not see the use of cannons before I have news of Aiko and Hayato!
+vocs_over_over_ricefields_post_n01=Sẽ không nổ pháo trước khi thần có được tin báo từ Aiko và Hayato!
+
+// SPEAKER: WARRIOR
+// With respect, Noboru-sama, but we should wait until we have news of Aiko and Hayato before we march into battle.
+vocs_over_over_ricefields_post_n01a=Với lòng kính trọng, Noboru-sama, nhưng trước khi bước vào trận chiến, chúng ta nên chờ cho đến khi có được tin báo từ Aiko và Hayato.
+
+// SPEAKER: BROGUNSON
+// Mind your place, Mugen. Had we heard of this attack earlier, we would not see battle today.
+vocs_over_over_ricefields_post_n02=Như thầy nói, Mugen. Nếu chúng ta có được tin trước cuộc tấn công, chúng ta đã không phải nhận lấy thất bại ngày hôm nay.
+
+// SPEAKER: GEISHA
+// A matter I find quite puzzling myself. Why was General Okkoto allowed to take Kanazawa Castle?
+vocs_over_over_ricefields_post_n03=Có một vấn đề thần thấy rất khó hiểu. Tại sao tướng Okkoto đã chiếm được thành Kanazawa?
+
+// SPEAKER: WARRIOR
+// Aiko-san! And Hayato-san!
+vocs_over_over_ricefields_post_n04=Aiko-san! Và Hayato-san!
+
+// SPEAKER: NINJA
+// In the flesh.
+vocs_over_over_ricefields_post_n05=Bằng xương bằng thịt.
+
+// SPEAKER: GEISHA
+// We learned of Okkoto's plans in Hida village. Did the child not deliver our message?
+vocs_over_over_ricefields_post_n06=Chúng thần đã biết trước kế hoạch của Okkoto ở làng Hida. Đứa nhóc đã không truyền tin của chúng thần ư?
+
+// SPEAKER: TRAPPER
+// Er...
+vocs_over_over_ricefields_post_n07=Er...
+
+// SPEAKER: GEISHA
+// Yuki-chan!
+vocs_over_over_ricefields_post_n08=Yuki-chan!
+
+// SPEAKER: GEISHA
+// I told you how important this was, did I not?
+vocs_over_over_ricefields_post_n09=Chị đã nói với em nó quan trọng thế nào rồi mà, em biết không?
+
+// SPEAKER: ALCHEMIST
+// Now calm yourself, Aiko-san. Yuki-chan is not at fault.
+vocs_over_over_ricefields_post_n10=Giờ bình tĩnh nào, Aiko-san. Yuki-chan không có tội.
+
+// SPEAKER: WARRIOR
+// Aiko-san. She strayed from her task so she could save my life.
+vocs_over_over_ricefields_post_n11=Aiko-san. Cháu ấy đã tạm gác công việc để có thể cứu sống anh.
+
+// SPEAKER: BROGUN
+// None of this matters now! We must make do with what we have. What can you both tell us of Okkoto's defenses?
+vocs_over_over_ricefields_post_n12=Không ai có tội cả! Chúng ta phải làm những gì mà chúng ta có. Cả hai có thể nói về khả năng phòng thủ của Okkoto không?
+
+// SPEAKER: NINJA
+// We followed him and his army from Hida. They are trained, well equipped and disciplined in combat. Taking the castle came easy to them.
+vocs_over_over_ricefields_post_n13=Chúng thần đã bám theo hắn và quân đội của hắn ở Hida. Bọn chúng được đào tạo, trang bị tốt và chiến đấu có kỉ luật. Chiếm được thành là quá dễ dàng đối với chúng.
+
+// SPEAKER: GEISHA
+// Their food and munition depots are full. They could hold out for months. And we have heard talk that Kage-sama will send reinforcements soon.
+vocs_over_over_ricefields_post_n14=Lương thực đạn dược đầy đủ. Chúng có thể cầm cự cả tháng trời. Và nghe nói rằng Kage-sama sẽ gửi quân tiếp viện tới.
+
+// SPEAKER: BROGUN
+// I will not wait months. Make your preparations! You will all be part of the next attack. I expect you to tip the balance in our favor.
+vocs_over_over_ricefields_post_n15=Ta sẽ không chờ cả tháng. Hãy chuẩn bị đi! Thần sẽ là một phần của cuộc tấn công tiếp theo. Ta mong thần có thể thay đổi được thế trận.
+
+// SPEAKER: GEISHA
+// Lord Noboru! I have precise knowledge of Okkoto's defenses. Perhaps it will help you in the battle to come?
+vocs_over_over_ricefields_post_n16=Lãnh chúa Noboru! Thần có kiến thức chính xác về phòng thủ của Okkoto. Liệu thần có thể giúp ngài trong cuộc chiến tiếp theo?
+
+// SPEAKER: BROGUN
+// If your knowledge is as vital as you make it out to be, Aiko-san, then join us. The rest of you prepare for battle. You will receive my orders shortly.
+vocs_over_over_ricefields_post_n17=Nếu hiểu biết của cô thực sự quan trọng, Aiko-san, vậy thì tham gia với bọn ta. Chuẩn bị cho phần còn lại của trận chiến. Cô sẽ nhận được lệnh sớm.
+
+// SPEAKER: GEISHA
+// As you command, Lord Noboru.
+vocs_over_over_ricefields_post_n18=Tuân lệnh ngài, lãnh chúa Noboru.
+
+// SPEAKER: BROGUNSON
+// Tch, a woman at the strategy table? Ridiculous...
+vocs_over_over_ricefields_post_n19=Tch, đàn bà ở bàn chiến lược? Nực cười...
+
+// SPEAKER: WARRIOR
+// All of you, a word.
+vocs_over_over_ricefields_post_n20=Mọi người quay về chuẩn bị đi nào.
+
+// SPEAKER: NINJA
+// So, behind enemy lines again?
+vocs_over_over_ricefields_post_n21=Vậy, Backdoor địch lần nữa hả?
+
+// SPEAKER: WARRIOR
+// It seems that way.
+vocs_over_over_ricefields_post_n22=Chắc vậy.
+
+// SPEAKER: ALCHEMIST
+// Hehe, feels like old times already.
+vocs_over_over_ricefields_post_n23=Hehe, cảm giác như này xưa rồi.
+
+// SPEAKER: TRAPPER
+// Won't Aiko-san be with us?
+vocs_over_over_ricefields_post_n24=Sao Aiko-san không đi cùng chúng ta?
+
+// SPEAKER: WARRIOR
+// She will help us in her own way, advising Lord Noboru. The battle ahead will be very dangerous. You do not have to come, if you don't want to.
+vocs_over_over_ricefields_post_n25=Chị ấy giúp chúng ta theo cách riêng, cố vấn cho lãnh chúa Noboru. Đầu chiến tuyến rất nguy hiểm. Nếu cháu không muốn thì không cần phải tới đó.
+
+// SPEAKER: TRAPPER
+// No, I want to help. I was born there. Kanazawa, I mean. I know all the back alleys.
+vocs_over_over_ricefields_post_n26=Không, cháu muốn giúp. Cháu được sinh ra ở đó. Kanazawa, Ý là cháu biết tất cả các con hẻm.
+
+// SPEAKER: WARRIOR
+// If it is your wish, I will not deny you. Let us prepare then, and wait for Lord Noboru's instructions.
+vocs_over_over_ricefields_post_n27=Nếu cháu muốn, ta sẽ không cấm cháu. Hãy chuẩn bị mọi thứ rồi chờ chỉ thị của lãnh chúa Noboru.
+
+// SPEAKER: GEISHA
+// Yuki-chan!
+vocs_over_over_ricefields_post_n28=Yuki-chan!
+
+// SPEAKER: TRAPPER
+// Aiko-san. I...I'm sorry...
+vocs_over_over_ricefields_post_n29=Aiko-san. Em...Em xin lỗi...
+
+// SPEAKER: GEISHA
+// There is no need, Yuki-chan.
+vocs_over_over_ricefields_post_n30=Không cần đâu, Yuki-chan.
+
+// SPEAKER: TRAPPER
+// I was on my way, but then I met Kuma, and there was blood, and...
+vocs_over_over_ricefields_post_n31=Em đang trên đường tới đây, nhưng rồi gặp Kuma, rồi có máu, rồi...
+
+// SPEAKER: GEISHA
+// You faced a hard decision. I know I would have done the same.
+vocs_over_over_ricefields_post_n32=Em đã có một lựa chọn khó khăn. Chị biết chị cũng sẽ làm như thế.
+
+// SPEAKER: GEISHA
+// You are no child, Yuki-chan. I doubted you, and for that, I must apologize.
+vocs_over_over_ricefields_post_n33=Em không còn là đứa trẻ, Yuki-chan. Chị đã từng nghi ngờ em, chị phải xin lỗi.
+
+// SPEAKER: TRAPPER
+// Aiko-san...
+vocs_over_over_ricefields_post_n34=Aiko-san...
+
+// SPEAKER: GEISHA
+// Please, return safely. All of you.
+vocs_over_over_ricefields_post_n35=Làm ơn quay về bình an cùng tất cả mọi người nhé.
+
+// SPEAKER: TRAPPER
+// Hai, Aiko-san!
+vocs_over_over_ricefields_post_n36=Hai, Aiko-san!
+

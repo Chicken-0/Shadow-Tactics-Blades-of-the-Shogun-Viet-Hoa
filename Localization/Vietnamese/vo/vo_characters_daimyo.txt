@@ -1,0 +1,392 @@
+// SPEAKER: Daimyo
+// 
+vo_eny_eny_daimyo_death_scream_00=
+
+// SPEAKER: Daimyo
+// 
+vo_eny_eny_daimyo_death_scream_01=
+
+// SPEAKER: Daimyo
+// 
+vo_eny_eny_daimyo_death_scream_02=
+
+// SPEAKER: Daimyo
+// 
+vo_eny_eny_daimyo_death_scream_muffled_00=
+
+// SPEAKER: Daimyo
+// 
+vo_eny_eny_daimyo_death_scream_muffled_01=
+
+// SPEAKER: Daimyo
+// 
+vo_eny_eny_daimyo_death_scream_muffled_02=
+
+// SPEAKER: Daimyo
+// She's dead!
+vo_eny_eny_daimyo_detect_corpse_female_00=Ả ta đã chết!
+
+// SPEAKER: Daimyo
+// Someone killed her!
+vo_eny_eny_daimyo_detect_corpse_female_01=Chúng đã giết ả ta!
+
+// SPEAKER: Daimyo
+// He's dead!
+vo_eny_eny_daimyo_detect_corpse_male_00=Thằng này đã chết!
+
+// SPEAKER: Daimyo
+// Someone killed him!
+vo_eny_eny_daimyo_detect_corpse_male_01=Chúng đã giết thằng này!
+
+// SPEAKER: Daimyo
+// Murder!
+vo_eny_eny_daimyo_detect_corpse_neutral_00=Có người chết!
+
+// SPEAKER: Daimyo
+// Assassins!
+vo_eny_eny_daimyo_detect_corpse_neutral_01=Sát thủ!
+
+// SPEAKER: Daimyo
+// I see you!
+vo_eny_eny_daimyo_detect_player_00=Tao thấy mày rồi!
+
+// SPEAKER: Daimyo
+// You there!
+vo_eny_eny_daimyo_detect_player_01=Hắn ở đây!
+
+// SPEAKER: Daimyo
+// Shogunate men!
+vo_eny_eny_daimyo_detect_player_02=Người Mạc Phủ!
+
+// SPEAKER: Daimyo
+// It's them!
+vo_eny_eny_daimyo_detect_player_03=Là chúng!
+
+// SPEAKER: Daimyo
+// Something's wrong...
+vo_eny_eny_daimyo_detect_player_proximity_00=Có gì đó sai sai...
+
+// SPEAKER: Daimyo
+// Strange... It feels like...
+vo_eny_eny_daimyo_detect_player_proximity_01=Kỳ lạ thật...nó cảm giác như...
+
+// SPEAKER: Daimyo
+// Wait...is someone...
+vo_eny_eny_daimyo_detect_player_proximity_02=Chờ đã...có ai đó...
+
+// SPEAKER: Daimyo
+// There's...something there...
+vo_eny_eny_daimyo_detect_player_proximity_03=Tao chắc chắn có ai đó ở đây...
+
+// SPEAKER: Daimyo
+// Ugh. Filthy creature.
+vo_eny_eny_daimyo_detect_tanuki_00=Ugh. Con vật thối.
+
+// SPEAKER: Daimyo
+// Annoying critter.
+vo_eny_eny_daimyo_detect_tanuki_01=Phiền vđ.
+
+// SPEAKER: Daimyo
+// Leave, before I crush you.
+vo_eny_eny_daimyo_detect_tanuki_02=Đi đi, trước khi tao...làm thịt mày.
+
+// SPEAKER: Daimyo
+// Just an animal.
+vo_eny_eny_daimyo_detect_tanuki_03=Chỉ là một con vật.
+
+// SPEAKER: Daimyo
+// Eh? What's this rubbish...
+vo_eny_eny_daimyo_detect_trap_00=Eh? Thứ rác rưởi gì đây?
+
+// SPEAKER: Daimyo
+// Tch...a child's toy.
+vo_eny_eny_daimyo_detect_trap_01=Tch...Đồ chơi con nít.
+
+// SPEAKER: Daimyo
+// Who left that here? ...hrm, trash.
+vo_eny_eny_daimyo_detect_trap_02=Ai để nó ở đây? ...hrm, rác rưởi.
+
+// SPEAKER: Daimyo
+// She's unconscious.
+vo_eny_eny_daimyo_detect_unconscious_female_01=Cô ấy bất tỉnh.
+
+// SPEAKER: Daimyo
+// She's been hit!
+vo_eny_eny_daimyo_detect_unconscious_female_02=Cô ấy bị đánh.
+
+// SPEAKER: Daimyo
+// She's been attacked.
+vo_eny_eny_daimyo_detect_unconscious_female_03=Cô ấy bị tấn công.
+
+// SPEAKER: Daimyo
+// He's unconscious.
+vo_eny_eny_daimyo_detect_unconscious_male_00=Anh ta bất tỉnh.
+
+// SPEAKER: Daimyo
+// He's been hit!
+vo_eny_eny_daimyo_detect_unconscious_male_01=Anh ta bị đánh!
+
+// SPEAKER: Daimyo
+// He's been attacked.
+vo_eny_eny_daimyo_detect_unconscious_male_02=Anh ta bị tấn công.
+
+// SPEAKER: Daimyo
+// What happened?
+vo_eny_eny_daimyo_detect_unconscious_neutral_01=Chuyện gì đã xảy ra?
+
+// SPEAKER: Daimyo
+// You! Who attacked you?
+vo_eny_eny_daimyo_detect_unconscious_neutral_02=Ngươi! Ai đã đánh ngươi?
+
+// SPEAKER: Daimyo
+// Are you asleep?
+vo_eny_eny_daimyo_detect_unconscious_neutral_03=Đang ngủ hả?
+
+// SPEAKER: Daimyo
+// Protect me, you fools!
+vo_eny_eny_daimyo_flee_00=Bảo vệ tao! Thằng ngu!
+
+// SPEAKER: Daimyo
+// They have come for me! Kill them!
+vo_eny_eny_daimyo_flee_01=Chúng đến đây vì tao! Giết chúng đi!
+
+// SPEAKER: Daimyo
+// The Shogun's assassins are here! Protect me!
+vo_eny_eny_daimyo_flee_02=Sát thủ Mạc Chúa ở đây! Bảo vệ tao!
+
+// SPEAKER: Daimyo
+// She left her post.
+vo_eny_eny_daimyo_friend_missing_female_00=Cô ấy rời vị trí.
+
+// SPEAKER: Daimyo
+// Where is she?
+vo_eny_eny_daimyo_friend_missing_female_01=Cô ấy đâu rồi?
+
+// SPEAKER: Daimyo
+// What is keeping her?
+vo_eny_eny_daimyo_friend_missing_female_02=Cái gì cầm chân cô ấy lại?
+
+// SPEAKER: Daimyo
+// She's gone too long.
+vo_eny_eny_daimyo_friend_missing_female_03=Cô ấy đi cũng khá lâu rồi.
+
+// SPEAKER: Daimyo
+// She's missing!
+vo_eny_eny_daimyo_friend_missing_female_04=Cố ấy bị mất tích!
+
+// SPEAKER: Daimyo
+// How dare she keep me waiting!
+vo_eny_eny_daimyo_friend_missing_female_05=Sao cô ấy bắt mình phải chờ nhỉ!
+
+// SPEAKER: Daimyo
+// He left his post.
+vo_eny_eny_daimyo_friend_missing_male_00=Anh ta rời vị trí.
+
+// SPEAKER: Daimyo
+// Where is he?
+vo_eny_eny_daimyo_friend_missing_male_01=Anh ta đâu rồi?
+
+// SPEAKER: Daimyo
+// What's keeping him?
+vo_eny_eny_daimyo_friend_missing_male_02=Cái gì cầm chân anh ta lại?
+
+// SPEAKER: Daimyo
+// He's gone too long.
+vo_eny_eny_daimyo_friend_missing_male_03=Eh, Anh ta đi cũng khá lâu rồi.
+
+// SPEAKER: Daimyo
+// He's missing!
+vo_eny_eny_daimyo_friend_missing_male_04=Anh ta bị mất tích!
+
+// SPEAKER: Daimyo
+// How dare he keep me waiting!
+vo_eny_eny_daimyo_friend_missing_male_05=Sao anh ta bắt mình phải chờ nhỉ!
+
+// SPEAKER: Daimyo
+// Hey! Wake up!
+vo_eny_eny_daimyo_friend_wakeup_00=Hey! Dậy nào!
+
+// SPEAKER: Daimyo
+// Get up!
+vo_eny_eny_daimyo_friend_wakeup_01=Dậy đi!
+
+// SPEAKER: Daimyo
+// Stand up!
+vo_eny_eny_daimyo_friend_wakeup_02=Đứng lên!
+
+// SPEAKER: Daimyo
+// What happened to you?
+vo_eny_eny_daimyo_friend_wakeup_03=Có chuyện khỉ gì vậy?
+
+// SPEAKER: Daimyo
+// On your feet!
+vo_eny_eny_daimyo_friend_wakeup_04=Đứng dậy!
+
+// SPEAKER: Daimyo
+// What?!
+vo_eny_eny_daimyo_hear_noise_00=Hả?!
+
+// SPEAKER: Daimyo
+// What was that?
+vo_eny_eny_daimyo_hear_noise_01=Cái gì thế?
+
+// SPEAKER: Daimyo
+// I heard something...
+vo_eny_eny_daimyo_hear_noise_02=Mình nghe thấy gì đó...
+
+// SPEAKER: Daimyo
+// Strange sound...
+vo_eny_eny_daimyo_hear_noise_03=Tiếng động lớn...
+
+// SPEAKER: Daimyo
+// That noise...
+vo_eny_eny_daimyo_hear_noise_04=Đó là...tiếng ồn...
+
+// SPEAKER: Daimyo
+// Hrm! How dare you, coward?!
+vo_eny_eny_daimyo_hear_noise_directhit_00=Hrm! Sao mày dám, đồ hèn!
+
+// SPEAKER: Daimyo
+// You will suffer for this!
+vo_eny_eny_daimyo_hear_noise_directhit_01=Mày phải trả giá cho những gì mày đang làm!
+
+// SPEAKER: Daimyo
+// Agh! Show yourself, coward!
+vo_eny_eny_daimyo_hear_noise_directhit_02=Hrm! Lộ diện ngay coi nào!
+
+// SPEAKER: Daimyo
+// Ow! You have achieved nothing, fool.
+vo_eny_eny_daimyo_hear_noise_directhit_03=Ow! Mày không làm được gì cả! ...Đồ ngu!
+
+// SPEAKER: Daimyo
+// Why is there shooting?
+vo_eny_eny_daimyo_hear_noise_gunshot_00=Sao có tiếng súng?
+
+// SPEAKER: Daimyo
+// Shots fired! Alarm!
+vo_eny_eny_daimyo_hear_noise_gunshot_01=Tiếng súng! Báo động!
+
+// SPEAKER: Daimyo
+// The enemy's got firearms!
+vo_eny_eny_daimyo_hear_noise_gunshot_02=Địch có hỏa lực!
+
+// SPEAKER: Daimyo
+// Someone there?
+vo_eny_eny_daimyo_hear_noise_human_00=Có ai đó ở đây?
+
+// SPEAKER: Daimyo
+// Who goes there?
+vo_eny_eny_daimyo_hear_noise_human_01=Có ai đó đến đây?
+
+// SPEAKER: Daimyo
+// I heard that!
+vo_eny_eny_daimyo_hear_noise_human_02=Tao nghe thấy rồi!
+
+// SPEAKER: Daimyo
+// Who...who's making noise?
+vo_eny_eny_daimyo_hear_noise_human_03=Đứa nào làm ồn?
+
+// SPEAKER: Daimyo
+// Who's hiding in the bushes?
+vo_eny_eny_daimyo_hear_noise_human_04=Đứa nào đang nấp trong bụi hả?
+
+// SPEAKER: Daimyo
+// Show yourself!
+vo_eny_eny_daimyo_hear_noise_human_05=Ra mặt đi!
+
+// SPEAKER: Daimyo
+// You are testing my patience.
+vo_eny_eny_daimyo_hear_noise_too_much_00=Mày đang kiểm tra sự kiên nhẫn của tao hả.
+
+// SPEAKER: Daimyo
+// You will pay for this.
+vo_eny_eny_daimyo_hear_noise_too_much_01=Mày sẽ phải trả giá!
+
+// SPEAKER: Daimyo
+// Step forward, coward!
+vo_eny_eny_daimyo_hear_noise_too_much_02=Tiến ra phía trước đi, đồ hèn!
+
+// SPEAKER: Daimyo
+// I-I've had enough of this.
+vo_eny_eny_daimyo_hear_noise_too_much_03=T-Tao chịu đựng đủ lắm rồi nhé.
+
+// SPEAKER: Daimyo
+// Not worth my attention.
+vo_eny_eny_daimyo_ignore_distraction_00=Không đáng quan tâm.
+
+// SPEAKER: Daimyo
+// I will not be distracted.
+vo_eny_eny_daimyo_ignore_distraction_01=Tao sẽ không bị phân tâm đâu.
+
+// SPEAKER: Daimyo
+// This is beneath me.
+vo_eny_eny_daimyo_ignore_distraction_02=Không đáng quan tâm.
+
+// SPEAKER: Daimyo
+// I will not be fooled.
+vo_eny_eny_daimyo_ignore_distraction_03=Không lừa được tao đâu.
+
+// SPEAKER: Daimyo
+// Hello?
+vo_eny_eny_daimyo_investigate_missing_00=Hello?
+
+// SPEAKER: Daimyo
+// You're not hiding, are you?
+vo_eny_eny_daimyo_investigate_missing_01=Mày không nấp ở đó đúng không?
+
+// SPEAKER: Daimyo
+// Come out!
+vo_eny_eny_daimyo_investigate_missing_02=Ra đây!
+
+// SPEAKER: Daimyo
+// This is not funny!
+vo_eny_eny_daimyo_investigate_missing_03=Không vui đâu nhé!
+
+// SPEAKER: Daimyo
+// Show yourself!
+vo_eny_eny_daimyo_investigate_missing_04=Ra mặt đi!
+
+// SPEAKER: Daimyo
+// 
+vo_eny_eny_daimyo_knockout_scream_00=
+
+// SPEAKER: Daimyo
+// 
+vo_eny_eny_daimyo_knockout_scream_01=
+
+// SPEAKER: Daimyo
+// 
+vo_eny_eny_daimyo_knockout_scream_02=
+
+// SPEAKER: Daimyo
+// Gah! ...they will pay...
+vo_eny_eny_daimyo_regain_consciousness_00=Gah! ...chúng sẽ phải trả giá...
+
+// SPEAKER: Daimyo
+// ...I was attacked!
+vo_eny_eny_daimyo_regain_consciousness_01=...Tao bị tấn công!
+
+// SPEAKER: Daimyo
+// Where are my guards...?
+vo_eny_eny_daimyo_regain_consciousness_02=Lính canh của tao đâu...?
+
+// SPEAKER: Daimyo
+// What?!
+vo_eny_eny_daimyo_see_something_00=Cái gì?!
+
+// SPEAKER: Daimyo
+// Hm?
+vo_eny_eny_daimyo_see_something_01=Hm?
+
+// SPEAKER: Daimyo
+// What is that?
+vo_eny_eny_daimyo_see_something_02=Cái gì thế?
+
+// SPEAKER: Daimyo
+// Something...
+vo_eny_eny_daimyo_see_something_03=Có gì đó...
+
+// SPEAKER: Daimyo
+// Hmm...
+vo_eny_eny_daimyo_see_something_04=Hmm...
+

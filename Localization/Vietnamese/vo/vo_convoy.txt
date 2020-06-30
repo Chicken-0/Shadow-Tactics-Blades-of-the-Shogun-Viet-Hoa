@@ -1,0 +1,540 @@
+// SPEAKER: NINJA
+// All right. That must be the transport. Wonder why it's stopped.
+vocs_over_over_convoy_briefing_n00=Được rồi. Hẳn đó là phương tiện di chuyển. Sao nó phải dừng lại nhỉ.
+
+// SPEAKER: NINJA
+// Hmm...looks like the bridge gave in. That's fine with me...
+vocs_over_over_convoy_briefing_n01=Hmm...có vẻ như cầu gặp vấn đề. Quá ngon cho mình rồi...
+
+// SPEAKER: NINJA
+// The ones with the flags are the officers. Think I'll kill at least four, just to be safe.
+vocs_over_over_convoy_briefing_n02=Những người mang cờ là Chỉ Huy. Để được an toàn, sẽ phải giết ít nhất 4 người.
+
+// SPEAKER: NINJA
+// I'll signal Mugen when I'm done. That statue looks like a good spot.
+vocs_over_over_convoy_briefing_n03=Mình sẽ phát tín hiệu cho Mugen khi hoàn tất. Bức tượng có vẻ là vị trí thuận lợi.
+
+// SPEAKER: NINJA
+// Hm...they are looking for something. Or someone. Better keep my head down.
+vocs_over_over_convoy_briefing_n04=Hm...chúng đang tìm kiếm thứ gì chăng. Hay là ai đó nhỉ. Tốt hơn là nên cúi thấp đầu xuống.
+
+// SPEAKER: ENEMY
+// She must be hiding here somewhere!
+vo_hint_hint_convoy_search_n00=Con nhóc phải lủi đâu đó quanh đây!
+
+// SPEAKER: ENEMY
+// Keep searching!
+vo_hint_hint_convoy_search_n01=Tiếp tục tìm!
+
+// SPEAKER: ENEMY
+// She's here, I know it!
+vo_hint_hint_convoy_search_n02=Con nhóc đây, tao biết ngay mà!
+
+// SPEAKER: NINJA
+// Huh...?
+vocs_over_over_convoy_trapper_n00=Huh...?
+
+// SPEAKER: NINJA
+// Hmm, a trap. Interesting...
+vocs_over_over_convoy_trapper_n01=Hmm, một cái bẫy. Thú vị đấy...
+
+// SPEAKER: TRAPPER
+// Don't move! ...what are you? A lonely wolf?
+vocs_over_over_convoy_trapper_n02=Cấm cử động! ...ngươi là ai? Một con sói đơn độc?
+
+// SPEAKER: NINJA
+// ...a child, huh? You're the one they're looking for.
+vocs_over_over_convoy_trapper_n03=...một đứa trẻ, huh? Em là người mà bọn chúng đang truy lùng.
+
+// SPEAKER: TRAPPER
+// N-no they're not! I'm silent, like a cat!
+vocs_over_over_convoy_trapper_n04=K-không họ không phải! Em thầm lặng, như một con mèo nhé!
+
+// SPEAKER: NINJA
+// What are you doing here?
+vocs_over_over_convoy_trapper_n05=Em đang làm cái quái gì ở đây vậy?
+
+// SPEAKER: TRAPPER
+// I saw things on those wagons. They didn't look happy there, so I...I thought I'd take them with me.
+vocs_over_over_convoy_trapper_n06=Em thấy những thứ trên xe bò. Chúng có vẻ như không muốn ở đó, cho nên em...em nghĩ sẽ lấy chúng về với em.
+
+// SPEAKER: NINJA
+// Better run along now. Bad things happen to children out here. Go play somewhere else.
+vocs_over_over_convoy_trapper_n07=Tốt hơn là ra khỏi đây đi. Thứ tồi tệ sẽ xảy ra nếu có trẻ em ở đây. Tìm chỗ khác mà chơi ấy.
+
+// SPEAKER: TRAPPER
+// You saw my little trap, right? I...I could help you! If you send me away, I'll just try on my own again. 
+vocs_over_over_convoy_trapper_n08=Anh đã thấy những cái bẫy bé bỏng của em, phải hem? Em...em sẽ giúp anh! Nếu anh đuổi em đi thì em vẫn tự mình làm lại việc này mà thôi.
+
+// SPEAKER: NINJA
+// ...ugh, I don't have time for this. Fine, you can come along. But you do exactly what I tell you—got it?
+vocs_over_over_convoy_trapper_n09=...ugh, anh không có thời gian cho chuyện này. Tốt thôi, em có thể đi theo. Nhưng em phải làm theo chính xác những gì anh nói—hiểu không?
+
+// SPEAKER: TRAPPER
+// Hai, sensei!
+vocs_over_over_convoy_trapper_n10=Hai, sensei!
+
+// SPEAKER: NINJA
+// Don't call me that.
+vocs_over_over_convoy_trapper_n11=Cấm gọi anh như thế.
+
+// SPEAKER: TRAPPER
+// Ugh...ergh...engh!
+vocs_over_over_convoy_carrytra_n00=Ugh...ergh...engh!
+
+// SPEAKER: NINJA
+// Tch. Need help with that?
+vocs_over_over_convoy_carrytra_n01=Trời. Cần phụ một tay không?
+
+// SPEAKER: TRAPPER
+// Ungh... I'm fine, thank you.
+vocs_over_over_convoy_carrytra_n02=Ungh... Thôi khỏi, em tự lo được.
+
+// SPEAKER: NINJA
+// There we go.
+vocs_over_over_convoy_carrynin_n00=Lại đây nào.
+
+// SPEAKER: TRAPPER
+// Looks so easy for you.
+vocs_over_over_convoy_carrynin_n01=Anh làm nó trông dễ thật.
+
+// SPEAKER: NINJA
+// That's because I'm a grown-up.
+vocs_over_over_convoy_carrynin_n02=Đó là vì anh đã lớn.
+
+// SPEAKER: NINJA
+// Tight spot. This could get messy.
+vocs_over_over_convoy_usetrap_n00=Góc khuất. Xử lý chúng khá là lộn xộn đây.
+
+// SPEAKER: TRAPPER
+// Wait. I'll just call them with my bird's voice. They like that.
+vocs_over_over_convoy_usetrap_n01=Đợi chút. Em sẽ gọi họ lại bằng tiếng chim thánh thót của em. Bọn họ nghiện nó lắm.
+
+// SPEAKER: TRAPPER
+// See? It works!
+vocs_over_over_convoy_trapkill_n00=Nhìn nó hoạt động nè!
+
+// SPEAKER: NINJA
+// Not bad. Who made you that trap?
+vocs_over_over_convoy_trapkill_n01=Không tệ. Ai làm cho em cái bẫy đó?
+
+// SPEAKER: TRAPPER
+// No one! I built it myself!
+vocs_over_over_convoy_trapkill_n02=Không ai cả! Em tự làm cho mình!
+
+// SPEAKER: NINJA
+// Hmph. Sure you did.
+vocs_over_over_convoy_trapkill_n03=Hmph. Chắc là em làm nó thật.
+
+// SPEAKER: TRAPPER
+// Ooh, shuriken! Can I have one?
+vocs_over_over_convoy_shuriken_n00=Ooh, shuriken! Cho em một cái được không?
+
+// SPEAKER: NINJA
+// Definitely not.
+vocs_over_over_convoy_shuriken_n01=Chắc chắn không.
+
+// SPEAKER: TRAPPER
+// Why not?
+vocs_over_over_convoy_shuriken_n02=Sao lại không?
+
+// SPEAKER: NINJA
+// Heh...
+vocs_over_over_convoy_shuriken_n03=Heh...
+
+// SPEAKER: NINJA
+// No spares.
+vocs_over_over_convoy_shuriken_n03a=Không lằng nhằng.
+
+// SPEAKER: NINJA
+// Because not.
+vocs_over_over_convoy_shuriken_n03b=Bởi vì không.
+
+// SPEAKER: NINJA
+// You're quick with that knife.
+vocs_over_over_convoy_knifed_n00=Em khá nhanh với con dao kia đấy.
+
+// SPEAKER: TRAPPER
+// Thank you, sensei!
+vocs_over_over_convoy_knifed_n01=Quá khen, sensei!
+
+// SPEAKER: NINJA
+// I told you: Don't call me that.
+vocs_over_over_convoy_knifed_n02=Bảo rồi: CẤM GỌI ANH NHƯ THẾ.
+
+// SPEAKER: NINJA
+// More wagons this way...
+vocs_over_over_convoy_jumps_n00=Nhiều xe hàng ở lối này...
+
+// SPEAKER: TRAPPER
+// Lazy wagons. No one looks up there. Let's jump on top!
+vocs_over_over_convoy_jumps_n01=Những xe hàng lười nhác. Không ai nhìn lên đó. Hãy nhảy ở phía trên ấy!
+
+// SPEAKER: NINJA
+// Not a bad idea, actually.
+vocs_over_over_convoy_jumps_n02=Ý tưởng không tồi đâu.
+
+// SPEAKER: TRAPPER
+// Hep!
+vocs_over_over_convoy_vertical_n00=Hấp!
+
+// SPEAKER: NINJA
+// Good balance. Who taught you?
+vocs_over_over_convoy_vertical_n01=Thăng bằng tốt. Ai chỉ cho em vậy?
+
+// SPEAKER: TRAPPER
+// Alley cats.
+vocs_over_over_convoy_vertical_n02=Mấy con mèo trong hẻm í.
+
+// SPEAKER: NINJA
+// Pft... Alley cats!
+vocs_over_over_convoy_vertical_n03=Pft... Mèo trong hẻm!
+
+// SPEAKER: NINJA
+// See that large rock on the cliff? What does it tell you?
+vocs_over_over_convoy_rock_n00=Nhìn thấy tảng đá ở trên vách không? Nó nói cho em điều gì?
+
+// SPEAKER: TRAPPER
+// Hmm...beautiful stone. Likes to lean over the edge. Maybe she's waiting for someone below!
+vocs_over_over_convoy_rock_n01=Hmm...tảng đá xinh đẹp. Giống như đang tạo dáng cạnh vách đá vậy. Có thể cô ấy đang chờ ai đó ở dưới chăng!
+
+// SPEAKER: NINJA
+// My thoughts exactly.
+vocs_over_over_convoy_rock_n02=Cùng suy nghĩ với anh.
+
+// SPEAKER: NINJA
+// Eh...not the words I'd choose, but good in theory.
+vocs_over_over_convoy_rock_n02a=Eh...không phải mấy từ ngữ mĩ miều này, nhưng ý vẫn là thế.
+
+// SPEAKER: NINJA
+// You see the wagon there? The one with the cannons?
+vocs_over_over_convoy_wagon_n00=Em thấy xe hàng kia không? Một trong những khẩu pháo?
+
+// SPEAKER: TRAPPER
+// Oh...the wagon's wheels are blocked! He wants to be free!
+vocs_over_over_convoy_wagon_n01=Oh...bánh xe đã bị chặn lại! Anh ấy muốn được tự do kìa!
+
+// SPEAKER: NINJA
+// Then we should remove those brakes.
+vocs_over_over_convoy_wagon_n02=Chúng ta nên di chuyển cái thùng đang chèn vào bánh kia.
+
+// SPEAKER: NINJA
+// Uh-huh... Well, if we "free" it at the right time, it could work out for us.
+vocs_over_over_convoy_wagon_n02a=Uh-huh... Tốt thôi, nếu giải thoát đúng thời điểm, nó sẽ giúp ích cho chúng ta.
+
+// SPEAKER: NINJA
+// Hmm...oxen...dangerous if provoked. Why not make use of that...
+vocs_over_over_convoy_oxen_n00=Hmm...con bò...nguy hiểm nếu khiêu khích nó. Tại sao lại không thử nhỉ...
+
+// SPEAKER: TRAPPER
+// Don't hurt him!
+vocs_over_over_convoy_oxen_n01=Đừng làm tổn thương em ấy!
+
+// SPEAKER: NINJA
+// The ox? No, he just needs a little poke.
+vocs_over_over_convoy_oxen_n02=Con bò? Không, anh chỉ chọc nó chút thôi.
+
+// SPEAKER: TRAPPER
+// Strange man with bright clothes...
+vocs_over_over_convoy_monk_n00=Người đàn ông lạ với bộ đồ tươi sáng...
+
+// SPEAKER: NINJA
+// Huh...yellow robes... Why did they take a monk with them?
+vocs_over_over_convoy_monk_n01=Huh...áo choàng vàng... Tại sao chúng có nhà sư ở đây?
+
+// SPEAKER: TRAPPER
+// Maybe he's praying for safe travel?
+vocs_over_over_convoy_monk_n02=Có thể anh ấy đang cầu nguyện cho chuyến đi được an toàn?
+
+// SPEAKER: NINJA
+// Well, he's not doing a good job then.
+vocs_over_over_convoy_monk_n03=Được rồi, hắn ta ở để không làm việc tốt.
+
+// SPEAKER: CIVILIAN M
+// The men are working hard. I hope we can move soon.
+vo_hint_hint_convoy_work_n00=Mọi người đang làm việc chăm chỉ. Hi vọng chúng ta có thể di chuyển sớm.
+
+// SPEAKER: CIVILIAN F
+// The journey was rough. Some rest'll do us good.
+vo_hint_hint_convoy_work_n01=Chuyến đi gập ghềnh. Một số người cần phải được nghỉ ngơi.
+
+// SPEAKER: ENEMY
+// ...more sake...!
+vo_hint_hint_convoy_drunk1_n00=...thêm sa kê...!
+
+// SPEAKER: CIVILIAN F
+// I beg you, stop. Your behavior is disgraceful.
+vo_hint_hint_convoy_drunk1_n01=Tôi xin ngài hãy dừng lại. Hành động của ngài rất đáng hổ thẹn.
+
+// SPEAKER: ENEMY
+// ...more sake!
+vo_hint_hint_convoy_drunk1_n02=...thêm sa kê!
+
+// SPEAKER: ENEMY
+// 
+vo_hint_hint_convoy_drunk2_n00=
+
+// SPEAKER: STATIC
+// 
+vo_hint_hint_convoy_drunk2_n01=
+
+// SPEAKER: ENEMY
+// 
+vo_hint_hint_convoy_drunk2_n02=
+
+// SPEAKER: STATIC
+// 
+vo_hint_hint_convoy_drunk2_n03=
+
+// SPEAKER: ENEMY
+// 
+vo_hint_hint_convoy_drunk2_n04=
+
+// SPEAKER: STATIC
+// 
+vo_hint_hint_convoy_drunk2_n05=
+
+// SPEAKER: ENEMY
+// 
+vo_hint_hint_convoy_drunk2_n06=
+
+// SPEAKER: STATIC
+// 
+vo_hint_hint_convoy_drunk2_n07=
+
+// SPEAKER: ENEMY
+// How much longer must we wait? This place makes me nervous.
+vo_hint_hint_convoy_nervous_n00=Phải chờ bao lâu nữa? Nơi này làm tôi lo lắng.
+
+// SPEAKER: STATIC
+// Calm down. Kage-sama has paid off the local bandits. No one will attack us.
+vo_hint_hint_convoy_nervous_n01=Bình tĩnh. Kage-sama đã trả tiền để dẹp mấy tên cướp địa phương. Sẽ không có ai tấn công chúng ta hết.
+
+// SPEAKER: OFFICER
+// Ugh, this is going too slow!
+vo_hint_hint_convoy_officer1_n00=Ugh, chuyến hàng bị chậm trễ!
+
+// SPEAKER: OFFICER
+// We're losing time!
+vo_hint_hint_convoy_officer1_n01=Bọn tao đang bị lãng phí thời gian!
+
+// SPEAKER: OFFICER
+// Lazy peasants.
+vo_hint_hint_convoy_officer1_n02=Lũ lười biếng.
+
+// SPEAKER: OFFICER
+// Just my luck.
+vo_hint_hint_convoy_officer1_n03=Cầu cho may mắn.
+
+// SPEAKER: OFFICER
+// Keep drinking, you stupid ox.
+vo_hint_hint_convoy_officer1_n04=Uống tiếp nào, bạn bò ngốc.
+
+// SPEAKER: OFFICER
+// Our lord won't be pleased.
+vo_hint_hint_convoy_officer1_n05=Lãnh chúa của tao sẽ không hài lòng.
+
+// SPEAKER: NINJA
+// One down.
+vocs_over_over_convoy_officer1_n00=Một mạng.
+
+// SPEAKER: TRAPPER
+// One flag down.
+vocs_over_over_convoy_officer1_n01=Một lá cờ.
+
+// SPEAKER: OFFICER
+// Watch the cliffs.
+vo_hint_hint_convoy_officer2_n00=Coi chừng vách đá.
+
+// SPEAKER: OFFICER
+// Don't lose focus.
+vo_hint_hint_convoy_officer2_n01=Đừng mất tập trung.
+
+// SPEAKER: OFFICER
+// Keep sharp.
+vo_hint_hint_convoy_officer2_n02=Hãy khôn ngoan.
+
+// SPEAKER: OFFICER
+// No one must touch these wagons.
+vo_hint_hint_convoy_officer2_n03=Không ai phải đụng vào các xe hàng.
+
+// SPEAKER: OFFICER
+// Just keep an eye on the thieving peasants.
+vo_hint_hint_convoy_officer2_n04=Chỉ cần dùng một mắt để trông chừng bọn trộm.
+
+// SPEAKER: NINJA
+// Two down.
+vocs_over_over_convoy_officer2_n00=Hai mạng.
+
+// SPEAKER: TRAPPER
+// Two flags down.
+vocs_over_over_convoy_officer2_n01=Còn hai lá cờ nữa.
+
+// SPEAKER: OFFICER
+// Are they done yet?
+vo_hint_hint_convoy_officer3_n00=Chúng xong chưa?
+
+// SPEAKER: OFFICER
+// Any news?
+vo_hint_hint_convoy_officer3_n01=Có tin gì mới?
+
+// SPEAKER: OFFICER
+// What is taking so long?
+vo_hint_hint_convoy_officer3_n02=Còn bao lâu?
+
+// SPEAKER: OFFICER
+// What now?
+vo_hint_hint_convoy_officer3_n03=Chuyện gì?
+
+// SPEAKER: OFFICER
+// Is the wagon still stuck?
+vo_hint_hint_convoy_officer3_n04=Xe hàng vẫn bị kẹt?
+
+// SPEAKER: OFFICER
+// Tell me.
+vo_hint_hint_convoy_officer3_n05=Nói cho ta.
+
+// SPEAKER: TRAPPER
+// Three down! Haha.
+vocs_over_over_convoy_officer3_n00=Đáng đời! Haha.
+
+// SPEAKER: NINJA
+// Aren't you a bit too good at this?
+vocs_over_over_convoy_officer3_n01=Em chả tốt đẹp tý nào cả?
+
+// SPEAKER: TRAPPER
+// What do you mean?
+vocs_over_over_convoy_officer3_n02=Ý anh là sao?
+
+// SPEAKER: NINJA
+// Never mind. One to go.
+vocs_over_over_convoy_officer3_n03=Thôi dẹp đi. Tiếp tục nào.
+
+// SPEAKER: OFFICER
+// Sake.
+vo_hint_hint_convoy_officer4_n00=Sa kê.
+
+// SPEAKER: CIVILIAN F
+// Hai!
+vo_hint_hint_convoy_officer4_n01=Hai!
+
+// SPEAKER: OFFICER
+// Hmm.
+vo_hint_hint_convoy_officer4_n02=Hmm.
+
+// SPEAKER: NINJA
+// Four down.
+vocs_over_over_convoy_officer4_n00=Bốn mạng.
+
+// SPEAKER: TRAPPER
+// Four flags. What now?
+vocs_over_over_convoy_officer4_n01=Bốn lá cờ. Giờ làm gì anh?
+
+// SPEAKER: NINJA
+// Now we have to signal Mugen at the statue.
+vocs_over_over_convoy_officer4_n02=Chúng ta phải gửi tín hiệu cho Mugen ở chỗ bức tượng.
+
+// SPEAKER: TRAPPER
+// Who's Mugen?
+vocs_over_over_convoy_officer4_n03=Mugen là ai rứa?
+
+// SPEAKER: NINJA
+// Wait and see.
+vocs_over_over_convoy_officer4_n04=Chờ sẽ thấy.
+
+// SPEAKER: OFFICER
+// Hehehe!
+vo_hint_hint_convoy_officer5_n00=Hehehe!
+
+// SPEAKER: OFFICER
+// What are you looking at?
+vo_hint_hint_convoy_officer5_n01=Ngươi nhìn cái khỉ gì?
+
+// SPEAKER: OFFICER
+// Attention!
+vo_hint_hint_convoy_officer5_n02=Chú ý!
+
+// SPEAKER: OFFICER
+// Ugly thing.
+vo_hint_hint_convoy_officer5_n03=Điềm xấu.
+
+// SPEAKER: OFFICER
+// Safe travel, eh?
+vo_hint_hint_convoy_officer5_n04=Đi an toàn, eh?
+
+// SPEAKER: NINJA
+// Keep your head down.
+vocs_over_over_convoy_debriefing_n00=Thấp cái đầu xuống.
+
+// SPEAKER: TRAPPER
+// H-hai, sensei!
+vocs_over_over_convoy_debriefing_n01=H-hai, sensei!
+
+// SPEAKER: WARRIOR
+// Forward men! For the Shogun!
+vocs_over_over_convoy_debriefing_n02=Tiến lên các chàng trai! Vì Mạc Chúa!
+
+// SPEAKER: WARRIOR
+// We took the wagons with little resistance. Your skills are as sharp as ever.
+vocs_over_over_convoy_debriefing_n03=Chúng ta đã chiếm được xe hàng với đôi chút kháng cự. Kĩ năng của cậu vẫn sắc bén hơn bao giờ hết.
+
+// SPEAKER: NINJA
+// Got to admit, I...had a little assistance.
+vocs_over_over_convoy_debriefing_n04=Phải nói thật, tôi...có nhờ một ít hỗ trợ.
+
+// SPEAKER: WARRIOR
+// Ah yes, I saw your companion. What do you think of her?
+vocs_over_over_convoy_debriefing_n05=Ah rồi, tôi đã thấy bạn đồng hành của cậu. Nghĩ sao về nhóc ấy?
+
+// SPEAKER: NINJA
+// She's a bit wild maybe, but she has talent.
+vocs_over_over_convoy_debriefing_n09=Nhóc ấy đôi chút hoang đại nhưng có tài năng.
+
+// SPEAKER: NINJA
+// Either that, or I'm getting careless... How did she sneak up on me...
+vocs_over_over_convoy_debriefing_n10=Cho là thế, mà tôi cũng bất cẩn... Chả hiểu sao nhóc ấy lại lọt vào được...
+
+// SPEAKER: WARRIOR
+// What was that, Hayato-san?
+vocs_over_over_convoy_debriefing_n11=Cái gì cơ, Hayato-san?
+
+// SPEAKER: NINJA
+// Nothing, nothing. See you at the safe house, right?
+vocs_over_over_convoy_debriefing_n12=Không, không có gì. Hẹn gặp nhau ở nhà an toàn, đúng không?
+
+// SPEAKER: WARRIOR
+// What is your name, young woman?
+vocs_over_over_convoy_debriefing_n06=Tên nhóc là gì, cô gái trẻ?
+
+// SPEAKER: TRAPPER
+// Yuki, master samurai.
+vocs_over_over_convoy_debriefing_n07=Yuki ạ, thưa chú Samurai.
+
+// SPEAKER: WARRIOR
+// A fine name. I am Ōshiro Mugen. No need to be afraid.
+vocs_over_over_convoy_debriefing_n08=Tên đẹp đấy. Chú là Ōshiro Mugen. Không việc gì mà phải sợ cả.
+
+// SPEAKER: TRAPPER
+// Are you a friend of Hayato-san?
+vocs_over_over_convoy_debriefing_n15=Chú là bạn của Hayato-san?
+
+// SPEAKER: WARRIOR
+// I like to think so. Though, he might not see it that way...
+vocs_over_over_convoy_debriefing_n16=Chú nghĩ thế. Mặc dù anh ta lại không nghĩ vậy...
+
+// SPEAKER: TRAPPER
+// Master samurai? Can I stay with you two? Just for a while?
+vocs_over_over_convoy_debriefing_n17=Samurai xịn thiệt nè? Liệu cháu đi theo với hai người không? Hay chỉ một cũng được?
+
+// SPEAKER: WARRIOR
+// I was wondering what to do with you. Hayato-san certainly seemed impressed. Still, to put a child in such danger...
+vocs_over_over_convoy_debriefing_n18=Chú đang tự hỏi phải làm gì với cháu. Hayato-san có vẻ ấn tượng hơn. Tuy nhiên, để một đứa trẻ rơi vào nguy hiểm như vậy...
+
+// SPEAKER: TRAPPER
+// Please, I...I want him to be my sensei! He's got tricks that I can learn from no one else!
+vocs_over_over_convoy_debriefing_n19=Làm ơi, Cháu...cháu muốn anh ấy làm Sensei cho cháu! Anh ấy có nhiều thứ hay ho mà cháu không thể học được từ ai khác!
+
+// SPEAKER: WARRIOR
+// Hmmm... I will consider it.
+vocs_over_over_convoy_debriefing_n20=Hmmm... chú sẽ xem xét.
+

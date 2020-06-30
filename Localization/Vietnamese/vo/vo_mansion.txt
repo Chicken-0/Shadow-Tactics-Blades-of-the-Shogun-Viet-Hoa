@@ -1,0 +1,636 @@
+// SPEAKER: NINJA
+// More guards than last time. Guess Lord Yabu wants to make this challenging.
+vocs_over_over_mansion_briefing_n00=Nhiều lính canh hơn lần trước. Đoán là lãnh chúa Yabu muốn tạo thêm độ khó cho chúng ta.
+
+// SPEAKER: ALCHEMIST
+// He knows I have been freed. His fears are well justified.
+vocs_over_over_mansion_briefing_n01=Hắn biết lão đây đã được tự do. Lo sợ là đúng rồi.
+
+// SPEAKER: NINJA
+// Three bodyguards, armored clothing, never leaves the courtyard...don't think we should attack head-on.
+vocs_over_over_mansion_briefing_n02=Ba hộ vệ mặc giáp, không bao giờ rời khỏi sân...chúng ta không nên tấn công trực diện.
+
+// SPEAKER: TRAPPER
+// He drinks tea, right?
+vocs_over_over_mansion_briefing_n03=Hắn uống trà, phải hông?
+
+// SPEAKER: NINJA
+// ...what?
+vocs_over_over_mansion_briefing_n04=...cái gì?
+
+// SPEAKER: TRAPPER
+// He always drinks tea on that little island.
+vocs_over_over_mansion_briefing_n05=Hắn luôn uống ở hòn đảo nhỏ.
+
+// SPEAKER: ALCHEMIST
+// Hee, not a bad idea! Take this flask, child. You can add a little death to his drink.
+vocs_over_over_mansion_briefing_n06=Hee, ý tưởng không tồi! Cầm cái bình này, nhóc. Cháu có thể thêm một chút chết chóc vào đồ uống của hắn.
+
+// SPEAKER: NINJA
+// What about that tower? Think you can take the shot from there?
+vocs_over_over_mansion_briefing_n07=Nghĩ gì về cái tháp này? Lão có thể bắn từ đây không?
+
+// SPEAKER: ALCHEMIST
+// Hmm...not impossible, if we manage to coax him out of cover first.
+vocs_over_over_mansion_briefing_n08=Hmm...không gì không thể, nếu chúng ta dụ được hắn tới chỗ này trước đã.
+
+// SPEAKER: TRAPPER
+// His bodyguards—they'll see him die, yes? Then everyone will search for us...
+vocs_over_over_mansion_briefing_n09=Hộ vệ của hắn—họ sẽ thấy hắn chết, đúng không? Rồi mọi người sẽ truy lùng chúng ta...
+
+// SPEAKER: NINJA
+// Sounds like the perfect moment to use those matchlock pistols you gave us.
+vocs_over_over_mansion_briefing_n10=Có vẻ như đây là thời điểm hoàn hảo để sử dụng khẩu súng hỏa mai mà lão đã cho tôi.
+
+// SPEAKER: ALCHEMIST
+// Hmm... We should save them until that point. I also brought a couple of bombs, in case things get dire.
+vocs_over_over_mansion_briefing_n11=Hmm... Dùng nó vào đúng thời điểm. Lão cũng mang theo vài quả bom, phòng hờ bất trắc.
+
+// SPEAKER: NINJA
+// Haha...good to know. All right, let's get going.
+vocs_over_over_mansion_briefing_n12=Haha...biết thế đủ rồi. Giờ chúng ta triển thôi nào.
+
+// SPEAKER: ALCHEMIST
+// Go, Kuma!
+vocs_over_over_mansion_tanuki1_n00=Đi đi, Kuma!
+
+// SPEAKER: TRAPPER
+// He's cute! Is he your friend?
+vocs_over_over_mansion_tanuki1_n01=Em ấy dễ thương wá đi! Là bạn của ông à?
+
+// SPEAKER: ALCHEMIST
+// Hehe, you could say that.
+vocs_over_over_mansion_tanuki1_n02=Hehe, cháu có thể coi như vậy.
+
+// SPEAKER: ALCHEMIST
+// Distract them!
+vocs_over_over_mansion_tanuki2_n00=Đánh lạc hướng chúng!
+
+// SPEAKER: TRAPPER
+// Oh, he's clever!
+vocs_over_over_mansion_tanuki2_n01=Oh, em ấy thông minh ghê!
+
+// SPEAKER: ALCHEMIST
+// That he certainly is.
+vocs_over_over_mansion_tanuki2_n02=Rõ là thế rồi.
+
+// SPEAKER: ALCHEMIST
+// Kuma, come back!
+vocs_over_over_mansion_tanuki3_n00=Kuma, quay về!
+
+// SPEAKER: NINJA
+// Never seen a tame tanuki. How did you train it?
+vocs_over_over_mansion_tanuki3_n01=Chưa bao giờ thấy một lửng chó được thuần hóa. Lão đã dạy nó thế nào?
+
+// SPEAKER: ALCHEMIST
+// Hehe! What makes you think I trained him? Maybe it's the other way around!
+vocs_over_over_mansion_tanuki3_n02=Hehe! Điều gì khiến cậu nghĩ ta đã dạy nó? Có thể là ngược lại cũng nên!
+
+// SPEAKER: NINJA
+// Uh-huh.
+vocs_over_over_mansion_tanuki3_n03=Uh-huh.
+
+// SPEAKER: ALCHEMIST
+// You are quick with the knife. Your life was hard?
+vocs_over_over_mansion_knife_n00=Khá nhanh với con dao. Cuộc sống của cháu khó khăn lắm à?
+
+// SPEAKER: TRAPPER
+// When you're alone, sometimes people want to hurt you, yes? People like that, I hurt them so bad they'll never try again. 
+vocs_over_over_mansion_knife_n01=Khi ông ở một mình, một số người sẽ muốn khiến ông bị thương, đúng hông? Với người như thế, cháu chăm sóc họ để họ không thể làm điều xấu thêm lần nữa.
+
+// SPEAKER: ALCHEMIST
+// Hmm...an effective strategy, I'm sure.
+vocs_over_over_mansion_knife_n02=Hmm...chiến thuật hiệu quả, ta dám chắc.
+
+// SPEAKER: ALCHEMIST
+// Hmm! A curious design. Yours?
+vocs_over_over_mansion_trap_n00=Hmm! Một thiết kế kỳ lạ. Của cháu hả?
+
+// SPEAKER: TRAPPER
+// Mmhmm! It sleeps most of the time, but it gets really excited when you wind it up.
+vocs_over_over_mansion_trap_n01=Mmhmm! Nó đã ngủ quên được một thời gian rồi, nhưng giờ nó rất thực sự rất vui khi được ông khen như vậy.
+
+// SPEAKER: ALCHEMIST
+// Hehe, is that so? I'd like to see how it works. Perhaps you'll show me later?
+vocs_over_over_mansion_trap_n02=Hehe, hẳn vậy? Ta muốn được xem cách nó hoạt động. Có lẽ để sau nhỉ?
+
+// SPEAKER: TRAPPER
+// Y-yes...if you want.
+vocs_over_over_mansion_trap_n03=D-dạ...nếu ông muốn.
+
+// SPEAKER: NINJA
+// Tower is manned!
+vocs_over_over_mansion_sniper_n00=Tháp đã được kiểm soát!
+
+// SPEAKER: TRAPPER
+// Look! There's one, on the tower!
+vocs_over_over_mansion_sniper_n01=Nhìn kìa! Có người trên tháp!
+
+// SPEAKER: ALCHEMIST
+// Ahh. The perfect time to test my new long-range rifle.
+vocs_over_over_mansion_sniper_n02=Ahh. Thời gian lý tưởng để kiểm tra súng trường tầm xa mới của lão.
+
+// SPEAKER: TRAPPER
+// What was that?
+vocs_over_over_mansion_rifle3_n00=Cấy chi rứa ông?
+
+// SPEAKER: ALCHEMIST
+// Hrm... The stock needs reinforcing.
+vocs_over_over_mansion_rifle3_n01=Hrm... Báng súng được gia cố.
+
+// SPEAKER: TRAPPER
+// There's a pistol in your leg! Did you build it?
+vocs_over_over_mansion_rifle3_n02=Một khẩu súng ở chân! Ông đã làm nó?
+
+// SPEAKER: NINJA
+// A hidden firearm... Your leg's the base, your cane's the barrel... Not a bad idea, old man.
+vocs_over_over_mansion_rifle3_n03=Che dấu hỏa lực... Chân là báng súng, gậy là nòng... Không tệ chút nào đâu, lão già.
+
+// SPEAKER: ALCHEMIST
+// Hehe! I'm glad you like it.
+vocs_over_over_mansion_rifle3_n04=Hehe! Ta vui vì cậu thích nó.
+
+// SPEAKER: ALCHEMIST
+// Ah! Hands are still steady.
+vocs_over_over_mansion_rifle2_n00=Ah! Tay vẫn còn ổn định.
+
+// SPEAKER: TRAPPER
+// It's so quiet! I bet there's a trick to it...
+vocs_over_over_mansion_rifle2_n01=Rất nhẹ nhàng! Cháu cá là có nhiều mẹo cho nó...
+
+// SPEAKER: ALCHEMIST
+// Oh, very tricky! No way a little child could understand.
+vocs_over_over_mansion_rifle2_n02=Oh, rất nhiều! Không có cách nào để một đứa trẻ có thể hiểu được.
+
+// SPEAKER: TRAPPER
+// Not fair!
+vocs_over_over_mansion_rifle2_n03=Bất công quá đi!
+
+// SPEAKER: NINJA
+// Samurai at the gate.
+vocs_over_over_mansion_gate_n00=Samurai ở cổng.
+
+// SPEAKER: TRAPPER
+// There's a mean-looking samurai at the gate.
+vocs_over_over_mansion_gate_n01=Có một gã nhìn giống Samurai ở cổng.
+
+// SPEAKER: ALCHEMIST
+// Hmm...we lack Mugen's power. No matter. Samurai armor does not protect against good strategy.
+vocs_over_over_mansion_gate_n02=Hmm...chúng ta thiếu sức mạnh của Mugen. Không thành vấn đề. Giáp Samurai không thể bảo vệ chúng khỏi chiến lược hiệu quả.
+
+// SPEAKER: NINJA
+// I'll go up.
+vocs_over_over_mansion_climbing_n00=Tôi sẽ lên đó.
+
+// SPEAKER: TRAPPER
+// Let's see what's up there.
+vocs_over_over_mansion_climbing_n01=Để xem trên đó có gì.
+
+// SPEAKER: ALCHEMIST
+// Hehe! So much youthful energy!
+vocs_over_over_mansion_climbing_n02=Hehe! Tuổi trẻ tràn trề năng lượng!
+
+// SPEAKER: NINJA
+// Right where I left you.
+vocs_over_over_mansion_plank_n00=Ngay chỗ mình muốn đến.
+
+// SPEAKER: TRAPPER
+// Yes, they didn't find the plank! You're so clever, Hayato-sensei!
+vocs_over_over_mansion_plank_n01=Chuẩn, chúng không nhìn thấy tấm ván! Anh thông minh thiệt đấy, Hayato-sensei!
+
+// SPEAKER: NINJA
+// Let's use it to get over the wall, shall we?
+vocs_over_over_mansion_plank_n02=Vậy chúng ta hãy sử dụng nó để qua bức tường?
+
+// SPEAKER: ALCHEMIST
+// Hmm... Such an inspiring view. Let's see what we can do from here.
+vocs_over_over_mansion_tower_n00=Hmm... Một khung cảnh đầy hứng khởi. Để xem lão có thể làm được gì từ đây.
+
+// SPEAKER: DAIMYO
+// So! You simply "lost" these documents, which could lead anyone straight to Mount Tsuru.
+vocs_over_over_mansion_seppuku_n00=Vậy! Chúng ta đơn giản chỉ mất mỗi tài liệu thôi sao, nó có thể dẫn bất kỳ ai tới núi Tsuru.
+
+// SPEAKER: OFFICIAL
+// Forgive me, Yabu-sama. We also discovered our guards were attacked, and...Takuma has gone!
+vocs_over_over_mansion_seppuku_n01=Thứ lỗi cho thần, Yabu-sama. Chúng thần phát hiện ra lính canh bị tấn công, và...Takuma đã bỏ trốn!
+
+// SPEAKER: DAIMYO
+// Then you are a fool. No doubt Shogunate men freed Takuma from his prison. 
+vocs_over_over_mansion_seppuku_n02=Ngươi là thằng ngu. Không còn nghi ngờ gì mấy gã Mạc Phủ giải phóng cho Takuma.
+
+// SPEAKER: DAIMYO
+// The old cripple tried to kill me before. If the Shogun does not come for me, Takuma surely will! Do you realize now what your incompetence has cost me?!
+vocs_over_over_mansion_seppuku_n03=Lão què ấy sẽ cố giết ta trước. Nếu Mạc Chúa không làm thì Takuma chắc chắn sẽ! Có nhận ra là những gì ngươi làm đã không đủ sức thuyết phục ta?!
+
+// SPEAKER: OFFICIAL
+// Please, Yabu-sama! I...I have failed you. I am deeply shamed!
+vocs_over_over_mansion_seppuku_n04=Làm ơn, Yabu-sama! I...Thần đã thất bại. Thần hổ thẹn vô cùng!
+
+// SPEAKER: OFFICIAL
+// Will...will you grant this humble person permission to commit Seppuku?
+vocs_over_over_mansion_seppuku_n05=Liệu...liệu ngài sẽ cho phép kẻ hèn mọn này được thực hiện nghi lễ Seppuku?
+
+// SPEAKER: OFFICIAL
+// Will...will you grant this humble person an honorable death?
+vocs_over_over_mansion_seppuku_n05a=Liệu...liệu ngài sẽ ban cho kẻ hèn mọn này một cái chết danh dự?
+
+// SPEAKER: DAIMYO
+// ...very well. Perhaps you will at least die with some dignity. 
+vocs_over_over_mansion_seppuku_n06=...tốt thôi. Có lẽ ngươi sẽ chết với một chút danh dự.
+
+// SPEAKER: DAIMYO
+// You. Assist him.
+vocs_over_over_mansion_seppuku_n07=Ngươi. Giúp hắn.
+
+// SPEAKER: OFFICIAL
+// Thank you, Yabu-sama!
+vocs_over_over_mansion_seppuku_n08=Đội ơn, Yabu-sama!
+
+// SPEAKER: DAIMYO
+// Quick and be done with it.
+vocs_over_over_mansion_seppuku_n09=Làm nó nhanh lên.
+
+// SPEAKER: OFFICIAL
+// ...!
+vocs_over_over_mansion_seppuku_n10=...!
+
+// SPEAKER: DAIMYO
+// Hrm... Damn the Shogun!
+vocs_over_over_mansion_seppuku_n11=Hrm... Mạc Chúa chó chết!
+
+// SPEAKER: DAIMYO
+// Prepare paper and ink. I must write a letter to Kage-sama.
+vocs_over_over_mansion_seppuku_n12=Chuẩn bị giấy và mực. Ta phải viết thư cho Kage-sama.
+
+// SPEAKER: DAIMYO
+// The rest of you, remove this one and clean the floor. You must be finished before I have tea with my wife.
+vocs_over_over_mansion_seppuku_n13=Về phần ngươi, hãy dọn sạch chỗ này đi. Ngươi phải hoàn thành trước khi ta tới uống trà với vợ.
+
+// SPEAKER: NINJA
+// Huh...guess he's not Kage-sama after all. 
+vocs_over_over_mansion_plans_n00=Huh...đoán hắn không phải là Kage-sama sau vụ này.
+
+// SPEAKER: ALCHEMIST
+// Hmm...indeed. Still, this changes nothing. Lord Yabu must die.
+vocs_over_over_mansion_plans_n01=Hmm...thấy rồi. Tuy nhiên, chả có gì thay đổi. Lãnh chúa Yabu vẫn phải dẹo.
+
+// SPEAKER: NINJA
+// You're out for him, aren't you? He said as much himself.
+vocs_over_over_mansion_plans_n02=Lão muốn trả thù hắn, phải không? Có vẻ như hắn đã nói như thế.
+
+// SPEAKER: ALCHEMIST
+// Oh, yes. I have a score to settle. But consider this: if we leave now, he will flee and continue to support Kage-sama.
+vocs_over_over_mansion_plans_n03=Oh, chuẩn. Lão có một số chuyện cần giải quyết. Nhưng tóm lại thế này: nếu chúng ta rời đi, hắn sẽ bỏ chạy và tiếp tục hỗ trợ cho Kage-sama.
+
+// SPEAKER: TRAPPER
+// He's a bad man; I know it. What do you think, Hayato-sensei?
+vocs_over_over_mansion_plans_n04=Hắn xấu xa dã man; Em biết mà. Anh đang nghĩ gì vậy, Hayato-sensei?
+
+// SPEAKER: NINJA
+// Fine. If you want your revenge, old man, then let's do this. I'll get paid either way.
+vocs_over_over_mansion_plans_n05=Được rồi. Nếu lão muốn trả thù hắn thì làm theo những việc này. Tôi sẽ xử lý bằng một trong hai cách.
+
+// SPEAKER: ALCHEMIST
+// Ah, I see we understand each other.
+vocs_over_over_mansion_plans_n06=Ah, Lão thấy chúng ta hiểu nhau hơn rồi đấy.
+
+// SPEAKER: NINJA
+// What's in that crate there... Gunpowder?
+vocs_over_over_mansion_grenades_n00=Bên trong thùng có... Thuốc súng?
+
+// SPEAKER: TRAPPER
+// That crate...ugh! Gunpowder!
+vocs_over_over_mansion_grenades_n01=Cái thùng...ugh! Thuốc súng!
+
+// SPEAKER: ALCHEMIST
+// Hoho, a fresh supply of black powder! I'll take that, thank you.
+vocs_over_over_mansion_grenades_n02=Hoho, nguồn tiếp tế tươi ngon cho bột thuốc súng! Lão sẽ lấy nó, cảm ơn.
+
+// SPEAKER: NINJA
+// I'll swim across.
+vocs_over_over_mansion_swimmer_n00=Mình sẽ bơi qua.
+
+// SPEAKER: TRAPPER
+// Haha! Let's be like fish!
+vocs_over_over_mansion_swimmer_n01=Haha! Như một con cá!
+
+// SPEAKER: ALCHEMIST
+// Ah, oh...I'll pass. Water doesn't go well with my leg, hehehe.
+vocs_over_over_mansion_swimmer_n02=Ah, oh...lão sẽ qua. Nước không tốt cho cái chân què của ta, hehehe.
+
+// SPEAKER: ALCHEMIST
+// Let's see... Hmm, those trees block most of the inner courtyard from my line of sight.
+vocs_over_over_mansion_inposition_n00=Để xem... Hmm, mấy cái cây này hầu như chắn hết tầm nhìn của lão tới sân rồi.
+
+// SPEAKER: NINJA
+// And the part that isn't blocked?
+vocs_over_over_mansion_inposition_n01=Vậy chỗ nào không bị chắn?
+
+// SPEAKER: ALCHEMIST
+// Well, I can see that dog in its kennel. If Lord Yabu stood very close to it, I could put an end to him there.
+vocs_over_over_mansion_inposition_n02=Tốt lắm, ta có thể thấy con chó trong cái cũi kia. Nếu lãnh chúa Yabu lại gần nó, ta sẽ đặt dấu chấm hết cho hắn.
+
+// SPEAKER: TRAPPER
+// Ah! We could make the dog bark!
+vocs_over_over_mansion_inposition_n03=Ah! Chúng ta có thể làm con chó sủa!
+
+// SPEAKER: NINJA
+// Hm. As good a plan as any. All right, let's pay that dog a visit.
+vocs_over_over_mansion_inposition_n04=Hm. một kế hoạch hay. Được rồi, hãy tiếp cận con chó.
+
+// SPEAKER: NINJA
+// ...ah, Yabu's dog. It could help us lure out its master. Think I'll wait until Yabu's close, then provoke it with a stone.
+vocs_over_over_mansion_dog_n00=...ah, chó của Yabu. Nó sẽ giúp chúng ta dụ hắn tới đó. Ta nghĩ sẽ chờ tới khi Yabu lại đủ gần, rồi khiêu khích nó với một hòn đá.
+
+// SPEAKER: TRAPPER
+// Ooh, big dog! Watchful! He'll bark if we make noise! Wait until his master is close, then use my bird's voice...
+vocs_over_over_mansion_dog_n01=Ooh, chó bự! Hãy con chừng! Nó sẽ sủa nếu chúng ta làm ồn! Chờ đến khi hắn lại đủ gần rồi sử dụng Tiếng Chim của mình...
+
+// SPEAKER: DAIMYO
+// Such a fine dog.
+vo_hint_hint_mansion_petting_n00=Một con chó ngoan.
+
+// SPEAKER: DAIMYO
+// Has he been fed properly?
+vo_hint_hint_mansion_petting_n01=Mày được ăn đúng cách chứ?
+
+// SPEAKER: DAIMYO
+// An impressive breed.
+vo_hint_hint_mansion_petting_n02=Giống đẹp.
+
+// SPEAKER: DAIMYO
+// None shall disturb him.
+vo_hint_hint_mansion_petting_n03=Tao không làm phiền mày.
+
+// SPEAKER: DAIMYO
+// A loyal creature.
+vo_hint_hint_mansion_petting_n04=Một động vật trung thành.
+
+// SPEAKER: DAIMYO
+// He is to lack for nothing.
+vo_hint_hint_mansion_petting_n05=Mày chả thiếu thứ gì.
+
+// SPEAKER: DAIMYO
+// AGH!!
+vocs_over_over_mansion_revenge1_n00=AGH!!
+
+// SPEAKER: ALCHEMIST
+// Hah! How does it feel to be shot down without warning, eh, Lord Yabu? I hope you realized, in that final moment, that it was me who ended you! Hehehe!
+vocs_over_over_mansion_revenge1_n01=Hah! Làm thế nào ngươi biết được đạn đang tới mà không được cảnh báo trước, eh, lãnh chúa Yabu? Hi vọng ngươi nhận ra giây phút cuối cùng của đời mình, đó là ta sẽ kết liễu ngươi! Hehehe!
+
+// SPEAKER: ALCHEMIST
+// Farewell, Lord Yabu. I hope you realized, in your final moment, that it was me who ended you! Hehe.
+vocs_over_over_mansion_revenge1_n01a=Từ biệt, lãnh chúa Yabu. Hi vọng ngươi nhận ra giây phút cuối cùng của đời mình, đó là ta sẽ kết liễu ngươi! Hehe.
+
+// SPEAKER: CIVILIAN F
+// Prepare the tea.
+vo_hint_hint_mansion_gong1_n00=Chuẩn bị trà.
+
+// SPEAKER: CIVILIAN F
+// Lord Yabu wishes to have tea.
+vo_hint_hint_mansion_gong1_n01=Lãnh chúa Yabu muốn có trà.
+
+// SPEAKER: CIVILIAN F
+// Serve the tea.
+vo_hint_hint_mansion_gong1_n02=Dâng trà.
+
+// SPEAKER: CIVILIAN F
+// The lord will have tea.
+vo_hint_hint_mansion_gong1_n03=Ngài sẽ có trà.
+
+// SPEAKER: NINJA
+// ...just a servant.
+vocs_over_over_mansion_servant1_n00=...chỉ là một đầy tớ.
+
+// SPEAKER: TRAPPER
+// Sorry.
+vocs_over_over_mansion_servant1_n01=Xin lỗi hen.
+
+// SPEAKER: ALCHEMIST
+// She was the one signaling for tea. Now it falls to us to ring the gong.
+vocs_over_over_mansion_servant1_n02=Cô ta là người đánh chiêng báo giờ trà. Giờ chúng ta sẽ đánh thay hộ.
+
+// SPEAKER: NINJA
+// Prepare the tea!
+vocs_over_over_mansion_gong1a_n00=Chuẩn bị trà!
+
+// SPEAKER: TRAPPER
+// Uh...prepare the tea!
+vocs_over_over_mansion_gong1a_n01=Uh...chuẩn bị trà!
+
+// SPEAKER: CIVILIAN F
+// The tea is ready.
+vo_hint_hint_mansion_gong2_n00=Trà đã sẵn sàng.
+
+// SPEAKER: CIVILIAN F
+// Tea is served.
+vo_hint_hint_mansion_gong2_n01=Xin phục vụ trà
+
+// SPEAKER: CIVILIAN F
+// The tea is ready, my lord.
+vo_hint_hint_mansion_gong2_n02=Trà đã sẵn sàng, thưa ngài.
+
+// SPEAKER: CIVILIAN F
+// Tea is served, my lord.
+vo_hint_hint_mansion_gong2_n03=Trà xin phục vụ, thưa ngài.
+
+// SPEAKER: NINJA
+// Huh...she carried a tray.
+vocs_over_over_mansion_servant2_n00=Huh...cô ấy mang một cái khay.
+
+// SPEAKER: TRAPPER
+// Uhm, what's on that plate?
+vocs_over_over_mansion_servant2_n01=Uhm, có gì trên đó?
+
+// SPEAKER: ALCHEMIST
+// She was serving the tea. Now we must serve it ourselves and ring the gong. Add the poison while you're at it, hehe.
+vocs_over_over_mansion_servant2_n02=Cô ta là hầu dâng trà. Giờ chúng ta phải làm thay nó và đánh chiêng. Bỏ thuốc độc vào trong khi mấy đứa ở đó, hehe.
+
+// SPEAKER: NINJA
+// The tea is ready!
+vocs_over_over_mansion_gong2a_n00=Trà đã sẵn sàng!
+
+// SPEAKER: TRAPPER
+// Uhm...the tea is ready!
+vocs_over_over_mansion_gong2a_n01=Uhm...trà đã sẵn sàng!
+
+// SPEAKER: DAIMYO
+// Hrm, no...this will not do.
+vo_hint_hint_mansion_drink_n00=Hrm, không...nó sẽ không.
+
+// SPEAKER: DAIMYO
+// Hm! Rich flavor.
+vo_hint_hint_mansion_drink_n01=Hm! Hương vị tuyệt vời.
+
+// SPEAKER: DAIMYO
+// Ugh, almost cold.
+vo_hint_hint_mansion_drink_n02=Ugh, hơi lạnh.
+
+// SPEAKER: DAIMYO
+// Huh? This is not what I asked for.
+vo_hint_hint_mansion_drink_n03=Huh? Đây không phải là thứ ta yêu cầu.
+
+// SPEAKER: DAIMYO
+// Ugh. Unacceptable.
+vo_hint_hint_mansion_drink_n04=Ugh. Đếch chấp nhận được.
+
+// SPEAKER: DAIMYO
+// Do not serve this one again.
+vo_hint_hint_mansion_complain_n00=Đừng cho ả phục vụ ta lần nữa.
+
+// SPEAKER: DAIMYO
+// Be quicker next time.
+vo_hint_hint_mansion_complain_n01=Lần sau phải nhanh hơn.
+
+// SPEAKER: DAIMYO
+// The tea was almost cold.
+vo_hint_hint_mansion_complain_n02=Trà lạnh hết rồi.
+
+// SPEAKER: DAIMYO
+// That was not the blend I asked for.
+vo_hint_hint_mansion_complain_n03=Đây không phải là sự pha trộn mà ta yêu cầu.
+
+// SPEAKER: DAIMYO
+// The taste is appalling. 
+vo_hint_hint_mansion_complain_n04=Vị rất kinh khủng.
+
+// SPEAKER: DAIMYO
+// Are they mocking me? Why hasn't the tea been served yet?
+vo_hint_hint_mansion_return_n00=Đùa ta hả? Tại sao trà chưa được phục vụ?
+
+// SPEAKER: DAIMYO
+// I will not be kept waiting! The servants will answer for this.
+vo_hint_hint_mansion_return_n01=Ta không thể tiếp tục chờ! Bọn mày phải có câu trả lời.
+
+// SPEAKER: DAIMYO
+// This is unacceptable. Whoever is wasting my time, I will cut off their head.
+vo_hint_hint_mansion_return_n02=Đếch thể chấp nhận được. Lãng phí thời gian của tao, tao sẽ chém hết đầu bọn mày.
+
+// SPEAKER: NINJA
+// Ugh...even the island is guarded.
+vocs_over_over_mansion_teaisland_n00=Ugh...ngay cả hòn đảo cũng được bảo vệ.
+
+// SPEAKER: TRAPPER
+// Tea. Have to slip in the poison. Ugh, nasty stuff.
+vocs_over_over_mansion_teaisland_n01=Trà. Phải bỏ chất độc vào. Ugh, mùi tởm quá.
+
+// SPEAKER: TRAPPER
+// Now there's a spider in the tea.
+vocs_over_over_mansion_poisoned_n00=Giờ có một con nhện trong trà.
+
+// SPEAKER: NINJA
+// Better get out of here, then.
+vocs_over_over_mansion_poisoned_n01=Tốt hơn nên thoát khỏi đây.
+
+// SPEAKER: TRAPPER
+// Hai, sensei!
+vocs_over_over_mansion_poisoned_n02=Hai, sensei!
+
+// SPEAKER: NINJA
+// Quick now!
+vocs_over_over_mansion_poisoned_n03=Nhanh nào!
+
+// SPEAKER: DAIMYO
+// ...poison! ...the old cripple! N-noo...
+vocs_over_over_mansion_revenge2_n00=...độc! ...là lão què! K-không...
+
+// SPEAKER: NINJA
+// Hehe...sounded unpleasant.
+vocs_over_over_mansion_revenge2_n01=Hehe...có vẻ khó chịu.
+
+// SPEAKER: TRAPPER
+// What was in that bottle?!
+vocs_over_over_mansion_revenge2_n02=Có cái gì trong chai vậy?!
+
+// SPEAKER: ALCHEMIST
+// Oh, just a little bit of pain, so he knew it was me who ended him.
+vocs_over_over_mansion_revenge2_n03=Oh, chỉ một chút đau đớn, nên hắn biết được ta là người kết liễu hắn.
+
+// SPEAKER: ALCHEMIST
+// Oh...years of pain, concentrated and distilled. Just so he knew it was me who got to him in the end, hehehe.
+vocs_over_over_mansion_revenge2_n03a=Oh...nỗi đau trong nhiều năm ta tích góp được. Để hắn biết được ta là người kết liễu đời hắn, hehehe.
+
+// SPEAKER: TRAPPER
+// Y-you're scary, Takuma-sama.
+vocs_over_over_mansion_revenge2_n04=Ông đáng sợ dã man, Takuma-sama.
+
+// SPEAKER: ALCHEMIST
+// Hohoho, I have my moments!
+vocs_over_over_mansion_revenge2_n05=Hohoho, bản chất của lão sẵn vậy rồi!
+
+// SPEAKER: SAMURAI
+// Lord Yabu has been killed! Find the assassins!
+vocs_over_over_mansion_guns_n00=Lãnh chúa Yabu đã bị giết! Truy lùng sát thủ!
+
+// SPEAKER: NINJA
+// And there's the alarm. I think it's time to test these matchlock pistols.
+vocs_over_over_mansion_guns_n01=Có báo động. Tôi nghĩ đây là lúc để thử khẩu súng ngắn hỏa mai này.
+
+// SPEAKER: ALCHEMIST
+// An excellent idea.
+vocs_over_over_mansion_guns_n02=Ý tưởng toẹt vời.
+
+// SPEAKER: TRAPPER
+// Are they quiet, too? Like your leg?
+vocs_over_over_mansion_guns_n03=Chúng yên lặng quá? Như súng ở chân của lão í?
+
+// SPEAKER: ALCHEMIST
+// Not so much, I'm afraid. Choose your target carefully, child.
+vocs_over_over_mansion_guns_n04=Không hẳn, ta e là thế. Chọn mục tiêu của cháu cho cẩn thận, nhóc.
+
+// SPEAKER: ALCHEMIST
+// Heh. More guards.
+vocs_over_over_mansion_escape1_n00=Heh. Thêm lính gác.
+
+// SPEAKER: TRAPPER
+// They're looking for us.
+vocs_over_over_mansion_escape1_n01=Họ đang lùng chúng ta.
+
+// SPEAKER: NINJA
+// High alert everywhere. What now, old man?
+vocs_over_over_mansion_escape1_n02=Báo động cao khắp mọi nơi. Làm gì đây, lão già?
+
+// SPEAKER: ALCHEMIST
+// We're almost free. Let's not lose our heads now, eh?
+vocs_over_over_mansion_escape1_n03=Chúng ta gần tự do rồi. Giờ đừng để bị mất đầu, eh?
+
+// SPEAKER: ALCHEMIST
+// Hehe, free at last! 
+vocs_over_over_mansion_escape2_n00=Hehe, tự do là trên hết!
+
+// SPEAKER: TRAPPER
+// I'm out!
+vocs_over_over_mansion_escape2_n01=Thoát rồi!
+
+// SPEAKER: NINJA
+// Close one. You really wanted to see that man dead, didn't you?
+vocs_over_over_mansion_escape2_n02=Nguy hiểm. Lão thực sự muốn nhìn tận mắt hắn xem hắn đã chết chưa phải không?
+
+// SPEAKER: ALCHEMIST
+// Hmm, sometimes you have to make a decision, and I made that one years ago.
+vocs_over_over_mansion_escape2_n03=Hmm, đôi khi cậu phải đưa ra quyết định, và lão đã thử làm điều này cách đây một năm.
+
+// SPEAKER: NINJA
+// All here?
+vocs_over_over_mansion_debriefing_n00=Tất cả ở đây?
+
+// SPEAKER: TRAPPER
+// Here!
+vocs_over_over_mansion_debriefing_n01=Đây nè!
+
+// SPEAKER: ALCHEMIST
+// Heh, indeed!
+vocs_over_over_mansion_debriefing_n02=Heh, hẳn vậy!
+
+// SPEAKER: NINJA
+// So, we've done it. Lord Yabu's dead. Guess we'll have to find a new lead on Kage-sama.
+vocs_over_over_mansion_debriefing_n03=Vậy, chúng ta đã làm được. Lãnh chúa Yabu đã chết. Đoán là chúng ta phải tìm manh mối khác liên quan tới Kage-sama.
+
+// SPEAKER: ALCHEMIST
+// Oh, I wouldn't worry. I suspect he will come to us, now that we've dealt him a massive blow. At any rate, we should return to Mugen.
+vocs_over_over_mansion_debriefing_n07=Oh, ta không quan tâm. Ta nghi hắn sẽ đến tìm chúng ta, giờ chúng ta đã cho hắn một đòn đau. Dù thế nào, chúng ta cần phải quay về Mugen.
+
+// SPEAKER: NINJA
+// Right, right. Let's get out of here...
+vocs_over_over_mansion_debriefing_n08=Đúng đúng. Ra khỏi đây thôi...
+

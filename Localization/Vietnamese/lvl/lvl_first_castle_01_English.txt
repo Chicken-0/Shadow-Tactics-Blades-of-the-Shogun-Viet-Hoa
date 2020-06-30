@@ -1,0 +1,531 @@
+// Infiltrate Ōsaka Castle
+1041166513=Đột nhập thành Ōsaka
+
+// Climb up the cliff and infiltrate Ōsaka Castle.
+-1502243167=Leo lên vách đá và đột nhập thành Ōsakae.
+
+// Reach the Gate
+2099631708=Tiếp cận Cổng
+
+// Reach the gate to the inner castle.
+1117140869=Tiếp cận Cổng bên trong thành.
+
+// Help Mugen
+-846449451=Giúp Mugen
+
+// Distract the enemies that pin down Mugen.
+-1193877725=Đánh lạc hướng kẻ địch đang cầm chân Mugen.
+
+// Open the Gate
+1455471637=Mở Cổng
+
+// Fire the cannon with Mugen to open the gate for Hayato.
+89925598=Mugen bắn pháo để mở Cổng cho Hayato.
+
+// Find Explosives
+1270832144=Tìm chất nổ
+
+// Find a barrel of gunpowder so you can blow up the Yagura Mon.
+-1319471721=Tìm thùng thuốc súng để thổi bay Yagura Mon.
+
+// Destroy the Yagura Mon
+1694283452=Phá hủy Yagura Mon
+
+// Place a barrel of gunpowder at the Yagura Mon, then use Takuma to detonate it.
+264323870=Đặt thùng thuốc súng gần Yagura Mon, sau đó sử dụng Takuma để kích nổ nó.
+
+// Alarm
+1109569249=Báo động
+
+// If the alarm is raised, all enemies in the area will look for you, and reinforcements will come from the nearest guardhouse.
+-577776567=Nếu mức độ báo động được nâng lên, tất cả kẻ địch trong khu vực sẽ truy lùng bạn, đồng thời quân tiếp viện sẽ đến từ trại lính gần nhất.
+
+// Barrels
+-1911540076=Thùng
+
+// Gunpowder barrels are heavy. Only Mugen is strong enough to carry them.
+-1932622704=Thùng thuốc súng nặng. Chỉ Mugen mới đủ khỏe để di chuyển được chúng.
+
+// Takuma
+-586517079=Takuma
+
+// Takuma can shoot enemies from a safe distance. He always carries an extra bullet for mission objectives.
+-1222490226=Takuma có thể bắn kẻ địch từ khoảng cách an toàn. Lão luôn mang thêm đạn dành riêng cho mục tiêu của nhiệm vụ.
+
+// Hiding Bodies
+2026293247=Giấu xác
+
+// If an enemy discovers a dead body, they will sound the alarm.
+-627711469=Nếu địch thấy xác chết, họ sẽ báo động cho người khác biết.
+
+// If an enemy discovers a dead body, they will sound the alarm.
+1301131974=Nếu địch thấy xác chết, họ sẽ báo động cho người khác biết.
+
+// Hold <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to pick up a dead body. While carrying, hold <hotkey>{0}</hotkey> and press <hotkey>{1}</hotkey> to lay down the body.
+1504216109=Giữ <hotkey>{0}</hotkey> và sử dụng <hotkey>{1}</hotkey> để nhặt xác chết. Trong khi vác, giữ <hotkey>{0}</hotkey> và nhấn <hotkey>{1}</hotkey> để đặt xác chết xuống.
+
+// Approach a dead body, then press {0} to pick it up. While carrying, press {0} to lay down the body.\n
+1545614178=Tiếp cận một xác chết, nhấn {0} để vác lên. Trong khi vác, nhấn {0} để đặt xác xuống.\n
+
+// Carry bodies out of sight to avoid raising the alarm.
+1501719114=Di chuyển xác chết ra khỏi tầm nhìn để tránh kẻ địch tạo báo động.
+
+// Carry bodies out of sight to avoid raising the alarm.
+-595577981=Di chuyển xác chết ra khỏi tầm nhìn để tránh kẻ địch tạo báo động.
+
+// Tip: Hide bodies in bushes, wells, barrels or deep water to get rid of them forever. 
+1976337260=Mẹo: Giấu trong bụi cây, giếng nước, thùng, hoặc nước sâu sẽ giúp xác chết biến mất mãi mãi.
+
+// Tip: Hide bodies in bushes, wells, barrels or deep water to get rid of them forever. 
+-1534529559=Mẹo: Giấu trong bụi cây, giếng nước, thùng, hoặc nước sâu sẽ giúp xác chết biến mất mãi mãi.
+
+// Quicksave
+-403262954=Lưu save nhanh
+
+// You can quicksave at any point during gameplay.
+-1843485653=Có thể lưu save nhanh tại bất kỳ thời điểm nào trong Game.
+
+// You can quicksave at any point during gameplay.
+-1941791307=Có thể lưu save nhanh tại bất kỳ thời điểm nào trong Game.
+
+// Press <hotkey>{0}</hotkey> to quicksave. Press <hotkey>{1}</hotkey> to quickload, or open the menu to view your three latest quicksaves.
+1453777011=Nhấn <hotkey>{0}</hotkey> để lưu nhanh. Nhấn <hotkey>{1}</hotkey> để tải save nhanh, hoặc mở Menu để xem 3 save lưu nhanh gần đây nhất.
+
+// Press {0} to quicksave. To load, press {1} and select one of your three latest quicksaves.
+-1939468997=Nhấn {0} để lưu nhanh. Để tải, nhấn {1} và chọn một trong ba Save gần đây nhất nhất.
+
+// Tip: The timer on the upper edge tracks the time since your latest quicksave.
+775757820=Mẹo: Bộ đếm thời gian ở phía trên là đếm thời gian kể từ lần lưu nhanh gần nhất.
+
+// Tip: The timer on the upper edge tracks the time since your latest quicksave.
+-478687028=Mẹo: Bộ đếm thời gian ở phía trên là đếm thời gian kể từ lần lưu nhanh gần nhất.
+
+// Shadow Mode
+-1594667261=Chế Độ Shadow
+
+// If you want multiple characters to act simultaneously, use Shadow Mode.
+572409589=Nếu muốn các nhân vật hành động đồng thời, sử dụng Chế Độ Shadow.
+
+// If you want multiple characters to act simultaneously, use Shadow Mode.
+2050514632=Nếu muốn các nhân vật hành động đồng thời, sử dụng Chế Độ Shadow.
+
+// Press <hotkey>{0}</hotkey> to switch to Shadow Mode. You can save one action per character.
+-2038961514=Nhấn <hotkey>{0}</hotkey> để chuyển Chế Độ Shadow. Có thể chọn hành động cho mỗi nhân vật.
+
+// Press {0} to switch to Shadow Mode. You can save one action per character.
+-156129022=Nhấn {0} để chuyển Chế Độ Shadow. Có thể chọn hành động cho mỗi nhân vật.
+
+// Press <hotkey>{0}</hotkey> to execute all saved actions at once.
+-1755925167=Nhấn <hotkey>{0}</hotkey> để thực hiện tất cả hành động cùng một lúc.
+
+// Press {0} to execute all saved actions at once.
+1578176191=Nhấn {0} để thực hiện tất cả hành động cùng một lúc.
+
+// Enemy Viewcone
+-1205866662=Tầm nhìn hình nón của địch
+
+// All enemies have a field of view, represented by a green viewcone.
+-1950761443=Tất cả kẻ địch đều có tầm nhìn được mô tả bởi hình nón màu xanh.
+
+// All enemies have a field of view, represented by a green viewcone.
+260569775=Tất cả kẻ địch đều có tầm nhìn được mô tả bởi hình nón màu xanh.
+
+// Choose an enemy and use <hotkey>{0}</hotkey> to display their viewcone.
+-1237927517=Chọn một kẻ địch và sử dụng <hotkey>{0}</hotkey> để hiển thị tầm nhìn của chúng.
+
+// Hold {0} and move the cursor over an enemy to display their viewcone.
+-28680662=Giữ {0} và di chuyển chuột đến kẻ địch để hiển thị tầm nhìn của chúng.
+
+// Enter an enemy's viewcone, and it will fill up with yellow.
+168840536=Lọt vào tầm nhìn địch, nó sẽ chuyển sang màu vàng.
+
+// Enter an enemy's viewcone, and it will fill up with yellow.
+-2027309620=Lọt vào tầm nhìn địch, nó sẽ chuyển sang màu vàng.
+
+// If the yellow reaches you, the enemy will spot you and raise the alarm.
+792418078=Nếu màu vàng, địch sẽ thấy bạn và tạo báo động.
+
+// If the yellow reaches you, the enemy will spot you and raise the alarm.
+-1862135096=Nếu màu vàng, địch sẽ thấy bạn và tạo báo động.
+
+// New Team Member
+176711466=Thành viên mới
+
+// unused
+1704387088=không dùng đến
+
+// unused
+-403536047=không dùng đến
+
+// Shuriken
+-202546560=Phi Tiêu Shuriken
+
+// Hayato's Shuriken can kill one enemy from medium range.
+-73839802=Shuriken của Hayato có thể giết một kẻ địch từ khoảng cách trung bình.
+
+// Hayato's Shuriken can kill one enemy from medium range.
+1446859534=Shuriken của Hayato có thể giết một kẻ địch từ khoảng cách trung bình.
+
+// Press <hotkey>{0}</hotkey>, choose a target and use <hotkey>{1}</hotkey> to throw the Shuriken.
+-1330942744=Nhấn <hotkey>{0}</hotkey>, chọn một mục tiêu và sử dụng <hotkey>{1}</hotkey> để ném Shuriken.
+
+// Hold {0} and select Shuriken. Hold {1} to aim and press {2} to throw the Shuriken.
+-489972691=Giữ {0} và chọn Shuriken. Giữ {1} để ngắm và nhấn {2} để ném Shuriken.
+
+// The blue circle indicates the noise made by the dying enemy.
+-411338555=Vòng tròn màu xanh là tiếng động do kẻ địch sắp chết tạo ra.
+
+// The blue circle indicates the noise made by the dying enemy.
+1709909712=Vòng tròn màu xanh là tiếng động do kẻ địch sắp chết tạo ra.
+
+// Tip: Make sure to recover the Shuriken before you move on.
+-126222664=Mẹo: Hãy chắc chắn nhặt lại Shuriken trước khi rời đi.
+
+// Tip: Make sure to recover the Shuriken before you move on.
+-2141010198=Mẹo: Hãy chắc chắn nhặt lại Shuriken trước khi rời đi.
+
+// Throwing Stones
+-38964176=Ném Đá
+
+// Hayato can throw stones to distract enemies.
+2035268510=Hayato có thể ném đá để đánh lạc hướng kẻ địch.
+
+// Hayato can throw stones to distract enemies.
+-735090866=Hayato có thể ném đá để đánh lạc hướng kẻ địch.
+
+// Press <hotkey>{0}</hotkey>, choose a target spot and press <hotkey>{1}</hotkey> to throw a stone.
+-37854932=Giữ <hotkey>{0}</hotkey>, chọn vị trí và nhấn <hotkey>{1}</hotkey> để ném đá.
+
+// Hold {0} and select Throw Stone. Hold {1} to aim and press {2} to throw a stone.
+-868577415=Giữ {0} và chọn Ném Đá. Giữ {1} để ngắm và nhấn {2} để ném đá.
+
+// Enemies within the blue circle will look towards the point of impact for a few seconds.
+1389421917=Địch trong vòng tròn xanh sẽ nhìn vào nơi bị ném trong vài giây.
+
+// Enemies within the blue circle will look towards the point of impact for a few seconds.
+1065351727=Địch trong vòng tròn xanh sẽ nhìn vào nơi bị ném trong vài giây.
+
+// Tip: You can't lure enemies with stones, but a few seconds of distraction go a long way.
+424910935=Mẹo: Có thể không thu hút địch bằng đá, nhưng với ít giây ngắn ngủi đó sẽ giúp bạn đi được cả một đoạn đường dài đấy.
+
+// Tip: You can't lure enemies with stones, but a few seconds of distraction go a long way.
+1975115914=Mẹo: Có thể không thu hút địch bằng đá, nhưng với ít giây ngắn ngủi đó sẽ giúp bạn đi được cả một đoạn đường dài đấy.
+
+// Sake Bottle
+-1897636167=Chai sa kê
+
+// Mugen can use his sake bottle as bait to lure enemies.
+192954259=Mugen có thể sử dụng Chai sa kê để làm mồi nhử địch.
+
+// Mugen can use his sake bottle as bait to lure enemies.
+72159265=Mugen có thể sử dụng Chai sa kê để làm mồi nhử địch.
+
+// Press <hotkey>{0}</hotkey>, choose a target spot and use <hotkey>{1}</hotkey> to place the bottle.
+-195205584=Nhấn <hotkey>{0}</hotkey>, chọn vị trí và sử dụng <hotkey>{1}</hotkey> để đặt chai rượu.
+
+// Hold {0} and select Sake Bottle. Hold {1} to aim and press {2} to place the bottle.
+1311459607=Giữ {0} và chọn Chai sa kê. Giữ {1} để ngắm và nhấn {2} để đặt.
+
+// Enemies can spot the bottle in the bright area of their field of view.
+-444749100=Địch có thể thấy chai rượu trong vùng sáng của tầm nhìn chúng.
+
+// Enemies can spot the bottle in the bright area of their field of view.
+1302600172=Địch có thể thấy chai rượu trong vùng sáng của tầm nhìn chúng.
+
+// Tip: If an enemy picks up the bottle, you must incapacitate them to get it back.
+1487887572=Mẹo: Nếu địch nhặt chai, bạn phải hạ chúng thì mới lấy lại được chai rượu đó.
+
+// Tip: If an enemy picks up the bottle, you must incapacitate them to get it back.
+2197346=Mẹo: Nếu địch nhặt chai, bạn phải hạ chúng thì mới lấy lại được chai rượu đó.
+
+// Sword Wind
+969168611=Phong Kiếm
+
+// Mugen can use his Sword Wind technique to kill all enemies within range.
+1798556049=Mugen có thể sử dụng Phong Kiếm để hạ tất cả kẻ địch trong phạm vi.
+
+// Mugen can use his Sword Wind technique to kill all enemies within range.
+-497920304=Mugen có thể sử dụng Phong Kiếm để hạ tất cả kẻ địch trong phạm vi.
+
+// Press <hotkey>{0}</hotkey>, then choose a target spot and use <hotkey>{1}</hotkey> to execute the attack.
+-1600649094=Nhấn <hotkey>{0}</hotkey>, rồi chọn vị trí và sử dụng <hotkey>{1}</hotkey> để thực hiện tấn công.
+
+// Hold {0} and select Sword Wind. Hold {1} to aim and press {2} to execute the attack.
+81046276=Giữ {0} và chọn Phong Kiếm. Giữ {1} để ngắm và nhấn {2} để thực hiện tấn công.
+
+// Mugen will dash to the center of the red circle and kill everyone within its range.
+1449399978=Mugen sẽ lướt tới trung tâm vòng tròn đỏ và giết tất cả mọi người trong phạm vi.
+
+// Mugen will dash to the center of the red circle and kill everyone within its range.
+139857194=Mugen sẽ lướt tới trung tâm vòng tròn đỏ và giết tất cả mọi người trong phạm vi.
+
+// Tip: Sword Wind is very effective, but has a long cooldown. Use it with care.
+1411951705=Mẹo: Phong Kiếm rất hiệu quả, nhưng hồi chiêu khá lâu. Hãy sử dụng cẩn thận.
+
+// Tip: Sword Wind is very effective, but has a long cooldown. Use it with care.
+-271720821=Mẹo: Phong Kiếm rất hiệu quả, nhưng hồi chiêu khá lâu. Hãy sử dụng cẩn thận.
+
+// Mission Log
+-215647854=Thông Tin Nhiệm Vụ
+
+// Press <hotkey>{0}</hotkey> to open the mission log. It shows you your mission objectives.
+-132293462=Nhấn <hotkey>{0}</hotkey> để mở Thông Tin Nhiệm Vụ. Nó sẽ hiển thị mục tiêu của nhiệm vụ.
+
+// Press {0} to open the mission log. It shows you your mission objectives.
+824968601=Nhấn {0} để mở Thông Tin Nhiệm Vụ. Nó sẽ hiển thị mục tiêu của nhiệm vụ.
+
+// It also gives you hints and logs all conversations you hear.
+204727887=Nó cung cấp các gợi ý và những cuộc trò chuyện nghe lén được.
+
+// It also gives you hints and logs all conversations you hear.
+240328082=Nó cung cấp các gợi ý và những cuộc trò chuyện nghe lén được.
+
+// Tip: All tutorials you pick up will appear in the mission log as well.
+-931353978=Mẹo: Tất cả hướng dẫn xuất hiện trong Thông Tin Nhiệm Vụ đều khá hữu ích.
+
+// Tip: All tutorials you pick up will appear in the mission log as well.
+1779256020=Mẹo: Tất cả hướng dẫn xuất hiện trong Thông Tin Nhiệm Vụ đều khá hữu ích.
+
+// Heavy Objects
+1914370055=Đồ vật nặng
+
+// Mugen is the only character who can carry heavy objects.
+-294177932=Chỉ Mugen là nhân vật mới có thể vác được đồ vật nặng.
+
+// Mugen is the only character who can carry heavy objects.
+-458422363=Chỉ Mugen là nhân vật mới có thể vác được đồ vật nặng.
+
+// Use <hotkey>{0}</hotkey> to pick up a heavy object and <hotkey>{1}</hotkey> to put it down.
+-470311694=Sử dụng <hotkey>{0}</hotkey> để nhặt đồ vật nặng và <hotkey>{1}</hotkey> để đặt xuống.
+
+// Approach a heavy object and press {0} to pick it up. Press {1} again to put it down.
+1138608022=Tiếp cận đồ vật nặng và nhấn {0} để cầm lên. Nhấn {1} lần nữa để đặt xuống.
+
+// You can also throw heavy objects. Press <hotkey>{0}</hotkey> to aim and use <hotkey>{1}</hotkey> to throw.
+1307232519=Cũng có thể ném đồ vật nặng. Nhấn <hotkey>{0}</hotkey> để ngắm và sử dụng <hotkey>{1}</hotkey> để ném.
+
+// You can also throw heavy objects. Hold {0} to aim and press {1} to throw.
+710852717=Cũng có thể ném đồ vật nặng. Giữ {0} để ngắm và nhấn {1} để ném.
+
+// Tip: If you throw objects out of Mugen's reach, you can't retrieve them. Be careful.
+-2069315551=Mẹo: Nếu đồ vật ném đi ra khỏi tầm với của Mugen thì sẽ không thể lấy lại chúng. Hãy cẩn thận.
+
+// Tip: If you throw objects out of Mugen's reach, you can't retrieve them. Be careful.
+1010455802=Mẹo: Nếu đồ vật ném đi ra khỏi tầm với của Mugen thì sẽ không thể lấy lại chúng. Hãy cẩn thận.
+
+// Viewcone Marker
+-1795370618=Đánh Dấu Kiểm Tra Tầm Nhìn
+
+// If you want to make sure a spot is unwatched, use the Viewcone Marker.
+-1245842477=Nếu muốn chắc chắn vị trí này có bị nhìn thấy hay không, sử dụng Đánh Dấu Kiểm Tra Tầm Nhìn.
+
+// If you want to make sure a spot is unwatched, use the Viewcone Marker.
+574797318=Nếu muốn chắc chắn vị trí này có bị nhìn thấy hay không, sử dụng Đánh Dấu Kiểm Tra Tầm Nhìn.
+
+// Choose a target spot and hold <hotkey>{0}</hotkey> to place the Viewcone Marker.
+136897933=Chọn vị trí và giữ <hotkey>{0}</hotkey> để đánh dấu kiểm tra tầm nhìn.
+
+// Hold {0}, choose a target spot and press {1} to place the Viewcone Marker.
+2060051899=Giữ {0}, chọn vị trí và nhấn {1} để đánh dấu kiểm tra tầm nhìn.
+
+// Enemies that see the Viewcone Marker are highlighted. Once they lose sight of it, the highlight disappears.
+-1338768355=Kẻ địch thấy điểm đánh dấu thì sẽ phát sáng. Nếu không thấy thì sẽ không phát sáng.
+
+// Enemies that see the Viewcone Marker are highlighted. Once they lose sight of it, the highlight disappears.
+-952630117=Kẻ địch thấy điểm đánh dấu thì sẽ phát sáng. Nếu không thấy thì sẽ không phát sáng.
+
+// Straw Hats
+-476895601=Mũ Rơm
+
+// Straw Hats are a type of enemy that is resistant to distractions.
+394336998=Mũ Rơm là loại kẻ địch ít bị tác động bởi những thứ khác.
+
+// Straw Hats are a type of enemy that is resistant to distractions.
+1059804026=Mũ Rơm là loại kẻ địch ít bị tác động bởi những thứ khác.
+
+// They don't react to lures like Mugen's sake, and noise has a much weaker effect on them.
+1492740664=Chúng ít bị tác động bởi mồi nhử như Rượu sa kê của Mugen, hay cả với tiếng động cũng vậy.
+
+// They don't react to lures like Mugen's sake, and noise has a much weaker effect on them.
+-1995521734=Chúng ít bị tác động bởi mồi nhử như Rượu sa kê của Mugen, hay cả với tiếng động cũng vậy.
+
+// If Straw Hats spot a potential threat, they will send normal guards to investigate.
+1913713790=Nếu Mũ Rơm phát hiện ra mối đe dạo, chúng sẽ gửi lính canh đến điều tra.
+
+// If Straw Hats spot a potential threat, they will send normal guards to investigate.
+2063255176=Nếu Mũ Rơm phát hiện ra mối đe dạo, chúng sẽ gửi lính canh đến điều tra.
+
+// Ninjato
+-1336841734=Kiếm Ninja
+
+// Hayato can use his Ninjato to kill enemies quickly and silently.
+1214655050=Hayato có thể sử dụng Kiếm Ninja để giết kẻ địch nhanh chóng và thầm lặng.
+
+// Hayato can use his Ninjato to kill enemies quickly and silently.
+-901889044=Hayato có thể sử dụng Kiếm Ninja để giết kẻ địch nhanh chóng và thầm lặng.
+
+// Press <hotkey>{0}</hotkey>, choose a target and use <hotkey>{1}</hotkey> to execute the kill.
+-190745816=Nhấn <hotkey>{0}</hotkey>, chọn mục tiêu và sử dụng <hotkey>{1}</hotkey> để giết.
+
+// Approach your target with Hayato, then press {0} to execute the kill.
+2055248839=Tiếp cận mục tiêu với Hayato, nhấn {0} để giết.
+
+// For a nonlethal approach, press <hotkey>{0}</hotkey> to select Knockout, or switch modes in your Skill Bar.
+-1207643569=Để tiếp cận không hạ thủ, nhấn <hotkey>{0}</hotkey> chọn Nốc Ao, hoặc chuyển chế độ trong Thanh Kĩ Năng.
+
+// For a nonlethal approach, hold {0} to open the Character Wheel and press {1} to switch between modes.
+1761954928=Để tiếp cận không hạ thủ, giữ {0} để mở Vòng Nhân Vật và chọn {1} để chuyển chế độ.
+
+// Tip: Hold <hotkey>{0}</hotkey> when using <hotkey>{1}</hotkey>, and Hayato will pick up the body automatically.
+1623522155=Mẹo: Giữ <hotkey>{0}</hotkey> khi đang sử dụng <hotkey>{1}</hotkey>, và Hayato sẽ tự động nhặt xác lên.
+
+// Tip: Hold {0} when attacking, and Hayato will pick up the body automatically.
+-1865180854=Mẹo: Giữ {0} khi đang tấn công, và Hayato sẽ tự động nhặt xác lên.
+
+// Crouching
+-989573494=Cúi người
+
+// An enemy's field of view has two areas: Bright and dark.
+-1069413860=Tầm nhìn của kẻ địch có 2 vùng: Sáng và Tối.
+
+// An enemy's field of view has two areas: Bright and dark.
+985071745=Tầm nhìn của kẻ địch có 2 vùng: Sáng và Tối.
+
+// Press <hotkey>{0}</hotkey> to toggle crouch and move through the dark area undetected.
+288763587=Nhấn <hotkey>{0}</hotkey> để cúi người và di chuyển băng qua vùng tối để không bị phát hiện.
+
+// Press {0} to toggle crouch and move through the dark area undetected.
+1228549089=Nhấn {0} để cúi người và di chuyển băng qua vùng tối để không bị phát hiện.
+
+// Objects like bushes and rocks create dark areas for you. 
+-11253887=Vật thể như bụi cây và đá sẽ giúp tạo vùng tối.
+
+// Objects like bushes and rocks create dark areas for you.
+1066024853=Vật thể như bụi cây và đá sẽ giúp tạo vùng tối.
+
+// Tip: Crouching also keeps you hidden on higher ground.
+1394664387=Mẹo: Cúi người sẽ giúp ẩn thân trên vùng đất cao hơn.
+
+// Tip: Crouching also keeps you hidden on higher ground.
+-439996815=Mẹo: Cúi người sẽ giúp ẩn thân trên vùng đất cao hơn.
+
+// You lost both gunpowder barrels.
+1530821810=Đã mất cả hai thùng thuốc súng.
+
+// Ayakawa Ohara
+2139224496=Ayakawa Ohara
+
+// Quicksave ({0})
+-987191391=Lưu nhanh ({0})
+
+// Crouch ({0})
+1147738467=Cúi người ({0})
+
+// Quicksave ({0})
+-1618839781=Lưu nhanh ({0})
+
+// Crouch ({0})
+-953539340=Cúi người ({0})
+
+// Rotate Camera\n(Hold {0})
+-388066246=Xoay Camera\n(Giữ {0})
+
+// Quicksave ({0})
+-2120593118=Lưu nhanh ({0})
+
+// Reset Camera \n({1} + {0})
+-1418381784=Đặt lại Camera \n({1} + {0})
+
+// Highlight ({0})
+-1324946201=Nổi bật ({0})
+
+// Switch Character (Hold {0})
+1191603676=Đổi nhân vật (Giữ {0})
+
+// Quicksave ({0})
+-920850577=Lưu nhanh ({0})
+
+// Crouch ({0})
+-326753258=Cúi người ({0})
+
+// Throw Barrel\n({0} + {1})
+1762571356=Nén thùng\n({0} + {1})
+
+// ({0} to kill)
+-418726684=({0} để giết)
+
+// Highlight ({0})
+-2117003158=Nổi bật ({0})
+
+// Move\n({0})
+-1131583813=Di chuyển\n({0})
+
+// Use\n({0})
+1458602818=Sử dụng\n({0})
+
+// Running\n(Double {0})
+-1009764274=Chạy\n(Nhấp đúp {0})
+
+// Quicksave ({0})
+-1944185377=Lưu nhanh ({0})
+
+// Reset Cam ({0})
+127196588=Đặt lại Cam ({0})
+
+// Rotate Camera\n(Hold {0})
+2077869715=Xoay Camera\n(Giữ {0})
+
+// Select Character ({0})
+2078202099=Chọn nhân vật ({0})
+
+// Crouch ({0})
+-1317530847=Cúi người ({0})
+
+// Crouch ({0})
+-2119329517=Cúi người ({0})
+
+// Highlight ({0})
+-1944854094=Nổi bật ({0})
+
+// Quicksave ({0})
+-1658227311=Lưu nhanh ({0})
+
+// Quicksave ({0})
+-848107247=Lưu nhanh ({0})
+
+// Quicksave ({0})
+1798087660=Lưu nhanh ({0})
+
+// Crouch ({0})
+-1845535175=Cúi người ({0})
+
+// Throw Barrel\n({0})
+-1463334107=Ném thùng\n({0})
+
+// Jump on Guard to Kill
+1021704003=Nhảy tới lính canh để giết
+
+// Highlight ({0})
+800855971=Nổi bật ({0})
+
+// Use\n(Hold {0})
+1899172348=Sử dụng\n(Giữ {0})
+
+// Jump Across
+839115581=Nhảy qua
+
+// Use Your Skills
+682673149=Sử dụng kĩ năng
+
+// Guardhouse
+1123322799=Trại lính
+
+// Guardhouse
+-1039563640=Trại lính
+
+// Climb Here
+2115136594=Leo lên đây
+
+// Climb Here
+-1811888289=Leo lên đây
+

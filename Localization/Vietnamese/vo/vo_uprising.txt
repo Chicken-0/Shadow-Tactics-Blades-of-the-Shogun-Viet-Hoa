@@ -1,0 +1,560 @@
+// SPEAKER: BROGUN
+// The rebels have fortified themselves in Kanazawa Castle. You will infiltrate the stronghold and weaken them from the inside. 
+vocs_over_over_uprising_briefing_n00=Phiến quân đã củng cố sức mạnh trong thành Kanazawa. Các thần phải đột nhật vào đó và làm suy yếu chúng từ bên trong.
+
+// SPEAKER: BROGUN
+// You will act in two groups and attack the castle from both sides.
+vocs_over_over_uprising_briefing_n01=Chia đôi nhóm hành động và tấn công từ hai phía.
+
+// SPEAKER: BROGUN
+// My forces are facing Okkoto's men head-on. You killing his officers will allow the men to advance.
+vocs_over_over_uprising_briefing_n02=Lực lượng của ta sẽ đối mặt với lính Okkoto. Giết các chỉ huy của hắn sẽ giúp lính của ta công dễ dàng hơn.
+
+// SPEAKER: BROGUN
+// Find your way inside the castle walls and blow up the supply depot.
+vocs_over_over_uprising_briefing_n03=Tìm đường lẻn vào trong và thổi bay kho tiếp tế của chúng.
+
+// SPEAKER: BROGUN
+// Once this is done, you are free to engage General Okkoto.
+vocs_over_over_uprising_briefing_n04=Một khi xong, thần có thể tự do đối đầu với tướng Okkoto.
+
+// SPEAKER: BROGUN
+// His death will seal the rebels' defeat. He is a formidable foe, so be prepared before you face him.
+vocs_over_over_uprising_briefing_n05=Cái chết của hắn sẽ là dấu niêm phong cho thất bại. Hắn là kẻ thù ghê gớm, cần phải sẵn sàng trước khi đối đầu với hắn.
+
+// SPEAKER: BROGUN
+// Your actions will be the turning point of the battle. You must not fail.
+vocs_over_over_uprising_briefing_n06=Hành động của thần là bước ngoặt của cuộc chiến. Không được phép thất bại.
+
+// SPEAKER: NINJA
+// Pretty hectic around here.
+vocs_over_over_uprising_duty1_n00=Quanh đây khá bận rộn.
+
+// SPEAKER: WARRIOR
+// Once again we face impossible odds, you and me!
+vocs_over_over_uprising_duty1_n01=Một lần nữa chúng ta đối mặt với việc bất khả thi, tôi và cậu!
+
+// SPEAKER: NINJA
+// Got to admit, working with you doesn't get boring.
+vocs_over_over_uprising_duty1_n02=Phải thừa nhận làm việc với anh không nhàm chán tý nào.
+
+// SPEAKER: WARRIOR
+// Ha! From you, I take that as a compliment.
+vocs_over_over_uprising_duty1_n03=Ha! Tôi xem đây là một lời khen từ cậu.
+
+// SPEAKER: NINJA
+// Close one back there...
+vocs_over_over_uprising_duty2_n00=Gần tới nơi rồi...
+
+// SPEAKER: WARRIOR
+// The walls aren't far now. We must look death in the face! Hahaha.
+vocs_over_over_uprising_duty2_n01=Bức tường không còn xa. Chúng ta phải đối mặt với cái chết! Hahaha.
+
+// SPEAKER: NINJA
+// Mugen, can I ask you something? Why are you always so eager to die? Does honor really mean that much to you?
+vocs_over_over_uprising_duty2_n02=Mugen, liệu tôi có thể hỏi anh được không? Sao anh luôn muốn được chết? Có phải danh dự rất quan trọng đối với anh?
+
+// SPEAKER: WARRIOR
+// I merely serve my Shogun, as is my duty. Why are you asking, Hayato-san? Are you not here beside me?
+vocs_over_over_uprising_duty2_n03=Đơn giản là phụng sự Mạc Chúa của tôi, nó như một nhiệm vụ. Sao cậu hỏi vậy, Hayato-san? Cậu định không đi cùng tôi?
+
+// SPEAKER: NINJA
+// Oh, I'm getting paid. That's very different.
+vocs_over_over_uprising_duty2_n04=Oh, tôi được trả công rồi. Nó rất khác nhau nhé.
+
+// SPEAKER: WARRIOR
+// We are almost inside...
+vocs_over_over_uprising_duty3_n00=Gần vào bên trong rồi...
+
+// SPEAKER: NINJA
+// I don't get it. Honor doesn't buy you anything. Especially when you're dead.
+vocs_over_over_uprising_duty3_n02=Tôi không lấy nó đâu. Danh dự chả mua được khỉ gì. Đặc biệt khi anh đã nghẻo.
+
+// SPEAKER: WARRIOR
+// Then tell me, Hayato-san. Why have you followed me into this chaos, this madness? Is money really the reason?
+vocs_over_over_uprising_duty3_n03=Theo như cậu nói, Hayato-san. Sao cậu lại theo tôi tới cuộc hỗn chiến điên rồ này? Tiền có phải là lý do thực sự?
+
+// SPEAKER: NINJA
+// That's... I...
+vocs_over_over_uprising_duty3_n04=Bởi vì... Tôi...
+
+// SPEAKER: WARRIOR
+// Every man chooses his duty. Without duty, life has no purpose. You do not have to understand my choices, Hayato-san. But I pray that you understand your own.
+vocs_over_over_uprising_duty3_n05=Mỗi người đàn ông chọn nhiệm vụ cho riêng mình. Không có nhiệm vụ thì sống chả có mục đích. Tôi không cần cậu hiểu sao tôi lại chọn nó, Hayato-san. Nhưng tôi cầu cho cậu hiểu được bản thân mình.
+
+// SPEAKER: TRAPPER
+// I remember this place. Big samurai houses.
+vocs_over_over_uprising_sensei1_n00=Cháu nhớ chỗ này. Nhà samurai bự.
+
+// SPEAKER: ALCHEMIST
+// So you lived here, Yuki-chan?
+vocs_over_over_uprising_sensei1_n01=Cháu đã sống ở đây hả, Yuki-chan?
+
+// SPEAKER: TRAPPER
+// Yes, with Okaa-san. Not forever, though.
+vocs_over_over_uprising_sensei1_n02=Vâng, với Okaa-san. Mặc dù không lâu lắm.
+
+// SPEAKER: ALCHEMIST
+// Then why did you leave? Did something happen?
+vocs_over_over_uprising_sensei1_n03=Vậy sao cháu bỏ đi? Đã có chuyện gì à?
+
+// SPEAKER: TRAPPER
+// Bad things. Long ago. It...it was a bit like this.
+vocs_over_over_uprising_sensei1_n04=Nhiều thứ tệ lắm. Cũng lâu rồi. Nó...nó cũng y thế này một xíu.
+
+// SPEAKER: ALCHEMIST
+// Ah...dark memories. Forget that I asked. Let us head for the castle.
+vocs_over_over_uprising_sensei1_n05=Ah...ký ức u ám. Quên nó đi. Giờ chúng ta phải lẻn vào thành.
+
+// SPEAKER: ALCHEMIST
+// Yuki-chan... What happened after leaving?
+vocs_over_over_uprising_sensei2_n00=Yuki-chan... Chuyện gì xảy ra sau khi cháu bỏ đi?
+
+// SPEAKER: TRAPPER
+// ...why do you want to know?
+vocs_over_over_uprising_sensei2_n01=...sao ông lại muốn biết?
+
+// SPEAKER: ALCHEMIST
+// I was wondering...how you've learned the things you know.
+vocs_over_over_uprising_sensei2_n02=Ta tự hỏi...làm thế nào mà cháu học được mấy thứ này.
+
+// SPEAKER: TRAPPER
+// Well...some things you learn from people. Others you don't. If there's no one who can teach you...
+vocs_over_over_uprising_sensei2_n03=Dạ...số thứ cháu học từ con người. Số khác thì không. Nếu như không ai có thể chỉ cho cháu...
+
+// SPEAKER: ALCHEMIST
+// ...then you must teach yourself. You watch, you learn. You question things, and earn the answers. Am I right?
+vocs_over_over_uprising_sensei2_n04=...thì cháu phải tự dạy cho mình. Cháu tìm hiểu rồi tự học. Đặt câu hỏi cho mọi thứ rồi tìm kiếm câu trả lời. Đúng vậy không?
+
+// SPEAKER: TRAPPER
+// Yes...
+vocs_over_over_uprising_sensei2_n05=Dạ đúng...
+
+// SPEAKER: ALCHEMIST
+// Now, a final question, Yuki-chan. How did I make my rifle so quiet?
+vocs_over_over_uprising_sensei3_n00=Giờ một câu hỏi cuối, Yuki-chan. Sao ta làm được súng trường rất im lặng?
+
+// SPEAKER: TRAPPER
+// I-it's...You... No, that's not it! Oh, it's so hard; I don't understand it!
+vocs_over_over_uprising_sensei3_n01=Cháu-bởi vì...Ông... Không, không phải nó! Oh, nó khó quá; Cháu không hiểu được!
+
+// SPEAKER: ALCHEMIST
+// Life can be a marvelous teacher. Yet some things only show themselves when others point them out to you.
+vocs_over_over_uprising_sensei3_n02=Cuộc sống có thể trở thành một thầy giáo tuyệt vời. Tuy nhiên một số thứ chỉ biết được khi có người khác chỉ cho cháu.
+
+// SPEAKER: TRAPPER
+// Takuma-sama...
+vocs_over_over_uprising_sensei3_n03=Takuma-sama...
+
+// SPEAKER: ALCHEMIST
+// Will you let me show you how it works, Yuki-chan?
+vocs_over_over_uprising_sensei3_n04=Có muốn để ta chỉ cho cháu cách nó hoạt động không, Yuki-chan?
+
+// SPEAKER: TRAPPER
+// You mean...like a sensei?
+vocs_over_over_uprising_sensei3_n05=Ý ông là...như một sensei?
+
+// SPEAKER: ALCHEMIST
+// If that is what you want, Yuki-chan.
+vocs_over_over_uprising_sensei3_n06=Nếu đó là thứ cháu muốn, Yuki-chan.
+
+// SPEAKER: TRAPPER
+// Really?! Yes! Yes, I want that!
+vocs_over_over_uprising_sensei3_n07=Thiệt hả?! Có! Có, cháu muốn lắm!
+
+// SPEAKER: ALCHEMIST
+// Hehehe. Who would have thought I would find an apprentice on the battlefield.
+vocs_over_over_uprising_sensei3_n08=Hehehe. Ai mà biết được mình lại có thể tìm được một học trò ở trên chiến trường không cơ chứ.
+
+// SPEAKER: ENEMY
+// Hold the line!
+vo_hint_hint_uprising_warzone_n00=Giữ chặt dây!
+
+// SPEAKER: ENEMY
+// Let no one through!
+vo_hint_hint_uprising_warzone_n01=Không để ai qua!
+
+// SPEAKER: ENEMY
+// Death to the Shogun's men!
+vo_hint_hint_uprising_warzone_n02=Cái chết của lính Mạc Chúa!
+
+// SPEAKER: STATIC
+// Hold the line!
+vo_hint_hint_uprising_warzone_n03=Giữ chặt dây!
+
+// SPEAKER: STATIC
+// For Lord Okkoto!
+vo_hint_hint_uprising_warzone_n04=Vì ngài Okkoto!
+
+// SPEAKER: STATIC
+// Push them back!
+vo_hint_hint_uprising_warzone_n05=Đẩy chúng quay lại!
+
+// SPEAKER: SAMURAI
+// Hold the line!
+vo_hint_hint_uprising_warzone_n06=Giữ chặt dây!
+
+// SPEAKER: SAMURAI
+// Death and glory!
+vo_hint_hint_uprising_warzone_n07=Cái chết và vinh quang!
+
+// SPEAKER: SAMURAI
+// For honor!
+vo_hint_hint_uprising_warzone_n08=Vì danh dự!
+
+// SPEAKER: CIVILIAN M
+// Keep pushing forward!
+vo_hint_hint_uprising_warzone_n09=Tiếp tục đẩy về phía trước!
+
+// SPEAKER: CIVILIAN M
+// Fire!
+vo_hint_hint_uprising_warzone_n10=Bắn!
+
+// SPEAKER: CIVILIAN M
+// Do not let up on them!
+vo_hint_hint_uprising_warzone_n11=Đừng để chúng lên!
+
+// SPEAKER: CIVILIAN M
+// For the Shogun!
+vo_hint_hint_uprising_warzone_n12=Vì Mạc Chúa!
+
+// SPEAKER: CIVILIAN M
+// For Lord Noboru!
+vo_hint_hint_uprising_warzone_n13=Vì ngài Noboru!
+
+// SPEAKER: CIVILIAN M
+// Rebel traitors!
+vo_hint_hint_uprising_warzone_n14=Lũ phản bội phiến quân!
+
+// SPEAKER: CIVILIAN M
+// Attack!
+vo_hint_hint_uprising_warzone_n15=Tấn công!
+
+// SPEAKER: ENEMY
+// We are barely keeping them back.
+vo_hint_hint_uprising_hold_n00=Gần như đang đẩy lui được chúng.
+
+// SPEAKER: STATIC
+// I don't care! The flank must hold!
+vo_hint_hint_uprising_hold_n01=Đéo quan tâm! Các cánh phải giữ chặt!
+
+// SPEAKER: ENEMY
+// We are doing what we can. We need supplies!
+vo_hint_hint_uprising_hold_n02=Đã làm những gì chúng ta có thể. Cần phải tiếp tế!
+
+// SPEAKER: STATIC
+// They need supplies?! Well, bad luck! We can't open the gate!
+vo_hint_hint_uprising_hold_n03=Họ cần tiếp tế?! Đời quá đen! Chúng ta không thể mở cổng!
+
+// SPEAKER: ENEMY
+// No supplies? Then we need men!
+vo_hint_hint_uprising_hold_n04=Không tiếp tế? Vậy thì thêm lính!
+
+// SPEAKER: STATIC
+// They need men?! We can't spare anyone!
+vo_hint_hint_uprising_hold_n05=Họ cần thêm lính?! Chúng ta không thể thêm!
+
+// SPEAKER: NINJA
+// Got one.
+vocs_over_over_uprising_officer_n00=Một mạng.
+
+// SPEAKER: WARRIOR
+// Officer down!
+vocs_over_over_uprising_officer_n01=Chỉ huy chết!
+
+// SPEAKER: TRAPPER
+// One flag down!
+vocs_over_over_uprising_officer_n02=Một cái cờ!
+
+// SPEAKER: ALCHEMIST
+// Hehe! Officer down!
+vocs_over_over_uprising_officer_n03=Hehe! Chỉ huy dẹo!
+
+// SPEAKER: BROGUN
+// The enemy command is weakened! Advance!
+vocs_over_over_uprising_officer_n04=Chỉ huy địch đã suy yếu! Xông lên!
+
+// SPEAKER: BROGUN
+// Another officer has fallen! Break through their lines!
+vocs_over_over_uprising_officer_n05=Một chỉ huy chúng đã chết! Phá vỡ phòng tuyến!
+
+// SPEAKER: BROGUN
+// We are gaining the advantage! Forward, for the Shogun!
+vocs_over_over_uprising_officer_n06=Chúng ta đang có lợi thế! Tiên lên, vì Mạc Chúa!
+
+// SPEAKER: WARRIOR
+// Is everyone inside?
+vocs_over_over_uprising_regroup_n00=Mọi người đã vào trong?
+
+// SPEAKER: NINJA
+// I'm with you.
+vocs_over_over_uprising_regroup_n01=Tôi với anh.
+
+// SPEAKER: ALCHEMIST
+// Here. And Yuki-chan.
+vocs_over_over_uprising_regroup_n02=Đây. Và Yuki-chan nữa.
+
+// SPEAKER: WARRIOR
+// Good. We must make haste and destroy the supply depot!
+vocs_over_over_uprising_regroup_n03=Tốt. Phải nhanh chóng phá hủy kho tiếp tế!
+
+// SPEAKER: NINJA
+// General Okkoto's tent.
+vocs_over_over_uprising_priorities_n00=Lều tướng Okkoto.
+
+// SPEAKER: TRAPPER
+// He's close.
+vocs_over_over_uprising_priorities_n01=Hắn gần đây.
+
+// SPEAKER: ALCHEMIST
+// A fateful confrontation.
+vocs_over_over_uprising_priorities_n02=Cuộc đối đầu định mệnh.
+
+// SPEAKER: WARRIOR
+// We must destroy the depot before we engage Okkoto.
+vocs_over_over_uprising_priorities_n03=Phải phá hủy kho trước khi đấu với Okkoto.
+
+// SPEAKER: CIVILIAN M
+// Y-you...you're not Okkoto's men.
+vocs_over_over_uprising_prisoners_n00=A-anh...không phải là người của Okkoto.
+
+// SPEAKER: WARRIOR
+// We have unlocked your door, but stay here until Lord Noboru storms the castle.
+vocs_over_over_uprising_prisoners_n01=Đã mở cổng cho anh, nhưng vẫn cần phải ở đây cho đến khi lãnh chúa Noboru càn quét thành xong.
+
+// SPEAKER: CIVILIAN M
+// Understood. But be careful if you face the General. You will need the skill of a true samurai to defeat him.
+vocs_over_over_uprising_prisoners_n02=Hiểu rồi. Nhưng cần cẩn thận khi đối mặt với tướng quân. Anh cần kĩ năng của một samurai thực thụ để hạ được hắn.
+
+// SPEAKER: CIVILIAN M
+// Understood. Thank you.
+vocs_over_over_uprising_prisoners_n02a=Hiểu rồi. Xin đa tạ.
+
+// SPEAKER: WARRIOR
+// ...
+vocs_over_over_uprising_explosives1_n00=...
+
+// SPEAKER: ALCHEMIST
+// Hehe! Getting old, Mugen?
+vocs_over_over_uprising_explosives1_n01=Hehe! Thấy già chưa Mugen?
+
+// SPEAKER: WARRIOR
+// A man should be proud of his age, as you very well know.
+vocs_over_over_uprising_explosives1_n02=Một người đàn ông phải tự hào về tuổi của mình, lão cũng biết thế mà.
+
+// SPEAKER: ALCHEMIST
+// Oh, wise words, Mugen. Hehe! Wise words.
+vocs_over_over_uprising_explosives1_n03=Oh, nói khôn đấy, Mugen. Hehe! Rất khôn.
+
+// SPEAKER: WARRIOR
+// ...done.
+vocs_over_over_uprising_explosives2_n00=...xong.
+
+// SPEAKER: ALCHEMIST
+// Ah, this brings back memories. Everyone, keep your distance.
+vocs_over_over_uprising_explosives2_n01=Ah, nó gợi cho lão những kỉ niệm. Mọi người, giữ khoảng cách.
+
+// SPEAKER: ALCHEMIST
+// Hah! A crucial miscalculation. Now we lack the means to destroy the depot.
+vocs_over_over_uprising_explosives3_n00=Hah! Một tính toán sai lầm nghiêm trọng. Giờ lấy cái vẹo gì để phá hủy kho đây.
+
+// SPEAKER: WARRIOR
+// The rebels have lost their supplies! Now we must confront Okkoto. Be ready for anything.
+vocs_over_over_uprising_explosives4_n00=Lũ phiến quân đã mất tiếp tế! Giờ phải đối đầu Okkoto. Chuẩn bị mọi thứ đi.
+
+// SPEAKER: ENEMY
+// Aah!
+vo_hint_hint_uprising_investigate_n00=Aah!
+
+// SPEAKER: SAMURAI
+// What?! What is it?!
+vo_hint_hint_uprising_investigate_n01=Hả?! Nó là cái gì?!
+
+// SPEAKER: STATIC
+// Aah!
+vo_hint_hint_uprising_investigate_n02=Aah!
+
+// SPEAKER: ENEMY
+// ...how could this happen?
+vo_hint_hint_uprising_investigate_n03=...sao lại thế này được?
+
+// SPEAKER: STATIC
+// They...they hit the depot!
+vo_hint_hint_uprising_investigate_n04=Chúng...chúng đánh vào kho!
+
+// SPEAKER: ENEMY
+// Everyone! Find out who did this!
+vo_hint_hint_uprising_investigate_n05=Mọi người! Tìm xem lũ nào gây ra chuyện này!
+
+// SPEAKER: SAMURAI
+// Fetch water! Stop the fire from spreading!
+vo_hint_hint_uprising_investigate_n06=Lấy nước! Đừng cho lửa lan ra!
+
+// SPEAKER: WARRIOR
+// This one is too small to destroy the supply depot. I must find a larger barrel.
+vocs_over_over_uprising_explosives5_n00=Nó quá nhỏ để thổi bay cái kho. Cần phải tìm thùng to hơn.
+
+// SPEAKER: GENERAL
+// Assassins. Their stench lingers in the air. They have destroyed our supplies and now they come for me.
+vocs_over_over_uprising_bossspawn_n00=Sát thủ. Mùi thối của chúng vẫn còn lưu lại trong không khí. Chúng phá hủy nguồn tiếp tế và giờ sẽ tìm đến ta.
+
+// SPEAKER: GENERAL
+// Take up formation! Hold out until Kage-sama comes with reinforcements. Show these worms the wrath of true samurai!
+vocs_over_over_uprising_bossspawn_n01=Dàn trận! Giữ vững cho đến khi Kage-sama tới cùng tiếp viện. Để lũ sâu bọ thấy được cơn thịnh nộ thực sự của samurai!
+
+// SPEAKER: WARRIOR
+// Everyone, take position.
+vocs_over_over_uprising_bossspawn_n02=Mọi người, vào vị trí.
+
+// SPEAKER: WARRIOR
+// Takuma-san, you have the high ground!
+vocs_over_over_uprising_bossspawn_n03=Takuma-san, lão lên trên cao!
+
+// SPEAKER: ALCHEMIST
+// On my way! Hehe.
+vocs_over_over_uprising_bossspawn_n04=Đang tới! Hehe.
+
+// SPEAKER: WARRIOR
+// Hayato-san. Yuki-chan.
+vocs_over_over_uprising_bossspawn_n05=Hayato-san. Yuki-chan.
+
+// SPEAKER: NINJA
+// Going in.
+vocs_over_over_uprising_bossspawn_n06=Đi nào.
+
+// SPEAKER: TRAPPER
+// Hai!
+vocs_over_over_uprising_bossspawn_n07=Hai!
+
+// SPEAKER: WARRIOR
+// Let us end this rebellion once and for all.
+vocs_over_over_uprising_bossspawn_n08=Hãy kết thúc cuộc nổi loạn này một lần và mãi mãi.
+
+// SPEAKER: GENERAL
+// Kage-sama will come. Until then, we must prevail.
+vo_hint_hint_uprising_order_n00=Kage-sama sẽ tới. Đến lúc đó chúng ta phải trụ vững.
+
+// SPEAKER: GENERAL
+// Don't let that scum in here.
+vo_hint_hint_uprising_order_n01=Đừng để cặn bã dính tới chỗ này.
+
+// SPEAKER: GENERAL
+// Stay vigilant! Reinforcements will arrive soon.
+vo_hint_hint_uprising_order_n02=Đề cao cảnh giác! Quân tiếp viện sẽ tới.
+
+// SPEAKER: GENERAL
+// Keep focused, everyone. They are here somewhere.
+vo_hint_hint_uprising_order_n03=Mọi người giữ tập trung. Chúng đang ở đâu đây.
+
+// SPEAKER: GENERAL
+// Shoot on sight! Don't hesitate.
+vo_hint_hint_uprising_order_n04=Thấy là bắn! Không ngần ngại.
+
+// SPEAKER: GENERAL
+// Shinobi filth!
+vo_hint_hint_uprising_insult_n00=Shinobi bẩn thỉu!
+
+// SPEAKER: GENERAL
+// Hiding like the snakes you are.
+vo_hint_hint_uprising_insult_n01=Lủi như ngươi là con rắn.
+
+// SPEAKER: GENERAL
+// You are no match for me, scum.
+vo_hint_hint_uprising_insult_n02=Ngươi không cùng đẳng cấp với ta, đồ cặn bã.
+
+// SPEAKER: GENERAL
+// Fools! I will present your heads to Kage-sama.
+vo_hint_hint_uprising_insult_n03=Ngu dốt! Ta sẽ trình đầu của ngươi cho Kage-sama.
+
+// SPEAKER: GENERAL
+// You cowards will rot in the dirt.
+vo_hint_hint_uprising_insult_n04=Kẻ hèn nhát sẽ mục nát trong bẩn thỉu.
+
+// SPEAKER: GENERAL
+// You cannot kill me, scum. Why does Kage-sama keep me waiting...
+vocs_over_over_uprising_debriefing_n00=Mày không thể giết tao, đồ chó. Tại sao Kage-sama lại bắt tao phải chờ...
+
+// SPEAKER: WARRIOR
+// Don't you see? No one is coming. Kage-sama has left you to die.
+vocs_over_over_uprising_debriefing_n01=Anh không thấy sao? Không ai tới cả. Kage-sama bỏ mặc anh tới chết.
+
+// SPEAKER: GENERAL
+// I... It cannot be! Kage-sama... He has no honor? That treacherous coward!
+vocs_over_over_uprising_debriefing_n02=Tao... Đéo đời nào! Kage-sama... Ngài không có danh dự ư? Như thế là kẻ phản bội hèn nhát đấy!
+
+// SPEAKER: WARRIOR
+// My name is Ōshiro Mugen. You and I are both men of honor. Tell me who Kage-sama is, and I will grant you the death of a samurai.
+vocs_over_over_uprising_debriefing_n03=Tên tôi là Ōshiro Mugen. Tôi và anh đều là người đàn ông danh dự. Nói cho tôi ai là Kage-sama, và tôi sẽ cho anh chết như một samurai.
+
+// SPEAKER: GENERAL
+// Haha! How kind of you. But I cannot take your offer. I never saw the man's face.
+vocs_over_over_uprising_debriefing_n04=Haha! Mày đùa tao à. Nhưng tao không thể lấy lời đề nghị của mày rồi. Tao đã bao giờ thấy mặt hắn đếch đâu.
+
+// SPEAKER: WARRIOR
+// Then tell me what you know.
+vocs_over_over_uprising_debriefing_n05=Vậy nói cho tôi những gì anh biết.
+
+// SPEAKER: GENERAL
+// Damn you... There were three to our alliance: Lord Yabu, Kage-sama and I. We were gathering strength to take Edo... Then assassins came for Yabu...
+vocs_over_over_uprising_debriefing_n08=Chết tiệt... Có 3 người trong liên minh bọn tao: lãnh chúa Yabu, Kage-sama và tao. Bọn tao đang tập trung lực để chiếm Edo... Rồi sát thủ xử lý Yabu...
+
+// SPEAKER: WARRIOR
+// What was the goal of your alliance? Why work to destroy peace, when we'd finally achieved it?
+vocs_over_over_uprising_debriefing_n10=Mục tiêu liên mình là gì? Sao lại hủy hoại hòa bình, khi mà chúng ta đã có được nó?
+
+// SPEAKER: GENERAL
+// What is a samurai in times of peace? We are made for battle! We can only thrive in battle! Kage-sama understood this, and so I followed him!
+vocs_over_over_uprising_debriefing_n11=Một samurai thời bình thì làm cái khỉ gì? Chúng ta dựng nên cuộc chiến! Chúng ta chỉ có thể sống sốt trong đó! Kage-sama cũng biết điều này, và ta đã đi theo hắn!
+
+// SPEAKER: WARRIOR
+// Yet in the end he betrayed you. This man has no honor. He must be brought to justice.
+vocs_over_over_uprising_debriefing_n12=Rồi cuối cùng hắn cũng phản bội anh. Hắn không có danh dự. Hắn phải bị đưa ra trước công lý.
+
+// SPEAKER: GENERAL
+// Very well. We last met in a hidden camp. I have a map in my tent. Maybe you will find him there. Now...honor our agreement!
+vocs_over_over_uprising_debriefing_n13=Được thôi. Lần cuối bọn tao gặp nhau là ở trại bí ẩn. Tao có bản đồ tới lều của hắn. Có thể mày sẽ tìm được hắn. Giờ...tôn trọng thỏa thuận của mày đi!
+
+// SPEAKER: WARRIOR
+// I will do what must be done. Take this...
+vocs_over_over_uprising_debriefing_n14=Tôi sẽ thực hiện những gì cần phải làm. Cầm lấy này...
+
+// SPEAKER: WARRIOR
+// I will assist you. Everyone, bear witness!
+vocs_over_over_uprising_debriefing_n15=Tôi sẽ hỗ trợ anh. Mọi người, làm chứng!
+
+// SPEAKER: GENERAL
+// ...shall Ashura subdue a man like me? ...I shall be born again...and cut off Ōshiro Mugen's head...
+vocs_over_over_uprising_debriefing_n16=...Ashura sẽ hồi sinh một người đàn ông như ta? ...Ta sẽ được sinh ra lần nữa...và ta sẽ lấy đầu của Ōshiro Mugen...
+
+// SPEAKER: GENERAL
+// Shall Ashura subdue a man like me? ...I shall be born again...and cut off Kage-sama's head...
+vocs_over_over_uprising_debriefing_n16a=...Ashura sẽ hồi sinh một người đàn ông như ta? ...Ta sẽ được sinh ra lần nữa...và ta sẽ lấy đầu của Kage-sama...
+
+// SPEAKER: GENERAL
+// ... 
+vocs_over_over_uprising_debriefing_n17=...
+
+// SPEAKER: WARRIOR
+// ... 
+vocs_over_over_uprising_debriefing_n18=...
+
+// SPEAKER: NINJA
+// Wonder why Kage-sama betrayed him.
+vocs_over_over_uprising_debriefing_n19=Sao Kage-sama phản bội hắn nhỉ?
+
+// SPEAKER: WARRIOR
+// Difficult to say. If Okkoto spoke the truth, Kage-sama is now in our grasp.
+vocs_over_over_uprising_debriefing_n20=Khó mà biết được. Nếu mà Okkoto nói thật, Kage-sama sẽ nằm trong tay chúng ta.
+
+// SPEAKER: ALCHEMIST
+// Hmm...then we should tread carefully.
+vocs_over_over_uprising_debriefing_n21=Hmm...vậy chúng ta nên cẩn thận.
+
+// SPEAKER: TRAPPER
+// I wonder how Aiko-san is doing?
+vocs_over_over_uprising_debriefing_n22=Mình tự hỏi Aiko-san đang làm gì ta?
+
+// SPEAKER: WARRIOR
+// We will re-join her and Lord Noboru and return to Edo. The Shogun will know what to do.
+vocs_over_over_uprising_debriefing_n23=Chúng ta sẽ nhập đội với lãnh chúa Noboru và quay về Edo. Mạc Chúa sẽ biết phải làm gì.
+

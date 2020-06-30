@@ -1,0 +1,180 @@
+// Snow
+994603551=Tuyết
+
+// Moving through snow leaves footprints that fade away after a short time.
+-923256409=Di chuyển trên tuyết sẽ để lại dấu chân mờ dần trong thời gian ngắn.
+
+// Moving through snow leaves footprints that fade away after a short time.
+1865246316=Di chuyển trên tuyết sẽ để lại dấu chân mờ dần trong thời gian ngắn.
+
+// Enemies will follow your tracks until they find you, or reach a dead end.
+1309044129=Địch sẽ lần theo dấu chân đến khi chúng tìm thấy bạn, hoặc đến khi bị giết.
+
+// Enemies will follow your tracks until they find you, or reach a dead end.
+-97799568=Địch sẽ lần theo dấu chân đến khi chúng tìm thấy bạn, hoặc đến khi bị giết.
+
+// Pickpocketing
+1549191831=Móc túi
+
+// Certain icons over a character's head show that they are carrying a stealable item.
+-2048802228=Biểu tượng xác định trên đầu các nhân vật cho thấy rằng có thể móc túi chúng đươc.
+
+// Certain icons over a character's head show that they are carrying a stealable item.
+-1039271243=Biểu tượng xác định trên đầu các nhân vật cho thấy rằng có thể móc túi chúng đươc.
+
+// Hold <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to steal the item.
+1163676134=Giữ <hotkey>{0}</hotkey> và sử dụng <hotkey>{1}</hotkey> để ăn trộm.
+
+// Get close and press {0} to steal the item.
+761964049=Lại gần và nhấn {0} để ăn trộm.
+
+// You can also get the item from their corpse.
+1346029338=Cũng có thể moi được từ xác chết của chúng.
+
+// You can also get the item from their corpse.
+1330210657=Cũng có thể moi được từ xác chết của chúng.
+
+// Samurai
+-973720222=Samurai
+
+// Samurai are dangerous and hard to kill.
+274502408=Samurai nguy hiểm và khó giết.
+
+// Samurai are dangerous and hard to kill.
+1069086364=Samurai nguy hiểm và khó giết.
+
+// Like Strawhats, they are resistant to lures and distractions.
+-1489546170=Giống Mũ Rơm, chúng không bị phân tâm và ảnh hưởng bởi mồi nhử.
+
+// Like Strawhats, they are resistant to lures and distractions.
+-1507816101=Giống Mũ Rơm, chúng không bị phân tâm và ảnh hưởng bởi mồi nhử.
+
+// Unlike Strawhats, they investigate threats with brutal efficiency.
+-539459900=Không giống Mũ Rơm, chúng điều tra mối đe dọa có hiệu quả tàn bạo.
+
+// Unlike Strawhats, they investigate threats with brutal efficiency.
+-818535447=Không giống Mũ Rơm, chúng điều tra mối đe dọa có hiệu quả tàn bạo.
+
+// Mugen can kill them with a melee attack. Anyone else will die if they attack a samurai.
+962045031=Mugen có thể giết chúng ở cự li gần. Còn những người khác sẽ chết nếu tấn công một Samurai.
+
+// Mugen can kill them with a melee attack. Anyone else will die if they attack a samurai.
+439112068=Mugen có thể giết chúng ở cự li gần. Còn những người khác sẽ chết nếu tấn công một Samurai.
+
+// Regroup with Mugen
+-1551546258=Tái hợp nhóm với Mugen
+
+// Mugen waits for you across the street. Meet up with him.
+820830334=Mugen đang chờ trên phố. Hãy gặp lại anh ta.
+
+// Get Mugen Inside
+1085822645=Đưa Mugen vào trong
+
+// Get the key from the samurai and let Mugen in.
+1562689879=Lấy chìa khóa từ Samurai và đưa Mugen vào trong.
+
+// Steal the Key
+1886626968=Ăn trộm chìa khóa
+
+// Steal the key from the samurai. You can pickpocket him, or find a way to kill him.
+1414510415=Ăn trộm chìa khóa từ Samurai. Có thể móc túi hắn, hoặc tìm cách giết chết hắn.
+
+// North Gate
+2083738086=Cổng Bắc
+
+// Let Mugen in through the north gate.
+-1093789596=Đưa Mugen vào bằng cổng phía Bắc
+
+// South Gate
+799324653=Cổng Nam
+
+// Let Mugen in through the south gate.
+-808224418=Đưa Mugen vào bằng cổng phía Nam
+
+// Regroup
+2023154798=Tái hợp nhóm
+
+// Gather at a safe spot and discuss your next steps.
+-1398181148=Tập trung tại vị trí an toàn và nói tiếp về các bước tiếp theo.
+
+// Safe Spot A
+-1688623784=Điểm an toàn A
+
+// Gather in the bushes near the north gate.
+-684822181=Nấp trong bụi cây gần cổng phía Bắc.
+
+// Safe Spot B
+-1177498189=Điểm an toàn B
+
+// Gather in the bushes near the south gate.
+-1493995524=Nấp trong bụi cây gần cổng phía Nam.
+
+// Create a Distraction
+399037376=Tạo sự xáo trộn
+
+// Lure away the official's guards by destroying a wooden tower with Mugen.
+41831933=Dụ lính rời xa Chỉ huy bằng cách Mugen phá hủy tháp gỗ.
+
+// Tower A
+-1330884926=Tháp A
+
+// Destroy a wooden tower with Mugen. There is one in the backyard.
+1815083677=Mugen phá hủy tháp gỗ. Ở đây có sân sau.
+
+// Tower B
+-1115402441=Tháp B
+
+// Destroy a wooden tower with Mugen. There is one near the main entrance.
+-1206569021=Mugen phá hủy tháp gỗ. Ở đây gần lối vào chính.
+
+// Steal the Papers
+-917801829=Ăn trộm giấy tờ
+
+// Steal the important papers without killing the official.
+1274333574=Ăn trộm giấy tờ quan trọng mà không giết Chỉ Huy.
+
+// Hide in the Wagon
+-1701450127=Nấp trong xe bò
+
+// Leave Imai town by hiding in the green wagon.
+-446694094=Rời thị trấn Imai bằng cách nấp trong xe bò màu xanh.
+
+// Gate
+1423115485=Cổng
+
+// The gate is locked. There must be a key somewhere. 
+1032906204=Cổng đã bị khóa. Chìa khóa phải ở đâu đây.
+
+// Key
+-764328100=Chìa khóa
+
+// That samurai has the key to the door. 
+-1002163090=Samurai này có chìa khóa mở cổng.
+
+// Icicles
+787527055=Cột băng
+
+// Those icicles look unstable.
+-1175910118=Cột băng có vẻ không ổn định.
+
+// Wooden Platforms
+-2063132077=Nền gỗ
+
+// The wooden platforms can be cut down by Mugen. 
+743319387=Mugen có thể chém nền gỗ.
+
+// Red Wagon
+2015225921=Xe bò màu đỏ
+
+// The red wagon delivers sake to the northern market.
+-1155065368=Xe bò đỏ chở rượu tới chợ phía Bắc.
+
+// Maniwa Namakemono
+208725814=Maniwa Namakemono
+
+// You killed the official.
+-1922531825=Bạn đã giết Chỉ Huy.
+
+// You cannot complete your mission objective.
+893917211=Bạn không thể hoàn thành mục tiêu nhiệm vụ.
+

@@ -1,0 +1,168 @@
+// Rotate Camera\n(Hold {0})
+-852839454=Xoay Camera\n(Giữ {0})
+
+// {0} to quicksave
+-184246624={0} để lưu nhanh
+
+// Rotate Camera\n(Hold {0})
+-1184480434=Xoay Camera\n(Giữ {0})
+
+// Quicksave ({0})
+281664816=Lưu nhanh ({0})
+
+// Kill the Spy
+244161932=Giết gián điệp
+
+// Make your way into his camp and assassinate the spy.
+-2042307143=Làm theo cách mà bạn muốn để lọt vào trại của hắn ta và ám sát gián điệp.
+
+// Escape
+-513099499=Trốn thoát
+
+// Escape from the camp using the path in the east.
+-1462046965=Thoát khỏi trại bằng con đường ở phía Đông
+
+// Field of View
+-544980731=Tầm nhìn
+
+// All enemies have a field of view, represented by a green cone.
+-1768209428=Tất cả kẻ địch đều có tầm nhìn, được mô tả bởi hình nón màu xanh.
+
+// All enemies have a field of view, represented by a green cone.
+-1188931758=Tất cả kẻ địch đều có tầm nhìn, được mô tả bởi hình nón màu xanh.
+
+// If you enter it, the cone will fill up with yellow.\nIf the yellow reaches you, the enemy will sound the alarm.
+-975665355=Lọt vào tầm nhìn địch, nó sẽ chuyển sang màu vàng.\nNếu màu vàng, địch sẽ thấy bạn và tạo báo động.
+
+// If you enter it, the cone will fill up with yellow.\nIf the yellow reaches you, the enemy will sound the alarm.
+2123685994=Lọt vào tầm nhìn địch, nó sẽ chuyển sang màu vàng.\nNếu màu vàng, địch sẽ thấy bạn và tạo báo động.
+
+// The enemy's field of view has two areas: Bright and dark.
+811151381=Tầm nhìn của kẻ địch có 2 vùng: Sáng và Tối.
+
+// The enemy's field of view has two areas: Bright and dark.
+1527742753=Tầm nhìn của kẻ địch có 2 vùng: Sáng và Tối.
+
+// Crouch to pass through the dark area undetected.\nPress <hotkey>{0}</hotkey> to toggle crouch.
+756823497=Cúi người để băng qua vùng tối mà không bị phát hiện.\Nhấn <hotkey>{0}</hotkey> để cúi người.
+
+// Crouch to pass through the dark area undetected.\nPress <hotkey>{0}</hotkey> to toggle crouch.
+-1348025046=Cúi người để băng qua vùng tối mà không bị phát hiện.\Nhấn <hotkey>{0}</hotkey> để cúi người.
+
+// <hotkey>{0}</hotkey> on an enemy to display their field of view.
+1584778825=<hotkey>{0}</hotkey> vào kẻ địch để hiện thị tầm nhìn của chúng.
+
+// Hold <hotkey>{0}</hotkey> and move the cursor over an enemy to display their field of view.
+-1689247423=Giữ <hotkey>{0}</hotkey> và di chuyển chuột vào kẻ địch để hiển thị tầm nhìn của chúng.
+
+// Trap & Whistle
+1641943982=Bẫy & Huýt Sáo
+
+// <yuki>Yuki</yuki> can place a trap that will kill enemies when they step on it.
+-7950849=<yuki>Yuki</yuki> có thể đặt bẫy để giết chết kẻ địch nếu chúng dẫm phải nó.
+
+// <yuki>Yuki</yuki> can place a trap that will kill enemies when they step on it.
+349590852=<yuki>Yuki</yuki> có thể đặt bẫy để giết chết kẻ địch nếu chúng dẫm phải nó.
+
+// Press <hotkey>{0}</hotkey> to select Place Trap.
+-671444815=Nhấn <hotkey>{0}</hotkey> để chọn kĩ năng Đặt Bẫy.
+
+// Hold <hotkey>{0}</hotkey> to open the Skill Wheel and select Place Trap.
+1745251887=Giữ <hotkey>{0}</hotkey> để mở Vòng Kĩ Năng và chọn Đặt Bẫy.
+
+// Press <hotkey>{0}</hotkey> to place the trap.
+1010933097=Nhấn <hotkey>{0}</hotkey> để đặt bẫy.
+
+// Hold <hotkey>{0}</hotkey> to place the trap.
+-530647517=Giữ <hotkey>{0}</hotkey> để đặt bẫy.
+
+// <yuki>Yuki</yuki> can also whistle enemies toward her location.
+-140565559=<yuki>Yuki</yuki> cũng có thể huýt sáo để dụ kẻ địch tới vị trí mình.
+
+// <yuki>Yuki</yuki> can also whistle enemies toward her location.
+65182843=<yuki>Yuki</yuki> cũng có thể huýt sáo để dụ kẻ địch tới vị trí mình.
+
+// Select the Whistle skill by pressing <hotkey>{1}</hotkey>, then press <hotkey>{0}</hotkey> to whistle enemies toward Yuki's location.
+374985233=Lựa chọn kĩ năng Huýt Sáo bằng cách nhấn <hotkey>{1}</hotkey>, rồi nhấn <hotkey>{0}</hotkey> để huýt sáo gọi kẻ địch tới chỗ của Yuki.
+
+// Select the Whistle skill by pressing <hotkey>{1}</hotkey>, then press <hotkey>{0}</hotkey> to whistle enemies toward Yuki's location.
+543563174=Lựa chọn kĩ năng Huýt Sáo bằng cách nhấn <hotkey>{1}</hotkey>, rồi nhấn <hotkey>{0}</hotkey> để huýt sáo gọi kẻ địch tới chỗ của Yuki.
+
+// Using the trap and whistle together can be a powerful combination.
+1656751829=Sử dụng bẫy và huýt sáo là hai sự kết hợp hoàn hảo.
+
+// Using the trap and whistle together can be a powerful combination.
+205839128=Sử dụng bẫy và huýt sáo là hai sự kết hợp hoàn hảo.
+
+// Throwing Rocks
+945177507=Ném Đá
+
+// <hayato>Hayato</hayato> can throw rocks to distract enemies.
+1524646052=<hayato>Hayato</hayato> có thể ném đá để đánh lạc hướng kẻ địch.
+
+// <hayato>Hayato</hayato> can throw rocks to distract enemies.
+1341085711=<hayato>Hayato</hayato> có thể ném đá để đánh lạc hướng kẻ địch.
+
+// Press <hotkey>{0}</hotkey> to select Rock Throw.
+1031957154=Nhấn <hotkey>{0}</hotkey> để chọn kĩ năng Ném Đá.
+
+// Hold <hotkey>{0}</hotkey> to open the Skill Wheel and select Rock Throw.
+-1479903921=Giữ <hotkey>{0}</hotkey> để mở Vòng Kĩ Năng và chọn Ném Đá.
+
+// Press <hotkey>{0}</hotkey> to throw a rock.\nThe blue circle indicates the noise made on impact.
+2089253849=Nhấn <hotkey>{0}</hotkey> để ném đá.\nVòng tròn xanh là phạm vi tiếng ồn phát ra.
+
+// Aim with <hotkey>{0}</hotkey> and press <hotkey>{1}</hotkey> to throw a rock.\nThe blue circle indicates the noise made on impact.
+1018259848=Ngắm với <hotkey>{0}</hotkey> và nhấn <hotkey>{1}</hotkey> để ném đá.\nVòng tròn xanh là phạm vi tiếng ồn phát ra.
+
+// Enemies who hear the noise will look toward it for a few seconds.
+1816385587=Kẻ địch sẽ nhìn về phía có tiếng ồn trong vài giây.
+
+// Enemies who hear the noise will look toward it for a few seconds.
+1903572682=Kẻ địch sẽ nhìn về phía có tiếng ồn trong vài giây.
+
+// Shuriken
+-205259290=Phi Tiêu Shuriken
+
+// <hayato>Hayato's</hayato> Shuriken kills one enemy from medium range.
+1775453188=Shuriken của <hayato>Hayato</hayato> có thể giết một kẻ địch từ khoảng cách trung bình.
+
+// <hayato>Hayato's</hayato> Shuriken kills one enemy from medium range.
+1881997357=Shuriken của <hayato>Hayato</hayato> có thể giết một kẻ địch từ khoảng cách trung bình.
+
+// Press <hotkey>{0}</hotkey> to select Shuriken.
+-1995922817=Nhấn <hotkey>{0}</hotkey> để chọn kĩ năng Shuriken.
+
+// Hold <hotkey>{0}</hotkey> to open the Skill Wheel and select Shuriken.
+-1541268715=Giữ <hotkey>{0}</hotkey> để mở Vòng Kĩ Năng và chọn Shuriken.
+
+// <hotkey>{0}</hotkey> an enemy to kill them with the Shuriken.\nThe blue circle indicates the noise made by the dying enemy.
+826137123=<hotkey>{0}</hotkey> để giết kẻ địch bằng Shuriken.\nVòng tròn màu xanh là tiếng động do kẻ địch sắp chết tạo ra.
+
+// Aim with <hotkey>{0}</hotkey>, target an enemy and press <hotkey>{1}</hotkey> to kill them.\nThe blue circle indicates the noise made by the dying enemy.
+-819926893=Ngắm với <hotkey>{0}</hotkey>, mục tiêu là địch và nhấn <hotkey>{1}</hotkey> để giết chúng.\nVòng tròn màu xanh là tiếng động do kẻ địch sắp chết tạo ra.
+
+// You only have one Shuriken. Make sure to recover it before you move on.
+1230241858=Chỉ có một tiêu Shuriken. Hãy chắc chắn nhặt lại nó trước khi rời đi.
+
+// You only have one Shuriken. Make sure to recover it before you move on.
+-1790787005=Chỉ có một tiêu Shuriken. Hãy chắc chắn nhặt lại nó trước khi rời đi.
+
+// Poison
+-1990982071=Thuốc độc
+
+// Tea
+282083284=Trà
+
+// Push
+1838118872=Đẩy
+
+// Barrels
+1858270533=Thùng
+
+// Victory! Yay!
+-1897194757=Chiến thắng! Yay!
+
+// The warrior killed himself.
+-1815262713=Các chiến binh đã tự sát.
+

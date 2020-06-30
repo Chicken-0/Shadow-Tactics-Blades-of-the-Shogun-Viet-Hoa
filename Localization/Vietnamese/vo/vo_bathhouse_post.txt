@@ -1,0 +1,120 @@
+// SPEAKER: BROGUNSON
+// Ah! I don't...I don't know... My father, he...doesn't share his...plans...with me... I don't...
+vocs_over_over_bathhouse_post_n00=Ah! tôi không...tôi không biết... cha tôi, ông ấy...không chia sẻ...kế hoạch...với tôi... tôi không...
+
+// SPEAKER: ALCHEMIST
+// That is all I can do. If we give him a higher dose he won't wake up again.
+vocs_over_over_bathhouse_post_n01=Đó là tất cả thứ mà lão có thể làm. Nếu cho liều cao hơn thì nó sẽ không bao giờ tỉnh dậy nữa.
+
+// SPEAKER: GEISHA
+// Then we must work with what we have.
+vocs_over_over_bathhouse_post_n02=Vậy chúng ta phải làm với tất cả những gì chúng ta có.
+
+// SPEAKER: TRAPPER
+// Let me hurt him.
+vocs_over_over_bathhouse_post_n03=Để em làm hắn bị thương.
+
+// SPEAKER: GEISHA
+// He's the only chance we have to resolve this matter.
+vocs_over_over_bathhouse_post_n04=Nó là cơ hội duy nhất để chúng ta giải quyết vấn đề này.
+
+// SPEAKER: ALCHEMIST
+// Hmm... You have a plan?
+vocs_over_over_bathhouse_post_n05=Hmm... Cháu có kế hoạch rồi hả?
+
+// SPEAKER: GEISHA
+// The Shogun would never believe us if we tried to explain ourselves. But if Masaru confessed to him that he is Ryūnosuke's murderer, it might turn things in our favour.
+vocs_over_over_bathhouse_post_n06=Mạc Chúa không bao giờ tin nếu chúng ta cố gắng tự bào chữa cho bản thân. Nhưng nếu Masaru thú nhận nó là kẻ giết Ryūnosuke thì mọi thứ sẽ có lợi cho chúng ta.
+
+// SPEAKER: TRAPPER
+// So...we give him to the Shogun? Like a package?
+vocs_over_over_bathhouse_post_n07=Vậy...chúng ta mang hắn tới Mạc Chúa? Như một gói hàng phải không?
+
+// SPEAKER: NINJA
+// It won't be easy with that bounty on our heads.
+vocs_over_over_bathhouse_post_n08=Thật không dễ dàng với những lệnh truy nã của chúng ta.
+
+// SPEAKER: ALCHEMIST
+// There's more. Yuki and I overheard some news when we were out. The Shogun left Edo not long ago.
+vocs_over_over_bathhouse_post_n09=Còn nữa. Yuki và lão nghe được một số tin khi chuẩn bị bỏ đi. Mạc Chúa đã rời Edo cách đây không lâu.
+
+// SPEAKER: TRAPPER
+// He's on his way to visit the emperor in Kyōto.
+vocs_over_over_bathhouse_post_n10=Ngài đang trên đường tới thăm Nhật Hoàng ở Kyōto.
+
+// SPEAKER: NINJA
+// So he's not in his residence in Edo Castle. Could work for us.
+vocs_over_over_bathhouse_post_n11=Vậy ngài ấy không ở trong thành Edo. Chúng ta có thể làm được.
+
+// SPEAKER: GEISHA
+// How big is his entourage?
+vocs_over_over_bathhouse_post_n12=Đoàn tùy tùng đông bao nhiêu?
+
+// SPEAKER: ALCHEMIST
+// Three hundred thousand men. A display of power, just for the emperor.
+vocs_over_over_bathhouse_post_n13=300 ngàn người. Phô trương sức mạnh cho Nhật Hoàng.
+
+// SPEAKER: NINJA
+// That could be a problem.
+vocs_over_over_bathhouse_post_n14=Gay to rồi đây.
+
+// SPEAKER: ALCHEMIST
+// A wise man knows when to bow his head and accept defeat.
+vocs_over_over_bathhouse_post_n15=Người đàn ông khôn ngoan luôn biết cúi đầu và chấp nhận thất bại.
+
+// SPEAKER: GEISHA
+// ...no. 
+vocs_over_over_bathhouse_post_n16=...không.
+
+// SPEAKER: GEISHA
+// Mugen dedicated his life to the Shogun. For Mugen, we must reveal the truth and leave our fate in the Shogun's hands.
+vocs_over_over_bathhouse_post_n17=Anh Mugen dành trọn đời mình vì Mạc Chúa. Vì anh Mugen, chúng ta phải tiết lộ sự thật và lấy lại lòng tin của Mạc Chúa.
+
+// SPEAKER: NINJA
+// ...hm. Alone against three hundred thousand. I know Mugen would have liked that.
+vocs_over_over_bathhouse_post_n18=...hm. Một mình chống lại 300 ngàn. Tôi biết Mugen sẽ thích nó lắm.
+
+// SPEAKER: ALCHEMIST
+// Um, forgive me, Aiko-san. I cannot let you drag Yuki-chan into this.
+vocs_over_over_bathhouse_post_n19=Um, thứ lỗi cho lão, Aiko-san. Lão không thể để Yuki-chan bị kéo vào chuyện này.
+
+// SPEAKER: TRAPPER
+// ...I trust Aiko-san.
+vocs_over_over_bathhouse_post_n20=...Cháu tin tưởng Aiko-san.
+
+// SPEAKER: ALCHEMIST
+// Yuki-chan!
+vocs_over_over_bathhouse_post_n21=Yuki-chan!
+
+// SPEAKER: TRAPPER
+// Takuma-sensei...I want to go with her.
+vocs_over_over_bathhouse_post_n22=Takuma-sensei...Cháu muốn đi với chị ấy.
+
+// SPEAKER: ALCHEMIST
+// Child...
+vocs_over_over_bathhouse_post_n23=Nhóc à...
+
+// SPEAKER: TRAPPER
+// Please. I don't want to choose. Don't make me choose.
+vocs_over_over_bathhouse_post_n24=Xin ông. Cháu không muốn lựa chọn. Đừng bắt cháu chọn mà.
+
+// SPEAKER: ALCHEMIST
+// Grrrr...very well, Yuki-chan. Once more I shall follow you into the jaws of death.
+vocs_over_over_bathhouse_post_n25=Grrrr...được thôi, Yuki-chan. Một lần nữa ông sẽ theo cháu tới bờ vực của cái chết.
+
+// SPEAKER: TRAPPER
+// Hai!
+vocs_over_over_bathhouse_post_n26=Hai!
+
+// SPEAKER: GEISHA
+// You all have my thanks. Do we know where the Shogun is now?
+vocs_over_over_bathhouse_post_n27=Cháu xin cảm ơn nhiều. Còn Mạc Chúa giờ đang ở đâu?
+
+// SPEAKER: NINJA
+// I'd say he's taking the Nakasendō route. We could catch up with him on the Myōgi mountain pass.
+vocs_over_over_bathhouse_post_n28=Có thể nói ngày ấy đi theo đường Nakasendō. Chúng ta có thể bắt kịp ở trên đèo Myōgi.
+
+// SPEAKER: GEISHA
+// It will be cold there this time of year. Let us prepare for the worst.
+vocs_over_over_bathhouse_post_n29=Thời gian này ở đó sẽ lạnh đấy. Chúng ta hãy chuẩn bị cho những điều tồi tệ nhất.
+

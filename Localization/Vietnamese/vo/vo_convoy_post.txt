@@ -1,0 +1,132 @@
+// SPEAKER: NINJA
+// Not a bad place you have here.
+vocs_over_over_convoy_post_n00=Anh có nơi này cũng không hẳn là tệ cho lắm.
+
+// SPEAKER: WARRIOR
+// Come, come. Look at this.
+vocs_over_over_convoy_post_n01=Nào, lại đây. Nhìn nó này.
+
+// SPEAKER: WARRIOR
+// Our investigations show that the transport passed through the town of Imai, before it entered the Nakasendō route.
+vocs_over_over_convoy_post_n02=Cuộc điều tra của chúng tôi cho thấy đoàn xe di chuyển băng qua thị trấn Imai, trước khi nó vào đường Nakasendō.
+
+// SPEAKER: NINJA
+// Guess you can't just question the local lord? Find out who's behind this?
+vocs_over_over_convoy_post_n03=Chắc anh không thể chỉ đặt mỗi câu hỏi về lãnh chúa vùng đó? Muốn tìm ra người đứng sau mấy thứ này chứ gì?
+
+// SPEAKER: WARRIOR
+// I fear it is not that simple. Lord Yabu rules this area, a powerful daimyo who's shown little love for the Shogun since the end of the war.
+vocs_over_over_convoy_post_n04=E là không đơn giản như thế. Lãnh chúa Yabu cai quản vùng này, một đại danh quyền lực muốn thể hiện chút yêu thương với Mạc Chúa kể từ khi chiến tranh kết thúc.
+
+// SPEAKER: NINJA
+// Could be your Kage-sama. Want me to go to Imai town? Must be cold there this time of year.  
+vocs_over_over_convoy_post_n05=Có thể đó là Kage-sama của anh. Muốn tôi tới thị trấn Imai hả? Thời gian này ở đó đang lạnh đấy.
+
+// SPEAKER: WARRIOR
+// I will handle this one myself. Please tell Yuki-chan to come and see me.
+vocs_over_over_convoy_post_n06=Tự tôi sẽ xử lý. Làm ơn gọi Yuki-chan đến đây.
+
+// SPEAKER: NINJA
+// No need. She's already at the door.
+vocs_over_over_convoy_post_n07=Khỏi cần. Nhóc ấy ở ngoài cửa sẵn rồi.
+
+// SPEAKER: WARRIOR
+// Is she now?
+vocs_over_over_convoy_post_n08=Cháu đang ở đó hả?
+
+// SPEAKER: TRAPPER
+// I-I wasn't listening! I swear!
+vocs_over_over_convoy_post_n09=C-cháu không nghe thấy gì hết! Thề đấy!
+
+// SPEAKER: WARRIOR
+// Easy, Yuki-chan.
+vocs_over_over_convoy_post_n10=Không sao đâu, Yuki-chan.
+
+// SPEAKER: WARRIOR
+// Hayato-san, talk to the man outside. He will give you your first payment.
+vocs_over_over_convoy_post_n11=Hayato-san, hãy nói với người bên ngoài. Anh ấy sẽ trả khoản tiền công đầu tiên cho cậu.
+
+// SPEAKER: NINJA
+// Heh...see you.
+vocs_over_over_convoy_post_n12=Heh...hẹn gặp lại.
+
+// SPEAKER: TRAPPER
+// Where is he going? Can't I go with him?
+vocs_over_over_convoy_post_n13=Anh ấy đi đâu thế? Cháu không thể đi cùng à?
+
+// SPEAKER: WARRIOR
+// I would rather have you here with me, Yuki-chan. Your "expertise" will no doubt be useful on this mission.
+vocs_over_over_convoy_post_n14=Ta thà để cháu lại ở đây với ta còn hơn, Yuki-chan. Chuyên môn của cháu chắc chắn hữu ích cho nhiệm vụ lần này.
+
+// SPEAKER: TRAPPER
+// Huh? ...what mission? 
+vocs_over_over_convoy_post_n15=Huh? ...Nhiệm vụ nào?
+
+// SPEAKER: WARRIOR
+// A small theft. If you handle it well, you will be welcomed into our group, and I will ask Hayato-san if he will consider teaching you.
+vocs_over_over_convoy_post_n16=Thực hiện vụ trộm nhỏ. Nếu cháu làm tốt, cháu được chào đón tới nhóm của ta, và ta sẽ hỏi Hayato-san nếu anh ấy muốn xem xét việc dạy cháu.
+
+// SPEAKER: TRAPPER
+// Really?! Then...I will show you my best, master samurai!
+vocs_over_over_convoy_post_n17=Thiệt hả?! Vậy thì...cháu sẽ cho chú thấy những điều tuyệt vời nhất, chú Samurai xịn à!
+
+// SPEAKER: WARRIOR
+// As you should. Now, let me tell you the plan.
+vocs_over_over_convoy_post_n18=Cháu nên như thế. Giờ để ta nói rõ hơn về kế hoạch.
+
+// SPEAKER: TRAPPER
+// Soldiers... They're not from here.
+vocs_over_over_convoy_post_n19=Lính... Chúng không phải người ở đây.
+
+// SPEAKER: WARRIOR
+// Agreed. I doubt they belong to the city watch.
+vocs_over_over_convoy_post_n20=Đồng ý. Có những kẻ khác biệt trong đội ngũ.
+
+// SPEAKER: WARRIOR
+// Now, remember what we have come here to do.
+vocs_over_over_convoy_post_n21=Giờ, hãy nhớ rằng chúng ta đến đây để làm gì.
+
+// SPEAKER: TRAPPER
+// Break into the district office, find the important man and steal papers from him.
+vocs_over_over_convoy_post_n22=Đột nhập vào khu vực chỉ huy, tìm người đàn ông quanh trọng rồi thó mấy tờ giấy của hắn.
+
+// SPEAKER: WARRIOR
+// Very good. I suspect you will have to do some pickpocketing before this is done. 
+vocs_over_over_convoy_post_n23=Tốt lắm. Ta nghĩ là cháu sẽ phải móc thêm một số túi khác trước khi làm được chuyện đó.
+
+// SPEAKER: WARRIOR
+// Also, take this. I asked Hayato-san to make it for you.
+vocs_over_over_convoy_post_n24=Ngoài ra, ta đã hỏi Hayato-san để làm cho cháu thứ này.
+
+// SPEAKER: TRAPPER
+// That's...a hookshot! Oh thank you, master samurai! 
+vocs_over_over_convoy_post_n25=Đó là...một cái móc! Oh cảm ơn chú samurai xịn!
+
+// SPEAKER: WARRIOR
+// Now, let us begin. The district office is just ahead. We should avoid the main streets.
+vocs_over_over_convoy_post_n26=Giờ hãy bắt đầu. Khu vực chỉ huy ở phía trước. Nên tránh các con đường lớn.
+
+// SPEAKER: WARRIOR
+// I want you to be my scout. Stick to the rooftops; I will follow down below. If there is trouble, you can warn me ahead of time.
+vocs_over_over_convoy_post_n27=Ta muốn cháu làm do thám. Bám lấy mái nhà; ta sẽ theo bên dưới. Nếu có vấn đề, cháu hãy cảnh báo trước cho ta.
+
+// SPEAKER: WARRIOR
+// I want you to be my scout. See what you can find out about the official, then return to me.
+vocs_over_over_convoy_post_n27a=Ta muốn cháu làm do thám. Lượn lờ thu thập thông tin về bọn chúng, rồi quay lại với ta.
+
+// SPEAKER: TRAPPER
+// Hai, master samurai!
+vocs_over_over_convoy_post_n28=Hai, samurai xịn!
+
+// SPEAKER: WARRIOR
+// Meet me at the sake brewery when you are done. Now, let us begin.
+vocs_over_over_convoy_post_n29=Khi nào xong thì gặp ta tại nhà nấu rượu sa kê. Nào, bắt đầu thôi.
+
+// SPEAKER: WARRIOR
+// Meet me at the western shrine when you are done. Now, let us begin.
+vocs_over_over_convoy_post_n29a=Khi nào xong thì gặp ta tại đền thờ phía Tây. Nào, bắt đầu thôi.
+
+// SPEAKER: WARRIOR
+// Meet me in the western backyard when you are done. Now, let us begin.
+vocs_over_over_convoy_post_n29b=Khi nào xong thì gặp ta tại sân sau phía Tây. Nào, bắt đầu thôi.
+

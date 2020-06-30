@@ -1,0 +1,244 @@
+// SPEAKER: Brogun
+// 
+vo_eny_eny_brogun_death_scream_00=
+
+// SPEAKER: Brogun
+// 
+vo_eny_eny_brogun_death_scream_01=
+
+// SPEAKER: Brogun
+// 
+vo_eny_eny_brogun_death_scream_02=
+
+// SPEAKER: Brogun
+// 
+vo_eny_eny_brogun_death_scream_03=
+
+// SPEAKER: Brogun
+// 
+vo_eny_eny_brogun_death_scream_04=
+
+// SPEAKER: Brogun
+// 
+vo_eny_eny_brogun_death_scream_muffled_00=
+
+// SPEAKER: Brogun
+// 
+vo_eny_eny_brogun_death_scream_muffled_01=
+
+// SPEAKER: Brogun
+// 
+vo_eny_eny_brogun_death_scream_muffled_02=
+
+// SPEAKER: Brogun
+// 
+vo_eny_eny_brogun_death_scream_muffled_03=
+
+// SPEAKER: Brogun
+// 
+vo_eny_eny_brogun_death_scream_muffled_04=
+
+// SPEAKER: Brogun
+// She's dead!
+vo_eny_eny_brogun_detect_corpse_female_02=Ả ta đã chết!
+
+// SPEAKER: Brogun
+// They killed her!
+vo_eny_eny_brogun_detect_corpse_female_03=Chúng đã giết ả ta!
+
+// SPEAKER: Brogun
+// He is dead!
+vo_eny_eny_brogun_detect_corpse_male_00=Thằng này đã chết!
+
+// SPEAKER: Brogun
+// They killed him!
+vo_eny_eny_brogun_detect_corpse_male_01=Chúng đã giết thằng này!
+
+// SPEAKER: Brogun
+// Murder!
+vo_eny_eny_brogun_detect_corpse_neutral_00=Có người chết!
+
+// SPEAKER: Brogun
+// There's a killer!
+vo_eny_eny_brogun_detect_corpse_neutral_01=Có kẻ giết người!
+
+// SPEAKER: Brogun
+// You!
+vo_eny_eny_brogun_detect_player_00=Mày!
+
+// SPEAKER: Brogun
+// Mugen's men!
+vo_eny_eny_brogun_detect_player_01=Người của Mugen!
+
+// SPEAKER: Brogun
+// My brother sent you!
+vo_eny_eny_brogun_detect_player_02=Anh trai tao gửi mày tới đây!
+
+// SPEAKER: Brogun
+// That feeling...
+vo_eny_eny_brogun_detect_player_proximity_00=Có cảm giác...
+
+// SPEAKER: Brogun
+// Someone's close...
+vo_eny_eny_brogun_detect_player_proximity_01=Có kẻ đang ở gần đây...
+
+// SPEAKER: Brogun
+// There's someone there...
+vo_eny_eny_brogun_detect_player_proximity_02=Có kẻ đang ở đây...
+
+// SPEAKER: Brogun
+// She was hit badly.
+vo_eny_eny_brogun_detect_unconscious_female_01=Ả ta bị đánh khá đau đấy.
+
+// SPEAKER: Brogun
+// She is unconscious.
+vo_eny_eny_brogun_detect_unconscious_female_02=Ả ta ngất xỉu rồi.
+
+// SPEAKER: Brogun
+// She was attacked.
+vo_eny_eny_brogun_detect_unconscious_female_03=Ả ta bị tấn công.
+
+// SPEAKER: Brogun
+// He was hit badly.
+vo_eny_eny_brogun_detect_unconscious_male_00=Thằng này bị đánh khá đau đấy.
+
+// SPEAKER: Brogun
+// He is unconscious.
+vo_eny_eny_brogun_detect_unconscious_male_01=Thằng này ngất xỉu rồi.
+
+// SPEAKER: Brogun
+// He was attacked.
+vo_eny_eny_brogun_detect_unconscious_male_02=Thằng này bị tấn công.
+
+// SPEAKER: Brogun
+// Are you all right?
+vo_eny_eny_brogun_detect_unconscious_neutral_01=Mày ổn chứ?
+
+// SPEAKER: Brogun
+// What happened?
+vo_eny_eny_brogun_detect_unconscious_neutral_02=Chuyện quái gì thế hả?
+
+// SPEAKER: Brogun
+// Why are you on the ground?
+vo_eny_eny_brogun_detect_unconscious_neutral_03=Sao mày nằm trên đất hả?
+
+// SPEAKER: Brogun
+// Wake up!
+vo_eny_eny_brogun_friend_wakeup_00=Dậy ngay!
+
+// SPEAKER: Brogun
+// Resume your duty!
+vo_eny_eny_brogun_friend_wakeup_01=Tiếp tục nhiệm vụ của mày đi!
+
+// SPEAKER: Brogun
+// Stand up!
+vo_eny_eny_brogun_friend_wakeup_02=Đứng lên!
+
+// SPEAKER: Brogun
+// Hmm?
+vo_eny_eny_brogun_hear_noise_00=Hmm?
+
+// SPEAKER: Brogun
+// What was that?
+vo_eny_eny_brogun_hear_noise_01=Đéo gì thế?
+
+// SPEAKER: Brogun
+// A strange sound...
+vo_eny_eny_brogun_hear_noise_02=Tiếng động lạ...
+
+// SPEAKER: Brogun
+// ...what hit me?
+vo_eny_eny_brogun_hear_noise_directhit_00=...cái đéo gì trúng tao?
+
+// SPEAKER: Brogun
+// ...is this a joke?
+vo_eny_eny_brogun_hear_noise_directhit_01=...đùa phải không?
+
+// SPEAKER: Brogun
+// ...foolish.
+vo_eny_eny_brogun_hear_noise_directhit_02=...óc chó.
+
+// SPEAKER: Brogun
+// A fight! To arms!
+vo_eny_eny_brogun_hear_noise_gunshot_00=Chiến đấu! Tập hợp!
+
+// SPEAKER: Brogun
+// That was not one of ours!
+vo_eny_eny_brogun_hear_noise_gunshot_01=Không phải người của tao!
+
+// SPEAKER: Brogun
+// Is someone there?
+vo_eny_eny_brogun_hear_noise_human_00=Có ai đó ở đây?
+
+// SPEAKER: Brogun
+// Come out!
+vo_eny_eny_brogun_hear_noise_human_01=Ra mặt đi!
+
+// SPEAKER: Brogun
+// Stop hiding!
+vo_eny_eny_brogun_hear_noise_human_02=Đừng nấp nữa!
+
+// SPEAKER: Brogun
+// Stop this at once.
+vo_eny_eny_brogun_hear_noise_too_much_00=Dừng lại ngay.
+
+// SPEAKER: Brogun
+// What foolishness is this?
+vo_eny_eny_brogun_hear_noise_too_much_01=Thứ ngu xuẩn gì thế?
+
+// SPEAKER: Brogun
+// I have no time for this!
+vo_eny_eny_brogun_hear_noise_too_much_02=Tao không có thời gian cho chuyện này!
+
+// SPEAKER: Brogun
+// 
+vo_eny_eny_brogun_knockout_scream_00=
+
+// SPEAKER: Brogun
+// 
+vo_eny_eny_brogun_knockout_scream_01=
+
+// SPEAKER: Brogun
+// 
+vo_eny_eny_brogun_knockout_scream_02=
+
+// SPEAKER: Brogun
+// Ugh...stop toying with me.
+vo_eny_eny_brogun_regain_consciousness_00=Ugh...ngừng đùa với tao đi.
+
+// SPEAKER: Brogun
+// ...finish it.
+vo_eny_eny_brogun_regain_consciousness_01=...hoàn thành nó.
+
+// SPEAKER: Brogun
+// Have you no honor?
+vo_eny_eny_brogun_regain_consciousness_02=Mày không có danh dự hả?
+
+// SPEAKER: Brogun
+// What is this?
+vo_eny_eny_brogun_see_something_00=Cái khỉ gì thế?
+
+// SPEAKER: Brogun
+// Hmm?
+vo_eny_eny_brogun_see_something_01=Hmm?
+
+// SPEAKER: Brogun
+// Something...
+vo_eny_eny_brogun_see_something_02=Có gì đó...
+
+// SPEAKER: Brogun
+// Your technique is magnificent.
+vo_eny_eny_brogun_easteregg_00=Kĩ thuật của mày tuyệt vời đấy.
+
+// SPEAKER: Brogun
+// When cut across the neck, a sound like wailing winter winds is heard, they say.
+vo_eny_eny_brogun_easteregg_01=Khi vết chém đi ngang cổ, chúng bảo một âm thanh như tiếng khóc mùa đông được nghe thấy.
+
+// SPEAKER: Brogun
+// I'd always hoped to cut someone like that someday, to hear that sound.
+vo_eny_eny_brogun_easteregg_02=Tao đã luôn hi vọng có một ngày được cắt đầu một ai đó, để nghe xem âm thanh sẽ ra sao.
+
+// SPEAKER: Brogun
+// But to have it happen to my own neck is ridiculous.
+vo_eny_eny_brogun_easteregg_03=Nhưng nó mà xảy ra với cái cổ của tao thì quá vô lý.
+

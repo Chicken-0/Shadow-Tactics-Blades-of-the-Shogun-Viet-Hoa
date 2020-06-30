@@ -1,0 +1,452 @@
+// SPEAKER: WARRIOR
+// Hmm...is there a chance I got here first? Did she not get my message?
+vocs_over_over_monastery1_briefing_n00=Hmm...có phải mình là người tới đầu tiên? Em ấy không nhận được tin của mình ư?
+
+// SPEAKER: GEISHA
+// Konnichiwa, Mugen-san. 
+vocs_over_over_monastery1_briefing_n01=Konnichiwa, Mugen-san.
+
+// SPEAKER: WARRIOR
+// Ah, Aiko-san. Your beauty is most welcome on this desolate mountain.
+vocs_over_over_monastery1_briefing_n02=Ah, Aiko-san. Sắc đẹp của em được chào đón nhất trên vùng núi hoang vu này.
+
+// SPEAKER: GEISHA
+// Mugen-san! Have we come all this way for flattery?
+vocs_over_over_monastery1_briefing_n03=Mugen-san! Chúng ta tới đây chỉ để anh nói những lời tâng bốc như vậy ư?
+
+// SPEAKER: WARRIOR
+// I wish it were so. You seem to have arrived before me. What do you gather from this place?
+vocs_over_over_monastery1_briefing_n04=Anh muốn thế lắm. Dường như em tới đây trước anh. Em đã thu thập được gì ở chỗ này?
+
+// SPEAKER: GEISHA
+// The guards are talkative. I heard them speak of a captive held near the waterfalls.
+vocs_over_over_monastery1_briefing_n05=Bọn lính canh lắm mồm. Em nghe chúng luyên thuyên về một tù nhân gần thác nước.
+
+// SPEAKER: WARRIOR
+// That must be Takuma-san! How shall we proceed?
+vocs_over_over_monastery1_briefing_n06=Hẳn là Takuma-san! Chúng ta sẽ tiến hành thế nào?
+
+// SPEAKER: GEISHA
+// There are a number of female temple servants. If we find a match, I can take her clothes and assume her identity.
+vocs_over_over_monastery1_briefing_n07=Có một số nữ hầu trong đền thờ. Nếu tìm thấy, em có thể mặc quần áo cải trang thành cô ấy.
+
+// SPEAKER: GEISHA
+// It would allow me to move freely and ring the bell that calls the monks to prayer...
+vocs_over_over_monastery1_briefing_n08=Nó sẽ cho phép em tự do đi lại và rung chuông để gọi các nhà sư tới niệm kinh...
+
+// SPEAKER: WARRIOR
+// ...thinning out the crowd! An elegant plan. One of the many things I have missed about you.
+vocs_over_over_monastery1_briefing_n09=...làm đám đông dãn ra! Kế hoạch thanh lịch đấy. Một trong những thứ anh đã quên là nó thuộc về em.
+
+// SPEAKER: WARRIOR
+// Very well. Once we reach Takuma-san, we should...
+vocs_over_over_monastery1_briefing_n10=Tốt lắm. Một khi tới được chỗ Takuma-san, chúng ta nên...
+
+// SPEAKER: GEISHA
+// Quickly! Someone is coming!
+vocs_over_over_monastery1_briefing_n11=Lại đây! Có ai đó đang tới!
+
+// SPEAKER: DAIMYO
+// I expect you to make up for the loss of the latest shipment.
+vocs_over_over_monastery1_briefing_n12=Ta mong ngươi phải bù đắp sự mất mát của lô hàng gần đây.
+
+// SPEAKER: SAMURAI
+// Yes, Lord Yabu. The monks will increase their workload, as will Takuma.
+vocs_over_over_monastery1_briefing_n13=Vâng thưa ngài. Các nhà sư sẽ tăng khối lượng công việc của họ, và cả Takuma nữa.
+
+// SPEAKER: DAIMYO
+// This matter will soon be concluded, and the old man will cease to be useful. See to it that he never leaves this mountain.
+vocs_over_over_monastery1_briefing_n14=Chuyện này sẽ sớm có kết quả, và lão già kia sẽ không còn có ích. Coi như lão không thể rời khỏi ngọn núi này nữa đi.
+
+// SPEAKER: SAMURAI
+// As you wish, Yabu-sama.
+vocs_over_over_monastery1_briefing_n15=Như ngài muốn, Yabu-sama.
+
+// SPEAKER: DAIMYO
+// And make sure that the next transport leaves in time. I will not tolerate any further delays.
+vocs_over_over_monastery1_briefing_n16=Hãy chắc chắn cuộc vận chuyển tiếp theo đang được chuẩn bị. Ta không chấp nhận thêm chậm trễ nào nữa đâu.
+
+// SPEAKER: WARRIOR
+// That was close. Best we start now, before more complications arrive.
+vocs_over_over_monastery1_briefing_n17=Gần xong rồi. Tốt nhất là chúng ta triển khai luôn, trước khi nhiều chuyện xấu xảy ra.
+
+// SPEAKER: WARRIOR
+// Lord Yabu. I expect we will meet him again in the near future. For now, we must free Takuma-san.
+vocs_over_over_monastery1_briefing_n17a=Lãnh chúa Yabu. Anh hi vọng sẽ gặp được hắn trong thời gian sắp tới. Còn giờ phải cứu Takuma-san trước đã.
+
+// SPEAKER: WARRIOR
+// So. Lord Yabu has forced Takuma-san and the monks to build weapons. We will deal with him once we have freed Takuma-san.
+vocs_over_over_monastery1_briefing_n17b=Thì ra lãnh chúa Yabu ép Takuma-san và nhà sư chế tạo vũ khí. Chúng ta sẽ đối phó với hắn sau khi cứu được Takuma-san.
+
+// SPEAKER: GEISHA
+// I agree. Let us begin.
+vocs_over_over_monastery1_briefing_n18=Em đồng ý. Triển thôi.
+
+// SPEAKER: OFFICER
+// This one must reach Kyōto, understand?
+vo_hint_hint_monastery1_transport_n00=Nó phải tới được Kyōto, hiểu không?
+
+// SPEAKER: OFFICER
+// Then take a different route!
+vo_hint_hint_monastery1_transport_n01=Chọn một con đường khác!
+
+// SPEAKER: OFFICER
+// You must protect these crates with your life.
+vo_hint_hint_monastery1_transport_n02=Phải bảo vệ mấy cái thùng này bằng mạng sống của các ngươi.
+
+// SPEAKER: OFFICER
+// If you fail, Lord Yabu will have your head.
+vo_hint_hint_monastery1_transport_n03=Nếu thất bại, lãnh chúa Yabu sẽ lấy đầu ngươi.
+
+// SPEAKER: OFFICER
+// No excuses! No delays!
+vo_hint_hint_monastery1_transport_n04=Không bào chữa! Không lề mề!
+
+// SPEAKER: WARRIOR
+// These wagons...I have seen their kind before. This place is indeed the source of the weapon transports.
+vocs_over_over_monastery1_options_n00=Những xe hàng...Anh đã thấy loại này trước đây. Nơi này chắc chắn là nguồn hàng của chuyến vận chuyển vũ khí kia.
+
+// SPEAKER: GEISHA
+// The gate they came from is heavily guarded, but there are other ways in. Let's explore the possibilities.
+vocs_over_over_monastery1_options_n01=Cái cổng này được chúng canh gác nghiêm ngặt, những vẫn còn cách khác. Hãy tìm hiểu xem thế nào.
+
+// SPEAKER: GEISHA
+// I will go ahead. Will you be patient while I am gone?
+vocs_over_over_monastery1_climbing_n00=Em đi trước. Anh sẽ phải kiên nhẫn khá lâu đấy?
+
+// SPEAKER: WARRIOR
+// The sight of your elegant ascent will keep my thoughts occupied.
+vocs_over_over_monastery1_climbing_n01=Nhìn thấy em điệu đà nữ tính cũng giúp tâm trí anh đóng băng lại rồi.
+
+// SPEAKER: GEISHA
+// Curious. This opened a secret passage of sorts. Let us keep that in mind for when we leave.
+vocs_over_over_monastery1_secrets1_n00=Kì diệu. Nó mở ra một lối đi bí mật. Hãy nhớ trong đầu để lát nữa chúng ta còn bỏ trốn.
+
+// SPEAKER: WARRIOR
+// What is this? It seems to have opened a secret passage. We must remember that for our escape.
+vocs_over_over_monastery1_secrets1_n01=Cái gì đây? Dường như là một lối đi bí mật. Phải nhớ lấy nó để lát nữa còn bỏ trốn.
+
+// SPEAKER: GEISHA
+// Mmm...carts and wagons, packed with firearms. What an unexpected place for such a sinister enterprise.
+vocs_over_over_monastery1_entrance_n00=Mmm...xe và thùng hàng, được đóng gói vũ khí. Kế hoạch tàn độc này diễn ra thật bất ngờ.
+
+// SPEAKER: GEISHA
+// There are more guards than monks and pilgrims combined. Clearly the gods are not masters of this temple...
+vocs_over_over_monastery1_pilgrims_n00=Nhiều lính canh hơn nhà sư và cả người hành hương nữa. Rõ ràng mấy vị thần không phải là chủ của đền thờ này rồi...
+
+// SPEAKER: ENEMY
+// What should I do...
+vo_hint_hint_monastery1_shy_n00=Mình nên làm gì...
+
+// SPEAKER: ENEMY
+// Uhm...I... Hello again!
+vo_hint_hint_monastery1_shy_n01=Uhm...Anh... chào lần nữa!
+
+// SPEAKER: CIVILIAN F
+// I beg you. Leave me be.
+vo_hint_hint_monastery1_shy_n02=Xin anh. Để tôi yên.
+
+// SPEAKER: ENEMY
+// 
+vo_hint_hint_monastery1_shy_n03=
+
+// SPEAKER: ENEMY
+// Give me strength...
+vo_hint_hint_monastery1_shy_n04=Hãy cho tôi sức mạnh...
+
+// SPEAKER: ENEMY
+// Uhm... Would you...consider...
+vo_hint_hint_monastery1_shy_n05=Uhm... Em sẽ...xem xét...
+
+// SPEAKER: CIVILIAN F
+// Please! It is forbidden.
+vo_hint_hint_monastery1_shy_n06=Làm ơn! Nó bị cấm.
+
+// SPEAKER: ENEMY
+// 
+vo_hint_hint_monastery1_shy_n07=
+
+// SPEAKER: GEISHA
+// This woman has a few secret admirers. Her uniform would fit me perfectly.
+vocs_over_over_monastery1_servant_n00=Vài gã đang đổ đốn vì cô ta. Bộ đồ của cổ vừa với mình một cách hoàn hảo
+
+// SPEAKER: CIVILIAN F
+// 
+vo_hint_hint_monastery1_laundry_n00=
+
+// SPEAKER: CIVILIAN F
+// 
+vo_hint_hint_monastery1_laundry_n01=
+
+// SPEAKER: CIVILIAN F
+// Hmm...
+vo_hint_hint_monastery1_laundry_n02=Hmm...
+
+// SPEAKER: CIVILIAN F
+// ...almost done.
+vo_hint_hint_monastery1_laundry_n03=...sắp xong.
+
+// SPEAKER: CIVILIAN F
+// There!
+vo_hint_hint_monastery1_laundry_n04=Chỗ đó!
+
+// SPEAKER: CIVILIAN F
+// Hmm... This needs mending.
+vo_hint_hint_monastery1_laundry_n05=Hmm... Chỗ này cần vá.
+
+// SPEAKER: GEISHA
+// The laundry. What better place to look for new attire?
+vocs_over_over_monastery1_laundry_n00=Chỗ giặt đồ. Một nơi tốt để tìm bộ đồ sạch?
+
+// SPEAKER: GEISHA
+// Once I have changed clothes, the guards will not suspect me.
+vocs_over_over_monastery1_disguise1_n00=Một khi thay được bộ đồ này, lính canh sẽ không nghi ngờ mình nữa.
+
+// SPEAKER: GEISHA
+// It has been some time since I have worn Hakama.
+vocs_over_over_monastery1_disguise2_n00=Đã khá lâu rồi kể từ khi mình mặc Hakama.
+
+// SPEAKER: GEISHA
+// Now I must proceed to ring the bell. Once the monks have gone to prayer, it will be easier to bring Mugen-san inside.
+vocs_over_over_monastery1_disguise2_n01=Giờ mình phải rung chuông. Các nhà sư sẽ đến để niệm kinh, và Mugen-san sẽ dễ dàng lọt vào trong.
+
+// SPEAKER: GEISHA
+// Layers of walls, fortified gates... This was once an armed temple. No wonder they have the means to produce weapons.
+vocs_over_over_monastery1_temple_n00=Nhiều lớp tường, cổng kiên cố... Trước đây hẳn là ngôi đền có vũ trang. Không còn thắc mắc tại sao họ lại có thể chế tạo vũ khí.
+
+// SPEAKER: GEISHA
+// A graveyard. Former servants of this temple. I always find these sorts of places soothing.
+vocs_over_over_monastery1_graveyard_n00=Một nghĩa trang. Cho mấy người hầu trước đây của ngôi đền. Mình luôn tìm thấy mấy cái chỗ chết dẫm này.
+
+// SPEAKER: GEISHA
+// Tunnels. Do they lead to the different parts of the temple? What a curious place this is.
+vocs_over_over_monastery1_tunnels_n00=Đường hầm. Hẳn là chúng dẫn đễn các nơi khác nhau trong ngôi đền? Thật tò mò về nơi này.
+
+// SPEAKER: GEISHA
+// The bell. I hope the monks do not mind a change in routine.
+vocs_over_over_monastery1_bell_n00=Cái chuông. Hi vọng mấy gã nhà sư không để ý thấy sự bất thường trong chuyện này.
+
+// SPEAKER: GEISHA
+// The path is clear. I should return to the entrance and help Mugen-san in.
+vocs_over_over_monastery1_clear_n00=Đường đã trống. Mình cần quay lại lối vào và giúp Mugen-san.
+
+// SPEAKER: WARRIOR
+// I'm in the temple. What is your impression so far, Aiko-san?
+vocs_over_over_monastery1_inside_n00=Anh đã vào đền. Những gì em làm vẫn ấn tượng như trước đây, Aiko-san?
+
+// SPEAKER: GEISHA
+// This place hides many things. It must have a rich history.
+vocs_over_over_monastery1_inside_n01=Nơi này ẩn chứa nhiều thứ. Nó chắc hẳn phải có một bề dày lịch sử.
+
+// SPEAKER: WARRIOR
+// We could look for records, to satisfy your curiosity...
+vocs_over_over_monastery1_inside_n02=Chúng ta có thể tìm kiếm thông tin, để thỏa mãn tính tò mò của em...
+
+// SPEAKER: GEISHA
+// You mean well, Mugen, but I think we have more urgent business to attend to.
+vocs_over_over_monastery1_inside_n03=Ý hay đấy, Mugen, nhưng em nghĩ chúng ta phải cấp bách hơn cho vụ này đã.
+
+// SPEAKER: WARRIOR
+// These rocks might prove useful. I could throw them on unsuspecting opponents.
+vocs_over_over_monastery1_rocks_n00=Mấy tảng đá này hẳn có ích. Anh có thể ném nó vào bọn chúng mà không bị nghi ngờ.
+
+// SPEAKER: GEISHA
+// I am eager to hear the stories surrounding this particular battle strategy.
+vocs_over_over_monastery1_rocks_n01=Em muốn được nghe những câu chuyện xung quanh cái chiến thuật đặc biệt này.
+
+// SPEAKER: WARRIOR
+// Your deadliness rivals that of Hayato-san.
+vocs_over_over_monastery1_ninja_n00=Cách ám sát của em giống với Hayato-san.
+
+// SPEAKER: GEISHA
+// Is that your shinobi friend? I am looking forward to making his acquaintance.
+vocs_over_over_monastery1_ninja_n01=Có phải gã Shinobi bạn của anh? Em rất muốn được làm quen với anh ấy.
+
+// SPEAKER: WARRIOR
+// Perhaps you and he can trade stories regarding your training and experience.
+vocs_over_over_monastery1_ninja_n02=Có lẽ em và cậu ta có thể trao đổi kinh nghiệm và kĩ năng với nhau.
+
+// SPEAKER: GEISHA
+// A shinobi from Iga and a kunoichi from Shinano. It will be quite the exchange, I'm sure.
+vocs_over_over_monastery1_ninja_n03=Shinobi (Ninja nói chung) vùng Iga và Kunoichi (Ninja nữ) vùng Shinano. Em chắc là có nhiều thứ để bàn với nhau lắm đây.
+
+// SPEAKER: GEISHA
+// I wonder if he's worked with other kunoichi before. From what you told me, he seems a solitary person.
+vocs_over_over_monastery1_ninja_n03a=Em tự hỏi nếu anh ấy có phối hợp với một Kunoichi khác từ trước. Theo những gì anh kể, có vẻ anh ấy là người cô đơn.
+
+// SPEAKER: WARRIOR
+// There's the waterfall. Takuma-san must be close.
+vocs_over_over_monastery1_history_n00=Đó là thác nước. Takuma-san phải ở gần đây.
+
+// SPEAKER: GEISHA
+// From what you have told me, he enabled your victory in Osaka Castle.
+vocs_over_over_monastery1_history_n01=Những gì anh kể với em, lão đã giúp anh dành chiến thắng ở thành Osaka.
+
+// SPEAKER: WARRIOR
+// We could not have done it without him. I never thought I would get the chance to thank him.
+vocs_over_over_monastery1_history_n02=Bọn anh không thể làm được nếu không có lão. Anh chưa bao giờ nghĩ rằng mình lại có cơ hội để cảm tạ.
+
+// SPEAKER: GEISHA
+// We will both thank him, once we have freed him.
+vocs_over_over_monastery1_history_n03=Cả hai ta sẽ cảm ơn, sau khi giải phóng tự do cho lão .
+
+// SPEAKER: WARRIOR
+// Samurai guard this area.
+vocs_over_over_monastery1_samurai_n00=Samurai bảo vệ khu vực này.
+
+// SPEAKER: GEISHA
+// Samurai... They can see through my disguise. I should keep my distance.
+vocs_over_over_monastery1_samurai_n01=Samurai... Chúng có thể phát hiện em cải trang. Em cần phải giữ khoảng cách.
+
+// SPEAKER: SAMURAI
+// No more excuses, old man.
+vo_hint_hint_monastery1_argument_n00=Không bào chữa, lão già.
+
+// SPEAKER: ALCHEMIST
+// Hmm! We're doing what we can...
+vo_hint_hint_monastery1_argument_n01=Hmm! Bọn tao đang làm những gì có thể...
+
+// SPEAKER: SAMURAI
+// Lord Yabu demands results.
+vo_hint_hint_monastery1_argument_n02=Lãnh chúa Yabu muốn kết quả.
+
+// SPEAKER: ALCHEMIST
+// Hmm. Of course he does.
+vo_hint_hint_monastery1_argument_n03=Hmm. Dĩ nhiên hắn sẽ có.
+
+// SPEAKER: SAMURAI
+// When will the next shipment be ready?
+vo_hint_hint_monastery1_argument_n04=Lô hàng tiếp theo khi nào sẵn sàng?
+
+// SPEAKER: ALCHEMIST
+// When it is finished, I presume.
+vo_hint_hint_monastery1_argument_n05=Khi nó xong, tao đoán vậy.
+
+// SPEAKER: SAMURAI
+// Will it take longer than expected?
+vo_hint_hint_monastery1_argument_n06=Nó mất nhiều thời gian hơn dự kiến không?
+
+// SPEAKER: ALCHEMIST
+// Ah. An excellent question.
+vo_hint_hint_monastery1_argument_n07=Ah. Một câu hỏi bá đạo.
+
+// SPEAKER: SAMURAI
+// Are you mocking me?
+vo_hint_hint_monastery1_argument_n08=Mày đang coi thường tao hả?
+
+// SPEAKER: ALCHEMIST
+// Hehe! What makes you think that?
+vo_hint_hint_monastery1_argument_n09=Hehe! Nó làm ngươi nghĩ đến thứ gì?
+
+// SPEAKER: SAMURAI
+// Do not test my patience!
+vo_hint_hint_monastery1_argument_n10=Cấm thử tính kiên nhẫn của ta!
+
+// SPEAKER: ALCHEMIST
+// Hmm, I shall follow your advice.
+vo_hint_hint_monastery1_argument_n11=Hmm, ta sẽ làm theo lời khuyên của ngươi.
+
+// SPEAKER: ALCHEMIST
+// Hehe! Good thing you came. His conversation went nowhere.
+vocs_over_over_monastery1_rescue_n00=Hehe! Điềm tốt đã đến. Chuyện của hắn sẽ đi về đâu.
+
+// SPEAKER: WARRIOR
+// Takuma-san. My name is Ōshiro Mugen. Do you remember me?
+vocs_over_over_monastery1_rescue_n01=Takuma-san. Tên tôi là Ōshiro Mugen. Lão còn nhớ tôi chứ?
+
+// SPEAKER: ALCHEMIST
+// ...hehe! How could I forget? You were with the young shinobi, at the siege of Ōsaka.
+vocs_over_over_monastery1_rescue_n02=...hehe! Sao mà quên được? Anh đã ở cùng với chàng Shinobi trẻ tuổi, trong cuộc vây thành Ōsaka.
+
+// SPEAKER: WARRIOR
+// We have come to free you. I understand Lord Yabu forced you to build firearms here?
+vocs_over_over_monastery1_rescue_n03=Chúng tôi có thể giải thoát cho lão. Tôi biết lãnh chúa Yabu ép lão phải chế tạo vũ khí ở đây?
+
+// SPEAKER: ALCHEMIST
+// He was quite keen on my knowledge. I had to instruct the monks, whom he enslaved to produce weapons in large numbers.
+vocs_over_over_monastery1_rescue_n04=Hắn quan tâm về kiến thức của ta. Ta chỉ cho bọn nhà sư, đám người mà hắn bắt làm nô lệ để sản xuất vũ khí số lượng lớn.
+
+// SPEAKER: WARRIOR
+// Hrm... Lord Yabu will pay for this.
+vocs_over_over_monastery1_rescue_n05=Hrm... lãnh chúa Yabu sẽ phải trả giá cho vụ này.
+
+// SPEAKER: GEISHA
+// Might we continue this tale later? The monks might finish their prayer soon, and it is a long way back to the entrance.
+vocs_over_over_monastery1_rescue_n06=Chúng ta có thể tiếp tục nói chuyện sau được không? Mấy gã sư có thể kết thúc niệm kinh sớm, và quay về chỗ lối vào.
+
+// SPEAKER: ALCHEMIST
+// Hehe, yes—we should listen to your companion, Mugen.
+vocs_over_over_monastery1_rescue_n07=Hehe, chuẩn—chúng ta nên lắng nghe cộng sự của anh, Mugen.
+
+// SPEAKER: ALCHEMIST
+// Hmm, on your way here, have you passed by any statues of cranes?
+vocs_over_over_monastery1_secrets2_n00=Hmm, trên đường tới đây, cậu có đi qua bất kỳ bức tượng nào không?
+
+// SPEAKER: WARRIOR
+// Why do you ask?
+vocs_over_over_monastery1_secrets2_n01=Tại sao hỏi thế?
+
+// SPEAKER: ALCHEMIST
+// This is an old place, with old secrets. Let me mark these statues on your map. If we inspect them, who knows what we might find...
+vocs_over_over_monastery1_secrets2_n02=Đây là nơi cổ xưa ẩn chứa nhiều bí mật. Để ta đánh dấu các bức tượng trên bản đồ. Nếu tìm hiểu chúng, ai mà biết được chúng ta sẽ có gì...
+
+// SPEAKER: GEISHA
+// We have seen them, and noticed they open secret passages.
+vocs_over_over_monastery1_secrets2_n03=Chúng tôi đã nhìn thấy chúng, và nó mở ra một lối đi bí mật.
+
+// SPEAKER: ALCHEMIST
+// I suspected as much. I'm sure some of them lead off this mountain. Here, let me mark the statues on your map.
+vocs_over_over_monastery1_secrets2_n04=Ta biết nhiều lắm. Chắc chắn rằng một trong số chúng dẫn ra ngoài ngọn núi này. Đây, để ta đánh dấu chúng lại trên bản đồ của anh.
+
+// SPEAKER: ALCHEMIST
+// Hrm...too slow!
+vocs_over_over_monastery1_slow_n00=Hrm...quá chậm!
+
+// SPEAKER: WARRIOR
+// I am sorry about your leg, Takuma-san.
+vocs_over_over_monastery1_slow_n01=Tôi xin lỗi về cái chân của lão, Takuma-san.
+
+// SPEAKER: ALCHEMIST
+// Oh, don't be. I escaped death that day. A wise man does not question fate after fortune gives him a smile.
+vocs_over_over_monastery1_slow_n02=Oh, đừng có thế. Buổi hôm đó lão đã thoát chết. Một người đàn ông khôn ngoan quá bất ngờ sau khi may mắn mỉm cười với anh ấy.
+
+// SPEAKER: GEISHA
+// Your wooden leg has been crafted with care. Did you fashion it yourself?
+vocs_over_over_monastery1_slow_n03=Chân gỗ của lão được chế tác rất tinh xảo. Nó phù hợp với lão chứ?
+
+// SPEAKER: ALCHEMIST
+// Indeed. It has served me well. Though I have been making some improvements...
+vocs_over_over_monastery1_slow_n04=Quả thực nó rất tốt. Mặc dù lão có cải tiến đôi chút...
+
+// SPEAKER: ALCHEMIST
+// Oh, I will not miss this place.
+vocs_over_over_monastery1_debriefing_n00=Oh, Ta sẽ không quên nơi này.
+
+// SPEAKER: GEISHA
+// I am curious. What are your plans, now that you are a free man?
+vocs_over_over_monastery1_debriefing_n01=Cháu tò mò. Kế hoạch của lão sau khi tự do là gì?
+
+// SPEAKER: ALCHEMIST
+// I had no desire to support Lord Yabu's ambitions—but I will gladly help you end them.
+vocs_over_over_monastery1_debriefing_n02=Ta không còn mong muốn phụng sự tham vọng cho lãnh chúa Yabu—nhưng ta sẵn sàng giúp cháu kết liễu bọn chúng.
+
+// SPEAKER: WARRIOR
+// I will not ask the impossible of you.
+vocs_over_over_monastery1_debriefing_n03=Tôi sẽ không yêu cầu nhưng thứ không thể từ lão.
+
+// SPEAKER: ALCHEMIST
+// Hehe, do not fear, Mugen-san. With the proper tools, even an old fool like me can be of use on the battlefield.
+vocs_over_over_monastery1_debriefing_n04=Hehe, không phải xoắn, Mugen-san. Với các công cụ hỗ trợ, thậm chỉ cả kẻ ngốc già khúm răng vẫn có thể sử dụng trên chiến trường.
+
+// SPEAKER: GEISHA
+// You are a man of many talents, Takuma-san.
+vocs_over_over_monastery1_debriefing_n05=Lão là người có nhiều tài năng, Takuma-san.
+
+// SPEAKER: ALCHEMIST
+// Oh, too many, I'm afraid. Heh! Most bring me nothing but trouble.
+vocs_over_over_monastery1_debriefing_n06=Oh, quá nhiều ấy chứ, lão cũng sợ nó lắm. Heh! Hầu hết chúng mang cho lão rắc rối mà thôi.
+
+// SPEAKER: WARRIOR
+// Well then, let us return to the safe house and discuss the fate of Lord Yabu.
+vocs_over_over_monastery1_debriefing_n07=Vậy thì, chúng ta quay về nhà an toàn và bàn vế số phận của lãnh chúa Yabu.
+

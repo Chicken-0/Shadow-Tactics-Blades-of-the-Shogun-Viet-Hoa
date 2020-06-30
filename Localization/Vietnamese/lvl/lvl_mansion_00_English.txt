@@ -1,0 +1,225 @@
+// Kill Lord Yabu
+-935333020=Ám sát lãnh chúa Yabu
+
+// Assassinate Lord Yabu in his estate.
+2045452090=Ám sát lãnh chúa Yabu trong biệt thự của hắn.
+
+// Poison
+385899093=Thuốc độc
+
+// Put deadly poison in Lord Yabu's tea. Yuki has the flask with the poison.
+1206546255=Bỏ thuốc độc chết người vào trà của Yabu. Yuki có lọ thuốc này.
+
+// Sniper
+47453693=Bắn tỉa
+
+// The tower on the island is a good sniping spot. Lure Yabu into sight and Takuma can shoot him from there.
+417714909=Tòa tháp trên đảo có vị trí bắn tỉa thuận lợi. Dụ Yabu lọt vào tầm và Takuma có thể bắn hắn từ đây.
+
+// Escape
+2064697923=Trốn thoát
+
+// Gather everyone at the road to the south.
+1317192573=Mọi người trốn thoát bằng con đường phía Nam.
+
+// Gate
+-1950003110=Cổng
+
+// The gate is the only way Takuma can enter and exit the compound.
+2105727167=Cổng là cách duy nhất để Takuma vào và thoát ra khỏi biệt thự.
+
+// Samurai Stun
+1933186776=Làm choáng Samurai
+
+// You can stun samurai with a shot from a pistol or from Takuma's rifle. Stunned samurai can't counter your melee attacks.
+1871843625=Có thể làm choáng Samurai với một phát bắn từ súng ngắn hoặc súng trường của Takuma. Samurai bị choáng không thể chống lại tấn công cận chiến.
+
+// Yabu's Dog
+-340131564=Chó của Yabu
+
+// Lord Yabu cares for his dog. If he hears the dog bark, he will investigate.
+1034464885=Lãnh chúa Yabu có nuôi một con chó. Nếu hắn nghe thấy tiếng sủa, hắn sẽ tới điều tra.
+
+// Routine
+571134696=Thói quen
+
+// Lord Yabu's day follows a strict schedule that never changes.
+1782847722=Lãnh chúa Yabu có thời gian biểu cho riêng mình và không bao giờ thay đổi.
+
+// Tea
+-696076170=Trà
+
+// Lord Yabu and his wife have tea on this island regularly.
+-162049866=Lãnh chúa Yabu và vợ của hắn uống trà thường xuyên trên đảo này.
+
+// Gong A
+-1285325774=Chiêng A
+
+// The gong in the courtyard is rung when tea must be prepared.
+-760199849=Chiêng ở sân sau sẽ được đánh khi trà phải được chuẩn bị.
+
+// Gong B
+-350353359=Chiêng B
+
+// The gong on the island is rung when tea has been served.
+-359313998=Chiêng trên đảo sẽ được đánh khi trà phải được chuẩn bị.
+
+// Bell
+137227334=Chuông
+
+// The large bell can make a lot of noise.
+1385727179=Chuông lớn có thể tạo nhiều tiếng động.
+
+// Explosives
+2009202189=Chất nổ
+
+// Takuma can find more explosives in the crate near the bell.
+-257386725=Takuma có thể tìm thêm chất nổ ở trong thùng gần chuông.
+
+// Rifle Ammo
+224541415=Đạn súng trường
+
+// Takuma can find more ammunition for his rifle near the island tower.
+-637174955=Takuma có thể tìm thêm đạn cho súng trường ở gần đảo tháp.
+
+// Samurai Kill
+2058811176=Giết Samurai
+
+// Without Mugen, you need teamwork to take out a samurai.
+587703686=Không có Mugen, cần phải phối hợp thì mới hạ được một Samurai.
+
+// Without Mugen, you need teamwork to take out a samurai.
+989193866=Không có Mugen, cần phải phối hợp thì mới hạ được một Samurai.
+
+// Use firearms to stun a samurai, then finish them off with a melee attack.
+-1370002470=Sử dụng hỏa lực để làm choáng một Samurai, rồi kết liễu hắn bằng tấn công cận chiến.
+
+// Use firearms to stun a samurai, then finish them off with a melee attack.
+-56880867=Sử dụng hỏa lực để làm choáng một Samurai, rồi kết liễu hắn bằng tấn công cận chiến.
+
+// The samurai will only be stunned briefly, so make sure you can finish them quickly.
+1098112871=Samurai chỉ choáng trong thời gian ngắn, vì vậy hãy chắn chắn rằng bạn có thể kết liễu được hắn nhanh chóng.
+
+// The samurai will only be stunned briefly, so make sure you can finish them quickly.
+1004410520=Samurai chỉ choáng trong thời gian ngắn, vì vậy hãy chắn chắn rằng bạn có thể kết liễu được hắn nhanh chóng.
+
+// Takuma's grenades also kill samurai, but they are better saved up for larger groups.
+851499488=Lựu đạn của Takuma cũng có thể giết Samurai, nhưng chúng để xử nhóm đông người sẽ tốt hơn.
+
+// Takuma's grenades also kill samurai, but they are better saved up for larger groups.
+1689608624=Lựu đạn của Takuma cũng có thể giết Samurai, nhưng chúng để xử nhóm đông người sẽ tốt hơn.
+
+// Takuma's Rifle
+1819909876=Súng trường của Takuma
+
+// Takuma's Rifle has a great range and limited ammunition.
+-1534438502=Súng trường Takuma có tầm bắn tuyệt vời nhưng lượng đạn hạn chế.
+
+// Takuma's Rifle has a great range and limited ammunition.
+1500713928=Súng trường Takuma có tầm bắn tuyệt vời nhưng lượng đạn hạn chế.
+
+// Press <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to shoot.
+-61652237=Nhấn <hotkey>{0}</hotkey> và sử dụng <hotkey>{1}</hotkey> để bắn.
+
+// Hold {0} and select Takuma's Rifle. Hold {1} to aim and press {2} to shoot. 
+1529022022=Giữ {0} và sử dụng Súng Trường Takuma. Giữ {1} để ngắm và nhấn {2} để bắn.
+
+// Takuma cannot move while aiming. His rifle is nearly silent, so don't worry about noise.
+-718261912=Takuma không thể di chuyển khi đang ngắm. Súng trường của lão khá im lặng, cho nên đừng lo lắng về tiếng ồn.
+
+// Takuma cannot move while aiming. His rifle is nearly silent, so don't worry about noise.
+665760054=Takuma không thể di chuyển khi đang ngắm. Súng trường của lão khá im lặng, cho nên đừng lo lắng về tiếng ồn.
+
+// Takuma always saves one bullet for mission objectives. Don't hesitate to use his rifle when you need to!
+1336395673=Takuma luôn giữ thêm đạn cho mục tiêu của nhiệm vụ. Đừng ngần ngại khi sử dụng súng trường của lão!
+
+// Takuma always saves one bullet for mission objectives. Don't hesitate to use his rifle when you need to!
+514011623=Takuma luôn giữ thêm đạn cho mục tiêu của nhiệm vụ. Đừng ngần ngại khi sử dụng súng trường của lão!
+
+// Tanuki
+-2063755607=Lửng chó
+
+// Kuma, the pet tanuki, can lure enemies with sound.
+-763728927=Kuma, thú lửng chó, có thể dụ kẻ địch bằng tiếng tru.
+
+// Kuma, the pet tanuki, can lure enemies with sound.
+-1036386283=Kuma, thú lửng chó, có thể dụ kẻ địch bằng tiếng tru.
+
+// Press <hotkey>{0}</hotkey> to select Kuma and use <hotkey>{1}</hotkey> to send him out.
+622020753=Nhấn <hotkey>{0}</hotkey> để chọn Kuma và sử dụng <hotkey>{1}</hotkey> để gọi nó ra.
+
+// Hold {0} to select Kuma. Hold {1} to pick a location and press {2} to send him there.
+-1243122957=Giữ {0} để chọn Kuma. Giữ {1} để chọn vị trí và nhấn {2} để gọi nó ra.
+
+// Once Kuma is in place, press <hotkey>{0}</hotkey> to make him howl.
+875348058=Một khi Kuma được thả, nhấn <hotkey>{0}</hotkey> để tru lên.
+
+// Once Kuma is in place, press {0} to make him howl.
+-2012476017=Một khi Kuma được thả, nhấn {0} để tru lên.
+
+// Enemies who hear Kuma will search for him. If they find him, they will stay with him for a limited time.
+2145383162=Kẻ địch nào nghe thấy Kuma sẽ tìm nó. Nếu tìm thấy, chúng sẽ ở đó một thời gian ngắn.
+
+// Enemies who hear Kuma will search for him. If they find him, they will stay with him for a limited time.
+1725164699=Kẻ địch nào nghe thấy Kuma sẽ tìm nó. Nếu tìm thấy, chúng sẽ ở đó một thời gian ngắn.
+
+// Matchlock Pistol
+796024736=Súng ngắn hỏa mai
+
+// The matchlock pistol is a powerful weapon with limited ammunition.
+-156899473=Súng ngắn hỏa mai là vũ khí mạnh mẽ nhưng lượng đạn hạn chế.
+
+// The matchlock pistol is a powerful weapon with limited ammunition.
+-838966222=Súng ngắn hỏa mai là vũ khí mạnh mẽ nhưng lượng đạn hạn chế.
+
+// Press <hotkey>{0}</hotkey>, choose a target and press <hotkey>{1}</hotkey> to shoot.
+620470251=Nhấn <hotkey>{0}</hotkey>, chọn mục tiêu và nhấn <hotkey>{1}</hotkey> để bắn.
+
+// Hold {0} and select the pistol. Hold {1} to aim and press {2} to shoot.
+1376988388=Giữ {0} và chọn Súng ngắn. Giữ {1} để ngắm và nhấn {2} để bắn.
+
+// Most enemies can be killed with one shot. Samurai are stunned for a few seconds.
+607224474=Hầu hết kẻ địch sẽ chết bởi một phát bắn. Trừ Samurai sẽ choáng trong vài giây.
+
+// Most enemies can be killed with one shot. Samurai are stunned for a few seconds.
+2002708072=Hầu hết kẻ địch sẽ chết bởi một phát bắn. Trừ Samurai sẽ choáng trong vài giây.
+
+// 
+1784322990=Bắn
+
+// Cut
+-251708215=Cắt
+
+// 
+-625819845=dây thừng
+
+// Yabu
+-742532201=Yabu
+
+// 
+-1578577790=Đẩy
+
+// 
+-1970240997=bình sứ
+
+// 
+767842371=Đẩy
+
+// vase
+-53184279=bình sứ
+
+// 
+1178313895=Đẩy
+
+// vase
+-947219555=bình sứ
+
+// 
+381255434=Đẩy
+
+// 
+743443194=bình sứ
+
+// Intafēsu no jōnzumasutā
+-1369017114=Intafēsu no jōnzumasutā
+

@@ -1,0 +1,524 @@
+// SPEAKER: TRAPPER
+// Wow! So many tents! It's like a city!
+vocs_over_over_shoguncamp_briefing_n00=Wow! Nhiều lều quá! Như một thành phố í!
+
+// SPEAKER: NINJA
+// Hmm...full of soldiers with orders to shoot us on sight.
+vocs_over_over_shoguncamp_briefing_n01=Hmm ... toàn bộ lính đây được lệnh bắn chúng ta nếu phát hiện.
+
+// SPEAKER: GEISHA
+// Yes, giving ourselves up would be pointless. Best to not draw any attention.
+vocs_over_over_shoguncamp_briefing_n02=Đúng, mọi cố gắng của chúng ta sẽ trở nên vô nghĩa. Tốt nhất là không gây bất kỳ sự chú ý nào.
+
+// SPEAKER: NINJA
+// The Shogun's tent is at the very top. No surprise there.
+vocs_over_over_shoguncamp_briefing_n03=Lều của Mạc Chúa ở trên đỉnh. Không quá ngạc nhiên khi ngài ở đó.
+
+// SPEAKER: GEISHA
+// This entrance is heavily guarded.
+vocs_over_over_shoguncamp_briefing_n04=Lối vào này được canh gác cẩn mật.
+
+// SPEAKER: GEISHA
+// We need a strategy to get inside.
+vocs_over_over_shoguncamp_briefing_n05=Cần một chiến thuật để lẻn vào trong.
+
+// SPEAKER: ALCHEMIST
+// The guards here seem to enjoy their sake.
+vocs_over_over_shoguncamp_briefing_n06=Lính canh có vẻ như đang thưởng thức sa kê của chúng.
+
+// SPEAKER: ALCHEMIST
+// I know a recipe that will help them to sleep.
+vocs_over_over_shoguncamp_briefing_n07=Lão biết một công thức giúp chúng ngủ.
+
+// SPEAKER: ALCHEMIST
+// I still have some ingredients left. All I need is a place to brew.
+vocs_over_over_shoguncamp_briefing_n08=Lão còn sốt một thành phần. Và lão cần một chỗ để chế nó.
+
+// SPEAKER: GEISHA
+// I like the idea.
+vocs_over_over_shoguncamp_briefing_n09=Cháu thích ý tưởng này.
+
+// SPEAKER: GEISHA
+// I could pour your brew into the sake barrel. A disguise would help with this.
+vocs_over_over_shoguncamp_briefing_n10=Cháu có thể đổ thuốc vào thùng sa kê. Ngụy trang sẽ giúp làm việc này.
+
+// SPEAKER: GEISHA
+// There must be a Kimono with the Shogun's entourage.
+vocs_over_over_shoguncamp_briefing_n11=Phải có một bộ kimono ở đoàn tùy tùng của Mạc Chúa.
+
+// SPEAKER: GEISHA
+// I could also look for a servant's uniform at that small temple.
+vocs_over_over_shoguncamp_briefing_n12=Cũng có thể lấy một bộ từ đầy tớ ở ngôi đền nhỏ.
+
+// SPEAKER: TRAPPER
+// I see wagons! We could hide inside. 
+vocs_over_over_shoguncamp_briefing_n13=Em thấy xe bò! Chúng ta có thể nấp bên trong.
+
+// SPEAKER: TRAPPER
+// Maybe they'll carry us to the Shogun. Might be fun, yes?
+vocs_over_over_shoguncamp_briefing_n14=Có thể họ sẽ mang chúng ta tới Mạc Chúa. Thú vị lắm phải không?
+
+// SPEAKER: NINJA
+// Hm. Indeed...if they don't find us.
+vocs_over_over_shoguncamp_briefing_n15=Rất đúng ... nếu họ không tìm thấy chúng ta.
+
+// SPEAKER: GEISHA
+// We have two options then. Either we drug the sake and put the guards to sleep, or we find a wagon that goes to the Shogun's tent.
+vocs_over_over_shoguncamp_briefing_n16=Vậy có hai lựa chọn. Hoặc bỏ thuốc vào sa kê để khiến lính canh ngủ, hoặc tìm xe bò nào tới chỗ lều của Mạc Chúa.
+
+// SPEAKER: NINJA
+// It won't be easy either way. Good thing we're up for a challenge.
+vocs_over_over_shoguncamp_briefing_n17=Sẽ không dễ gì để chọn một trong hai cách. Thứ tốt là chúng ta có một thách thức.
+
+// SPEAKER: NINJA
+// I'll carry our guest.
+vocs_over_over_shoguncamp_briefing_n18=Cho mọi người tự chọn đấy.
+
+// SPEAKER: GEISHA
+// I agree. Let us begin.
+vocs_over_over_shoguncamp_briefing_n19=Đồng ý. Bắt đầu nào.
+
+// SPEAKER: TRAPPER
+// Wow! So many tents! It's like a city!
+vocs_over_over_shoguncamp_briefing1a_n00=Wow! Nhiều lều quá! Như một thành phố í!
+
+// SPEAKER: NINJA
+// Mmhm. Full of soldiers with orders to shoot us on sight.
+vocs_over_over_shoguncamp_briefing1a_n01=Hmm ... toàn bộ lính đây được lệnh bắn chúng ta nếu phát hiện.
+
+// SPEAKER: GEISHA
+// Yes, giving ourselves up would be pointless. Best to not draw any attention.
+vocs_over_over_shoguncamp_briefing1a_n02=Đúng, mọi cố gắng của chúng ta sẽ trở nên vô nghĩa. Tốt nhất là không gây bất kỳ sự chú ý nào.
+
+// SPEAKER: NINJA
+// The Shogun's tent is at the very top. No surprise there then.
+vocs_over_over_shoguncamp_briefing1a_n03=Lều của Mạc Chúa ở trên đỉnh. Không quá ngạc nhiên khi ngài ở đó.
+
+// SPEAKER: GEISHA
+// This entrance is heavily guarded.
+vocs_over_over_shoguncamp_briefing1a_n04=Lối vào này được canh gác cẩn mật.
+
+// SPEAKER: TRAPPER
+// I see wagons! 
+vocs_over_over_shoguncamp_briefing1a_n05=Em thấy xe bò!
+
+// SPEAKER: TRAPPER
+// We could hide inside. Let them carry us through.
+vocs_over_over_shoguncamp_briefing1a_n06=Có thể nấp bên trong. Để họ đưa chúng ta tới đó.
+
+// SPEAKER: ALCHEMIST
+// Hehe. A clever plan, though it pays to have a second option.
+vocs_over_over_shoguncamp_briefing1a_n07=Hehe, thông minh đấy, lão cũng có một kế hoạch thứ hai.
+
+// SPEAKER: ALCHEMIST
+// The guards here seem to enjoy their sake. 
+vocs_over_over_shoguncamp_briefing1a_n08=Lính canh có vẻ như đang thưởng thức sa kê của chúng.
+
+// SPEAKER: ALCHEMIST
+// I know a recipe that will put them straight to sleep.
+vocs_over_over_shoguncamp_briefing1a_n09=Lão biết một công thức giúp chúng ngủ.
+
+// SPEAKER: ALCHEMIST
+// I still have some ingredients left. All I need is a place to brew.
+vocs_over_over_shoguncamp_briefing1a_n10=Lão còn sót một thành phần. Và lão cần một chỗ để chế nó.
+
+// SPEAKER: GEISHA
+// I like the idea.
+vocs_over_over_shoguncamp_briefing1a_n11=Cháu thích ý tưởng này.
+
+// SPEAKER: GEISHA
+// I could pour your brew into the sake barrel. A disguise would help with this.
+vocs_over_over_shoguncamp_briefing1a_n12=Cháu có thể đổ thuốc vào thùng sa kê. Ngụy trang sẽ giúp làm việc này.
+
+// SPEAKER: GEISHA
+// There are multiple opportunities to acquire one.
+vocs_over_over_shoguncamp_briefing1a_n13=Chỉ chọn một trong hai cơ hội.
+
+// SPEAKER: NINJA
+// Hmm, so we have two options. Either we drug the sake and put the guards to sleep, or find a wagon that carries us to the Shogun's tent.
+vocs_over_over_shoguncamp_briefing1a_n14=Vậy có hai lựa chọn. Hoặc bỏ thuốc vào sa kê để khiến lính canh ngủ, hoặc tìm xe bò nào tới chỗ lều của Mạc Chúa.
+
+// SPEAKER: ALCHEMIST
+// And then we face our destiny.
+vocs_over_over_shoguncamp_briefing1a_n15=Và rồi chúng ta đối mặt với số phận.
+
+// SPEAKER: GEISHA
+// It is our only hope. 
+vocs_over_over_shoguncamp_briefing1a_n16=Đó là tia hi vọng duy nhất.
+
+// SPEAKER: TRAPPER
+// The Shogun will be angry with us...
+vocs_over_over_shoguncamp_briefing1a_n17=Mạc Chúa sẽ tức giận chúng ta...
+
+// SPEAKER: TRAPPER
+// We will meet the Shogun...
+vocs_over_over_shoguncamp_briefing1a_n17a=Chúng ta sẽ gặp Mạc Chúa ...
+
+// SPEAKER: GEISHA
+// Hayato-san. Will you carry our present for the Shogun?
+vocs_over_over_shoguncamp_briefing1a_n18=Hayato-san. Liệu anh còn muốn cùng chúng tôi tới chỗ Mạc Chúa?
+
+// SPEAKER: NINJA
+// I'm ready.
+vocs_over_over_shoguncamp_briefing1a_n19=Sẵn sàng.
+
+// SPEAKER: GEISHA
+// Very well. Let us begin then.
+vocs_over_over_shoguncamp_briefing1a_n20=Tốt lắm. Vậy chúng ta bắt đầu thôi.
+
+// SPEAKER: NINJA
+// Hrm...
+vocs_over_over_shoguncamp_murder1_n00=Hrm ...
+
+// SPEAKER: TRAPPER
+// Shhh... I'm sorry... I'm so sorry...
+vocs_over_over_shoguncamp_murder1_n01=Shhh ... Cháu xin lỗi ... Cháu xin lỗi ...
+
+// SPEAKER: ALCHEMIST
+// Oh...dark times.
+vocs_over_over_shoguncamp_murder1_n02=... thời khắc đen tối.
+
+// SPEAKER: GEISHA
+// It feels wrong, killing our allies, but it cannot be changed. Noboru has forced their deaths upon us.
+vocs_over_over_shoguncamp_murder1_n03=Nó thật tội lỗi, giết chết cả đồng minh, nhưng nó không thể thay đổi. Noboru đã gán tội chết lên đầu chúng ta.
+
+// SPEAKER: NINJA
+// Hrm... This is not right.
+vocs_over_over_shoguncamp_murder2_n00=Hrm ... thế này không đúng.
+
+// SPEAKER: TRAPPER
+// I'm sorry...
+vocs_over_over_shoguncamp_murder2_n01=Cháu rất xin lỗi ...
+
+// SPEAKER: GEISHA
+// Forgive me...
+vocs_over_over_shoguncamp_murder2_n02=Thứ lỗi cho thần ...
+
+// SPEAKER: ALCHEMIST
+// Hmm...today's friend, tomorrow's enemy. It cannot be helped.
+vocs_over_over_shoguncamp_murder2_n03=Hmm, hôm nay là bạn, mai là thù. Không thể giúp được gì.
+
+// SPEAKER: NINJA
+// Hrm... Damn...
+vocs_over_over_shoguncamp_murder3_n00=Hrm ... khỉ thật ...
+
+// SPEAKER: TRAPPER
+// I don't like this... 
+vocs_over_over_shoguncamp_murder3_n01=Mình ghét chuyện này ...
+
+// SPEAKER: ALCHEMIST
+// Forgive me, friend.
+vocs_over_over_shoguncamp_murder3_n02=Thứ lỗi cho tôi, anh bạn.
+
+// SPEAKER: GEISHA
+// We killed them for our own survival. Judgement falls to the Shogun alone.
+vocs_over_over_shoguncamp_murder3_n03=Chúng ta giết họ vì mạng sống của chúng ta. Hẳn là Mạc Chúa sẽ ở một mình.
+
+// SPEAKER: NINJA
+// Hrm... I hope you don't snore.
+vocs_over_over_shoguncamp_cargonin_n00=Hrm ... Tao hi vọng mày không ngáy.
+
+// SPEAKER: NINJA
+// Are you getting heavier?
+vocs_over_over_shoguncamp_cargonin_n01=Sao mày nặng hơn vậy?
+
+// SPEAKER: NINJA
+// You're heavier than you look.
+vocs_over_over_shoguncamp_cargonin_n02=Mày nặng hơn tao nghĩ.
+
+// SPEAKER: NINJA
+// How high is this wretched mountain?
+vocs_over_over_shoguncamp_cargonin_n03=Sao ngọn núi thảm hại này cao vậy.
+
+// SPEAKER: NINJA
+// Nice and easy.
+vocs_over_over_shoguncamp_cargonin_n04=Tốt thôi, nó dễ mà.
+
+// SPEAKER: NINJA
+// Up we go...
+vocs_over_over_shoguncamp_cargonin_n05=Chúng ta lên ...
+
+// SPEAKER: NINJA
+// ...the old man really did put you to sleep.
+vocs_over_over_shoguncamp_cargonin_n06=Lão già đã khiến mày ngủ thực sự.
+
+// SPEAKER: TRAPPER
+// Urgh... He's heavy!
+vocs_over_over_shoguncamp_cargotra_n00=Urgh ... nặng kinh hồn!
+
+// SPEAKER: TRAPPER
+// Urgh... Hayato-san, why can't you do it?
+vocs_over_over_shoguncamp_cargotra_n01=Urgh ... Hayato-san, sao anh không thể vác nó?
+
+// SPEAKER: TRAPPER
+// Urgh... too slow, too slow...
+vocs_over_over_shoguncamp_cargotra_n02=Urgh ... quá chậm, quá chậm ...
+
+// SPEAKER: GEISHA
+// No, this is too slow.
+vocs_over_over_shoguncamp_cargogei_n00=Không, nó quá chậm.
+
+// SPEAKER: GEISHA
+// I should leave this to Hayato-san.
+vocs_over_over_shoguncamp_cargogei_n01=Mình nên để nó lại cho Hayato-san.
+
+// SPEAKER: GEISHA
+// This won't do.
+vocs_over_over_shoguncamp_cargogei_n02=Sẽ không làm chuyện này.
+
+// SPEAKER: NINJA
+// Hmm... Is that the wagon we need?
+vocs_over_over_shoguncamp_wagons1_n00=Hmm ... đây là xe bò chúng ta cần?
+
+// SPEAKER: TRAPPER
+// Yes, there's a wagon...but is it the right one?
+vocs_over_over_shoguncamp_wagons1_n01=Đây, có một xe bò ... nhưng có đúng là xe chúng ta cần không nhỉ?
+
+// SPEAKER: ALCHEMIST
+// Ah...I see a wagon, but I doubt it's the one we need.
+vocs_over_over_shoguncamp_wagons1_n02=Ah, thấy một xe bò, nhưng nghi là nó không dẫn chúng ta tới chỗ cần đến.
+
+// SPEAKER: GEISHA
+// This wagon is not heading for the Shogun's tent. It can only carry us up the mountain to that small temple.
+vocs_over_over_shoguncamp_wagons1_n03=Xe bò này không dẫn tới lều của Mạc Chúa. Nó chỉ mang chúng ta tới đền nhỏ trên núi mà thôi.
+
+// SPEAKER: CIVILIAN M
+// Any trouble ahead?
+vo_hint_hint_shoguncamp_checkpoint1_n00=Có chuyện gì ở phía trước à?
+
+// SPEAKER: ENEMY
+// All's quiet.
+vo_hint_hint_shoguncamp_checkpoint1_n01=Tất cả im lặng.
+
+// SPEAKER: CIVILIAN M
+// I'm heading for the temple.
+vo_hint_hint_shoguncamp_checkpoint1_n02=Tôi đang tới ngôi đền.
+
+// SPEAKER: ENEMY
+// Your wagon will be inspected then.
+vo_hint_hint_shoguncamp_checkpoint1_n03=Xe của anh sẽ được kiểm tra sau.
+
+// SPEAKER: CIVILIAN M
+// Ah, same as always.
+vo_hint_hint_shoguncamp_checkpoint1_n04=Ah, luôn là thế mà.
+
+// SPEAKER: ENEMY
+// Go on. On your way.
+vo_hint_hint_shoguncamp_checkpoint1_n05=Đi tiếp đi.
+
+// SPEAKER: SAMURAI
+// Hold up! We must inspect your cargo.
+vo_hint_hint_shoguncamp_checkpoint2_n00=Dừng lại! Chúng tôi phải kiểm tra hàng hóa của anh.
+
+// SPEAKER: CIVILIAN M
+// S-sure. Go ahead.
+vo_hint_hint_shoguncamp_checkpoint2_n01=Tất nhiên. Xin vui lòng.
+
+// SPEAKER: SAMURAI
+// It'll only take a moment.
+vo_hint_hint_shoguncamp_checkpoint2_n02=Nó sẽ mất chút thời gian.
+
+// SPEAKER: SAMURAI
+// Someone's hiding in the wagon! Intruders!
+vocs_over_over_shoguncamp_wagoncheck_n00=Ai đó đang trốn trong xe! Có kẻ đột nhập!
+
+// SPEAKER: NINJA
+// Must be harsh, living up here at the temple.
+vocs_over_over_shoguncamp_wagons2_n00=Sống ở đền thờ này phải rất khổ sở.
+
+// SPEAKER: TRAPPER
+// The temple...it looks so peaceful.
+vocs_over_over_shoguncamp_wagons2_n01=Ngôi đền ... trông thật thanh bình.
+
+// SPEAKER: ALCHEMIST
+// This temple...at least the Shogunate army respects the inhabitants.
+vocs_over_over_shoguncamp_wagons2_n02=Ngôi đền này ... ít nhất quân đội Mạc Phủ vẫn còn tôn trọng người dân.
+
+// SPEAKER: GEISHA
+// The wagon that's loaded here is heading for the Shogun's tent. It might be our chance.
+vocs_over_over_shoguncamp_wagons2_n03=Xe bò này được chất đầy rồi sẽ hướng tới lều của Mạc Chúa. Có thể đây là cơ hội của chúng ta.
+
+// SPEAKER: NINJA
+// There's no chance we'll get through there.
+vocs_over_over_shoguncamp_party1_n00=Không có cơ hội để lọt được vào trong đó.
+
+// SPEAKER: TRAPPER
+// No! No, not there. They'll see us.
+vocs_over_over_shoguncamp_party1_n01=Không, không phải đây! Họ sẽ thấy chúng ta!
+
+// SPEAKER: GEISHA
+// Even in disguise, I would not be able to pass through this crowd.
+vocs_over_over_shoguncamp_party1_n02=Kể cả ngụy trang, mình cũng không thể lọt qua đám đông này.
+
+// SPEAKER: ALCHEMIST
+// But they will not spot us if they are fast asleep...
+vocs_over_over_shoguncamp_party1_n03=Không thể phát hiện chúng ta nếu họ đã ngủ say.
+
+// SPEAKER: GEISHA
+// Then let us find a place where you can brew the sleeping draught.
+vocs_over_over_shoguncamp_party1_n04=Vậy chúng ta hãy tìm một nơi để lão có thể chế được thuốc ngủ.
+
+// SPEAKER: GEISHA
+// You made the sleeping draught. I will put on a disguise and add it to the sake barrel.
+vocs_over_over_shoguncamp_party1_n05=Lão hãy chế thuốc ngủ đi. Cháu sẽ ngụy trang rồi bỏ thuốc vào thùng sa kê.
+
+// SPEAKER: SAMURAI
+// Damn the traitors.
+vo_hint_hint_shoguncamp_sober_n00=Những kẻ phản bội chết tiệt.
+
+// SPEAKER: ENEMY
+// They deserve it. They murdered the heir to the Shogunate.
+vo_hint_hint_shoguncamp_sober_n01=Họ xứng đáng nhận nó, họ đã giết người kế tục Mạc Phủ.
+
+// SPEAKER: STATIC
+// I still can't believe it.
+vo_hint_hint_shoguncamp_sober_n02=Tôi vẫn không thể tin chuyện này.
+
+// SPEAKER: SAMURAI
+// Eh, they will not escape justice!
+vo_hint_hint_shoguncamp_sober_n03=Họ sẽ không thể thoát khỏi công lý!
+
+// SPEAKER: ENEMY
+// Wonder where they're hiding.
+vo_hint_hint_shoguncamp_sober_n04=Tự hỏi họ đang trốn ở đâu.
+
+// SPEAKER: STATIC
+// What is Kage-sama up to?
+vo_hint_hint_shoguncamp_sober_n05=Kage-sama là ai?
+
+// SPEAKER: SAMURAI
+// We must protect the Shogun!
+vo_hint_hint_shoguncamp_sober_n06=Chúng ta phải bảo vệ Mạc Chúa!
+
+// SPEAKER: ENEMY
+// I never thought I'd lay eyes on the emperor.
+vo_hint_hint_shoguncamp_sober_n07=Tôi chưa bao giờ nghĩ lại có thể nhìn thấy được Nhật Hoàng.
+
+// SPEAKER: STATIC
+// Ugh, the road to Kyōto is so long...
+vo_hint_hint_shoguncamp_sober_n08=Đường tới Kyoto còn dài.
+
+// SPEAKER: SAMURAI
+// Sake!
+vo_hint_hint_shoguncamp_sober_n09=Sake!
+
+// SPEAKER: ENEMY
+// Sake!
+vo_hint_hint_shoguncamp_sober_n10=Sake!
+
+// SPEAKER: STATIC
+// Sake!
+vo_hint_hint_shoguncamp_sober_n11=Sake!
+
+// SPEAKER: ALCHEMIST
+// Hehe, a potent concoction! This can put the men at the campfire to sleep.
+vocs_over_over_shoguncamp_brew_n00=Hehe, một hỗn hợp hiệu nghiệm. Chỉ cần khiến những chàng trai cạnh đống lửa đi ngủ.
+
+// SPEAKER: GEISHA
+// Let me carry the flask. I can put on a disguise and pour this into the sake barrel.
+vocs_over_over_shoguncamp_brew_n01=Để cháu mang cái bình. Cháu có thể ngụy trang rồi bỏ nó vào thùng sa kê.
+
+// SPEAKER: GEISHA
+// There... Let us wait until the serving maids do their part.
+vocs_over_over_shoguncamp_party2_n00=Đây ... giờ chỉ chờ người hầu tới hoàn thành nốt phần việc của họ.
+
+// SPEAKER: SAMURAI
+// 
+vo_hint_hint_shoguncamp_drunk_n00=
+
+// SPEAKER: ENEMY
+// 
+vo_hint_hint_shoguncamp_drunk_n01=
+
+// SPEAKER: STATIC
+// 
+vo_hint_hint_shoguncamp_drunk_n02=
+
+// SPEAKER: SAMURAI
+// 
+vo_hint_hint_shoguncamp_drunk_n03=
+
+// SPEAKER: ENEMY
+// 
+vo_hint_hint_shoguncamp_drunk_n04=
+
+// SPEAKER: STATIC
+// 
+vo_hint_hint_shoguncamp_drunk_n05=
+
+// SPEAKER: SAMURAI
+// 
+vo_hint_hint_shoguncamp_drunk_n06=Hmn ... sa kê ...
+
+// SPEAKER: ENEMY
+// 
+vo_hint_hint_shoguncamp_drunk_n07=Hmhm ... kehehehe ...
+
+// SPEAKER: STATIC
+// 
+vo_hint_hint_shoguncamp_drunk_n08=Hhn? Uhm ... chả có nhẽ ...
+
+// SPEAKER: GEISHA
+// I thank you for your trust, Hayato-san. I admit, I was unsure whether you would stay with us.
+vocs_over_over_shoguncamp_reasons1_n00=Cảm ơn anh đã tin tưởng, Hayato-san. Tui không nghĩ là anh sẽ ở lại với tụi này.
+
+// SPEAKER: NINJA
+// Please, don't mention it.
+vocs_over_over_shoguncamp_reasons1_n01=Xin đừng, đừng nhắc đến nó.
+
+// SPEAKER: GEISHA
+// Forgive me, but I am curious. Was this ever about payment? Part of me wonders if there is not another reason.
+vocs_over_over_shoguncamp_reasons1_n02=Xin thông cảm nhưng tui hơi tò mò. Anh đã được trả công đầy đủ chăng? Tui tự hỏi thế vì không còn lý do nào khác.
+
+// SPEAKER: NINJA
+// Heh...you know, Mugen asked me the same thing.
+vocs_over_over_shoguncamp_reasons1_n03=Heh ... cô biết đấy, Mugen cũng hỏi tui như thế này.
+
+// SPEAKER: GEISHA
+// Did you have an answer for him?
+vocs_over_over_shoguncamp_reasons1_n04=Đó có phải là câu trả lời của anh?
+
+// SPEAKER: NINJA
+// Not back then.
+vocs_over_over_shoguncamp_reasons1_n05=Giờ không phải lúc.
+
+// SPEAKER: GEISHA
+// We're almost at the end, Hayato-san. Will you tell me why you did all this? Why you entered Mugen's service? Why you are still with us?
+vocs_over_over_shoguncamp_reasons2_n00=Gần kết thúc rồi, Hayato-san. Anh sẽ nói cho tôi biết sao anh làm tất cả những chuyện này chứ? Sao anh vào nhóm Mugen? Rồi sao anh vẫn còn ở lại với chúng tôi?
+
+// SPEAKER: NINJA
+// Maybe I...just liked helping out a friend. And now? Well...now it's personal.
+vocs_over_over_shoguncamp_reasons2_n01=Có lẽ tôi chỉ thích giúp đỡ bạn bè. Còn giờ, nó là quyết định cá nhân.
+
+// SPEAKER: GEISHA
+// But why fight with us now? Why not seek vengeance on your own?
+vocs_over_over_shoguncamp_reasons2_n02=Nhưng sao anh còn chiến đấu cùng chúng tôi? Sao anh không tìm kiếm sự trả thù của riêng anh?
+
+// SPEAKER: NINJA
+// Because you were right. It's not about me. It's about what Mugen would want.
+vocs_over_over_shoguncamp_reasons2_n03=Vì cô đã đúng. Đây không phải là con người tôi. Đây là những thứ mà Mugen muốn.
+
+// SPEAKER: GEISHA
+// I thank you, Hayato-san.
+vocs_over_over_shoguncamp_reasons2_n04=Cảm ơn anh, Hayato-san.
+
+// SPEAKER: NINJA
+// Just like I said. Don't mention it.
+vocs_over_over_shoguncamp_reasons2_n05=Như tôi đã nói. Đừng nhắc đến nó nữa.
+
+// SPEAKER: TRAPPER
+// Wow! His tent is huge!
+vocs_over_over_shoguncamp_tent_n00=Ooh, lều của ngài ấy bự quá!
+
+// SPEAKER: GEISHA
+// This is our destination.
+vocs_over_over_shoguncamp_tent_n01=Đây là đích đến của chúng ta.
+
+// SPEAKER: ALCHEMIST
+// The moment of truth draws near.
+vocs_over_over_shoguncamp_tent_n02=Thời khắc của sự thật đã đến gần.
+
+// SPEAKER: NINJA
+// Better make sure we have Masaru before we go in.
+vocs_over_over_shoguncamp_tent_n03=Tốt hơn là chúng ta nên chắc chắn có Masaru trước khi vào trong.
+

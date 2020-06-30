@@ -1,0 +1,548 @@
+// SPEAKER: ALCHEMIST
+// Will death take me now? Perhaps it has been long enough...
+vocs_over_over_ricefields_briefing_n00=Chắc mình đến lúc phải dẹo rồi? Đời nó đã đủ dài...
+
+// SPEAKER: TRAPPER
+// Psst. Takuma-sama!
+vocs_over_over_ricefields_briefing_n01=Psst. Takuma-sama!
+
+// SPEAKER: ALCHEMIST
+// Ah! ...Yuki-chan! It's you, child. Are you alone?
+vocs_over_over_ricefields_briefing_n02=Ah! ...Yuki-chan! Là cháu, nhóc. Tới một mình hả?
+
+// SPEAKER: TRAPPER
+// Yes. I followed Kuma here. The others couldn't come. What happened?
+vocs_over_over_ricefields_briefing_n03=Dạ. Cháu theo Kuma tới đây. Những người khác không thể đến. Chuyện gì đã xảy ra ạ?
+
+// SPEAKER: ALCHEMIST
+// Darkness and horror. The rebels slaughtered the farmers. Most of them are dead.
+vocs_over_over_ricefields_briefing_n04=Tối tăm và kinh dị. Phiến quân tàn sát nông dân. Họ chết gần hết rồi.
+
+// SPEAKER: ALCHEMIST
+// Mugen tried to help. Now he's a prisoner himself, being interrogated and, most likely, soon executed.
+vocs_over_over_ricefields_briefing_n05=Mugen đã cố giúp. Giờ thì chú ấy thành tù nhân, rồi chắc sẽ bị tra khảo sớm mà thôi.
+
+// SPEAKER: TRAPPER
+// No. We'll save him...
+vocs_over_over_ricefields_briefing_n06=Không. Chúng ta sẽ cứu chú ấy...
+
+// SPEAKER: ALCHEMIST
+// It's impossible, child! We are hardly a force to be reckoned with.
+vocs_over_over_ricefields_briefing_n07=Bất khả thi nhóc à! Chúng ta không đủ mạnh như thế.
+
+// SPEAKER: TRAPPER
+// We have to try! He's our friend! You don't leave friends behind!
+vocs_over_over_ricefields_briefing_n08=Phải thử chứ! Chú ấy là bạn của chúng ta mà! Cháu không bỏ rơi bạn của mình đâu!
+
+// SPEAKER: ALCHEMIST
+// Such a young mind... Very well, Yuki-chan. If we shall die, we might as well do so with purpose. Lead the way.
+vocs_over_over_ricefields_briefing_n09=Hẳn là ý chí tuổi trẻ... Được thôi, Yuki-chan. Nếu chúng ta chết như thế thì hẳn là vẫn có ý nghĩa hơn. Dẫn đường đi.
+
+// SPEAKER: CIVILIAN M
+// Ah!
+vo_hint_hint_ricefields_shooting_n00=Ah!
+
+// SPEAKER: CIVILIAN F
+// No...
+vo_hint_hint_ricefields_shooting_n01=No...
+
+// SPEAKER: CIVILIAN F
+// Demon! Monster! I curse you...
+vo_hint_hint_ricefields_shooting_n02=Ác nhân! Quái vật! Tao nguyên rủa mày...
+
+// SPEAKER: CIVILIAN F
+// 
+vo_hint_hint_ricefields_shooting_n03=
+
+// SPEAKER: TRAPPER
+// Why did Kuma have blood on his fur?
+vocs_over_over_ricefields_tanuki_n00=Sao lại có máu dính trên lông của Kuma?
+
+// SPEAKER: ALCHEMIST
+// A farmer died right next to him. I'm surprised you could get him to return here.
+vocs_over_over_ricefields_tanuki_n01=Một nông dân chết gần nó. Ta rất ngạc nhiên khi nó đưa cháu tới được đây.
+
+// SPEAKER: TRAPPER
+// It wasn't hard. I just made that sound you do.
+vocs_over_over_ricefields_tanuki_n02=Chả có gì khó. Cháu chỉ cần bắt chước tiếng của ông là được.
+
+// SPEAKER: ALCHEMIST
+// Hmm...so you picked up on that...
+vocs_over_over_ricefields_tanuki_n03=Hmm...rồi cháu có được nó...
+
+// SPEAKER: TRAPPER
+// I bet Kuma wants to rescue master samurai too!
+vocs_over_over_ricefields_tanuki_n04=Cháu cá Kuma cũng muốn giải cứu chú samurai xịn!
+
+// SPEAKER: ALCHEMIST
+// Ah, the rice will provide cover.
+vocs_over_over_ricefields_fields_n00=Ah, lúa sẽ cho ta chỗ nấp.
+
+// SPEAKER: TRAPPER
+// Rebels! ...why are they searching the fields?
+vocs_over_over_ricefields_fields_n01=Phiến quân! ...sao chúng lùng cả trong ruộng?
+
+// SPEAKER: ALCHEMIST
+// I'd say they are hunting for survivors.
+vocs_over_over_ricefields_fields_n02=Chúng đi săn mấy kẻ còn sống.
+
+// SPEAKER: TRAPPER
+// Are the others...are they all dead? Mugen-sama...
+vocs_over_over_ricefields_fields_n03=Còn những người khác...họ đã chết hết? Mugen-sama...
+
+// SPEAKER: ALCHEMIST
+// Stay calm, Yuki-chan! We must become the hunters and rescue Mugen.
+vocs_over_over_ricefields_fields_n04=Bình tĩnh nào, Yuki-chan! Chúng ta cũng phải trở thành thợ săn và giải cứu Mugen.
+
+// SPEAKER: OFFICER
+// I saw a shadow. Find him!
+vo_hint_hint_ricefields_search_n00=Ta thấy một bóng người. Tìm hắn!
+
+// SPEAKER: OFFICER
+// No one must escape! Lord Okkoto's orders.
+vo_hint_hint_ricefields_search_n01=Không để một ai bỏ trốn! Lệnh của Okkoto.
+
+// SPEAKER: OFFICER
+// Someone's in there! I know it.
+vo_hint_hint_ricefields_search_n02=Có người ở đây! Tao biết mà.
+
+// SPEAKER: TRAPPER
+// I do like your leg! It's quick and deadly, and it can hide, like my little trap.
+vocs_over_over_ricefields_rifle_n00=Nghiện cái chân của ông quá! Thầm lặng mà vẫn chết người, và có thể giấu nó, như bẫy của cháu í.
+
+// SPEAKER: ALCHEMIST
+// Hmm, what an unusual compliment! Do you know how I made it so quiet?
+vocs_over_over_ricefields_rifle_n01=Hmm, một lời khen không bình thường! Cháu có biết ta làm nó im lặng bằng cách nào không?
+
+// SPEAKER: TRAPPER
+// No, don't tell! It's a good puzzle, but no time for puzzles now!
+vocs_over_over_ricefields_rifle_n02=Không, ông đừng nói! Đó là một câu đố hay, nhưng giờ cháu không có thời gian để giải đố!
+
+// SPEAKER: ALCHEMIST
+// How right you are. Onward to Mugen.
+vocs_over_over_ricefields_rifle_n03=Cháu đúng đấy. Hướng tới Mugen.
+
+// SPEAKER: OFFICER
+// Let's search the fields further down the road to see if anyone's there.
+vocs_over_over_ricefields_scouts_n00=Tìm kiếm ruộng dưới đường xem có ai ở đó không.
+
+// SPEAKER: TRAPPER
+// Yes, stay away...
+vocs_over_over_ricefields_scouts_n01=Đúng, cút đi...
+
+// SPEAKER: ALCHEMIST
+// They will return, eventually. We should not forget about them.
+vocs_over_over_ricefields_scouts_n02=Chúng rồi sẽ quay lại. Chúng ta không nên quên mất chúng.
+
+// SPEAKER: CIVILIAN F
+// No! Please, no! Help me! Help!
+vo_hint_hint_ricefields_tragedy1_n00=Không! Làm ơn đừng! Giúp tôi! Giúp!
+
+// SPEAKER: CIVILIAN M
+// No! Please...please no! Help me! Help!
+vo_hint_hint_ricefields_tragedy1_n00a=Không! Làm ơn...làm ơn đừng! Giúp tôi! Giúp!
+
+// SPEAKER: ENEMY
+// Tch...serves you right.
+vo_hint_hint_ricefields_tragedy1_n01=Tch...mày phải tuân lệnh.
+
+// SPEAKER: TRAPPER
+// They didn't have to shoot him.
+vocs_over_over_ricefields_victims1_n01=Chúng không thể bắn anh ấy.
+
+// SPEAKER: TRAPPER
+// They didn't have to shoot her.
+vocs_over_over_ricefields_victims1_n01a=Chúng không thể bắn cô ấy.
+
+// SPEAKER: ALCHEMIST
+// These men are beasts. They'll do whatever they want, with or without reason.
+vocs_over_over_ricefields_victims1_n02=Mấy thằng đó là quái vật. Làm những gì chúng muốn, có hoặc không cần lý do nào cả.
+
+// SPEAKER: TRAPPER
+// I hope Mugen-sama is okay.
+vocs_over_over_ricefields_victims1_n03=Hi vọng Mugen-sama vẫn ổn.
+
+// SPEAKER: ALCHEMIST
+// Yuki-chan. Do not worry; we will save him.
+vocs_over_over_ricefields_victims1_n04=Yuki-chan. Đừng lo lắng; chúng ta sẽ cứu được.
+
+// SPEAKER: ALCHEMIST
+// Such shame.
+vocs_over_over_ricefields_victims2_n00=Quá nhục nhã.
+
+// SPEAKER: TRAPPER
+// Why did they have to die? They didn't hurt anyone.
+vocs_over_over_ricefields_victims2_n01=Sao họ lại chết? Họ có làm hại ai đâu.
+
+// SPEAKER: ALCHEMIST
+// To make a point. These farmers died because they remained loyal to the Shogun.
+vocs_over_over_ricefields_victims2_n02=Có thể nói. Nông dân chết bởi vì họ vẫn trung thành với Mạc Chúa.
+
+// SPEAKER: TRAPPER
+// Please don't die, master samurai.
+vocs_over_over_ricefields_victims2_n03=Làm ơn đừng chết, chú samurai xịn.
+
+// SPEAKER: ALCHEMIST
+// He is strong, Yuki-chan. We will reach him in time.
+vocs_over_over_ricefields_victims2_n04=Chú ấy rất khỏe, Yuki-chan. Chúng ta sẽ tới đó kịp lúc.
+
+// SPEAKER: WARRIOR
+// All the more reason to help those who survived.
+vocs_over_over_ricefields_victims2_n05=Chúng ta sẽ giúp đỡ những người sống sót.
+
+// SPEAKER: SAMURAI
+// Open up!
+vo_hint_hint_ricefields_tragedy2_n00=Mở ra!
+
+// SPEAKER: SAMURAI
+// Open the door!
+vo_hint_hint_ricefields_tragedy2_n01=Mở cửa!
+
+// SPEAKER: SAMURAI
+// We'll get in eventually!
+vo_hint_hint_ricefields_tragedy2_n02=Chúng ta rồi cũng làm được!
+
+// SPEAKER: SAMURAI
+// It won't hold forever!
+vo_hint_hint_ricefields_tragedy2_n03=Không giữ được mãi đâu!
+
+// SPEAKER: SAMURAI
+// Open it! Now!
+vo_hint_hint_ricefields_tragedy2_n04=Mở nó! Ngay!
+
+// SPEAKER: ENEMY
+// Hah!
+vo_hint_hint_ricefields_tragedy3_n00=Hah!
+
+// SPEAKER: CIVILIAN F
+// Please! Leave us alone...
+vo_hint_hint_ricefields_tragedy3_n01=Làm ơn! Để chúng tôi yên...
+
+// SPEAKER: CIVILIAN F
+// 
+vo_hint_hint_ricefields_tragedy3_n02=
+
+// SPEAKER: ALCHEMIST
+// Vile beasts.
+vocs_over_over_ricefields_victims3_n00=Quái nhân hèn hạ.
+
+// SPEAKER: TRAPPER
+// Just like Okaa-san...
+vocs_over_over_ricefields_victims3_n01=Cũng giống Okaa-san...
+
+// SPEAKER: ALCHEMIST
+// Yuki-chan?
+vocs_over_over_ricefields_victims3_n02=Yuki-chan?
+
+// SPEAKER: TRAPPER
+// Nothing. Mugen-sama needs us.
+vocs_over_over_ricefields_victims3_n03=Không có gì. Mugen-sama cần chúng ta.
+
+// SPEAKER: ALCHEMIST
+// Hmm. Looters.
+vocs_over_over_ricefields_looters_n00=Hmm. Kẻ trộm.
+
+// SPEAKER: TRAPPER
+// Maybe Mugen-sama's weapons are here somewhere.
+vocs_over_over_ricefields_looters_n01=Có thể vũ khí Mugen-sama ở đâu đây.
+
+// SPEAKER: ALCHEMIST
+// Ah, good thinking!
+vocs_over_over_ricefields_looters_n02=Ah, tư duy giỏi!
+
+// SPEAKER: TRAPPER
+// There's Mugen-sama!
+vocs_over_over_ricefields_warrior1_n00=Mugen-sama đây rồi!
+
+// SPEAKER: ALCHEMIST
+// He is well guarded. We must take on his interrogator together, yes?
+vocs_over_over_ricefields_warrior1_n01=Chú ấy đang bị giam giữ. Chúng ta phải cùng xử lý kẻ tra khảo kia, đồng ý không?
+
+// SPEAKER: TRAPPER
+// Hai! You shoot, I finish him!
+vocs_over_over_ricefields_warrior1_n02=Hai! Ông bắn rồi cháu kết thúc hắn!
+
+// SPEAKER: ALCHEMIST
+// Yuki-chan, why are you so eager to risk your life for Mugen?
+vocs_over_over_ricefields_warrior1_n03=Yuki-chan, sao cháu lại mạo hiểm cả mạng sống để cứu Mugen?
+
+// SPEAKER: TRAPPER
+// I told you, he's a friend. And a GOOD samurai.
+vocs_over_over_ricefields_warrior1_n04=Cháu nói rồi, chú ấy là bạn. Và là một samurai tốt bụng.
+
+// SPEAKER: SAMURAI
+// How did you know we were coming?
+vo_hint_hint_ricefields_questions_n00=Sao mày biết bọn tạo chuẩn bị làm gì?
+
+// SPEAKER: SAMURAI
+// Were you alone? Or are other Shogunate dogs hiding in the fields?
+vo_hint_hint_ricefields_questions_n01=Một mình hả? Hay một con chó Mạc Phủ khác đang lủi trong ruộng?
+
+// SPEAKER: SAMURAI
+// Your resistance will earn you nothing!
+vo_hint_hint_ricefields_questions_n02=Sự kháng cự của ngươi chẳng giúp ích gì đâu!
+
+// SPEAKER: SAMURAI
+// What does the Shogun's brother know of our plans?
+vo_hint_hint_ricefields_questions_n03=Thằng em Mạc Chúa biết kế hoạch của bọn tao?
+
+// SPEAKER: SAMURAI
+// Speak, and I will grant you an honorable death.
+vo_hint_hint_ricefields_questions_n04=Nói, và tao sẽ ban cho mày cái chết danh dự.
+
+// SPEAKER: SAMURAI
+// Did you really think you could stand against Lord Okkoto? 
+vo_hint_hint_ricefields_questions_n05=Mày nghĩ mày có thể chống lại ngài Okkoto?
+
+// SPEAKER: SAMURAI
+// You will talk soon enough when we boil you alive. 
+vo_hint_hint_ricefields_questions_n06=Mày sẽ khai hết khi bọn tao đun sống mày.
+
+// SPEAKER: WARRIOR
+// ...Yuki-chan. What are you doing here?!
+vocs_over_over_ricefields_warrior2_n00=...Yuki-chan. Cháu làm gì ở đây?!
+
+// SPEAKER: WARRIOR
+// ...Takuma-san. You returned for me?
+vocs_over_over_ricefields_warrior2_n01=...Takuma-san. Lão quay lại vì tôi?
+
+// SPEAKER: ALCHEMIST
+// Yuki-chan has saved us both, Mugen. We are in her debt.
+vocs_over_over_ricefields_warrior2_n02=Yuki-chan đã cứu cả hai, Mugen. Chúng ta mắc nợ nhóc ấy.
+
+// SPEAKER: WARRIOR
+// My dear Yuki-chan! I owe you my life! By my honor, I will not forget this!
+vocs_over_over_ricefields_warrior2_n03=Yuki-chan thân mến! Chú nợ cháu cả mạng sống này! Bằng danh dự, chú sẽ không bao giờ quên nó!
+
+// SPEAKER: TRAPPER
+// Thank you, master samurai!
+vocs_over_over_ricefields_warrior2_n04=Cảm ơn chú samurai xịn ^^!
+
+// SPEAKER: WARRIOR
+// Now, we must find the surviving farmers and give them the same courtesy as you gave me.
+vocs_over_over_ricefields_warrior2_n05=Giờ, chúng ta phải tìm những nông dân còn sống và cứu họ như cháu đã làm với ta.
+
+// SPEAKER: TRAPPER
+// Uhm, Mugen-sama, they...they took your armor...
+vocs_over_over_ricefields_warrior2_n06=Uhm, Mugen-sama, chúng...chúng đã lấy bộ giáp của chú...
+
+// SPEAKER: WARRIOR
+// Ah, yes, we must find my equipment first. Let us make haste!
+vocs_over_over_ricefields_warrior2_n07=Ah, đúng rồi, phải tìm đồ của chú đầu tiên. Chúng ta nhanh lên nào!
+
+// SPEAKER: ALCHEMIST
+// Ah, samurai gear, but no samurai to carry it.
+vocs_over_over_ricefields_gear1_n00=Ah, đồ samurai, nhưng không có samurai mặc nó.
+
+// SPEAKER: TRAPPER
+// Ergh...so heavy. It wants to be with Mugen-sama. 
+vocs_over_over_ricefields_gear1_n01=Ergh...nặng vãi. Nó muốn đến với Mugen-sama.
+
+// SPEAKER: WARRIOR
+// I will be there soon!
+vocs_over_over_ricefields_gear1_n02=Sẽ tới đó sớm!
+
+// SPEAKER: WARRIOR
+// Ah, alive again! Now, we must ascend to the main farm! The survivors must be there.
+vocs_over_over_ricefields_gear2_n00=Ah, lại sống lần nữa! Giờ phải tới trang trại chính! Những người còn sống hẳn ở đó.
+
+// SPEAKER: ALCHEMIST
+// Are there any left?
+vocs_over_over_ricefields_gear2_n01=Vẫn còn ư?
+
+// SPEAKER: WARRIOR
+// If we make haste.
+vocs_over_over_ricefields_gear2_n02=Nếu chúng ta kịp lúc.
+
+// SPEAKER: WARRIOR
+// Are Aiko-san and Hayato-san nearby?
+vocs_over_over_ricefields_trouble_n00=Aiko-san và Hayato-san ở gần đây?
+
+// SPEAKER: TRAPPER
+// No. They're following that general. I, uh...had a message for Lord Noboru. But then I met Kuma, and... Am I in trouble?
+vocs_over_over_ricefields_trouble_n01=Không ạ. Anh chị ấy đang đi với nhau. Cháu, uh...có một tin cấp báo cho lãnh chúa Noboru. Nhưng rồi cháu gặp Kuma, và... Cháu có bị gì không ạ?
+
+// SPEAKER: WARRIOR
+// Do not worry, Yuki-chan. You saved our lives, so the responsibility is mine. We will deliver your message together.
+vocs_over_over_ricefields_trouble_n02=Đừng lo, Yuki-chan. Cháu đã cứu chúng ta, nên giờ chú sẽ chịu trách nhiệm. Chúng ta sẽ cùng cấp báo với nhau sau nhé.
+
+// SPEAKER: TRAPPER
+// Hai, Mugen-sama!
+vocs_over_over_ricefields_trouble_n03=Hai, Mugen-sama!
+
+// SPEAKER: ALCHEMIST
+// Men and women, penned together like cattle.
+vocs_over_over_ricefields_prisoners_n00=Đàn ông và phụ nữ, bị đối xử như gia súc.
+
+// SPEAKER: TRAPPER
+// I see them...at the stables and in the backyard.
+vocs_over_over_ricefields_prisoners_n01=Cháu thấy họ...ở chuồng bò và trong sân.
+
+// SPEAKER: WARRIOR
+// We must free them. I will speak to them after we have slain the rebels.
+vocs_over_over_ricefields_prisoners_n02=Phải giải thoát cho họ. Sẽ nói chuyện với họ sau khi chúng ta xử lý lũ phiến quân.
+
+// SPEAKER: CIVILIAN M
+// Oh, this is bad... Maybe we should...
+vo_hint_hint_ricefields_imprisoned_n00=Oh, điềm xấu... có lẽ chúng ta nên...
+
+// SPEAKER: CIVILIAN F
+// Dark times, dark times...
+vo_hint_hint_ricefields_imprisoned_n01=Thời khắc đen tối x2...
+
+// SPEAKER: CIVILIAN M
+// They are going to kill us!
+vo_hint_hint_ricefields_imprisoned_n02=Họ tới để giết chúng ta!
+
+// SPEAKER: CIVILIAN F
+// Husband...be safe...
+vo_hint_hint_ricefields_imprisoned_n03=Chồng của em...anh phải an toàn nhé...
+
+// SPEAKER: CIVILIAN M
+// We should have surrendered.
+vo_hint_hint_ricefields_imprisoned_n04=Chúng ta nên đầu hàng.
+
+// SPEAKER: CIVILIAN F
+// We must not give in to fear. Someone will come.
+vo_hint_hint_ricefields_imprisoned_n05=Không được sợ hãi. Có ai đó đang tới.
+
+// SPEAKER: CIVILIAN M
+// Thank you! Oh, thank you! We knew the Shogun would send help!
+vocs_over_over_ricefields_farmers_n00=Đa tạ! Oh, đa tạ! Bọn tôi biết Mạc Chúa sẽ gửi người tới giúp mà!
+
+// SPEAKER: CIVILIAN F
+// My husband! They took him away...
+vocs_over_over_ricefields_farmers_n01=Chồng của tôi! Họ bắt anh ấy đi...
+
+// SPEAKER: WARRIOR
+// He will live; you have my word. Now, follow our lead.
+vocs_over_over_ricefields_farmers_n02=Anh ấy sẽ sống; tôi tin chắc. Giờ hãy theo sự chỉ dẫn của tôi.
+
+// SPEAKER: WARRIOR
+// He is already with us. Stay close and we will escape together.
+vocs_over_over_ricefields_farmers_n03=Anh ấy đã ở với chúng tôi. Lại đây và chúng ta thoát cùng nhau.
+
+// SPEAKER: CIVILIAN F
+// We will follow you.
+vocs_over_over_ricefields_farmers_n04=Tôi sẽ theo anh.
+
+// SPEAKER: SAMURAI
+// Who is the samurai that came to your aid?
+vo_hint_hint_ricefields_interrogate_n00=Gã Samurai đến giúp mày là ai?
+
+// SPEAKER: HUSBAND
+// I don't know who he is.
+vo_hint_hint_ricefields_interrogate_n01=Tôi không biết hắn là ai.
+
+// SPEAKER: SAMURAI
+// Don't lie to me, peasant.
+vo_hint_hint_ricefields_interrogate_n02=Mày đừng hòng lừa tao.
+
+// SPEAKER: HUSBAND
+// I only know the Shogun will send more like him. They will kill you.
+vo_hint_hint_ricefields_interrogate_n03=Tôi chỉ biết Mạc Chúa sẽ gửi thêm người như hắn. Họ sẽ giết anh.
+
+// SPEAKER: SAMURAI
+// Haha! Your defiance means nothing! We will make you talk.
+vo_hint_hint_ricefields_interrogate_n04=Haha! Thách thức của mày không có nghĩa lý gì! Bọn tao sẽ nói chuyện với mày sau.
+
+// SPEAKER: HUSBAND
+// Thank you, my lord. Please! Others are at the stables. My wife, too...
+vocs_over_over_ricefields_husband_n00=Đội ơn ngài. Làm ơn! Những người khác ở chuồng ngựa. Có cả vợ tôi...
+
+// SPEAKER: WARRIOR
+// We will free them. Now, you must do as I tell you.
+vocs_over_over_ricefields_husband_n01=Chúng tôi sẽ giải thoát cho họ. Giờ anh phải làm theo những gì tôi nói.
+
+// SPEAKER: WARRIOR
+// They have been freed. Now, come with us and we will escape together.
+vocs_over_over_ricefields_husband_n02=Họ đã được tự do. Giờ đi cùng chúng tôi rồi trốn thoát cùng nhau.
+
+// SPEAKER: HUSBAND
+// I will follow your lead.
+vocs_over_over_ricefields_husband_n03=Tôi sẽ theo anh.
+
+// SPEAKER: SAMURAI
+// Someone escaped! Search the area!
+vocs_over_over_ricefields_alarm_n00=Có người thoát! Tìm xung quanh ngay!
+
+// SPEAKER: SAMURAI
+// Someone escaped! Search the area!
+vocs_over_over_ricefields_alarm_n01=Có người thoát! Tìm xung quanh ngay!
+
+// SPEAKER: HUSBAND
+// We can never repay you for this kindness.
+vocs_over_over_ricefields_debt_n00=Chúng tôi không bao giờ có thể trả được hết ơn huệ của anh.
+
+// SPEAKER: WARRIOR
+// We have not made it to safety yet.
+vocs_over_over_ricefields_debt_n01=Chúng ta chưa tới được nơi an toàn.
+
+// SPEAKER: CIVILIAN F
+// We would be dead already if not for you.
+vocs_over_over_ricefields_debt_n02=Chúng tôi sẽ chết nếu không có anh.
+
+// SPEAKER: WARRIOR
+// Then spread the word: the Shogun does not abandon his people.
+vocs_over_over_ricefields_debt_n03=Vậy hãy nhắc cho mọi người: Mạc Chúa sẽ không bao giờ bỏ rơi con dân của mình.
+
+// SPEAKER: OFFICER
+// Well, we're back! Looks like... Wait, something's wrong here! Everyone! Block the road!
+vocs_over_over_ricefields_more_n00=Rồi, bọn ta quay về! Hình như... Chờ đã, có gì đó sai sai ở đây! Mọi người! Chặn đường lại!
+
+// SPEAKER: WARRIOR
+// Scouts, returning from patrol. Everyone, keep your distance!
+vocs_over_over_ricefields_more_n01=Lính canh quay lại tuần tra. Mọi người, giữ khoảng cách!
+
+// SPEAKER: ALCHEMIST
+// Hm, I told you they'd come back. Hehe! I feel a sudden itch in my leg.
+vocs_over_over_ricefields_more_n02=Hm, lão nói với anh là họ sẽ quay lại mà. Hehe! Tự nhiên thấy ngứa ngứa ở chân quá.
+
+// SPEAKER: TRAPPER
+// We're almost out! So close!
+vocs_over_over_ricefields_more_n03=Chúng ta gần xong rồi! Xíu nữa!
+
+// SPEAKER: WARRIOR
+// Is everyone all right?
+vocs_over_over_ricefields_debriefing_n00=Mọi người ổn cả chứ?
+
+// SPEAKER: HUSBAND
+// Y-yes. Thank you, my lord. Thank you!
+vocs_over_over_ricefields_debriefing_n01=V-vâng. Cảm ơn ngài. Cảm ơn!
+
+// SPEAKER: WARRIOR
+// We must all thank this brave young woman here. Her name is Yuki, and without her, none of us would be alive.
+vocs_over_over_ricefields_debriefing_n02=Chúng ta phải cảm ơn người phụ nữ trẻ này. Tên cháu ấy là Yuki, không có cháu ấy thì chúng ta sẽ không còn một ai sống sót.
+
+// SPEAKER: TRAPPER
+// N-no no, that's not...
+vocs_over_over_ricefields_debriefing_n03=K-không không, không phải...
+
+// SPEAKER: CIVILIAN F
+// We owe you everything, Yuki-chan. I pray that we can return this kindness one day.
+vocs_over_over_ricefields_debriefing_n04=Chúng tôi nợ cháu mọi thứ, Yuki-chan. Mỗi ngày cô sẽ cầu nguyện để có thể đáp trả lòng tốt của cháu.
+
+// SPEAKER: TRAPPER
+// I, ah... You're welcome.
+vocs_over_over_ricefields_debriefing_n05=Cháu, ah... Không có gì đâu.
+
+// SPEAKER: WARRIOR
+// Now, we should leave, before more rebels arrive.
+vocs_over_over_ricefields_debriefing_n06=Giờ nên thoát khỏi đây, trước khi thêm lũ phiến quân tới.
+
+// SPEAKER: HUSBAND
+// Where will you take us?
+vocs_over_over_ricefields_debriefing_n07=Anh sẽ đưa chúng ta đi đâu?
+
+// SPEAKER: WARRIOR
+// We will head for Lord Noboru's camp. You will find shelter there until this matter is resolved.
+vocs_over_over_ricefields_debriefing_n08=Chúng ta sẽ tới trại lãnh chúa Noboru. Anh sẽ tìm thấy nơi trú ẩn cho đến khi mọi chuyện được giải quyết.
+
+// SPEAKER: ALCHEMIST
+// Well done, Yuki-chan.
+vocs_over_over_ricefields_debriefing_n09=Giỏi lắm, Yuki-chan.
+
+// SPEAKER: TRAPPER
+// Thank you, Takuma-sama!
+vocs_over_over_ricefields_debriefing_n10=Cảm ơn ông, Takuma-sama!
+

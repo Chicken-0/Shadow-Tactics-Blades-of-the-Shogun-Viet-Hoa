@@ -1,0 +1,72 @@
+// SPEAKER: TRAPPER
+// Hah, poor little raft. All alone at the shore. But I'm almost there, yes?
+vocs_over_over_lakevillage_post_n00=Hah, cái bè cùi bắp. Giờ ở cái xó này một mình. Nhưng gần tới nơi rồi, đúng không nhỉ?
+
+// SPEAKER: TANUKI
+// ...!
+vocs_over_over_lakevillage_post_n01=...!
+
+// SPEAKER: TRAPPER
+// Hey! You're Kuma, right?
+vocs_over_over_lakevillage_post_n02=Hey! Là Kuma, phải không?
+
+// SPEAKER: TANUKI
+// ...!
+vocs_over_over_lakevillage_post_n03=...!
+
+// SPEAKER: TRAPPER
+// Huh? Is...is Takuma-sama here?
+vocs_over_over_lakevillage_post_n04=Huh? Là...là Takuma-sama ở đây?
+
+// SPEAKER: TANUKI
+// ...
+vocs_over_over_lakevillage_post_n05=...
+
+// SPEAKER: TRAPPER
+// Hey, what's that in your fur?
+vocs_over_over_lakevillage_post_n06=Hey, lông mày bị gì thế?
+
+// SPEAKER: TRAPPER
+// ...blood!
+vocs_over_over_lakevillage_post_n07=...máu!
+
+// SPEAKER: TANUKI
+// ...!
+vocs_over_over_lakevillage_post_n08=...!
+
+// SPEAKER: TRAPPER
+// No... No, no no! Something's wrong... Maybe...
+vocs_over_over_lakevillage_post_n09=Không... Không, không không! Có gì đó sai sai... Có lẽ thế...
+
+// SPEAKER: TRAPPER
+// No...no, stupid. You told Aiko-san you'd be fast. You promised! ...stupid.
+vocs_over_over_lakevillage_post_n10=Không...không, ngu quá. Chính mày đã nói với Aiko-san là mày phải nhanh lên. Mày đã hứa! ...Ngu thật.
+
+// SPEAKER: TRAPPER
+// No! I have to help! Aiko-san is smart. She'll understand!
+vocs_over_over_lakevillage_post_n11=Không! Mình sẽ giúp! Aiko-san rất thông minh. Mong chị ấy sẽ hiểu cho!
+
+// SPEAKER: TANUKI
+// ...?
+vocs_over_over_lakevillage_post_n12=...?
+
+// SPEAKER: TRAPPER
+// Show me! Where's Takuma-sama?
+vocs_over_over_lakevillage_post_n13=Cho ta biết! Takuma-sama ở đâu?
+
+// SPEAKER: TANUKI
+// ...
+vocs_over_over_lakevillage_post_n14=...
+
+// SPEAKER: TRAPPER
+// Come on! Takuma-sama! You know...
+vocs_over_over_lakevillage_post_n15=Thôi nào! Takuma-sama! Mày biết...
+
+// SPEAKER: TANUKI
+// ...!!
+vocs_over_over_lakevillage_post_n16=...!!
+
+// SPEAKER: TRAPPER
+// Yes! Clever little thing!
+vocs_over_over_lakevillage_post_n17=Đúng rồi! Thông minh lắm!
+

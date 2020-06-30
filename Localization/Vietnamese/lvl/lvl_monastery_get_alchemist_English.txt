@@ -1,0 +1,123 @@
+// Rescue Takuma
+349234248=Giải cứu Takuma
+
+// Make your way to the waterfall area and rescue Takuma.
+-1386181932=Làm theo cách bạn muốn để tới thác nước và giải cứu Takuma.
+
+// Samurai
+-2024086920=Samurai
+
+// Deal with the samurai that guards Takuma.
+-1924644715=Đối phó với Samurai đang canh giữ Takuma.
+
+// Reunion
+166422007=Tụ họp
+
+// Mugen must speak with Takuma once you have dealt with the samurai.
+974095167=Mugen phải nói chuyện với Takuma ngay khi xử lý xong Samurai.
+
+// Escape Together
+-1324768845=Cùng trốn thoát
+
+// Escape from Mount Tsuru together by gathering everyone near the exit.
+-121211609=Tất cả mọi người trốn khỏi núi Tsuru bằng lối thoát.
+
+// Main Road
+-2059079447=Đường chính
+
+// Leave by taking the main road.
+-591225842=Rời đi bằng đường chính
+
+// Secret Path A
+-1004074029=Lối bí mật A
+
+// Use the crane statue near the bell and leave through the secret path.
+-2036648663=Có thể sử dụng bức tượng gần giếng để mở ra lối tắt bí mật.
+
+// Secret Path B
+269201283=Lối bí mật B
+
+// Use the crane statue near the graveyard and leave through the secret path.
+874702748=Có thể sử dụng bức tượng gần nghĩa trang để mở ra lối tắt bí mật.
+
+// Ring the Bell
+-553744899=Rung chuông
+
+// You can ring this bell to call all monks to prayer and clear the way for Mugen.
+1879477878=Có thể rung cuông để gọi tất cả nhà sư tới niệm kinh và mở đường cho Mugen.
+
+// Disguise A
+898822713=Ngụy trang A
+
+// Aiko can knock out this temple servant and steal her clothes.
+673603820=Aiko có thể hạ gục đầy tớ ngôi đền và lấy cắp quần áo của cô ấy.
+
+// Disguise B
+1269675663=Ngụy trang B
+
+// Aiko can get a temple servant outfit from this laundry basket.
+-245087566=Aiko có thể lấy trang phục đầy tớ từ giỏ đựng quần áo này.
+
+// Daimyo
+797637290=Đại Danh
+
+// Disguise
+-133837944=Ngụy trang
+
+// Aiko can wear a disguise to hide in plain sight and distract enemies with small talk.
+-2039536599=Aiko có thể mặc lớp ngụy trang để che dấu thân phận và nói chuyện với địch để đánh lạc hướng.
+
+// Aiko can wear a disguise to hide in plain sight and distract enemies with small talk.
+578325823=Aiko có thể mặc lớp ngụy trang để che dấu thân phận và nói chuyện với địch để đánh lạc hướng.
+
+// Press <hotkey>{0}</hotkey> to put on the disguise. When in disguise, press <hotkey>{0}</hotkey>, choose a target and use <hotkey>{1}</hotkey> to distract them.
+-2050944072=Nhấn <hotkey>{0}</hotkey> để mặc đồ ngụy trang. Khi đã ngụy trang, nhấn <hotkey>{0}</hotkey>, chọn một mục tiêu và sử dụng <hotkey>{1}</hotkey> để đánh lạc hướng chúng.
+
+// Hold {0} and select the disguise, then hold {1} to put it on. When in disguise, approach a target and press {2} to distract them.
+1803205160=Giữ {0} và sử dụng Ngụy Trang, rồi giữ {1} để mặc nó. Khi đã ngụy trang, tiếp cận mục tiêu và nhấn {2} để đánh lạc hướng chúng.
+
+// Aiko will shed her disguise when jumping, climbing or swimming.
+-272433019=Aiko sẽ lộ ngụy trang khi nhảy, leo hoặc bơi.
+
+// Aiko will shed her disguise when jumping, climbing or swimming.
+-1139953922=Aiko sẽ lộ ngụy trang khi nhảy, leo hoặc bơi.
+
+// Samurai can detect Aiko even if she wears a disguise.
+-550143987=Samurai có thể phát hiện Aiko kể cả khi đã ngụy trang.
+
+// Samurai can detect Aiko even if she wears a disguise.
+-448902358=Samurai có thể phát hiện Aiko kể cả khi đã ngụy trang.
+
+// Sneezing Powder
+-1761560068=Bột Hắt Xì
+
+// Aiko's sneezing powder can blind enemies for a few seconds.
+1219381423=Bột hắt xì của Aiko có thể làm mù kẻ địch trong vài giây.
+
+// Aiko's sneezing powder can blind enemies for a few seconds.
+-769477824=Bột hắt xì của Aiko có thể làm mù kẻ địch trong vài giây.
+
+// Press <hotkey>{0}</hotkey>, choose a target and use <hotkey>{1}</hotkey> to throw the flask.
+-548279190=Nhấn <hotkey>{0}</hotkey>, chọn một mục tiêu và sử dụng <hotkey>{1}</hotkey> để ném bột.
+
+// Hold {0} and select Sneezing Powder. Hold {1} to aim and press {2} to throw it.
+1976287725=Giữ {0} và chọn Bột Hắt Xì. Giữ {1} để ngắm và nhấn {2} để ném.
+
+// Sneezing will shrink an enemy's viewcone. The viewcone will be restored after a few seconds.
+-1065883455=Hắt xì sẽ làm giảm tầm nhìn của địch. Tầm nhìn sẽ phục hồi lại sau vài giây.
+
+// Sneezing will shrink an enemy's viewcone. The viewcone will be restored after a few seconds.
+1164797633=Hắt xì sẽ làm giảm tầm nhìn của địch. Tầm nhìn sẽ phục hồi lại sau vài giây.
+
+// Tip: Aiko has an unlimited supply of sneezing powder. Feel free to experiment.
+1373864409=Mẹo: Aiko có lượng bột hắt xì không giới hạn. Hãy dùng nó tẹt ga.
+
+// Tip: Aiko has an unlimited supply of sneezing powder. Feel free to experiment.
+-315776072=Mẹo: Aiko có lượng bột hắt xì không giới hạn. Hãy dùng nó tẹt ga.
+
+// Domzo Abe
+777500068=Domzo Abe
+
+// Ryota Jojotoro
+2101218932=Ryota Jojotoro
+

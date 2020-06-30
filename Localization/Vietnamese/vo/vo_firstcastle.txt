@@ -1,0 +1,560 @@
+// SPEAKER: NARRATOR
+// Japan, early Edo period
+vocs_over_over_firstcastle_intro_n00=Nhật Bản, giai đoạn tiền Edo
+
+// SPEAKER: NARRATOR
+// Finally, after centuries of civil war, there is hope for peace as a new Shogun rises to unify the nation.
+vocs_over_over_firstcastle_intro_n01=Cuối cùng, sau nhiều thế kỷ nội chiến, tại đây đã tồn tại niềm tin hòa bình từ một Mạc Chúa mới trỗi dậy giúp thống nhất đất nước.
+
+// SPEAKER: NARRATOR
+// In the stronghold of Ōsaka Castle, the last adversary remains defiant. After months of siege, the Shogun sends a lone shinobi into the heart of the enemy fortress...
+vocs_over_over_firstcastle_intro_n02=Trong thành trì Ōsaka, kẻ thù cuối cùng vẫn là một thách thức. Sau nhiều tháng bao vây, Mạc Chúa đã gửi một Ninja đơn độc trà trộn vào trung tâm pháo đài của đối phương...
+
+// SPEAKER: NARRATOR
+// In the stronghold of Ōsaka Castle, the last adversary remains defiant. After months of siege, the Shogun sends a lone shinobi on a secret mission...
+vocs_over_over_firstcastle_intro_n02a=Trong thành trì Ōsaka, kẻ thù cuối cùng vẫn là một thách thức. Sau nhiều tháng bao vây, Mạc Chúa đã gửi một Ninja đơn độc để thực hiện một nhiệm vụ bí mật...
+
+// SPEAKER: NINJA
+// Nothing personal. Just can't have you warn the others up there.
+vocs_over_over_firstcastle_intro_n03=Đừng nghĩ xấu về tao. Chỉ là muốn mày không thể cảnh báo cho lũ chết dẫm ở phía trên kia mà thôi.
+
+// SPEAKER: NINJA
+// Looks like a whole nest of guards. Bet they're preparing for the Shogun's next attack.
+vocs_over_over_firstcastle_intro_n04=Có vẻ như huy động toàn bộ lính canh. Dám cá là chúng đang chuẩn bị cho cuộc tấn công tiếp theo của Mạc Chúa.
+
+// SPEAKER: NINJA
+// Looks like a whole nest of guards. Who'd have thought! This might actually get challenging.
+vocs_over_over_firstcastle_intro_n04a=Có vẻ như chúng huy động toàn bộ lính canh. Ai mà ngờ được chứ! Lần này có vẻ thử thách lắm đây.
+
+// SPEAKER: NINJA
+// Not much happening here. I'll keep my head down, just in case.
+vocs_over_over_firstcastle_intro_n05=Chả có gì xảy ra ở đây. Trong vài trường hợp mình chỉ cần hạ thấp đầu xuống là được.
+
+// SPEAKER: NINJA
+// Not much happening here. I'll keep my head down, just in case.
+vocs_over_over_firstcastle_intro_n05a=Chả có gì xảy ra ở đây. Trong vài trường hợp mình chỉ cần hạ thấp đầu xuống là được.
+
+// SPEAKER: NINJA
+// Barricades everywhere. Who'd have thought! This might actually get challenging.
+vocs_over_over_firstcastle_intro_n06=Rào chắn ở khắp nơi. Ai mà ngờ được chứ! Lần này có vẻ thử thách lắm đây.
+
+// SPEAKER: NINJA
+// Barricades everywhere. Bet they're preparing for the Shogun's next attack.
+vocs_over_over_firstcastle_intro_n06a=Rào chắn ở khắp nơi. Dám cá là chúng đang chuẩn bị cho cuộc tấn công tiếp theo của Mạc Chúa.
+
+// SPEAKER: NINJA
+// There. Have to reach that gate. Guess I have my work cut out for me.
+vocs_over_over_firstcastle_intro_n07=Đây. Phải tới được cánh cổng này. Hi vọng công việc của mình suôn sẻ.
+
+// SPEAKER: NINJA
+// First order is to reach that gate. Should be a good warm-up for the real mission.
+vocs_over_over_firstcastle_intro_n07a=Đầu tiên là phải tới được cánh cổng này. Cần phải khởi động đôi chút để chuẩn bị cho nhiệm vụ thực sự.
+
+// SPEAKER: NINJA
+// Climb won't be a problem. Better hurry though. The Shogun will start his attack soon.
+vocs_over_over_firstcastle_ninja_n00=Trèo lên đó không phải là vấn đề. Tốt hơn là nhanh lên. Mạc Chúa sẽ bắt đầu cuộc tấn công của Ngài sớm.
+
+// SPEAKER: GUARD1
+// Ugh, six months of this. How much longer will this go on?
+vo_hint_hint_firstcastle_chat1_n00=Ugh, 6 tháng cho mấy thử khỉ gió này. Không biết còn tiếp tục bao lâu nữa?
+
+// SPEAKER: GUARD2
+// It doesn't matter. No Shogunate scum will ever set foot in this castle.
+vo_hint_hint_firstcastle_chat1_n01=Đếch quan trọng. Bọn Mạc Phủ cặn bã sẽ không đời nào đặt chân vào được trong thành này.
+
+// SPEAKER: NINJA
+// Better stay out of sight.
+vocs_over_over_firstcastle_inside_n00=Tốt hơn là không để bị phát hiện.
+
+// SPEAKER: OFFICER
+// Everyone, gather! 
+vo_hint_hint_firstcastle_chat2_n00=Mọi người, tập hợp!
+
+// SPEAKER: OFFICER
+// The Shogunate army will attack soon! We will face them with honor.
+vo_hint_hint_firstcastle_chat2_n01=Quân Mạc Phủ sẽ tấn công sớm! Chúng ta đối mặt chúng với tất cả danh dự.
+
+// SPEAKER: NINJA
+// Damn. Have to hide now!
+vocs_over_over_firstcastle_alarm_n00=Toi cmnr. Phải nấp ngay!
+
+// SPEAKER: NINJA
+// Ugh...they starved to death. Bad way to go.
+vocs_over_over_firstcastle_civilians_n00=Ugh...họ chết đói. Thật tệ khi đi qua đây.
+
+// SPEAKER: NINJA
+// I could sneak past this one...or take him out, quietly.
+vocs_over_over_firstcastle_sight_n00=Mình có thể lẻn qua...hoặc hạ hắn một cách thầm lặng.
+
+// SPEAKER: NINJA
+// Don't mind me. Just passing through.
+vocs_over_over_firstcastle_methods1_n00=Đừng để ý. Tao chỉ cần băng qua thôi.
+
+// SPEAKER: NINJA
+// Better safe than sorry.
+vocs_over_over_firstcastle_methods2_n00=Cẩn tắc vô ưu.
+
+// SPEAKER: NINJA
+// Hm! Gate's blocked; wall's too high. Guess I'll have to take a detour.
+vocs_over_over_firstcastle_detour_n00=Hm! Cổng khóa; tường quá cao. Mình cần phải đi đường vòng.
+
+// SPEAKER: NINJA
+// They're too close together to take them out. Better use a distraction.
+vocs_over_over_firstcastle_distraction_n00=Quá khó hạ chúng khi ở gần nhau. Tốt hơn là đánh lạc hướng.
+
+// SPEAKER: NINJA
+// This one's shut too. I'm running out of options here.
+vocs_over_over_firstcastle_warrior_n00=Ở đây đông quá. Mình cũng cụt đường rồi.
+
+// SPEAKER: NINJA
+// Damn! The offensive's started. I have to get inside somehow...
+vocs_over_over_firstcastle_warrior_n01=Chết tiệt! Cuộc tấn công đã bắt đầu. Mình phải lẻn vào trong bằng một cách nào đó...
+
+// SPEAKER: WARRIOR
+// Forward men! For the Shogun!
+vocs_over_over_firstcastle_warrior_n02=Tiến lên các chàng trai! Vì Mạc Chúa!
+
+// SPEAKER: WARRIOR
+// Argh! ...damn you!
+vocs_over_over_firstcastle_warrior_n03=Argh! ...mẹ mày!
+
+// SPEAKER: GUARD1
+// Y-you have nowhere to run! Show yourself!
+vocs_over_over_firstcastle_warrior_n04=Mày hết đường lui rồi! Còn gì để thể hiện nữa không hả!
+
+// SPEAKER: NINJA
+// Oy, samurai! Always get themselves killed ...hate to admit it, but he's my best chance. Better help him.
+vocs_over_over_firstcastle_warrior_n05=Ồi, Samurai! Luôn muốn đâm đầu vào chỗ chết... ghét phải thừa nhận nhưng anh ấy là cơ hội duy nhất của mình. Tốt hơn nên cứu anh ấy.
+
+// SPEAKER: NINJA
+// They're far enough apart. If I use the Shuriken, no one will hear until it's too late.
+vocs_over_over_firstcastle_shuriken_n00=Chúng đang ở đủ xa. Nếu sử dụng Shuriken thì không ai nghe thấy được cho đến khi chuyện đã rồi.
+
+// SPEAKER: WARRIOR
+// For the Shogun!
+vocs_over_over_firstcastle_multikill1_n00=Vì Mạc Chúa!
+
+// SPEAKER: WARRIOR
+// I noticed your involvement just now. Tell me your name, so I can thank you properly.
+vocs_over_over_firstcastle_multikill2_n00=Tôi đã thấy sự giúp đỡ của cậu. Xin hãy xưng danh, để tôi có thể cảm tạ cậu đúng cách.
+
+// SPEAKER: NINJA
+// Mind if you let me inside first? I like being thanked in person.
+vocs_over_over_firstcastle_multikill2_n01=Có phiền nếu anh giúp tôi lọt vào trong ấy? Tôi muốn được cảm tạ như thế.
+
+// SPEAKER: WARRIOR
+// Haha, very well. I will repay my debt at once by opening the gate for you.
+vocs_over_over_firstcastle_multikill2_n02=Haha, tốt lắm. Tôi sẽ trả món nợ này bằng cách mở cánh cổng cho cậu.
+
+// SPEAKER: WARRIOR
+// My men are dead. I will join them soon if I do not proceed carefully.
+vocs_over_over_firstcastle_careful_n00=Người của mình đã chết. Mình cũng sẽ dẹo sớm nếu cứ tiếp tục cẩu thả thế này.
+
+// SPEAKER: WARRIOR
+// I should lure them towards me. Perhaps my sake will be adequate bait.
+vocs_over_over_firstcastle_sake_n00=Nên dụ chúng tiến về phía mình. Có lẽ chai sa kê đủ để bẫy rồi.
+
+// SPEAKER: WARRIOR
+// Three opponents close together. I shall use Kazekiri to defeat them all at once.
+vocs_over_over_firstcastle_multikill3_n00=Ba thằng này đứng gần nhau. Mình có thể sử dụng Phong Kiếm để hạ bọn này cùng một lúc.
+
+// SPEAKER: WARRIOR
+// Three opponents close together. I shall use my Kazekiri technique to defeat them all at once.
+vocs_over_over_firstcastle_multikill3_n00a=Ba thằng này đứng gần nhau. Mình có thể sử dụng Phong Kiếm để hạ bọn này cùng một lúc.
+
+// SPEAKER: WARRIOR
+// Three opponents close together. I shall use my Sword Wind technique to defeat them all at once.
+vocs_over_over_firstcastle_multikill3_n00b=Ba thằng này đứng gần nhau. Mình có thể sử dụng Phong Kiếm để hạ bọn này cùng một lúc.
+
+// SPEAKER: WARRIOR
+// Aha, the cannon! It points directly at the gate.
+vocs_over_over_firstcastle_cannon_n00=À ha, khẩu pháo! Nó chỉ trực tiếp tới cánh cổng.
+
+// SPEAKER: WARRIOR
+// That cannon...perhaps I can make use of it.
+vocs_over_over_firstcastle_cannon_n00a=Khẩu pháo này...cõ lẽ mình nên sử dụng nó.
+
+// SPEAKER: WARRIOR
+// My thanks again for your assistance. I am Ōshiro Mugen. And you are...?
+vocs_over_over_firstcastle_briefing_n00=Xin cảm tạ lần nữa vì sự hỗ trợ của cậu. Tôi là Ōshiro Mugen. Còn cậu...?
+
+// SPEAKER: NINJA
+// Hayato, from the Iga region.
+vocs_over_over_firstcastle_briefing_n01=Hayato, từ vùng Iga.
+
+// SPEAKER: WARRIOR
+// Iga...I see. There were rumors that our Shogun had hired a shinobi. Tell me, what is your mission?
+vocs_over_over_firstcastle_briefing_n02=Iga...Tôi có nghe tin đồn Mạc Chúa đã thuê một Shinobi (Ninja). Cho tôi biết nhiệm vụ của cậu là gì?
+
+// SPEAKER: NINJA
+// I have to open the Yagura Mon.
+vocs_over_over_firstcastle_briefing_n03=Tôi phải mở Yagura Mon.
+
+// SPEAKER: WARRIOR
+// The main gate? Preposterous! It is heavily fortified!
+vocs_over_over_firstcastle_briefing_n04=Cổng chính? Lố bịch! Nó được bảo vệ rất nghiêm ngặt!
+
+// SPEAKER: NINJA
+// Not from the inside. One barrel of gunpowder will do the trick. Just have to get it in position.
+vocs_over_over_firstcastle_briefing_n05=Không phải cách mở thông thường. Có thùng thuốc súng sẽ giúp ích. Chỉ cần đặt nó vào đúng vị trí.
+
+// SPEAKER: NINJA
+// Not from the inside. Won't be easy, but I'll figure something out.
+vocs_over_over_firstcastle_briefing_n05a=Không phải cách mở thông thường. Không dễ lắm, nhưng tôi vẫn đang tìm cách nào đó.
+
+// SPEAKER: WARRIOR
+// A daunting task. Very well! I shall accompany you.
+vocs_over_over_firstcastle_team_n00=Nhiệm vụ khó đấy. Tốt thôi! Tôi sẽ đi cùng cậu.
+
+// SPEAKER: NINJA
+// That's...kind of you. But I work alone.
+vocs_over_over_firstcastle_team_n01=Thật...tử tế. Nhưng tôi làm việc một mình.
+
+// SPEAKER: WARRIOR
+// I will not hear of it! Together we will succeed where we both failed alone.
+vocs_over_over_firstcastle_team_n02=Coi như tôi chưa nghe gì hết! Chúng ta sẽ cùng nhau thành công hoặc cùng thất bại một cách đơn độc.
+
+// SPEAKER: NINJA
+// I didn't! ...as you wish. But we have to be quiet, or we won't get far.
+vocs_over_over_firstcastle_team_n03=Tôi không thất bại! ...Nếu như anh muốn, chúng ta phải thật im lặng hoặc sẽ không thể tới được đó.
+
+// SPEAKER: WARRIOR
+// All right, Hayato of Iga. We shall do this your way.
+vocs_over_over_firstcastle_team_n04=Được thôi, Hayato vùng Iga. Sẽ làm theo cách mà cậu muốn.
+
+// SPEAKER: WARRIOR
+// There's the gate. Should we enter?
+vocs_over_over_firstcastle_around_n00=Có cổng. Chúng ta có nên vào trong?
+
+// SPEAKER: NINJA
+// Hrm. The gate's guarded on the other side. I'd rather go around, find a spot where I can climb the walls.
+vocs_over_over_firstcastle_around_n01=Hrm. Bên kia cổng có bảo vệ. Tôi sẽ đi đường vòng và tìm chỗ nào đó giúp leo lên tường được.
+
+// SPEAKER: WARRIOR
+// I won't be able to climb the walls.
+vocs_over_over_firstcastle_around_n02=Tôi không thể leo lên mấy bức tường.
+
+// SPEAKER: NINJA
+// Too much armor, huh? Don't worry. Once I'm inside, I'll clear the way for you.
+vocs_over_over_firstcastle_around_n03=Giáp quá nặng hả? Không phải xoắn. Một khi vào được trong, tôi sẽ mở đường cho anh.
+
+// SPEAKER: WARRIOR
+// This area is tightly guarded.
+vocs_over_over_firstcastle_corpses_n00=Khu này được bảo vệ nghiêm ngặt.
+
+// SPEAKER: NINJA
+// Don't leave bodies out in the open. Hide them in bushes, barrels, empty houses.
+vocs_over_over_firstcastle_corpses_n01=Đừng tòi lòi ra ngoài như thế. Hãy nấp trong bụi, thùng, hay nhà trống ấy.
+
+// SPEAKER: WARRIOR
+// Who would have thought that one day I'd take lessons from a shinobi.
+vocs_over_over_firstcastle_corpses_n02=Ai mà ngờ được có ngày mình phải học nó từ một Shinobi không cơ chứ.
+
+// SPEAKER: GUARD1
+// Do we have enough men here?
+vo_hint_hint_firstcastle_strategy_n00=Chúng ta có đủ người ở đây không?
+
+// SPEAKER: GUARD2
+// The south wall needs securing.
+vo_hint_hint_firstcastle_strategy_n01=Tường phía Bắc cần được đảm bảo.
+
+// SPEAKER: GUARD1
+// How are the granaries doing?
+vo_hint_hint_firstcastle_strategy_n02=Kho thóc này đang làm gì?
+
+// SPEAKER: GUARD2
+// We need to fortify this area.
+vo_hint_hint_firstcastle_strategy_n03=Cần phải củng cố khu vực này.
+
+// SPEAKER: GUARD1
+// We must send men here.
+vo_hint_hint_firstcastle_strategy_n04=Chúng ta phải gửi người vào đây.
+
+// SPEAKER: GUARD2
+// The Shogun's looking for a weak spot.
+vo_hint_hint_firstcastle_strategy_n05=Mạc Chúa đang tìm kiếm lỗ hổng.
+
+// SPEAKER: GUARD1
+// Send someone to clear the debris.
+vo_hint_hint_firstcastle_strategy_n06=Gửi ai đó tới dọn đống đổ nát này.
+
+// SPEAKER: GUARD2
+// We must send supplies there.
+vo_hint_hint_firstcastle_strategy_n07=Phải gửi quân tiếp viện ở đây.
+
+// SPEAKER: OFFICER
+// Cannon fire!
+vo_hint_hint_firstcastle_battle_n00=Pháo kìa!
+
+// SPEAKER: OFFICER
+// They're loading the cannons!
+vo_hint_hint_firstcastle_battle_n01=Chúng đang nạp đạn pháo!
+
+// SPEAKER: OFFICER
+// Cannons are firing!
+vo_hint_hint_firstcastle_battle_n02=Pháo đang bắn!
+
+// SPEAKER: OFFICER
+// Archers!
+vo_hint_hint_firstcastle_battle_n03=Cung thủ!
+
+// SPEAKER: OFFICER
+// They're lighting their arrows!
+vo_hint_hint_firstcastle_battle_n04=Chúng đang châm lửa vào tên!
+
+// SPEAKER: OFFICER
+// Arrows incoming!
+vo_hint_hint_firstcastle_battle_n05=Tên đang tới!
+
+// SPEAKER: OFFICER
+// Find cover!
+vo_hint_hint_firstcastle_battle_n06=Tìm chỗ nấp!
+
+// SPEAKER: OFFICER
+// Get under cover!
+vo_hint_hint_firstcastle_battle_n07=Tìm chỗ nấp!
+
+// SPEAKER: OFFICER
+// Stay down!
+vo_hint_hint_firstcastle_battle_n08=Nằm xuống!
+
+// SPEAKER: NINJA
+// See those guards with straw hats?
+vocs_over_over_firstcastle_statics_n00=Nhìn lũ lính canh đội mũ rơm kìa?
+
+// SPEAKER: WARRIOR
+// Those men over there, the ones wearing straw hats...
+vocs_over_over_firstcastle_statics_n01=Những người đàn ông ở đó, họ đội mũ rơm...
+
+// SPEAKER: NINJA
+// Your little sake trick won't work on the straw hat guards. They never leave their posts.
+vocs_over_over_firstcastle_statics_n02=Chai sa kê nhỏ của anh không lừa được lính mũ rơm đâu. Chúng không bao giờ rời khỏi vị trí đó.
+
+// SPEAKER: WARRIOR
+// I understand.
+vocs_over_over_firstcastle_statics_n03=Tôi hiểu.
+
+// SPEAKER: NINJA
+// Can't be far now.
+vocs_over_over_firstcastle_bonding_n00=Đừng để lạc nhau.
+
+// SPEAKER: WARRIOR
+// Your skill is impressive, Hayato-san. A shame that your clan is no more.
+vocs_over_over_firstcastle_bonding_n01=Kĩ năng thật ấn tượng, Hayato-san. Nhẫn giả bọn cậu sẽ không còn phải tủi nhục nữa.
+
+// SPEAKER: NINJA
+// We can agree on that... Have to say, you're doing better than I thought.
+vocs_over_over_firstcastle_bonding_n02=Bọn tôi đồng ý về điều đó... Nhưng cũng có thể nói rằng anh làm việc hiệu quả hơn tôi nghĩ đấy.
+
+// SPEAKER: WARRIOR
+// Ah, your way of things is still strange to me, but I am starting to see its merits.
+vocs_over_over_firstcastle_bonding_n03=Ah, cách ám sát của cậu khá xa lạ đối với tôi, nhưng mà tôi đang bắt đầu thấy được giá trị của nó rồi.
+
+// SPEAKER: ALCHEMIST
+// Swallow in the dusk...spare my little buzzing friends among the flowers.
+vocs_over_over_firstcastle_alchemist_n00=Nuốt chửng hoàng hôn...tha thứ cho mấy chàng trai bé nhỏ của ta giữa rừng bông hoa thơ mộng.
+
+// SPEAKER: NINJA
+// Shot came from the tower... Someone's up there.
+vocs_over_over_firstcastle_alchemist_n01=Bắn từ đỉnh tháp... Có một ai đang ở trên đó.
+
+// SPEAKER: WARRIOR
+// That must be Takuma-san, a master marksman from the third division.
+vocs_over_over_firstcastle_alchemist_n02=Hẳn phải là Takuma-san, một tay thiện xạ bậc thầy từ nhóm thứ ba.
+
+// SPEAKER: ALCHEMIST
+// Hehehe, two allies approach. You want to destroy the Yagura Mon, yes? Then heed my advice.
+vocs_over_over_firstcastle_alchemist_n03=Hehehe, hai đồng minh tiếp cận. Mấy đứa muốn phá hủy Yagura Mon phải không? Vậy hãy nghe lời khuyên của lão.
+
+// SPEAKER: ALCHEMIST
+// A wise man needs only one barrel of gunpowder to open the Yagura Mon.
+vocs_over_over_firstcastle_alchemist_n04=Một người đàn ông khôn ngoan thì chỉ cần đến một thùng thuốc súng để mở Yagura Mon.
+
+// SPEAKER: ALCHEMIST
+// Place one close to the gate, and I will detonate it for you.
+vocs_over_over_firstcastle_alchemist_n05=Đặt nó gần cánh cổng, và lão sẽ kích nổ nó cho mấy đứa.
+
+// SPEAKER: ALCHEMIST
+// However, there is no direct path. Try to get there on the ground and you will fail.
+vocs_over_over_firstcastle_alchemist_n06=Tuy nhiên, không có đường trực tiếp nào tới đó. Nếu cố thử trên mặt đất thì sẽ tự chuốc lấy thất bại.
+
+// SPEAKER: ALCHEMIST
+// Ladders lead to the top of the Yagura Mon. If you have the strength, lift the barrel up there, then throw it down to its ultimate destination.
+vocs_over_over_firstcastle_alchemist_n07=Thang sẽ dẫn tới đỉnh của Yagura Mon. Nếu mấy đứa đủ khỏe thì nhấc thùng mang lên đó, rồi ném xuống vị trí cần thiết là được.
+
+// SPEAKER: ALCHEMIST
+// Hmm...hmm... My rifle can clear the path ahead. Let me recite another Haiku.
+vocs_over_over_firstcastle_sniper1_n00=Hmm...hmm... Súng trường này có thể dọn sạch bóng địch ở phía trước. Hãy để lão ngâm tiếp bài thơ khác của Haiku.
+
+// SPEAKER: ALCHEMIST
+// Hehehe, how could I leave now? I'm precisely where I'm needed.
+vocs_over_over_firstcastle_sniper2_n00=Hehehe, làm thế nào để di chuyển bây giờ? Chính xác là lão đã có được vị trí mà lão cần.
+
+// SPEAKER: NINJA
+// Impressive shot. Not bad for an old man.
+vocs_over_over_firstcastle_stories1_n00=Phát bắn khá ấn tượng. Không tệ cho một lão già.
+
+// SPEAKER: WARRIOR
+// Do not be deceived. I saw him train our soldiers. None of them could match his skill.
+vocs_over_over_firstcastle_stories1_n01=Đừng để bị lừa. Tôi thấy lão ấy huấn luyện cho binh sĩ. Và không một ai phù hợp với kĩ năng của lão.
+
+// SPEAKER: NINJA
+// Glad he's on our side then.
+vocs_over_over_firstcastle_stories1_n02=May là lão về phe chúng ta.
+
+// SPEAKER: NINJA
+// He doesn't miss, does he?
+vocs_over_over_firstcastle_stories2_n00=Lão không trật phát nào, phải không?
+
+// SPEAKER: WARRIOR
+// They say he once defended a mountain pass all by himself. Rumor has it that ten shots were heard, yet fifteen bodies were found.
+vocs_over_over_firstcastle_stories2_n01=Họ nói rằng mình lão đã từng phòng thủ cả một ngọn núi bằng chính sức của mình. Có tin đồn nghe thấy 10 phát bắn, và 15 xác chết được tìm thấy.
+
+// SPEAKER: NINJA
+// Haha! And I'm the Shogun's personal tea servant.
+vocs_over_over_firstcastle_stories2_n02=Haha! Nếu thật thì tôi là đầy tớ rót trà cho Mạc Chúa.
+
+// SPEAKER: NINJA
+// Tch...nobody's that good.
+vocs_over_over_firstcastle_stories2_n02a=Tch...chả có ai tốt đẹp gì cả.
+
+// SPEAKER: NINJA
+// That's why I don't listen to rumors.
+vocs_over_over_firstcastle_stories2_n02b=Đó là lý do tại sao tôi không nghe về tin đồn.
+
+// SPEAKER: ALCHEMIST
+// For love and for hate...I swat a fly and offer it to an ant.
+vocs_over_over_firstcastle_haiku_n00=Tình yêu và thù hận...Ta đánh chết một con ruồi rồi đưa nó tới một con kiến.
+
+// SPEAKER: ALCHEMIST
+// Ah, the two have reached the barrels. Now, who will play the part of the mule?
+vocs_over_over_firstcastle_plan1_n00=Ah, hai đứa đã tới được mấy cái thùng. Giờ ai sẽ vào vai con la thồ hàng đây?
+
+// SPEAKER: WARRIOR
+// Hayato-san, I will carry the barrel. I...trust in your protection.
+vocs_over_over_firstcastle_plan1_n01=Hayato-san, tôi sẽ mang cái thùng. Tôi...tin vào sự bảo vệ của cậu.
+
+// SPEAKER: NINJA
+// Don't worry, I have your back.
+vocs_over_over_firstcastle_plan1_n02=Đừng lo, tôi sẽ yểm trợ anh.
+
+// SPEAKER: ALCHEMIST
+// Hehehe! Have you come to ask for advice, boy? 
+vocs_over_over_firstcastle_meetup_n00=Hehehe! Đến để xin lời khuyên hả chàng trai?
+
+// SPEAKER: NINJA
+// You're...an old man! How did you get up here so quickly?
+vocs_over_over_firstcastle_meetup_n01=Một...lão già! Làm thế nào mà lão mò được lên đây nhanh vậy?
+
+// SPEAKER: ALCHEMIST
+// Hmm... A fair question, since you have taken the longest possible route.
+vocs_over_over_firstcastle_meetup_n02=Hmm... Một câu hỏi hay, từ khi cậu lên được đây bằng con đường dài nhất có thể.
+
+// SPEAKER: NINJA
+// Not going to tell me, are you?
+vocs_over_over_firstcastle_meetup_n03=Lão không nói cho tôi biết hả?
+
+// SPEAKER: ALCHEMIST
+// Hehehehe...
+vocs_over_over_firstcastle_meetup_n04=Hehehehe...
+
+// SPEAKER: WARRIOR
+// Halfway there.
+vocs_over_over_firstcastle_plan2_n00=Nửa đường rồi.
+
+// SPEAKER: ALCHEMIST
+// Hmm, such strength. It will be easy for him to heave the barrel up onto the Yagura Mon.
+vocs_over_over_firstcastle_plan2_n01=Hmm, khỏe vãi. Cậu ta mang cái thùng đó lên đỉnh Yagura Mon sẽ khá là dễ dàng.
+
+// SPEAKER: OFFICER
+// Hold the gate, men!
+vo_hint_hint_firstcastle_hold_n00=Giữ chặt cổng, mấy thằng này!
+
+// SPEAKER: OFFICER
+// Let no one through!
+vo_hint_hint_firstcastle_hold_n02=Cấm để đứa nào lọt vào!
+
+// SPEAKER: OFFICER
+// We will hold the gate!
+vo_hint_hint_firstcastle_hold_n03=Chúng ta sẽ giữ chặt cổng!
+
+// SPEAKER: OFFICER
+// They will not get past us!
+vo_hint_hint_firstcastle_hold_n04=Chúng ta sẽ không để đứa nào lọt vào!
+
+// SPEAKER: OFFICER
+// What the...?!
+vo_hint_hint_firstcastle_surprise_n00=Cái quái...?!
+
+// SPEAKER: WARRIOR
+// There!
+vocs_over_over_firstcastle_plan3_n00=Đây!
+
+// SPEAKER: NINJA
+// Now it's up to the old man.
+vocs_over_over_firstcastle_plan3_n01=Giờ thì tới lượt lão già.
+
+// SPEAKER: ALCHEMIST
+// Hehe, that was a delight to watch! Now let me fulfill my end of the bargain.
+vocs_over_over_firstcastle_plan3_n02=Hehe, hẳn là một trò vui để chiêm ngưỡng! Giờ lão sẽ hoàn thành nốt phần cuối của nhiệm vụ.
+
+// SPEAKER: ALCHEMIST
+// Hehe! Unfortunate!
+vocs_over_over_firstcastle_fail_n00=Hehe! Thật không may!
+
+// SPEAKER: NINJA
+// Watch it, old man! Not like we have many of those!
+vocs_over_over_firstcastle_fail_n01=Nhìn đi lão già! Chúng ta không có nhiều thùng ở đây đâu!
+
+// SPEAKER: ALCHEMIST
+// Hehe, do not worry, boy! It will all work out in the end.
+vocs_over_over_firstcastle_fail_n02=Hehe, đừng nóng mà chàng trai! Rồi việc gì cũng sẽ kết thúc.
+
+// SPEAKER: WARRIOR
+// This is a glorious day! The Shogun will be victorious, and the war will finally end! We have accomplished much!
+vocs_over_over_firstcastle_debriefing_n00=Hẳn là một ngày vinh quanh! Mạc Chúa sẽ chiến thắng, và chiến tranh cũng sớm kết thúc! Chúng ta đã làm được khá nhiều việc!
+
+// SPEAKER: NINJA
+// Agreed. Just don't expect me to split my pay with you.
+vocs_over_over_firstcastle_debriefing_n01=Chuẩn. Chỉ cần anh đừng mong tôi sẽ chia tiền công là được.
+
+// SPEAKER: WARRIOR
+// Hah! But I do expect you to pay for sake when this is over. Stay safe, Hayato-san! I must re-join the battle. For the Shogun!
+vocs_over_over_firstcastle_debriefing_n02=Hah! Nhưng tôi vẫn muốn cậu nhường chút sa kê vì kết quả của chúng ta. Bảo trọng, Hayato-san! Giờ tôi phải tái tham chiến. Vì Mạc Chúa!
+
+// SPEAKER: NINJA
+// Heh, samurai. Always eager to get killed.
+vocs_over_over_firstcastle_debriefing_n03=Heh, Samurai. Người gì mà toàn muốn đâm đầu vào chỗ chết.
+
+// SPEAKER: ALCHEMIST
+// Ah, history has been written today! The dawn of a new era. I didn't think I'd live to see it, hehehe...
+vocs_over_over_firstcastle_debriefing_n04=Ah, lịch sử hôm nay đã được viết! Bình minh cho một kỉ nguyên mới. Mình không nghĩ là mình có thể sống đến lúc thấy được nó, hehehe...
+
+// SPEAKER: SAMURAI
+// New orders from Lord Yabu. We are to attack the north towers. Aim the cannons.
+vocs_over_over_firstcastle_debriefing_n05=Lệnh mới từ lãnh chúa Yabu. Chúng ta tấn công tòa tháp phía bắc. Mục tiêu là các khẩu pháo.
+
+// SPEAKER: OFFICER
+// W-wait...don't we have a man up there?
+vocs_over_over_firstcastle_debriefing_n06=Ch-chờ đã...chúng ta không có người nào ở đó?
+
+// SPEAKER: SAMURAI
+// How dare you question an order?! The cannons! Now!
+vocs_over_over_firstcastle_debriefing_n07=Thế quái nào anh dám đặt câu hỏi cho mệnh lệnh?! Những khẩu pháo! Ngay!
+
+// SPEAKER: OFFICER
+// Y-yes, of course!
+vocs_over_over_firstcastle_debriefing_n08=V-vâng, tất nhiên!
+
+// SPEAKER: SAMURAI
+// Fire!
+vocs_over_over_firstcastle_debriefing_n09=Bắn!
+
+// SPEAKER: ALCHEMIST
+// Fools! What are they doing?!
+vocs_over_over_firstcastle_debriefing_n10=Bọn ngu! Chúng đang làm cái khỉ gì vậy?!
+
+// SPEAKER: ALCHEMIST
+// Aaah!
+vocs_over_over_firstcastle_debriefing_n11=Aaah!
+

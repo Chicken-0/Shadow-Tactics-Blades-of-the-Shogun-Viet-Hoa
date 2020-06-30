@@ -1,0 +1,116 @@
+// SPEAKER: NINJA
+// So he took that cannon blast, and it only cost him a leg? Heh. Got to say, I'm impressed. What is he doing now?
+vocs_over_over_monastery1_post_n00=Vậy lão đã ăn quả pháo, và chỉ phải trả một cái chân? Heh. Phải nói rằng quá ấn tượng. Giờ lão ấy đang làm gì?
+
+// SPEAKER: WARRIOR
+// We supplied him with tools and materials. He has been working in his chamber ever since.
+vocs_over_over_monastery1_post_n01=Bọn tôi cung cấp cho lão công cụ và vật liệu. Lão đang làm việc trong phòng mình từ lúc đó tới giờ.
+
+// SPEAKER: GEISHA
+// He seemed willing to enter the Shogun's services. How does he plan to compensate for his...disability?
+vocs_over_over_monastery1_post_n02=Dường như lão đã sẵn sàng để tham gia phụng sự cho Mạc Chúa. Kế hoạch bù đắp cho cái chân...khuyết tật của lão sẽ như nào?
+
+// SPEAKER: WARRIOR
+// We will know soon enough. How was your scouting mission, Hayato-san?
+vocs_over_over_monastery1_post_n03=Rồi chúng ta sẽ biết thôi. Còn nhiệm vụ do thám của cậu thế nào, Hayato-san?
+
+// SPEAKER: NINJA
+// We had a look at Lord Yabu's mansion. Big place, heavily guarded. It's closed off by a wall, but Yuki found a way inside.
+vocs_over_over_monastery1_post_n04=Chúng ta đã biết được biệt thự của lãnh chúa Yabu. Nơi rộng lớn, canh gác cẩn mật. Bị vây kín bởi những bức tường, nhưng Yuki đã tìm được cách lẻn vào trong.
+
+// SPEAKER: WARRIOR
+// That sounds promising. Speaking of whom, where is Yuki-chan?
+vocs_over_over_monastery1_post_n05=Nghe có vẻ đầy hứa hẹn. Nhắc đến chuyện này, Yuki-chan đâu rồi?
+
+// SPEAKER: TRAPPER
+// Here, master samurai!
+vocs_over_over_monastery1_post_n06=Đây nè chú samurai xịn!
+
+// SPEAKER: ALCHEMIST
+// Hehe! I must say, Mugen, your young companion is full of curiosity.
+vocs_over_over_monastery1_post_n07=Hehe! Ta phải nói rằng, Mugen, nhóc cộng sự này đầy tính tò mò đấy.
+
+// SPEAKER: NINJA
+// Good to see you, old man.
+vocs_over_over_monastery1_post_n08=Rất vui được gặp lại lão già.
+
+// SPEAKER: ALCHEMIST
+// Ah, the young shinobi. Hayato, is it? Good to see you, too.
+vocs_over_over_monastery1_post_n09=Ah, chàng Shinobi trẻ. Hayato, phải không? Ta cũng vui được gặp cậu.
+
+// SPEAKER: WARRIOR
+// Takuma-san. Are you ready for the field?
+vocs_over_over_monastery1_post_n10=Takuma-san. Lão đã sẵn sàng cho vụ này chưa?
+
+// SPEAKER: ALCHEMIST
+// Erm...a bit rusty, maybe.
+vocs_over_over_monastery1_post_n11=Erm...một chút rỉ sét, có thể.
+
+// SPEAKER: ALCHEMIST
+// Everything weighs less in my memory.
+vocs_over_over_monastery1_post_n12=Tất cả mọi thứ đè nặng tâm trí của ta.
+
+// SPEAKER: WARRIOR
+// Then, let us discuss strategy.
+vocs_over_over_monastery1_post_n13=Vậy, chúng ta hãy bàn về chiến thuật.
+
+// SPEAKER: WARRIOR
+// Lord Yabu's guilt is proven. He might only be allied with Kage-sama, but I believe he is the man himself.
+vocs_over_over_monastery1_post_n14=Tội lỗi của lãnh chúa Yabu đã được chứng minh. Chỉ có hắn liên minh với Kage-sama, nhưng tôi tin hắn cũng chính là gã này.
+
+// SPEAKER: NINJA
+// Only one way to find out. If we want to get him, we better move now.
+vocs_over_over_monastery1_post_n15=Chỉ có một cách để tìm ra. Nếu muốn bắt được hắn, chúng ta phải triển khai ngay.
+
+// SPEAKER: WARRIOR
+// No doubt he will see us coming. It will be the most dangerous mission yet.
+vocs_over_over_monastery1_post_n16=Không còn nghi ngờ gì việc hắn sẽ biết chúng ta tới đó. Đây sẽ là nhiệm vụ nguy hiểm nhất từ trước giờ.
+
+// SPEAKER: ALCHEMIST
+// Hmm! Then we must be prepared. Here. I made one for each of you.
+vocs_over_over_monastery1_post_n17=Hmm! Rồi chúng ta phải chuẩn bị mọi thứ. Đây. Lão làm thứ này cho cậu.
+
+// SPEAKER: NINJA
+// Matchlock pistols? Never seen one so small... Not too shabby, old man.
+vocs_over_over_monastery1_post_n18=Súng ngắn hỏa mai? Chưa bao giờ thấy thứ nhỏ thế này... Cũng không quá tồi đâu lão già.
+
+// SPEAKER: ALCHEMIST
+// A last resort for desperate times. My first contribution. Hehe, may Yabu's downfall be the next.
+vocs_over_over_monastery1_post_n19=Chuyến nghỉ mát cuối cùng của sự tuyệt vọng. Đây là đóng góp đầu tiên của lão. Hehe, có thể Yabu sẽ suy sụp thêm lần nữa.
+
+// SPEAKER: NINJA
+// Guess I'll come with you then. You'll need all the help you can get.
+vocs_over_over_monastery1_post_n20=Đoán là tôi sẽ đi với lão. Lão sẽ giúp mọi thứ mà lão có thể làm được.
+
+// SPEAKER: TRAPPER
+// Oh...I want to come, too!
+vocs_over_over_monastery1_post_n21=Oh...Em cũng muốn tới đó!
+
+// SPEAKER: ALCHEMIST
+// Hehe! I appreciate your support!
+vocs_over_over_monastery1_post_n22=Hehe! Ta cảm kích với sự hỗ trợ của cháu!
+
+// SPEAKER: WARRIOR
+// Very well. You have my blessings to do whatever is necessary. I shall travel to Edo. The Shogun will want to know of our plan.
+vocs_over_over_monastery1_post_n23=Tốt lắm. Tôi ban cho cậu mọi phước lành để làm tốt bất cứ chuyện gì cần thiết. Tôi sẽ tới Edo. Mạc Chúa cần biết về kế hoạch của chúng ta.
+
+// SPEAKER: GEISHA
+// Then I will accompany you. It has been a long time since we enjoyed a peaceful moment together.
+vocs_over_over_monastery1_post_n24=Vậy em sẽ đi cùng anh. Đã từ lâu rồi chúng ta không có thời gian yên bình bên nhau.
+
+// SPEAKER: WARRIOR
+// I would be honored, Aiko-san. Let us prepare for the journey.
+vocs_over_over_monastery1_post_n25=Anh rất vinh dự, Aiko-san. Vậy chúng ta hãy chuẩn bị cho cuộc hành trình.
+
+// SPEAKER: NINJA
+// So, the three of us against a powerful daimyo in his heavily guarded mansion. Mmm...I've had worse odds.
+vocs_over_over_monastery1_post_n26=Vậy, ba chúng tôi chống lại một đại danh hùng mạnh trong biệt thự được canh gác cẩn thận. Mmm...Tôi cá sẽ có nhiều thứ tệ lắm đây.
+
+// SPEAKER: TRAPPER
+// Some things there want to be taken. But we won't come for things. We'll come for Lord Yabu!
+vocs_over_over_monastery1_post_n27=Mọi thứ đều phải được xử lý. Nhưng chúng ta đến đó không phải vì tất cả. Chúng ta tới vì lãnh chúa Yabu!
+
+// SPEAKER: ALCHEMIST
+// Hmm...a mercenary, a cripple and a child. They will tell stories about this one, hehehe.
+vocs_over_over_monastery1_post_n28=Hmm...một lính đánh thuê, một lão què và một đứa trẻ. Họ sẽ kể những câu chuyện về chúng ta, hehehe.
+

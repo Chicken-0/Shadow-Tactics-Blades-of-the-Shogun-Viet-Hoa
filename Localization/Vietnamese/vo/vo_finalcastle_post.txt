@@ -1,0 +1,20 @@
+// SPEAKER: NARRATOR
+// With the death of Lord Noboru, Japan was spared another century of war. The conspiracy of Kage-sama finally came to an end.
+vocs_over_over_finalcastle_outro_n00=Với cái chết của lãnh chúa Noboru, Nhật Bản đã đóng lại một thế kỉ chiến tranh khác. Những âm mưu của Kage-sama cuối cùng cũng đã kết thúc.
+
+// SPEAKER: NARRATOR
+// The truth would never be known. History books say that Noboru was put under house arrest by his brother and committed suicide.
+vocs_over_over_finalcastle_outro_n01=Sự thật không bao giờ được biết đến. Sử sách nói rằng Noboru bị quản thúc dưới ngôi nhà của anh trai và hắn đã tự tử.
+
+// SPEAKER: NARRATOR
+// Having avenged their friend Mugen, his companions disbanded. No one knows what became of them, though their deeds inspired countless legends.
+vocs_over_over_finalcastle_outro_n02=Sau khi những đồng đội trả thù cho Mugen, họ đã chia ly nhau từ đấy. Không một ai biết tới họ, mặc dù hành động của họ đã truyền cảm hứng cho bao huyền thoại khác.
+
+// SPEAKER: NARRATOR
+// The Shogun was given another son. His dynasty would keep the peace for almost three centuries, though there were many more conspiracies and attempted rebellions.
+vocs_over_over_finalcastle_outro_n03=Mạc Chúa sinh thêm một đứa con trai nữa. Triều đại của ngài ấy ổn định hòa bình trong gần ba thế kỷ, mặc dù đâu đó vẫn còn nhiều âm mưu và các cuộc nổi loạn.
+
+// SPEAKER: NARRATOR
+// One can only wonder how many fought and died for the Shogun, their names never mentioned, their deeds secret, their tales forever hidden, in the shadows.
+vocs_over_over_finalcastle_outro_n05=Người ta chỉ có thể tự hỏi có bao nhiêu trận chiến và có bao nhiêu kẻ chết bởi Mạc chúa, tên của chúng không hề được nhắc tới, hành động của chúng là bí mật, câu chuyện về chúng mãi mãi là bí ẩn tận sâu trong bóng tối.
+

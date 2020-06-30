@@ -1,0 +1,276 @@
+// SPEAKER: Brogunson
+// 
+vo_eny_eny_brogunson_death_scream_00=
+
+// SPEAKER: Brogunson
+// 
+vo_eny_eny_brogunson_death_scream_01=
+
+// SPEAKER: Brogunson
+// 
+vo_eny_eny_brogunson_death_scream_02=
+
+// SPEAKER: Brogunson
+// 
+vo_eny_eny_brogunson_death_scream_03=
+
+// SPEAKER: Brogunson
+// 
+vo_eny_eny_brogunson_death_scream_04=
+
+// SPEAKER: Brogunson
+// 
+vo_eny_eny_brogunson_death_scream_muffled_00=
+
+// SPEAKER: Brogunson
+// 
+vo_eny_eny_brogunson_death_scream_muffled_01=
+
+// SPEAKER: Brogunson
+// 
+vo_eny_eny_brogunson_death_scream_muffled_02=
+
+// SPEAKER: Brogunson
+// 
+vo_eny_eny_brogunson_death_scream_muffled_03=
+
+// SPEAKER: Brogunson
+// 
+vo_eny_eny_brogunson_death_scream_muffled_04=
+
+// SPEAKER: Brogunson
+// Ah...she's dead!
+vo_eny_eny_brogunson_detect_corpse_female_02=Ah...ả ta đã chết!
+
+// SPEAKER: Brogunson
+// They killed her!
+vo_eny_eny_brogunson_detect_corpse_female_03=Chúng đã giết ả ta!
+
+// SPEAKER: Brogunson
+// He's dead!
+vo_eny_eny_brogunson_detect_corpse_male_00=Thằng này đã chết!
+
+// SPEAKER: Brogunson
+// They...they killed him!
+vo_eny_eny_brogunson_detect_corpse_male_01=Chúng...chúng đã giết thằng này!
+
+// SPEAKER: Brogunson
+// Help! Murder!
+vo_eny_eny_brogunson_detect_corpse_neutral_00=Giúp với! Có người chết!
+
+// SPEAKER: Brogunson
+// There's...there's a killer!
+vo_eny_eny_brogunson_detect_corpse_neutral_01=Có...có kẻ giết người!
+
+// SPEAKER: Brogunson
+// Someone fix that light!
+vo_eny_eny_brogunson_detect_lightsource_00=Thằng nào thắp lại lửa đi!
+
+// SPEAKER: Brogunson
+// Who let that go out?
+vo_eny_eny_brogunson_detect_lightsource_01=Đứa nào để lửa tắt?
+
+// SPEAKER: Brogunson
+// Er, the flame died!
+vo_eny_eny_brogunson_detect_lightsource_02=Er, lửa tàn rồi!
+
+// SPEAKER: Brogunson
+// It's them!
+vo_eny_eny_brogunson_detect_player_00=Là chúng!
+
+// SPEAKER: Brogunson
+// You!
+vo_eny_eny_brogunson_detect_player_01=Mày!
+
+// SPEAKER: Brogunson
+// I know you!
+vo_eny_eny_brogunson_detect_player_02=Tao biết mày!
+
+// SPEAKER: Brogunson
+// That feeling...
+vo_eny_eny_brogunson_detect_player_proximity_00=Có cảm giác...
+
+// SPEAKER: Brogunson
+// Corner of my eye.
+vo_eny_eny_brogunson_detect_player_proximity_01=Khóe mắt của tao.
+
+// SPEAKER: Brogunson
+// Someone is close...
+vo_eny_eny_brogunson_detect_player_proximity_02=Có kẻ đang ở gần đây...
+
+// SPEAKER: Brogunson
+// She...she was hit hard.
+vo_eny_eny_brogunson_detect_unconscious_female_01=Ả...ả ta bị đánh khá đau đấy.
+
+// SPEAKER: Brogunson
+// She's unconscious.
+vo_eny_eny_brogunson_detect_unconscious_female_02=Ả ta ngất xỉu rồi.
+
+// SPEAKER: Brogunson
+// She was attacked.
+vo_eny_eny_brogunson_detect_unconscious_female_03=Ả ta bị tấn công.
+
+// SPEAKER: Brogunson
+// He was hit hard.
+vo_eny_eny_brogunson_detect_unconscious_male_00=Thằng này bị đánh khá đau đấy.
+
+// SPEAKER: Brogunson
+// He's...he's unconscious.
+vo_eny_eny_brogunson_detect_unconscious_male_01=Thằng... thằng này ngất xỉu rồi.
+
+// SPEAKER: Brogunson
+// He was attacked!
+vo_eny_eny_brogunson_detect_unconscious_male_02=Thằng này bị tấn công.
+
+// SPEAKER: Brogunson
+// What are you doing there?
+vo_eny_eny_brogunson_detect_unconscious_neutral_01=Mày đang làm quái gì ở đây?
+
+// SPEAKER: Brogunson
+// What happened? Speak! Speak up!
+vo_eny_eny_brogunson_detect_unconscious_neutral_02=Chuyện quái gì thế? Nói! Nói mau!
+
+// SPEAKER: Brogunson
+// You there! You, over there! Why are you on the ground?
+vo_eny_eny_brogunson_detect_unconscious_neutral_03=Mày ở đây! Mày nằm ở đây! Tại sao mày lại nằm trên đất?
+
+// SPEAKER: Brogunson
+// Stay away! Don't hurt me!
+vo_eny_eny_brogunson_flee_00=Tránh ra! Cấm làm tao bị thương!
+
+// SPEAKER: Brogunson
+// Don't...don't let them take me away!
+vo_eny_eny_brogunson_flee_01=Đừng...đừng để chúng bắt tao đi!
+
+// SPEAKER: Brogunson
+// Help! They want to kill me! Help me!
+vo_eny_eny_brogunson_flee_02=Cứu! Chúng muốn giết tao! Cứu với!
+
+// SPEAKER: Brogunson
+// Where is she?
+vo_eny_eny_brogunson_friend_missing_female_00=Ả ta đâu rồi?
+
+// SPEAKER: Brogunson
+// She should be here.
+vo_eny_eny_brogunson_friend_missing_female_01=Ả ta nên ở đây.
+
+// SPEAKER: Brogunson
+// Where is he?
+vo_eny_eny_brogunson_friend_missing_male_00=Thằng kia đầu rồi?
+
+// SPEAKER: Brogunson
+// He should be here.
+vo_eny_eny_brogunson_friend_missing_male_01=Thằng kia nên ở đây.
+
+// SPEAKER: Brogunson
+// What is taking so long?
+vo_eny_eny_brogunson_friend_missing_neutral_01=Làm quái gì lâu thế?
+
+// SPEAKER: Brogunson
+// It's past time...
+vo_eny_eny_brogunson_friend_missing_neutral_02=Khá lâu rồi đấy...
+
+// SPEAKER: Brogunson
+// Wake up, come on!
+vo_eny_eny_brogunson_friend_wakeup_00=Thôi nào dậy ngay!
+
+// SPEAKER: Brogunson
+// Stop loafing around!
+vo_eny_eny_brogunson_friend_wakeup_01=Thôi lười biếng ngay!
+
+// SPEAKER: Brogunson
+// Stand up, get to work!
+vo_eny_eny_brogunson_friend_wakeup_02=Đứng lên, làm việc đi!
+
+// SPEAKER: Brogunson
+// Huh?
+vo_eny_eny_brogunson_hear_noise_00=Huh?
+
+// SPEAKER: Brogunson
+// Huh? What? What was that?
+vo_eny_eny_brogunson_hear_noise_01=Huh? Cái gì Cái đéo gì?
+
+// SPEAKER: Brogunson
+// Mmm...strange sound...
+vo_eny_eny_brogunson_hear_noise_02=Mmm...tiếng động lạ...
+
+// SPEAKER: Brogunson
+// Hm? What hit me?!
+vo_eny_eny_brogunson_hear_noise_directhit_00=Hm? Cái đéo gì trúng tao?!
+
+// SPEAKER: Brogunson
+// Agh! Stop it!
+vo_eny_eny_brogunson_hear_noise_directhit_01=Agh! Dừng lại ngay!
+
+// SPEAKER: Brogunson
+// Aaargh!
+vo_eny_eny_brogunson_hear_noise_directhit_02=Aaargh!
+
+// SPEAKER: Brogunson
+// There's a fight! Help!
+vo_eny_eny_brogunson_hear_noise_gunshot_00=Có cuộc chiến ở đây! Cứu với!
+
+// SPEAKER: Brogunson
+// Shield me from their fire!
+vo_eny_eny_brogunson_hear_noise_gunshot_01=Bảo vệ tao khỏi hỏa lực của chúng!
+
+// SPEAKER: Brogunson
+// Is someone there?
+vo_eny_eny_brogunson_hear_noise_human_00=Có ai đó ở đây?
+
+// SPEAKER: Brogunson
+// Come out!
+vo_eny_eny_brogunson_hear_noise_human_01=Ra mặt đi!
+
+// SPEAKER: Brogunson
+// Stop hiding!
+vo_eny_eny_brogunson_hear_noise_human_02=Đừng nấp nữa!
+
+// SPEAKER: Brogunson
+// Stop this at once!
+vo_eny_eny_brogunson_hear_noise_too_much_00=Dừng lại ngay.
+
+// SPEAKER: Brogunson
+// Do you know who my father is?
+vo_eny_eny_brogunson_hear_noise_too_much_01=Mày biết cha tao là ai không hả?
+
+// SPEAKER: Brogunson
+// My guards will break you!
+vo_eny_eny_brogunson_hear_noise_too_much_02=Lính của tao sẽ hạ mày!
+
+// SPEAKER: Brogunson
+// 
+vo_eny_eny_brogunson_knockout_scream_00=
+
+// SPEAKER: Brogunson
+// 
+vo_eny_eny_brogunson_knockout_scream_01=
+
+// SPEAKER: Brogunson
+// 
+vo_eny_eny_brogunson_knockout_scream_02=
+
+// SPEAKER: Brogunson
+// Ugh, my head.
+vo_eny_eny_brogunson_regain_consciousness_00=Ugh, đầu của tao.
+
+// SPEAKER: Brogunson
+// Ooh, oh that hurt.
+vo_eny_eny_brogunson_regain_consciousness_01=Ooh, oh đau quá.
+
+// SPEAKER: Brogunson
+// Ah! W-what attacked me?
+vo_eny_eny_brogunson_regain_consciousness_02=Ah! C-cái đéo gì tấn công tao?
+
+// SPEAKER: Brogunson
+// What?
+vo_eny_eny_brogunson_see_something_00=Cái gì?
+
+// SPEAKER: Brogunson
+// Huh?
+vo_eny_eny_brogunson_see_something_01=Huh?
+
+// SPEAKER: Brogunson
+// Something...
+vo_eny_eny_brogunson_see_something_02=Có gì đó...
+

@@ -1,0 +1,57 @@
+// Get the Key
+2119499410=Lấy chìa khóa
+
+// Get the key to the wells from the patrolling samurai.
+-1112777680=Lấy chìa khóa giếng nước từ samurai đi tuần.
+
+// Enter the Wells
+-589350379=Xuống giếng nước
+
+// Gather everyone at one of the wells and enter it together.
+-767752419=Tụ tập mọi người tại một giếng nước.
+
+// Well A
+1370518702=Giếng A
+
+// You can enter a well at the west wall, near the statue.
+757801994=Có thể xuống giếng ở gần tường phía Tây, gần bức tượng.
+
+// Well B
+-200607195=Giếng B
+
+// You can enter a well at the north wall, past the slacking guards.
+-1884161912=Có thể xuống giếng ở gần tường phía Bắc, băng qua các lính canh chểnh mảng.
+
+// Kill Lord Noboru
+-841962253=Giết lãnh chúa Noboru
+
+// Lord Noboru is at the top balcony of his keep. Confront him and end his life.
+-687160244=Lãnh chúa Noboru ở trên ban công. Đối đầu và kết thúc mạng sống của hắn.
+
+// Ox and Statue
+-1273267266=Bò và Tượng
+
+// The ox is standing dangerously close to the statue.
+441917828=Con bò nguy hiểm đứng gần bức tượng.
+
+// Shooting Range
+86043650=Nơi diễn tập bắn súng
+
+// At the shooting range, using firearms won't raise any suspicion.
+-402794090=Tại nơi diễn tập bắn súng, sử dụng hỏa lực sẽ không bị nghi ngờ.
+
+// Decoration
+-351509168=Trang trí
+
+// Takuma can shoot down this piece of roof decoration.
+-1641403957=Takuma có thể bắn rơi miếng trần nhà trang trí.
+
+// Sesshu Floyo
+-95788031=Sesshu Floyo
+
+// Lord Noboru was alerted to your presence.
+-1773748544=Lãnh chúa Noboru đã được cảnh báo về sự hiện diện của bạn.
+
+// Ittō Mogami Wāgunā
+1143315654=Ittō Mogami Wāgunā
+

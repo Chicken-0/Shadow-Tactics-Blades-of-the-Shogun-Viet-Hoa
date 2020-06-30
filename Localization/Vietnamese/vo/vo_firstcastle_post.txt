@@ -1,0 +1,172 @@
+// SPEAKER: NARRATOR
+// After the fall of Osaka Castle, Japan was united under the rule of the new Shogun.
+vocs_over_over_cinematic1_n00=Sau khi thành Osaka thất thủ, Nhật Bản đã được thống nhất bởi sự cai trị của Mạc Chúa mới.
+
+// SPEAKER: NARRATOR
+// In the following years, the Shogun's new laws stabilize the nation. Culture and the economy flourish as the land and its people recover from years of conflict.
+vocs_over_over_cinematic1_n01=Trong những năm này, Mạc Chúa ban hành những luật mới giúp ổn định quốc gia. Văn hóa và nền kinh tế phát triển cũng như đất nước và con người đã vực dậy sau nhiều năm xung đột.
+
+// SPEAKER: NARRATOR
+// But now this fragile peace is threatened. Rumor spreads of a conspiracy to overthrow the Shogun.
+vocs_over_over_cinematic1_n02=Nhưng hòa bình mỏng manh này bây giờ đang bị đe dạo. Tin đồn lan truyền về một âm mưu muốn lật đổ Mạc Chúa.
+
+// SPEAKER: NARRATOR
+// No one knows the identity of the leader. But a name is whispered in the streets: "Kage-sama".
+vocs_over_over_cinematic1_n03=Không một ai biết tới danh tính của kẻ cầm đầu. Nhưng một cái tên đang được thì thầm trong khác khu phố: Kage-sama.
+
+// SPEAKER: WARRIOR
+// Your last attack showed spirit, but you both neglected your defense. A samurai must have patience, for its lack will cost him dearly.
+vocs_over_over_firstcastle_post_n05=Đòn tấn công cuối của ngài khá là có hồn, tuy nhiên ngài lại bỏ qua yếu tố phòng thủ. Một Samurai phải có lòng kiên nhẫn, thiếu nó thì ngài sẽ phải trả giá rất đắt.
+
+// SPEAKER: SHOGUNSON
+// I understand, Mugen-sensei.
+vocs_over_over_firstcastle_post_n06=Trò hiểu, Mugen-sensei.
+
+// SPEAKER: BROGUNSON
+// Even together we are no match for you. Does our sensei enjoy beating us?!
+vocs_over_over_firstcastle_post_n07=Kể cả bọn ta hợp lực cũng không ăn được thầy. Có phải thầy đang thưởng thức thất bại của bọn ta?!
+
+// SPEAKER: BROGUNSON
+// This is pointless! Even together we could not win! Does our sensei enjoy beating us?!
+vocs_over_over_firstcastle_post_n07a=Thật vô nghĩa! Ngay cả hợp lực cũng không thể chiến thắng! Có phải thầy đang thưởng thức thất bại của bọn ta?!
+
+// SPEAKER: WARRIOR
+// I enjoy your progress, Masaru-sama. You and Ryūnosuke-sama are your fathers' children. Their talent lies within you.
+vocs_over_over_firstcastle_post_n08=Thần đang tận hưởng sự tiến bộ của ngài, Masaru-sama. Ngài và anh họ Ryūnosuke-sama. Tài năng ẩn chứa bên trong ngài.
+
+// SPEAKER: SHOGUNSON
+// And yet, you defeated us both with a single strike.
+vocs_over_over_firstcastle_post_n09=Và giờ, thầy hạ bọn con với một thế duy nhất.
+
+// SPEAKER: WARRIOR
+// Patience. I know the day will come when the two of you will force me to my knees.
+vocs_over_over_firstcastle_post_n10=Kiên nhẫn. Thần biết sẽ có ngày thần buộc phải quỳ gối dưới hai người.
+
+// SPEAKER: BROGUNSON
+// I look forward to that day...
+vocs_over_over_firstcastle_post_n11=Ta mong ngày đó sẽ đến sớm...
+
+// SPEAKER: CIVILIAN M
+// Apologies, my lords. The Shogun has requested Mugen-sama's presence.
+vocs_over_over_firstcastle_post_n12=Xin ngài thứ lỗi. Mạc Chúa yêu cầu Mugen-sama diện kiến.
+
+// SPEAKER: WARRIOR
+// I will come at once. Forgive me, my lords.
+vocs_over_over_firstcastle_post_n13=Tôi sẽ tới liền. Xin hãy tha lỗi cho thần.
+
+// SPEAKER: SHOGUNSON
+// Of course. Please give my regards to my father.
+vocs_over_over_firstcastle_post_n14=Dĩ nhiên. Hãy gửi lời hỏi thăm của trò tới cha nhé.
+
+// SPEAKER: BROGUN
+// Brother. If you give me command of the Shogunate troops, I will hunt down Kage-sama wherever a person speaks his name.
+vocs_over_over_firstcastle_post_n15=Anh trai. Nếu anh cho em quyền chỉ huy quân đội Mạc Phủ, em sẽ săn lùng Kage-sama ở bất cứ nơi nào mà có người nhắc đến tên của hắn.
+
+// SPEAKER: SHOGUN
+// I will, if the need arises for such drastic measures. For now, you will bow to the wisdom of your Shogun. Let us speak again tomorrow.
+vocs_over_over_firstcastle_post_n16=Nếu thực sự cần đến biện pháp quyết liệt như vậy thì ta sẽ. Còn bây giờ, em vẫn phải cúi đầu khôn ngoan trước Mạc Chúa này. Hãy nói chuyện tiếp vào ngày mai nhé.
+
+// SPEAKER: BROGUN
+// Of course, brother. I will await your messenger.
+vocs_over_over_firstcastle_post_n17=Dĩ nhiên rồi. Em sẽ chờ tin của anh.
+
+// SPEAKER: BROGUN
+// Mugen-san.
+vocs_over_over_firstcastle_post_n18=Mugen-san.
+
+// SPEAKER: WARRIOR
+// Lord Noboru.
+vocs_over_over_firstcastle_post_n19=Lãnh chúa Noboru.
+
+// SPEAKER: WARRIOR
+// You wished to see me, my Shogun.
+vocs_over_over_firstcastle_post_n20=Thần xin diện kiến, hỡi Mạc Chúa.
+
+// SPEAKER: SHOGUN
+// Mugen. I received a message from our spies telling me of an illegal transport. There are wagons loaded with firearms bound for Kyōto.
+vocs_over_over_firstcastle_post_n21=Mugen. Ta nhận được một tin từ gián điệp nói về một cuộc vận chuyển trái phép. Những xe hàng chất đầy hỏa lực đang tiến về Kyōto.
+
+// SPEAKER: WARRIOR
+// Is it Kage-sama? Has he exposed himself?
+vocs_over_over_firstcastle_post_n22=Đó là Kage-sama? Hắn muốn lộ diện rồi ư?
+
+// SPEAKER: SHOGUN
+// It appears so. I want you to seize this transport. Find out where it came from, and you will no doubt find our enemy.
+vocs_over_over_firstcastle_post_n23=Chắc vậy. Ta muốn thần chặn cuộc vận chuyển này. Tìm hiểu xem chúng đến từ đâu, và lần mò theo tung tích của kẻ địch.
+
+// SPEAKER: WARRIOR
+// I live to serve you, my Shogun.
+vocs_over_over_firstcastle_post_n24=Rất hãnh diện phụng sự ngài, hỡi Mạc Chúa.
+
+// SPEAKER: SHOGUN
+// This matter requires delicate hands. You will act with my authority. If you need assistance, choose with care. 
+vocs_over_over_firstcastle_post_n25=Vấn đề này đòi hỏi xử lý cẩn thận. Thần được ủy quyền hành động bởi ta. Nếu cần trợ giúp, hãy lựa chọn cẩn thận.
+
+// SPEAKER: WARRIOR
+// I already have someone in mind.
+vocs_over_over_firstcastle_post_n26=Thần đã có tên của một người ở trong đầu.
+
+// SPEAKER: SHOGUN
+// Excellent. Go then, Mugen. Bring me Kage-sama.
+vocs_over_over_firstcastle_post_n27=Xuất sắc. Tới đó đi, Mugen. Mang Kage-sama về đây cho ta.
+
+// SPEAKER: WARRIOR
+// I will not disappoint you, my Shogun.
+vocs_over_over_firstcastle_post_n28=Sẽ không làm ngài thất vọng, hỡi Mạc Chúa.
+
+// SPEAKER: WARRIOR
+// You are not an easy man to find, Hayato-san.
+vocs_over_over_firstcastle_post_n29=Tìm cậu không dễ chút nào, Hayato-san.
+
+// SPEAKER: NINJA
+// It's part of the job. Still, I got your message. Need my help again?
+vocs_over_over_firstcastle_post_n30=Khá bận do công việc. Tuy nhiên tôi nhận được tin nhắn của anh. Cần giúp một lần nữa hả?
+
+// SPEAKER: WARRIOR
+// I have been given a difficult task, one I wouldn't mind...sharing, with people I trust.
+vocs_over_over_firstcastle_post_n31=Tôi nhận được một nhiệm vụ khó nhằn, tôi sẽ không ngại...chia sẻ nó với người tôi tin tưởng.
+
+// SPEAKER: NINJA
+// Your letter...it mentioned Kage-sama. Thought that was just a rumor.
+vocs_over_over_firstcastle_post_n32=Thư của anh...có nhắc đến Kage-sama. Tôi nghĩ đó chỉ là tin đồn.
+
+// SPEAKER: WARRIOR
+// Oh, he is real, I assure you. So real that the Shogun sees him as a threat to the peace. It will be him that we will hunt.
+vocs_over_over_firstcastle_post_n33=Oh, hắn có thật, tôi đảm bảo với cậu. Do đó Mạc Chúa thấy hắn đe dọa tới hòa bình. Hắn sẽ là mục tiêu đi săn của chúng ta.
+
+// SPEAKER: NINJA
+// Hmm... As long as I get paid, I'm fine chasing ghosts. What's the mission?
+vocs_over_over_firstcastle_post_n34=Hmm... Miễn được trả tiền, tôi là ma truy lùng giỏi mà. Nhiệm vụ là gì?
+
+// SPEAKER: WARRIOR
+// At dawn tomorrow, an illegal transport will travel along the Nakasendō route. It will pass through the area detailed in this letter.
+vocs_over_over_firstcastle_post_n35=Lúc bình minh ngày mai, một cuộc vận chuyển trái phép sẽ đi dọc theo tuyến đường Nakasendō. Nó sẽ băng qua các khu vực chi tiết ở trong lá thư này.
+
+// SPEAKER: WARRIOR
+// I want you to halt this convoy and eliminate the officers of the guard. At your signal, I will move in with Shogunate men.
+vocs_over_over_firstcastle_post_n36=Tôi muốn cậu ngăn chặn đoàn xe và loại bỏ Chỉ Huy bảo vệ. Khi có tín hiệu của cậu, tôi sẽ tấn công cùng với người của Mạc Phủ.
+
+// SPEAKER: NINJA
+// Simple enough.
+vocs_over_over_firstcastle_post_n37=Quá đơn giản.
+
+// SPEAKER: NINJA
+// All right, see you on the road.
+vocs_over_over_firstcastle_post_n38=Được thôi, hẹn gặp lại trên đường.
+
+// SPEAKER: WARRIOR
+// One more thing, Hayato-san.
+vocs_over_over_firstcastle_post_n39=Còn một điều nữa, Hayato-san.
+
+// SPEAKER: NINJA
+// Hm?
+vocs_over_over_firstcastle_post_n40=Hm?
+
+// SPEAKER: WARRIOR
+// Good to see you again.
+vocs_over_over_firstcastle_post_n41=Rất vui khi biết đến cậu.
+
+// SPEAKER: NINJA
+// Heh...likewise.
+vocs_over_over_firstcastle_post_n42=Heh...tôi cũng vậy.
+

@@ -1,0 +1,528 @@
+// SPEAKER: NINJA
+// This must be Hida village. I say we stick to the shadows. Avoid the lights.
+vocs_over_over_lakevillage_briefing_n00=Đây hẳn là làng Hida. Nhắc lại chúng ta phải bám lấy màn đêm. Tránh ánh sáng.
+
+// SPEAKER: GEISHA
+// I approve of your words, Hayato-san, but it will require more to learn the rebels' plans.
+vocs_over_over_lakevillage_briefing_n01=Đồng ý với câu này, Hayato-san, những như thế sẽ khó tìm hiểu kế hoạch của bọn phiến quân hơn đấy.
+
+// SPEAKER: GEISHA
+// The villagers are being treated poorly. I do not think they would expose us, even if we show ourselves to them.
+vocs_over_over_lakevillage_briefing_n02=Dân làng đang bị đối xử tồi tệ. Tui không nghĩ là họ sẽ phát giác chúng ta, kể cả khi thấy rõ tụi mình.
+
+// SPEAKER: GEISHA
+// The tavern will be full of conversation. No doubt we will gain insight there.
+vocs_over_over_lakevillage_briefing_n03=Có nhiều cuộc thảo luận tại quán rượu này. Chắc chắn mọi vấn đề sẽ sáng tỏ ở đây.
+
+// SPEAKER: NINJA
+// Too crowded for my taste. Why not go for the stables? Less people, more cover.
+vocs_over_over_lakevillage_briefing_n04=Đông vãi lều. Sao không ở chuồng bò? Ít người, nhiều chỗ nấp.
+
+// SPEAKER: GEISHA
+// The tavern is the safer option. All we need is a suitable disguise.
+vocs_over_over_lakevillage_briefing_n05=Quán rượu là lựa chọn an toàn hơn. Tất cả thứ tụi mình cần là một bộ đồ ngụy trang.
+
+// SPEAKER: NINJA
+// Ugh, admit it: you just want a new set of clothes.
+vocs_over_over_lakevillage_briefing_n06=Ugh, thừa nhận coi: cô chỉ thèm một bộ đồ mới mà thôi.
+
+// SPEAKER: TRAPPER
+// Uhm...can we just decide on the way? 
+vocs_over_over_lakevillage_briefing_n07=Uhm...chúng ta chỉ cần quyết định trên đường tới đó?
+
+// SPEAKER: NINJA
+// Ah, always a pleasure working at night.
+vocs_over_over_lakevillage_night_n00=Ah, hoạt động buổi đêm luôn thích vãi.
+
+// SPEAKER: GEISHA
+// It has its advantages.
+vocs_over_over_lakevillage_night_n01=Nó có lợi thế của riêng.
+
+// SPEAKER: NINJA
+// Keep your head down, avoid the lights, and no one will be able to spot us.
+vocs_over_over_lakevillage_night_n02=Cúi đầu xuống, tránh chỗ sáng, và đừng để bị chúng thấy.
+
+// SPEAKER: NINJA
+// Fire's dead. Someone's bound to notice.
+vocs_over_over_lakevillage_lamp_n00=Lửa tàn. Một ai đó sẽ chú ý.
+
+// SPEAKER: TRAPPER
+// Light's out! Leave before the guard sees it!
+vocs_over_over_lakevillage_lamp_n01=Lửa tắt! Phải đi trước khi lính canh thấy nó!
+
+// SPEAKER: GEISHA
+// These new shadows will not go unnoticed.
+vocs_over_over_lakevillage_lamp_n02=Thêm bóng tối sẽ không còn được chú ý.
+
+// SPEAKER: ENEMY
+// Bring more!
+vo_hint_hint_lakevillage_burn_n00=Thêm nữa!
+
+// SPEAKER: ENEMY
+// We'll burn everything!
+vo_hint_hint_lakevillage_burn_n01=Bọn tao đốt hết!
+
+// SPEAKER: ENEMY
+// We can't let the fire go out.
+vo_hint_hint_lakevillage_burn_n02=Bọn tao không để lửa tắt.
+
+// SPEAKER: ENEMY
+// Hurry! It's getting cold.
+vo_hint_hint_lakevillage_burn_n03=Nhanh lên! Lạnh rồi đó.
+
+// SPEAKER: ENEMY
+// Faster, you dirty peasant.
+vo_hint_hint_lakevillage_burn_n04=Lẹ lên, lũ bần nông.
+
+// SPEAKER: ENEMY
+// That can't be all, can it?
+vo_hint_hint_lakevillage_burn_n05=Đây không thể là tất cả, hả?
+
+// SPEAKER: TRAPPER
+// Why do the rebels hate the villagers so?
+vocs_over_over_lakevillage_fear1_n00=Tại sao lũ phiến quân ghét dân làng như vậy?
+
+// SPEAKER: NINJA
+// I don't think they hate them.
+vocs_over_over_lakevillage_fear1_n01=Anh không nghĩ chúng ghét họ.
+
+// SPEAKER: TRAPPER
+// So...they just like hurting them.
+vocs_over_over_lakevillage_fear1_n02=Sao...chúng chỉ muốn gây hại cho họ.
+
+// SPEAKER: GEISHA
+// They do this to spread fear, child. The villagers take this abuse, for if they resist, they will no doubt be executed.
+vocs_over_over_lakevillage_fear1_n03=Chúng làm thế để truyến bá nỗi sợ hãi nhóc à. Dân làng sẽ bị lợi dụng, nếu chống lệnh, chúng cũng sẽ bị xử lý.
+
+// SPEAKER: TRAPPER
+// Oh...
+vocs_over_over_lakevillage_fear1_n04=Oh...
+
+// SPEAKER: GEISHA
+// Swimming across will get us close to the tavern.
+vocs_over_over_lakevillage_lake_n00=Bơi qua đó tụi mình sẽ tới gần quán rượu.
+
+// SPEAKER: NINJA
+// Don't think we should go that way.
+vocs_over_over_lakevillage_lake_n01=Đừng nghĩ bọn tui chịu đi bằng lối đó.
+
+// SPEAKER: GEISHA
+// Hayato-san! Don't tell me you can't swim!
+vocs_over_over_lakevillage_lake_n02=Hayato-san! Đừng nói là không biết bơi nhé!
+
+// SPEAKER: NINJA
+// You can't be serious...
+vocs_over_over_lakevillage_lake_n03=Không được nghiêm trọng nó thế...
+
+// SPEAKER: NINJA
+// Let's follow the road. It'll take us to the stables.
+vocs_over_over_lakevillage_road_n00=Bám theo con đường sẽ đưa tụi mình tới chỗ chuồng bò.
+
+// SPEAKER: GEISHA
+// I am against taking this route.
+vocs_over_over_lakevillage_road_n01=Tui phản đối con đường này.
+
+// SPEAKER: NINJA
+// What? Afraid you'll ruin your feet?
+vocs_over_over_lakevillage_road_n02=Khỉ gì? Sợ nó làm bẩn chân hả?
+
+// SPEAKER: GEISHA
+// Yes, that would be awful. You would have to carry me.
+vocs_over_over_lakevillage_road_n03=Chuẩn, kinh vãi luôn. Anh phải bế tui lên.
+
+// SPEAKER: NINJA
+// I...what?
+vocs_over_over_lakevillage_road_n04=Tui...sao cơ?
+
+// SPEAKER: GEISHA
+// I see clothing lines. This looks promising.
+vocs_over_over_lakevillage_disguise1_n00=Tui thấy dây đồ kia. Có vẻ hứa hẹn.
+
+// SPEAKER: NINJA
+// Took you long enough to get there. I hope you're satisfied.
+vocs_over_over_lakevillage_disguise1_n01=Làm đủ mọi thứ chỉ để mò tới đây. Hi vọng cô hài lòng.
+
+// SPEAKER: GEISHA
+// Immensely. Your disapproval makes it even more delightful.
+vocs_over_over_lakevillage_disguise1_n02=Quá luôn ấy chứ. Từ chối kế hoạch của anh vui hơn nhiều lần.
+
+// SPEAKER: NINJA
+// Ugh...
+vocs_over_over_lakevillage_disguise1_n03=Ugh...
+
+// SPEAKER: GEISHA
+// Now, this is much better.
+vocs_over_over_lakevillage_disguise2_n00=Giờ đẹp hơn rồi.
+
+// SPEAKER: NINJA
+// Want me to fetch you a bath, too?
+vocs_over_over_lakevillage_disguise2_n01=Muốn bê tới cả cái nhà tắm không?
+
+// SPEAKER: GEISHA
+// Thank you, that would be wonderful.
+vocs_over_over_lakevillage_disguise2_n02=Cảm ơn, thế thì tuyệt quá.
+
+// SPEAKER: NINJA
+// You never yield, do you?
+vocs_over_over_lakevillage_disguise2_n03=Chưa bao giờ trả đồ về chủ cũ, phải không?
+
+// SPEAKER: ENEMY
+// Almost time.
+vo_hint_hint_lakevillage_abuse_n00=Thời gian còn nhiều.
+
+// SPEAKER: CIVILIAN F
+// P-please. Let us go!
+vo_hint_hint_lakevillage_abuse_n01=L-làm ơn. Để chúng tôi yên!
+
+// SPEAKER: STATIC
+// Quiet now.
+vo_hint_hint_lakevillage_abuse_n02=Câm mồm.
+
+// SPEAKER: CIVILIAN F
+// 
+vo_hint_hint_lakevillage_abuse_n03=
+
+// SPEAKER: CIVILIAN F
+// T-thank you. Thank you so much!
+vo_hint_hint_lakevillage_rescue_n00=Đ-đa tạ. Xin đa tạ!
+
+// SPEAKER: TRAPPER
+// Those men...they were going to...
+vocs_over_over_lakevillage_fear2_n00=Những người này...rồi họ sẽ...
+
+// SPEAKER: GEISHA
+// I know, child. I know...
+vocs_over_over_lakevillage_fear2_n01=Chị biết mà nhóc. Chị biết...
+
+// SPEAKER: TRAPPER
+// I hate them!
+vocs_over_over_lakevillage_fear2_n02=Em ghét chúng!
+
+// SPEAKER: NINJA
+// We did what we could. Let's move on.
+vocs_over_over_lakevillage_fear2_n03=Tụi mình đã làm những gì có thể. Đi thôi.
+
+// SPEAKER: GEISHA
+// So, we are at the stables.
+vocs_over_over_lakevillage_officersa_n00=Rồi, tụi mình ở chỗ chuồng bò.
+
+// SPEAKER: NINJA
+// See the two samurai? I bet they have something interesting to say.
+vocs_over_over_lakevillage_officersa_n01=Thấy hai Samurai không? Cá là chúng có nhiều thứ thú vị để nói.
+
+// SPEAKER: GEISHA
+// And now we must dash after them like fools.
+vocs_over_over_lakevillage_officersa_n02=Và giờ tụi mình tấn công chúng một cách ngu si.
+
+// SPEAKER: GEISHA
+// I will do my best to avoid them. A problem not present at the tavern. 
+vocs_over_over_lakevillage_officersa_n03=Tui đã làm tốt nhất để muốn tránh xa chúng. Nếu là quán rượu thì sẽ chả có vấn đề gì.
+
+// SPEAKER: STATIC
+// Hey! What's taking so long? More sake!
+vo_hint_hint_lakevillage_tavern1_n00=Hey! Quái gì mà lâu thế? Thêm sa kê!
+
+// SPEAKER: CIVILIAN F
+// Forgive me. We had to fetch another barrel.
+vo_hint_hint_lakevillage_tavern1_n01=Xin thứ lỗi. Bọn tôi phải đi tìm thùng khác.
+
+// SPEAKER: CIVILIAN M
+// Forgive me. We had to fetch another barrel.
+vo_hint_hint_lakevillage_tavern1_n01a=Xin thứ lỗi. Bọn tôi phải đi tìm thùng khác.
+
+// SPEAKER: STATIC
+// Hah... Do I look like I care? When we call, you come running, understand?!
+vo_hint_hint_lakevillage_tavern1_n02=Hah... Nhìn ta có vẻ quan tâm không hả? Khi bọn tao gọi, mày phải tới, hiểu không?!
+
+// SPEAKER: CIVILIAN F
+// Y-yes. Of course.
+vo_hint_hint_lakevillage_tavern1_n03=V-vâng. Dĩ nhiên ạ.
+
+// SPEAKER: CIVILIAN M
+// Yes. Of course, my lord.
+vo_hint_hint_lakevillage_tavern1_n03a=Vâng. Dĩ nhiên thưa ngài.
+
+// SPEAKER: STATIC
+// More sake!
+vo_hint_hint_lakevillage_tavern2_n00=Thêm sa kê!
+
+// SPEAKER: STATIC
+// Mmmm, haha!
+vo_hint_hint_lakevillage_tavern2_n01=Mmmm, haha!
+
+// SPEAKER: ENEMY
+// To General Okkoto!
+vo_hint_hint_lakevillage_tavern2_n02=Tướng Okkoto!
+
+// SPEAKER: ENEMY
+// Ahhh...
+vo_hint_hint_lakevillage_tavern2_n03=Ahhh...
+
+// SPEAKER: ENEMY
+// 
+vo_hint_hint_lakevillage_tavern2_n04=
+
+// SPEAKER: ENEMY
+// Faster, peasant!
+vo_hint_hint_lakevillage_tavern2_n05=Nhanh lên, lũ nhà quê!
+
+// SPEAKER: CIVILIAN F
+// Forgive me.
+vo_hint_hint_lakevillage_tavern2_n06=Thứ lỗi cho tôi.
+
+// SPEAKER: CIVILIAN F
+// Y-yes. Of course.
+vo_hint_hint_lakevillage_tavern2_n07=V-vâng. Dĩ nhiên ạ.
+
+// SPEAKER: CIVILIAN M
+// A-at once.
+vo_hint_hint_lakevillage_tavern2_n08=Ngay lập tức.
+
+// SPEAKER: CIVILIAN M
+// Anything for you. Of course, my lord.
+vo_hint_hint_lakevillage_tavern2_n09=Dĩ nhiên bất cứ thứ gì, thưa ngài.
+
+// SPEAKER: TRAPPER
+// Will they leave the women alone?
+vocs_over_over_lakevillage_fear3_n00=Chúng sẽ để người phụ nữ đi?
+
+// SPEAKER: NINJA
+// I wish I could say yes. But I don't think the sake will help with that.
+vocs_over_over_lakevillage_fear3_n01=Anh muốn nói có. Nhưng anh không nghĩ sa kê sẽ giúp được chuyện đó.
+
+// SPEAKER: TRAPPER
+// I don't like these people.
+vocs_over_over_lakevillage_fear3_n02=Em không thích mấy người này.
+
+// SPEAKER: GEISHA
+// A sentiment that we all share.
+vocs_over_over_lakevillage_fear3_n03=Tụi mình cùng chia sẻ cảm thông.
+
+// SPEAKER: NINJA
+// Don't think there's enough cover here. Let's head for the stables.
+vocs_over_over_lakevillage_officersb_n00=Đừng nghĩ chỗ này đủ to để nấp. Hãy tới chuồng bò.
+
+// SPEAKER: GEISHA
+// The two officers seem talkative. They would not notice if I'd followed them in disguise.
+vocs_over_over_lakevillage_officersb_n01=Hai chỉ huy có vẻ luyên thuyên. Chúng sẽ không chú ý nếu tui ngụy trang đi theo.
+
+// SPEAKER: NINJA
+// Fact is: we don't have one. And we wouldn't need one if we were at the stables.
+vocs_over_over_lakevillage_officersb_n02=Sự thật là: Tụi mình không có trang phục. Và sẽ không cần tới nó nếu đã ở chuồng bò.
+
+// SPEAKER: NINJA
+// Fine. You already have your new clothes. Might as well use them.
+vocs_over_over_lakevillage_officersb_n03=Được thôi. Cô đã có bộ đồ mới. Giờ cô phải tận dụng nó thật tốt vào.
+
+// SPEAKER: TRAPPER
+// Uhm...why are you fighting?
+vocs_over_over_lakevillage_peace1_n00=Uhm...sao anh không quất tụi nó luôn?
+
+// SPEAKER: NINJA
+// Not now, Yuki...
+vocs_over_over_lakevillage_peace1_n01=Không phải lúc này, Yuki...
+
+// SPEAKER: TRAPPER
+// Hayato-sensei...why can't you agree with Aiko-san?
+vocs_over_over_lakevillage_peace2_n00=Hayato-sensei...sao anh không chịu nhường Aiko-san vậy?
+
+// SPEAKER: NINJA
+// Maybe it's because I'm a bad sensei. Why don't you go and find a new one?
+vocs_over_over_lakevillage_peace2_n01=Có lẽ do anh là một sensei tệ. Sao em lại không đi tìm một người khác nhỉ?
+
+// SPEAKER: TRAPPER
+// Hayato-san...
+vocs_over_over_lakevillage_peace2_n02=Hayato-san...
+
+// SPEAKER: NINJA
+// Sorry. Things are a little tense here. Let's talk later, all right?
+vocs_over_over_lakevillage_peace2_n03=Xin lỗi. Anh đã có một chút động chạm tới em. Chúng ta sẽ nói chuyện sau, được không?
+
+// SPEAKER: NINJA
+// Interesting.
+vocs_over_over_lakevillage_regroup_n00=Thú vị đấy.
+
+// SPEAKER: TRAPPER
+// Did you hear that?!
+vocs_over_over_lakevillage_regroup_n01=Nghe thấy gì không?!
+
+// SPEAKER: GEISHA
+// This information is vital! Let us find a safe spot and discuss what we've learned.
+vocs_over_over_lakevillage_regroup_n02=Thông tin này rất quan trọng! Giờ tìm vị trí an toàn để thảo luận mấy thứ tụi mình nghe lén được.
+
+// SPEAKER: GEISHA
+// Are we all here?
+vocs_over_over_lakevillage_infoab_n00=Tất cả ở đây?
+
+// SPEAKER: TRAPPER
+// Here!
+vocs_over_over_lakevillage_infoab_n01=Đây nè!
+
+// SPEAKER: NINJA
+// Easy, Yuki.
+vocs_over_over_lakevillage_infoab_n02=Bé mồm, Yuki.
+
+// SPEAKER: GEISHA
+// It appears General Okkoto is here himself. He is having a word with the village elder.
+vocs_over_over_lakevillage_infoab_n03=Nó nhắc tới tướng Okkoto đang ở đây. Hắn hiện tại có đôi lời với già làng.
+
+// SPEAKER: TRAPPER
+// Let's listen in. He'll tell us his plans!
+vocs_over_over_lakevillage_infoab_n04=Nghe trộm đi. Hắn sẽ nói về kế hoạch của hắn!
+
+// SPEAKER: GEISHA
+// I agree. Let us seize this opportunity. If we can get close, and with a disguise, they will not know who I am.
+vocs_over_over_lakevillage_infoab_n05=Chị đồng ý. Tụi mình phải nắm bắt cơ hội này. Nếu ngụy trang và tới đủ gần, chúng sẽ không biết chị là ai.
+
+// SPEAKER: NINJA
+// How's this: you use your disguise, I stick to the shadows. Let's see who gets the mark.
+vocs_over_over_lakevillage_infoab_n06=Tóm cái váy lại: cô ngụy trang, tôi lủi trong bóng tối. Để xem ai may mắn hơn.
+
+// SPEAKER: GEISHA
+// Let us focus on the task at hand, Hayato-san. We can play your childish games when our mission is done.
+vocs_over_over_lakevillage_infoab_n07=Làm ơn tập trung vào nhiệm vụ chính đi, Hayato-san. Tụi mình chỉ có thể chơi trò con nít sau khi nhiệm vụ này hoàn thành.
+
+// SPEAKER: TRAPPER
+// The general... He's a bad man.
+vocs_over_over_lakevillage_general_n00=Tướng Quân... Hắn là một gã xấu.
+
+// SPEAKER: GEISHA
+// General Okkoto. A vicious man.
+vocs_over_over_lakevillage_general_n01=Tướng Okkoto. Một gã đàn ông xấu xa.
+
+// SPEAKER: NINJA
+// Okkoto. Hmm...imagine if we killed him. That'd end the rebellion pretty quickly.
+vocs_over_over_lakevillage_general_n02=Okkoto. Hmm...tưởng tượng nếu tụi mình xử hắn. Cuộc nổi loạn này sẽ chấm dứt nhanh chóng.
+
+// SPEAKER: GEISHA
+// You would only end yourself! Do not attack him!
+vocs_over_over_lakevillage_general_n03=Anh chỉ tự kết thúc đời mình thôi! Đừng tấn công hắn!
+
+// SPEAKER: NINJA
+// You don't really think I'm that stupid, do you?
+vocs_over_over_lakevillage_general_n04=Cô không thực sự nghĩ tui ngu lắm à?
+
+// SPEAKER: GENERAL
+// We will march at the break of dawn.
+vo_hint_hint_lakevillage_orders_n00=Chúng ta sẽ khởi quân vào lúc bình minh. 
+
+// SPEAKER: GENERAL
+// The men have another hour to enjoy themselves.
+vo_hint_hint_lakevillage_orders_n01=Đàn ông có ít thời gian để hưởng thụ cho bản thân.
+
+// SPEAKER: GENERAL
+// I do not care for these filthy peasants.
+vo_hint_hint_lakevillage_orders_n02=Ta không quan tâm lũ bần nông bẩn thỉu.
+
+// SPEAKER: GENERAL
+// Make sure the carts are loaded and secured.
+vo_hint_hint_lakevillage_orders_n03=Hãy đảm bảo chắn chắc xe đã được chất đầy.
+
+// SPEAKER: GENERAL
+// We will win glory and honor for Kage-sama.
+vo_hint_hint_lakevillage_orders_n04=Chúng ta sẽ chiến thắng vinh quang và danh dự vì Kage-sama.
+
+// SPEAKER: GENERAL
+// We have long waited for a good battle.
+vo_hint_hint_lakevillage_orders_n05=Chúng ta đã chờ rất lâu cho cuộc chiến này.
+
+// SPEAKER: GENERAL
+// Any peasant who fails to obey will be executed.
+vo_hint_hint_lakevillage_orders_n06=Bất kỳ đứa nhà quê nào không tuân lệnh sẽ bị xử tử.
+
+// SPEAKER: GENERAL
+// We will take all the rice from your granaries, and also your oxen. See that it is done.
+vocs_over_over_lakevillage_infomain_n00=Chúng ta sẽ lấy hết gạo từ kho thóc của chúng, cả mấy con bò nữa. Báo cho ta khi hoàn tất.
+
+// SPEAKER: OFFICER
+// ...these peasants...they will not survive the year.
+vocs_over_over_lakevillage_infomain_n01=...lũ nông dân...chúng sẽ không thể sống qua năm.
+
+// SPEAKER: GENERAL
+// If they wanted to eat, they should have joined our cause. The mighty Kage-sama has ordered that we take the city of Kanazawa tomorrow. I want the men well fed.
+vocs_over_over_lakevillage_infomain_n02=Nếu muốn có ăn thì chúng phải tham gia vào quân đội ta. Kage-sama vĩ đại đã ra lệnh chúng ta phải chiếm được Kanazawa vào ngày mai. Ta muốn lính của ta được ăn đủ no.
+
+// SPEAKER: OFFICER
+// I will instruct the officers to give out extra rations.
+vocs_over_over_lakevillage_infomain_n03=Tôi sẽ bảo các chỉ huy bổ sung thêm khẩu phần ăn.
+
+// SPEAKER: GENERAL
+// Kanazawa Castle will be our bulwark against the wrath of the Shogun. Once it is ours, we will hold it until Kage-sama arrives with his army.
+vocs_over_over_lakevillage_infomain_n04=Thành Kanazawa sẽ là bức tường thành chống lại cơn thịnh nộ của Mạc Chúa. Một khi có được nó, chúng ta sẽ cố thủ đến khi Kage-sama tới cùng quân đội của ngài ấy.
+
+// SPEAKER: GEISHA
+// Now we know Okkoto's and Kage-sama's plans.
+vocs_over_over_lakevillage_done_n00=Đã biết được kế hoạch của Okkoto và Kage-sama.
+
+// SPEAKER: TRAPPER
+// ...huh... Kanazawa city...
+vocs_over_over_lakevillage_done_n01=...huh... thành phố Kanazawa...
+
+// SPEAKER: GEISHA
+// This must reach Noboru-sama as soon as possible. Let us steal a raft, head down-river and make for Noboru's camp.
+vocs_over_over_lakevillage_done_n02=Phải báo cho Noboru-sama càng sớm càng tốt. Lấy một cái bè rồi xuôi hướng hạ nguồn để tới trại Noboru.
+
+// SPEAKER: NINJA
+// For once, I agree. Let's head to the piers.
+vocs_over_over_lakevillage_done_n03=Lần nay tui đồng ý. Tới chỗ bến tàu.
+
+// SPEAKER: TRAPPER
+// Oh, finally!
+vocs_over_over_lakevillage_done_n04=Oh, cuối cùng cũng đồng ý!
+
+// SPEAKER: GEISHA
+// Wait!
+vocs_over_over_lakevillage_debriefing_n00=Đợi phát!
+
+// SPEAKER: NINJA
+// Ugh, what now?
+vocs_over_over_lakevillage_debriefing_n01=Ugh, gì nữa má?
+
+// SPEAKER: GEISHA
+// It would be wise to follow the general and learn more about his plans. I will hide among his entourage as a concubine.
+vocs_over_over_lakevillage_debriefing_n02=Sẽ khôn ngoan hơn nếu bám theo hắn và tìm hiểu kĩ về kế hoạch. Tui sẽ giả làm vợ lẽ để lừa đoàn tùy tùng của hắn.
+
+// SPEAKER: NINJA
+// Good idea, but your plan's too risky. Take the raft; I'll follow them at a distance.
+vocs_over_over_lakevillage_debriefing_n03=Ý hay đấy, nhưng quá nguy hiểm. Lấy cái bè; tui sẽ bám theo chúng từ xa.
+
+// SPEAKER: GEISHA
+// Will you hide atop the nearest mountain and read their lips from there?
+vocs_over_over_lakevillage_debriefing_n04=Anh sẽ nấp trên núi gần nhất và nhìn miệng chúng từ xa để nghe hả?
+
+// SPEAKER: TRAPPER
+// Why not both of you? Two's better than one.
+vocs_over_over_lakevillage_debriefing_n05=Sao không phải cả hai? Hai luôn tốt hơn một mà.
+
+// SPEAKER: GEISHA
+// No, Yuki-chan. One of us must inform Lord Noboru.
+vocs_over_over_lakevillage_debriefing_n06=Không, Yuki-chan. Một trong số tụi mình phải báo cho lãnh chúa Noboru.
+
+// SPEAKER: TRAPPER
+// Aiko-san, I can do it!
+vocs_over_over_lakevillage_debriefing_n07=Aiko-san, em có thể làm được!
+
+// SPEAKER: GEISHA
+// This is an urgent matter, too important to leave it in the hands of a child.
+vocs_over_over_lakevillage_debriefing_n08=Chuyện này rất cấp bách, quá quan trọng khi để vào tay một đứa nhóc.
+
+// SPEAKER: TRAPPER
+// I am not a child! I'll get there in time!
+vocs_over_over_lakevillage_debriefing_n09=Em không còn là đứa trẻ! Em sẽ tới đó đúng thời gian!
+
+// SPEAKER: NINJA
+// Hey...she's right. Let her go.
+vocs_over_over_lakevillage_debriefing_n10=Hey...nó nói đúng đấy. Để Yuki đi đi.
+
+// SPEAKER: GEISHA
+// ...very well. But I must stress how important this message is. Do not fail me in this, child.
+vocs_over_over_lakevillage_debriefing_n11=...được thôi. Nhưng chị phải nhấn mạnh lại tầm quan trọng của tin báo này. Không được thất bại đâu, nhóc.
+
+// SPEAKER: TRAPPER
+// Hai, Aiko-san!
+vocs_over_over_lakevillage_debriefing_n12=Hai, Aiko-san!
+
+// SPEAKER: GEISHA
+// All right... Let us begin.
+vocs_over_over_lakevillage_debriefing_n13=Được rồi... Tụi mình triển thôi.
+

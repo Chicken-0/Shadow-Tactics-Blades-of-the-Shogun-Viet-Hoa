@@ -1,0 +1,172 @@
+// SPEAKER: NARRATOR
+// Lord Yabu's death was a small victory. The Shogun took possession of the old temple. Kage-sama had lost an ally, but his revenge followed soon.
+vocs_over_over_mansion_post_n00=Lãnh chúa Yabu chết là một chiến thắng nhỏ. Mạc Chúa cũng đã chiếm được đền thờ cổ. Kage-sama mất đi một đồng minh, nhưng hắn sẽ trả thù sớm.
+
+// SPEAKER: NARRATOR
+// Having already gained more than enough weapons, he was well prepared to openly attack the Shogun.
+vocs_over_over_mansion_post_n01=Sau khi thu thập và chuẩn bị nhiều vũ khí hơn, hắn đã sẵn sàng để tấn công Mạc Chúa.
+
+// SPEAKER: NARRATOR
+// On Kage-sama's orders, the ruthless General Okkoto spread fear throughout the country, raiding village after village without mercy.
+vocs_over_over_mansion_post_n02=Theo lệnh Kage-sama, tướng Okkoto tàn bạo lan truyền nỗi sợ hãi tới khắp đất nước, cướp những ngôi làng mà không hề thương sót.
+
+// SPEAKER: NARRATOR
+// As they continued, Okkoto and his men grew bolder with every attack. The Shogun, fearing an assault on Edo Castle, orders Mugen to deliver his son Ryūnosuke to a secret location...
+vocs_over_over_mansion_post_n03=Rồi tiếp tục, Okkoto và người đàn ông đó càng tàn bạo hơn với mọi cuộc tấn công. Mạc Chúa, lo sợ một cuộc tấn công vào thành Edo, ra lệnh cho Mugen đưa con trai Ryūnosuke của mình tới một chỗ ẩn náu bí mật...
+
+// SPEAKER: SHOGUN
+// Your handling of the traitor Yabu was careless. It only made our enemy lash out with greater force.
+vocs_over_over_mansion_post_n04=Cách xử lý của thần làm kẻ phản bội Yabu nổi giận. Giờ kẻ thù sẽ đả kích với lực lượng hùng hậu hơn.
+
+// SPEAKER: WARRIOR
+// We thought him to be Kage-sama himself. It was my mistake, and I take full responsibility.
+vocs_over_over_mansion_post_n05=Thần đã nghĩ hắn chính là Kage-sama. Đó là sai lầm của thần, và thần xin tự chịu trách nhiệm.
+
+// SPEAKER: SHOGUN
+// My brother is currently fighting the rebels with the Shogunate army. I put you and your men under his command.
+vocs_over_over_mansion_post_n06=Em của ta hiện tại đang chiến đấu chống phiến quân cùng lính Mạc Phủ. Ta để thần ở dưới sự chỉ huy của em ấy.
+
+// SPEAKER: WARRIOR
+// As you wish. Serving your brother is serving the Shogunate.
+vocs_over_over_mansion_post_n07=Như ngài muốn. Phụng sự em trai ngài cũng là phụng sự Mạc Phủ.
+
+// SPEAKER: SHOGUN
+// Help him destroy this rebellion, and we might yet contain the damage Kage-sama has done.
+vocs_over_over_mansion_post_n08=Giúp em ấy dẹp cuộc nổi loạn này, và chúng ta không thể để Kage-sama gây thêm thiệt hại nữa.
+
+// SPEAKER: SHOGUNSON
+// How long do you think it'll take to defeat the rebels, Mugen-sensei?
+vocs_over_over_mansion_post_n09=Thầy nghĩ mất bao lâu để dẹp bọn phiến quân này, Mugen-sensei?
+
+// SPEAKER: WARRIOR
+// I do not know, my lord.
+vocs_over_over_mansion_post_n10=Thần không rõ, thưa ngài.
+
+// SPEAKER: SHOGUN
+// Indeed. And should the city fall under attack, I will feel safe knowing you are far away from harm.
+vocs_over_over_mansion_post_n11=Quả thật. Rồi thành phố sẽ bị tấn công, ta muốn luôn cảm thấy an toàn khi để con rời xa chỗ nguy hiểm này.
+
+// SPEAKER: SHOGUNSON
+// Father?
+vocs_over_over_mansion_post_n12=Cha?
+
+// SPEAKER: SHOGUN
+// Go prepare for the journey. Mugen will join you shortly.
+vocs_over_over_mansion_post_n13=Chuẩn bị cho cuộc hành trình đi. Mugen sẽ đưa con đi sớm.
+
+// SPEAKER: SHOGUNSON
+// Yes father. ...Sensei.
+vocs_over_over_mansion_post_n14=Vâng cha. ...Sensei.
+
+// SPEAKER: SHOGUN
+// My only son, Mugen. Will you deliver him safely?
+vocs_over_over_mansion_post_n15=Đứa con duy nhất của ta, Mugen. Thần sẽ đưa nó tới nơi an toàn chứ?
+
+// SPEAKER: WARRIOR
+// I will protect him with my life.
+vocs_over_over_mansion_post_n16=Thần sẽ bảo vệ bằng cả mạng sống của mình.
+
+// SPEAKER: WARRIOR
+// I would die a thousand deaths before I let any harm come to him.
+vocs_over_over_mansion_post_n16a=Thần sẽ chết ngàn lần trước khi một ai đó làm hại được con trai ngài.
+
+// SPEAKER: SHOGUN
+// I know you will. Now leave, and join my brother in his war camp once you are done.
+vocs_over_over_mansion_post_n17=Ta biết thần sẽ thế. Giờ hãy đi và tham gia với em trai của ta ở trại chiến đến khi nào xong việc.
+
+// SPEAKER: SHOGUN
+// As would be your duty. Now leave, and join my brother in his warcamp once you are done.
+vocs_over_over_mansion_post_n17a=Đó là nhiệm vụ của thần. Giờ hãy đi và tham gia với em trai của ta ở trại chiến đến khi nào xong việc.
+
+// SPEAKER: WARRIOR
+// My Shogun.
+vocs_over_over_mansion_post_n18=Tuân lệnh Mạc Chúa.
+
+// SPEAKER: WARRIOR
+// Lord Noboru, you wished to speak to us.
+vocs_over_over_mansion_post_n19=Lãnh chúa Noboru, ngài muốn nói chuyện với chúng thần.
+
+// SPEAKER: BROGUN
+// Mugen-san. Our scouts have returned. They report rebel activity in the villages of Hida and Suganuma.
+vocs_over_over_mansion_post_n20=Mugen-san. Đội do thám của ta đã quay về. Họ báo cáo phiến quân hoạt động ở làng Hida và Suganuma.
+
+// SPEAKER: WARRIOR
+// Would you like us to investigate?
+vocs_over_over_mansion_post_n21=Ngài muốn chúng thần điều tra?
+
+// SPEAKER: BROGUN
+// I would. We must use every opportunity to learn Okkoto's plans.
+vocs_over_over_mansion_post_n22=Ta sẽ. Chúng ta phải sử dụng mọi cơ hội để nắm được kế hoạch của Okkoto.
+
+// SPEAKER: GEISHA
+// Espionage, then. We enter the villages with the cover of night, see what we can learn.
+vocs_over_over_mansion_post_n23=Làm gián điệp. Lẻn vào làng vào ban đêm, rồi xem chúng ta tìm được gì.
+
+// SPEAKER: BROGUNSON
+// Mugen-san. They say you were born a farmer, so you must know how to handle  peasants.
+vocs_over_over_mansion_post_n24=Mugen-san. Họ nói rằng ngài sinh ra là một nông dân, cho nên ngài sẽ biết cách để xử lý bọn nhà quê.
+
+// SPEAKER: BROGUN
+// My son will show more respect!
+vocs_over_over_mansion_post_n25=Con của ta hơi thất lễ!
+
+// SPEAKER: BROGUNSON
+// ...I apologize, Mugen-sama.
+vocs_over_over_mansion_post_n26=...Ta xin lỗi, Mugen-sama.
+
+// SPEAKER: WARRIOR
+// Hrm. You are forgiven.
+vocs_over_over_mansion_post_n27=Hrm. Ngài được tha thứ.
+
+// SPEAKER: BROGUN
+// Mugen-san. I want you and Takuma-san at Suganuma village.
+vocs_over_over_mansion_post_n28=Mugen-san. Ta muốn thần và Takuma-san ở làng Suganuma.
+
+// SPEAKER: GEISHA
+// May I accompany them, Lord Noboru?
+vocs_over_over_mansion_post_n29=Thần có thể đi cùng họ không, lãnh chúa Noboru?
+
+// SPEAKER: BROGUN
+// No. Your skills are more suited to Hida, where the rebel presence is stronger. You and your two companions will go there at once.
+vocs_over_over_mansion_post_n30=Không. Kĩ năng của cô phù hợp ở Hida hơn, nơi hiện diện bọn phiến quân hùng hậu. Cô và hai sát thủ kia sẽ đến đó cùng một lúc.
+
+// SPEAKER: GEISHA
+// ...as you wish, Noboru-sama. I shall lead the second group.
+vocs_over_over_mansion_post_n31=...như ngài muốn, Noboru-sama. Thần sẽ dẫn đầu nhóm thứ hai.
+
+// SPEAKER: NINJA
+// Hrm... Who made you the leader?
+vocs_over_over_mansion_post_n32=Hrm... Ai khiến cô làm trưởng nhóm?
+
+// SPEAKER: TRAPPER
+// Why can't we all go to one place together?
+vocs_over_over_mansion_post_n33=Tại sao chúng ta không thể đến một chỗ cùng với nhau?
+
+// SPEAKER: WARRIOR
+// Hush, Yuki-chan.
+vocs_over_over_mansion_post_n34=Im lặng, Yuki-chan.
+
+// SPEAKER: BROGUNSON
+// My father has made a decision, little girl. Who are you to question it?
+vocs_over_over_mansion_post_n35=Cha ta đã ra lệnh, nhóc con. Ngươi là ai mà dám thắc mắc?
+
+// SPEAKER: TRAPPER
+// I...I...
+vocs_over_over_mansion_post_n36=Mình...mình...
+
+// SPEAKER: ALCHEMIST
+// And who are you, boy, to frighten children when there is war on our doorstep?
+vocs_over_over_mansion_post_n37=Còn ngươi là ai, cậu bé, dọa cả trẻ em khi chiến tranh đã đến tận nhà ư?
+
+// SPEAKER: BROGUNSON
+// How dare you speak to me, old man!
+vocs_over_over_mansion_post_n38=Thế quái nào ngươi dám nói chuyện với ta, lão già kia!
+
+// SPEAKER: BROGUN
+// Enough! Okkoto is spreading chaos and disorder in the name of Kage-sama. We must find him quickly and see that justice is done.
+vocs_over_over_mansion_post_n39=Đủ rồi! Okkoto đang gây hỗn loạn và xáo trộn mọi thứ cùng gã Kage-sama. Chúng ta phải tìm hắn sớm và thực thi công lý.
+
+// SPEAKER: WARRIOR
+// Yes, Lord Noboru. We will return triumphant.
+vocs_over_over_mansion_post_n40=Tuân lệnh, lãnh chúa Noboru. Chúng thần sẽ mang chiến thắng trở về.
+
